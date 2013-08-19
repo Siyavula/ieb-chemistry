@@ -1,0 +1,938 @@
+<html>
+  <head/>
+  <body><h2>Intermolecular and interatomic forces</h2>
+<dl class="definition"><dt>Intermolecular forces</dt><dd>
+          
+<p>Intermolecular forces are forces that act between molecules.</p>
+
+        </dd></dl><p>You will also recall from the previous chapter, that we can describe molecules as being either <strong>polar</strong> or <strong>non-polar</strong>. A polar molecule is one in which there is a difference in electronegativity between the atoms in the molecule, such that the shared electron pair spends more time close to the atom that attracts it more strongly. The result is that one end of the molecule will have a slightly positive charge (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">&#948;^{+}</annotation></semantics></math>), and the other end will have a slightly negative charge (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">&#948;^{-}</annotation></semantics></math>). The molecule is said to be a <strong>dipole</strong>.</p>
+
+<p>A dipole molecule is a molecule that has two (di) poles. One end of the molecule is slightly positive and the other is slightly negative. We can depict this very simply as an oval with one positive side and one negative. In reality however, the molecules do not look like this, they look more like the images in Figure <a href="#fig-dipoles" data-class="InternalLink">fig-dipoles</a>.</p>
+<figure class="figure"><div class="alternates"><img src="_plone_ignore_/cache/pspictures/3b223be82265f893427f64131cb1c468.png"/><pre class="pspicture">&lt;code&gt;
+                      (-.5,1)(4.5,3)
+\psellipse(2,2)(2.5,1)
+\rput(0,2){\textbf{$\delta^{+}$}}
+\rput(4,2){\textbf{$\delta^{-}$}}
+
+                    &lt;/code&gt;</pre></div></figure><figure class="figure" id="fig-dipoles"><img src="photos/dipole.png" width="624" alt="Photo by Ben Mills on Wikipedia"/><figcaption class="caption"><p>A different representation of dipole molecules. The red region is slightly negative, and the blue region is slightly positive.</p></figcaption></figure><p>It is important to remember that just because the bonds within a molecule are polar, the molecule itself may not necessarily be polar. The shape of the molecule may also affect its polarity. A few examples are shown in Table <a href="#tab-molecule polarity examples" data-class="InternalLink">tab-molecule polarity examples</a> to refresh your memory. Note that we have shown tetrahedral molecules with all the terminal atoms at <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{90}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{&#176;}</annotation></semantics></math> to each other (i.e. flat or 2-dimensional), but the shape is really 3-dimensional.</p>
+<figure class="figure" id="tab-molecule polarity examples"><table summary="&#10;&#9;  Polarity in molecules with different atomic bonds and molecular shapes.&#10;        "><tr><td><p><strong>Molecule</strong></p></td><td><p><strong>Chemical formula</strong></p></td><td><p><strong>Bond between atoms</strong></p></td><td><p><strong>Shape of molecule</strong></p></td><td><p><strong>Polarity of molecule</strong></p></td></tr><tr><td><p>Hydrogen</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}</annotation></semantics></math></p></td><td><p>Non-polar covalent</p></td><td><div class="alternates"><img src="_plone_ignore_/cache/pspictures/bfe9b36b346759a03be9f1f4b53fa7df.png"/><pre class="pspicture">&lt;code&gt;
+(1.5,1.5)(4.5,3)
+\rput(3,2.5){Linear molecule}
+\rput(2,2){\textbf{H}}
+\rput(4,2){\textbf{H}}
+\psline(2.5,2)(3.5,2)
+                    &lt;/code&gt;</pre></div></td><td><p>Non-polar</p></td></tr><tr><td><p>Hydrogen chloride</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math></p></td><td><p>Polar covalent</p></td><td><div class="alternates"><img src="_plone_ignore_/cache/pspictures/25cc9056c43d969b1b6417a8fdfe9794.png"/><pre class="pspicture">&lt;code&gt;
+(1.5,1.5)(4.5,3)
+\rput(3,2.5){Linear molecule}
+\rput(2,2){\textbf{H$^{\delta^{+}}$}}
+\rput(4,2){\textbf{Cl$^{\delta^{-}}$}}
+\psline(2.5,2)(3.5,2)
+                    &lt;/code&gt;</pre></div></td><td><p>Polar</p></td></tr><tr><td><p>Carbon tetrafluoride</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CF}_{4}</annotation></semantics></math></p></td><td><p>Polar covalent</p></td><td><div class="alternates"><img src="_plone_ignore_/cache/pspictures/050c3e5eb6263a7425a13902ad6b73b3.png"/><pre class="pspicture">&lt;code&gt;
+(0.8,0.8)(4.4,4.7)
+\rput(2.5,4.2){Tetrahedral molecule}
+\rput(2.6,2.6){\textbf{C$^{\delta^{+}}$}}
+\psline(2.5,3)(2.5,3.5)
+\psline(3,2.5)(3.5,2.5)
+\psline(2.5,2)(2.5,1.5)
+\psline(2,2.5)(1.5,2.5)
+\rput(2.6,3.8){\textbf{F$^{\delta^{-}}$}}
+\rput(3.9,2.6){\textbf{F$^{\delta^{-}}$}}
+\rput(2.6,1.3){\textbf{F$^{\delta^{-}}$}}
+\rput(1.3,2.6){\textbf{F$^{\delta^{-}}$}}
+                    &lt;/code&gt;</pre></div></td><td><p>Non-polar</p></td></tr><tr><td><p>Trifluoro-methane</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CHF}_{3}</annotation></semantics></math></p></td><td><p>Polar covalent</p></td><td><div class="alternates"><img src="_plone_ignore_/cache/pspictures/b0fe7b5cc8d5db49e6ad053c2adca3eb.png"/><pre class="pspicture">&lt;code&gt;
+(0.8,0.8)(4.4,4.7)
+\rput(2.5,4.1){Tetrahedral molecule}
+\rput(2.5,2.5){\textbf{C}}
+\psline(2.5,3)(2.5,3.5)
+\psline(3,2.5)(3.5,2.5)
+\psline(2.5,2)(2.5,1.5)
+\psline(2,2.5)(1.5,2.5)
+\rput(2.5,3.7){\textbf{F}}
+\rput(3.7,2.5){\textbf{F}}
+\rput(2.5,1.3){\textbf{F}}
+\rput(1.3,2.5){\textbf{H}}
+                    &lt;/code&gt;</pre></div></td><td><p>Polar</p></td></tr></table><div class="caption"><p>
+	  Polarity in molecules with different atomic bonds and molecular shapes.
+        </p></div></figure><h3>Types of intermolecular forces</h3>
+
+<p>It is important to be able to recognise whether the molecules in a substance are polar or non-polar because this will determine what type of intermolecular forces there are. This is important in explaining the properties of the substance.</p>
+<ol data-class="ListEnumerated"><li>
+                
+<p><strong>Ion-dipole forces</strong></p>
+
+                
+<p>As the name suggests, this type of intermolecular force exists between an ion and a dipole (polar) molecule. You will remember that an <em>ion</em> is a charged atom, and this will be attracted to one of the charged ends of the polar molecule. A positive ion will be attracted to the negative pole of the polar molecule, while a negative ion will be attracted to the positive pole of the polar molecule. This can be seen when sodium chloride (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaCl}</annotation></semantics></math>) dissolves in water. The positive sodium ion (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Na}^{+}</annotation></semantics></math>) will be attracted to the slightly negative oxygen atoms in the water molecule, while the negative chloride ion (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Cl}^{-}</annotation></semantics></math>) is attracted to the slightly positive hydrogen atoms. These intermolecular forces weaken the ionic bonds between the sodium and chloride ions so that the sodium chloride dissolves in the water (Figure <a href="#fig-ion-dipole" data-class="InternalLink">fig-ion-dipole</a>).</p>
+
+                <figure class="figure" id="fig-ion-dipole"><div class="alternates"><img src="_plone_ignore_/cache/pspictures/4a4621582d8cd1d1dd8ba64a0b6bfeb0.png"/><pre class="pspicture">&lt;code&gt;
+                      (-4,-4)(4,4)
+\psellipse(0,0)(0.5,0.5)
+\psellipse(1.5,0)(1,0.5)
+\psellipse(0,-1.5)(0.5,1)
+\psellipse(-1.5,0)(1,0.5)
+\psellipse(0,1.5)(0.5,1)
+\psellipse(-3,0)(0.5,0.5)
+\psellipse(0,3)(0.5,0.5)
+\psellipse(3,0)(0.5,0.5)
+\psellipse(0,-3)(0.5,0.5)
+
+\rput(0,0){\textbf{$\mbox{Na}^{+}$}}
+\rput(3,0){\textbf{$\mbox{Cl}^{-}$}}
+\rput(-3,0){\textbf{$\mbox{Cl}^{-}$}}
+\rput(0,3){\textbf{$\mbox{Cl}^{-}$}}
+\rput(0,-3){\textbf{$\mbox{Cl}^{-}$}}
+
+\rput(1.5,0){\textbf{$\mbox{H}_{2}\mbox{O}$}}
+\rput(-1.5,0){\textbf{$\mbox{H}_{2}\mbox{O}$}}
+\rput(0,1.5){\textbf{$\mbox{H}_{2}\mbox{O}$}}
+\rput(0,-1.5){\textbf{$\mbox{H}_{2}\mbox{O}$}}
+
+\rput(0.8,0){$\delta^{-}$}
+\rput(-0.8,0){$\delta^{-}$}
+\rput(0,0.8){$\delta^{-}$}
+\rput(0,-0.8){$\delta^{-}$}
+
+\rput(2.2,0){$\delta^{+}$}
+\rput(-2.2,0){$\delta^{+}$}
+\rput(0,2.2){$\delta^{+}$}
+\rput(0,-2.2){$\delta^{+}$}
+
+                    &lt;/code&gt;</pre></div>
+<figcaption class="caption"><p>
+                    Ion-dipole forces in a sodium chloride solution.
+                  </p></figcaption></figure><p>This is a simplified diagram to highlight the regions of positive and negative charge. When sodium chloride dissolves in water it can more accurately be shown as:</p>
+
+					<figure class="figure"><div class="alternates"><img src="_plone_ignore_/cache/pspictures/70a4effd4c3377ac1c65cbe8f827bcd2.png"/><pre class="pspicture">&lt;code&gt;(0,-1.7339576)(8.285022,1.7404083)
+\definecolor{color4b}{rgb}{0.6666666666666666,0.9725490196078431,1.0}
+\definecolor{color3b}{rgb}{0.6705882352941176,0.9764705882352941,0.6509803921568628}
+\pscircle[linewidth=0.04,dimen=outer](2.494554,1.0304081){0.21}
+\pscircle[linewidth=0.04,linecolor=red,dimen=outer,fillstyle=solid,fillcolor=red](2.064554,1.3804083){0.36}
+\pscircle[linewidth=0.04,dimen=outer](1.6345539,1.0304081){0.21}
+\pscircle[linewidth=0.02,dimen=outer,fillstyle=solid,fillcolor=color3b](2.064554,0.10040828){0.36}
+\pscircle[linewidth=0.02,dimen=outer,fillstyle=solid,fillcolor=color4b](6.5445538,-0.059591718){0.36}
+\rput{18.878832}(0.08904401,-0.34443763){\pscircle[linewidth=0.04,dimen=outer](1.0803885,0.09557337){0.21}}
+\rput{18.878832}(0.12320148,-0.16581386){\pscircle[linewidth=0.04,linecolor=red,dimen=outer,fillstyle=solid,fillcolor=red](0.5602716,0.28761092){0.36}}
+\rput{18.878832}(-0.04476966,-0.0961082){\pscircle[linewidth=0.04,dimen=outer](0.2666523,-0.18269499){0.21}}
+\rput{203.82613}(5.909095,1.3838781){\pscircle[linewidth=0.04,dimen=outer](3.1005266,0.06861458){0.21}}
+\rput{203.82613}(6.99217,1.3194406){\pscircle[linewidth=0.04,linecolor=red,dimen=outer,fillstyle=solid,fillcolor=red](3.6352668,-0.077853){0.36}}
+\rput{203.82613}(7.275122,2.366886){\pscircle[linewidth=0.04,dimen=outer](3.8872335,0.41602224){0.21}}
+\rput{180.27708}(3.311186,-1.8553418){\pscircle[linewidth=0.04,dimen=outer](1.65335,-0.9316741){0.21}}
+\rput{180.27708}(4.176239,-2.5490828){\pscircle[linewidth=0.04,linecolor=red,dimen=outer,fillstyle=solid,fillcolor=red](2.0850377,-1.2795905){0.36}}
+\rput{180.27708}(5.031135,-1.8428649){\pscircle[linewidth=0.04,dimen=outer](2.5133398,-0.9275151){0.21}}
+\rput{94.233444}(8.995378,-7.5515647){\pscircle[linewidth=0.04,dimen=outer](8.00431,0.40128237){0.21}}
+\rput{94.233444}(8.201228,-7.723356){\pscircle[linewidth=0.04,linecolor=red,dimen=outer,fillstyle=solid,fillcolor=red](7.687007,-0.05338174){0.36}}
+\rput{94.233444}(8.208236,-8.535842){\pscircle[linewidth=0.04,dimen=outer](8.067794,-0.45637086){0.21}}
+\rput{3.5407977}(-0.07705332,-0.43655467){\pscircle[linewidth=0.04,dimen=outer](7.023379,-1.4647267){0.21}}
+\rput{3.5407977}(-0.05797949,-0.40809777){\pscircle[linewidth=0.04,linecolor=red,dimen=outer,fillstyle=solid,fillcolor=red](6.572584,-1.1419513){0.36}}
+\rput{3.5407977}(-0.081972085,-0.38364452){\pscircle[linewidth=0.04,dimen=outer](6.165021,-1.5178397){0.21}}
+\rput{264.35886}(6.2455997,4.632962){\pscircle[linewidth=0.04,dimen=outer](5.2217417,-0.5130586){0.21}}
+\rput{264.35886}(6.2829576,5.453839){\pscircle[linewidth=0.04,linecolor=red,dimen=outer,fillstyle=solid,fillcolor=red](5.612315,-0.11954514){0.36}}
+\rput{264.35886}(5.486755,5.6570506){\pscircle[linewidth=0.04,dimen=outer](5.3062778,0.3427767){0.21}}
+\rput{179.04214}(12.41363,2.5635374){\pscircle[linewidth=0.04,dimen=outer](6.1961,1.333652){0.21}}
+\rput{179.04214}(13.255779,1.842219){\pscircle[linewidth=0.04,linecolor=red,dimen=outer,fillstyle=solid,fillcolor=red](6.6201897,0.9765127){0.36}}
+\rput{179.04214}(14.13303,2.5204115){\pscircle[linewidth=0.04,dimen=outer](7.0559807,1.3192755){0.21}}
+\rput(6.538304,-0.04959177){Na}
+\rput(2.0439289,0.09040823){Cl}
+\rput(2.0896387,1.4104083){O}
+\rput(2.50917,1.0204083){\small H}
+\rput(1.64917,1.0004083){\small H}
+&lt;/code&gt;</pre></div></figure></li>
+<li>
+				
+<p><strong>Ion-induced-dipole forces</strong></p>
+
+				
+<p>Similar to ion-dipole forces these forces exist between ions and non-polar molecules. The ion induces a dipole in the non-polar molecule leading to a weak, short lived force which holds the compounds together.</p>
+
+				
+<p>These forces are found in haemoglobin (the molecule that carries oxygen around your body). Haemoglobin has <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Fe}^{2+}</annotation></semantics></math> ions. Oxygen (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{O}_{2}</annotation></semantics></math>) is attracted to these ions by ion-induced dipole forces.</p>
+
+			  </li>
+<li>
+                
+<p><strong>Dipole-dipole forces</strong></p>
+
+                
+
+               
+		
+                
+<p>When one dipole molecule comes into contact with another dipole molecule, the positive pole of the one molecule will be attracted to the negative pole of the other, and the molecules will be held together in this way (Figure <a href="#fig-dipole-dipole" data-class="InternalLink">fig-dipole-dipole</a>). Examples of materials/substances that are held together by dipole-dipole forces are <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{SO}_{2}</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{Cl}</annotation></semantics></math>.</p>
+
+                <figure class="figure" id="fig-dipole-dipole"><div class="alternates"><img src="_plone_ignore_/cache/pspictures/cb97dc74e7763a0acbcf8e4cf756e679.png"/><pre class="pspicture">&lt;code&gt;
+                      (-.5,0.5)(9.5,3.5)
+\psellipse(2,2)(2.5,1)
+\rput(0,2){\textbf{$\delta^{+}$}}
+\rput(4,2){\textbf{$\delta^{-}$}}
+\psellipse(7,2)(2.5,1)
+\rput(5,2){\textbf{$\delta^{+}$}}
+\rput(9,2){\textbf{$\delta^{-}$}}
+
+                    &lt;/code&gt;</pre></div>
+<figcaption class="caption"><p>
+                    Two dipole molecules are held together by the attractive force between their oppositely charged poles.
+                  </p></figcaption></figure><p>One special case of this is hydrogen bonding.</p>
+
+				
+              </li>
+<li>
+                
+<p><strong>Induced dipole forces</strong></p>
+
+				<div class="note" data-type="aside">
+<p>These intermolecular forces are also sometimes called &#8220;London forces&#8221; or &#8220;momentary dipole&#8221; forces or &#8220;dispersion&#8221; forces.</p>
+</div>
+                
+<p>We know that while carbon dioxide is a non-polar molecule, we can still freeze it (and we can also freeze all other non-polar substances). This tells us that there must be some kind of attractive force in these kinds of molecules (molecules can only be solids or liquids if there are attractive forces pulling them together). This force is known as an induced dipole force.</p>
+
+<p>In non-polar molecules the electronic charge is usually evenly distributed but it is possible that at a particular moment in time, the electrons might not be evenly distributed (remember that the electrons are always moving in their orbitals). The molecule will have a <em>temporary dipole</em>. In other words, each end of the molecules has a slight charge, either positive or negative. When this happens, molecules that are next to each other attract each other very weakly. These forces are found in the halogens (e.g. <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{F}_{2}</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{I}_{2}</annotation></semantics></math>) and in other non-polar molecules such as carbon dioxide and carbon tetrachloride.</p>
+
+				
+<p>All covalent molecules have induced dipole forces. For non-polar covalent molecules these forces are the only intermolecular forces. For polar covalent molecules, dipole-dipole forces are found in addition to the induced dipole forces.</p>
+
+				<div class="note" data-type="tip">
+<p>When the noble gases condense, the intermolecular forces that hold the liquid together are induced dipole forces.</p>
+</div>
+              </li>
+<li>
+				
+<p><strong>Dipole-induced-dipole forces</strong></p>
+
+				
+<p>This type of force occurs when a molecule with a dipole induces a dipole in a non-polar molecule. It is similar to an ion-induced dipole force. An example of this type of force is chloroform (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CHCl}_{3}</annotation></semantics></math>) in carbon tetrachloride (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CCl}_{4}</annotation></semantics></math>).</p>
+
+			</li>
+</ol><p>The following image shows the types of intermolecular forces and the kinds of compounds that lead to those forces.</p>
+<figure class="figure" id="fig-forces"><div class="alternates"><img src="_plone_ignore_/cache/pspictures/de6bd127855ecaa1c45b75ea7d51993a.png"/><pre class="pspicture">&lt;code&gt;
+(0,-3.13)(9.5,3.13)
+\psframe(8.0,3.13)(6.2,1.97)
+\rput(7.18,2.34){covalent}
+\rput(7.18,2.78){Non-polar}
+\rput(4.65,-2.54){Ions}
+\psframe(5.53,-1.97)(3.67,-3.13)
+\rput(1.93,2.66){Polar}
+\psframe(2.83,3.03)(0.97,1.87)
+\rput(1.95,2.28){covalent}
+\psframe(7.99,0.51)(6.13,-0.65)
+\rput(7.13,-0.28){covalent}
+\rput(7.09,0.16){Non-polar}
+\rput(2.2,0.16){Polar}
+\psframe(3.09,0.53)(1.23,-0.63)
+\rput(2.21,-0.22){covalent}
+\rput(0.94,1.36){Dipole-dipole}
+\rput(0.94,0.92){forces}
+\rput(4.62,0.36){Dipole-induced}
+\rput(4.58,-0.22){dipole forces}
+\rput(8.38,1.48){Induced dipole}
+\rput(8.34,1.08){forces}
+\psline[arrowinset=0]{}(2.19,0.49)(2.19,1.91)
+\psline[arrowinset=0]{}(7.15,1.95)(7.15,0.49)
+\psline[arrowinset=0]{}(2.05,-0.63)(3.6,-2.33)
+\psline[arrowinset=0]{}(5.59,-2.51)(7.11,-0.63)
+\psline[arrowinset=0]{}(3.15,0.05)(6.13,0.05)
+\rput(1.95,-1.58){Ion-dipole}
+\rput(7.55,-1.42){Ion-induced}
+\rput(7.62,-1.82){dipole forces}
+\rput(2.02,-1.98){forces}
+&lt;/code&gt;</pre></div>
+<figcaption class="caption"><p>The types of intermolecular forces. The boxes represent the type of compound while the lines represent the type of force.</p></figcaption></figure><p>The last three forces (dipole-dipole forces, dipole-induced dipole forces and induced dipole forces) are sometimes collectively known as van der Waals' forces. We will now look at a special case of dipole-dipole forces in more detail.</p>
+
+<p><strong>Hydrogen bonds</strong></p>
+
+<p>As the name implies, this type of intermolecular bond involves a hydrogen atom. When a molecule contains a hydrogen atom covalently bonded to a highly electronegative atom (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{O}</annotation></semantics></math>, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{N}</annotation></semantics></math> or <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{F}</annotation></semantics></math>) this type of intermolecular force can occur. The highly electronegative atom on one molecule attracts the hydrogen atom on a nearby molecule.</p>
+
+<p>Water molecules for example, are held together by hydrogen bonds between the hydrogen atom of one molecule and the oxygen atom of another (Figure <a href="#fig-hydrogen bonds" data-class="InternalLink">fig-hydrogen bonds</a>). Hydrogen bonds are a relatively strong intermolecular force and are stronger than other dipole-dipole forces. It is important to note however, that hydrogen bonds are weaker than the covalent and ionic bonds that exist between <em>atoms</em>.</p>
+<div class="note" data-type="tip">
+<p>Do not confuse hydrogen bonds with actual chemical bonds. Hydrogen bonding is an example of a case where a scientist named something believing it to be one thing when in fact it was another. In this case the strength of the hydrogen bonds misled scientists into thinking this was actually a chemical bond, when it is really just an intermolecular force.</p>
+</div><figure class="figure" id="fig-hydrogen bonds"><div class="alternates"><img src="_plone_ignore_/cache/pspictures/4badf1582a194a29dc87bee5624af29b.png"/><pre class="pspicture">&lt;code&gt;
+                  (-1,-1)(8,4)
+\SpecialCoor
+
+\def\water{\psset{unit=0.25}
+\pscircle(0,0){2}
+\rput{150}{\psarc[fillcolor=white,fillstyle=solid](-1.5,1){1.5}{30}{260}
+\psarc[fillcolor=white,fillstyle=solid](1.5,1){1.5}{280}{150}
+\rput(-1.5,1){\pscurve(1.5;30)(-1;142.5)(1.5;260)}
+\rput(1.5,1){\pscurve(1.5;150)(-1;37.5)(1.5;280)}}\psset{unit=1}}
+
+\def\h20{
+\pnode(1;217.5){RO}\pnode(0,0){H}\pnode(1;322.5){LO}
+\psline[linecolor=blue](RO)(H)
+\psline[linecolor=blue](LO)(H)
+\rput*(H){O}
+\rput*(LO){H}
+\rput*(RO){H}}
+
+\pnode(0,0){a}
+\pnode(1,2){b}
+\pnode(2,0){c}
+\pnode(3,2){d}
+\rput(a){\water}
+\rput(b){\water}
+\rput(c){\water}
+\rput(d){\water}
+
+\psline[linestyle=dashed,linecolor=red](a)(0.5,2)
+\psline[linestyle=dashed,linecolor=red](b)(1.5,0)
+\psline[linestyle=dashed,linecolor=red](c)(2.5,2)
+
+\psline[linestyle=dashed,linecolor=red](5,0)(5,1)
+\psline[linestyle=dashed,linecolor=red](5.8,1.6)(5.8,2.6)
+
+\rput(5,0){\h20}
+\rput(5.8,1.6){\h20}
+\rput(6.6,3.2){\h20}
+
+\psline[linestyle=dashed,linecolor=red](-1,3.4)(0,3.4)
+\uput[r](0,3.4){hydrogen bonds}
+\psline[linestyle=solid,linecolor=blue](-1,3.0)(0,3.0)
+\uput[r](0,3.0){atomic bonds}
+\psline[linecolor=blue](0.6,2.1)(1,2.2)
+\psline[linecolor=blue](1.2,2.1)(1.2,1.6)
+\psline[linecolor=blue](2.6,2.1)(3,2.2)
+\psline[linecolor=blue](3.2,2)(3.2,1.6)
+\psline[linecolor=blue](-0.4,0)(0,0.2)
+\psline[linecolor=blue](0.2,0)(0.3,-0.4)
+\psline[linecolor=blue](1.6,0.2)(2,0.2)
+\psline[linecolor=blue](2.2,0)(2.3,-0.5)
+
+                &lt;/code&gt;</pre></div>
+<figcaption class="caption"><p>
+                Two representations showing the hydrogen bonds between water molecules: space-filling model and structural formula.
+              </p></figcaption></figure><h3>The difference between intermolecular and interatomic forces</h3>
+
+<p>It is important to realise that there is a difference between the types of interactions that occur in molecules and the types that occur between molecules. In the previous chapter we focused on the interactions between atoms. These are known as interatomic forces or chemical bonds. We also studied covalent molecules in more detail.</p>
+
+<p>Remember that a covalent bond has an electronegativity difference of less than <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2,1}</annotation></semantics></math>. Covalent molecules have covalent bonds between their atoms. Van der Waals' forces only occur in covalent molecules. We can show the interatomic and intermolecular forces between covalent compounds diagrammatically or in words. Intermolecular forces occur between molecules and do not involve individual atoms. Interatomic forces are the forces that hold the the atoms in molecules together. Figure <a href="#fig-hydrogen bonds" data-class="InternalLink">fig-hydrogen bonds</a> shows this.</p>
+<figure class="figure"><table summary="The differences between interatomic and intermolecular forces."><tr><td/><td><strong>Interatomic forces</strong></td><td><strong>Intermolecular forces</strong></td></tr><tr><td>Atoms or molecules</td><td>Forces between atoms</td><td>Forces between molecules</td></tr><tr><td>Strength of forces</td><td>Strong forces</td><td>Relatively weak forces</td></tr><tr><td>Distance between atoms or molecules</td><td>Very short distances</td><td>Larger distances than bonds</td></tr></table><div class="caption"><p>The differences between interatomic and intermolecular forces.</p></div></figure><div class="teachers-guide">
+<p>The worked examples on intermolecular forces condense a lot of information into the first step. You may need to remind learners how to determine molecular polarity. To do this, you can use the worked examples in atomic combinations as a quick refresher of the topic. In tests and exams learners need to be able to quickly identify a polar or non-polar molecule and so need to be very comfortable with this skill.</p>
+</div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="title">Intermolecular forces</div><div class="problem" data-class="question">
+				
+<p>Which intermolecular forces are found in carbon tetrachloride (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CCl}_{4}</annotation></semantics></math>)?</p>
+
+            </div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Think about what you know about the molecule.</div>
+
+<p>Carbon has an electronegativity of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2,5}</annotation></semantics></math>. Chlorine has an electronegativity of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3,0}</annotation></semantics></math>. The electronegativity difference between carbon and chlorine is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,0}</annotation></semantics></math> (recall the section on electronegativity in the previous chapter). We also know that the bond between carbon and chlorine is polar.</p>
+
+<p>Also from the previous chapter we know that carbon tetrachloride is a tetrahedral molecule (recall molecular shape). Carbon tetrachloride is symmetrical and so is non-polar overall.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Now decide which case it is</div>
+
+<p>Carbon tetrachloride is non-polar and so the only kind of force that can exist is <strong>induced dipole</strong>.</p>
+</div></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="title">Intermolecular forces</div><div class="problem" data-class="question">
+				
+<p>Which intermolecular forces are found in the following solution: sodium chloride in water?</p>
+
+            </div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Think about what you know about the molecules</div>
+
+<p>Sodium chloride is ionic. (the electronegativity difference is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2,1}</annotation></semantics></math>). Water has polar bonds (the electronegativity difference is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,4}</annotation></semantics></math>). Water is a polar molecule (its molecular shape is bent or angular).</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Now decide which case it is</div>
+
+<p>This is an ionic substance interacting with a polar substance. This interaction is an <strong>ion-dipole</strong> force.</p>
+</div></div><div class="problemset">
+<div class="header">
+
+<p>Which intermolecular forces are found in:</p>
+</div><div class="exercise" data-class="entry">
+<div class="problem">
+					 
+<p>hydrogen fluoride (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HF}</annotation></semantics></math>)</p>
+
+				 </div><div class="solution">
+					 
+<p>Hydrogen fluoride is a polar covalent molecule. (It is linear and not symmetrical.) So the type of intermolecular force is dipole-dipole forces.</p>
+
+				 </div></div><div class="exercise" data-class="entry">
+<div class="problem">
+					
+<p>methane (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{4}</annotation></semantics></math>)</p>
+
+				</div><div class="solution">
+					
+<p>Methane is a non-polar covalent molecule. (It is tetrahedral and symmetrical.) So the type of intermolecular force is induced dipole forces.</p>
+
+				</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+					
+<p>potassium chloride in ammonia (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{KCl}</annotation></semantics></math> in <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math>)</p>
+
+				</div><div class="solution">
+					
+<p>Potassium chloride is an ionic compound. Ammonia is a polar covalent molecule. (It is trigonal pyramidal and not symmetrical.) So the type of intermolecular force is ion-dipole forces.</p>
+
+				</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+					
+<p>krypton (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Kr}</annotation></semantics></math>)</p>
+
+				  </div><div class="solution">
+					  
+<p>Krypton is a noble gas. So the type of intermolecular force is induced dipole forces.</p>
+
+				  </div></div></div><h3>Understanding intermolecular forces</h3>
+
+<p>The types of intermolecular forces that occur in a substance will affect its properties, such as its <strong>phase</strong>, <strong>melting point</strong> and <strong>boiling point</strong>. You should remember from the kinetic theory of matter (see grade <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math>), that the <em>phase</em> of a substance is determined by how strong the forces are between its particles. The weaker the forces, the more likely the substance is to exist as a gas. This is because the particles are able to move far apart since they are not held together very strongly. If the forces are very strong, the particles are held closely together in a solid structure. Remember also that the <em>temperature</em> of a material affects the energy of its particles. The more energy the particles have, the more likely they are to be able to overcome the forces that are holding them together. This can cause a change in phase.</p>
+
+<p>Shown below are the three phases of water. Note that we are showing two dimensional figures when in reality these are three dimensional.</p>
+<figure class="figure"><div class="alternates"><img src="_plone_ignore_/cache/pspictures/506083bcaae2824d62bae7cc69bbf4e0.png"/><pre class="pspicture">&lt;code&gt;
+(-1,-3.193276)(20.28,3.193276)
+\rput{-35.720688}(2.783326,8.895807){\pscircle[linewidth=0.04,dimen=outer](15.195294,0.12901402){0.48}}
+\rput{-35.720688}(2.6619658,8.440381){\pscircle[linewidth=0.04,dimen=outer](14.427931,0.08961573){0.32}}
+\rput{-35.720688}(3.2641556,8.884662){\pscircle[linewidth=0.04,dimen=outer](15.418415,-0.62266225){0.32}}
+\rput{-35.720688}(2.7810318,8.908764){\rput(15.201441,0.12983377){O}}
+\rput{-35.720688}(2.657006,8.436127){\rput(14.412599,0.085965954){H}}
+\rput{-35.720688}(3.2493236,8.873124){\rput(15.386846,-0.61463535){H}}
+\rput{186.50188}(31.091867,5.7711434){\pscircle[linewidth=0.04,dimen=outer](15.709835,2.002555){0.48}}
+\rput{186.50188}(32.11026,6.918697){\pscircle[linewidth=0.04,dimen=outer](16.251623,2.547409){0.32}}
+\rput{186.50188}(29.709394,6.5060315){\pscircle[linewidth=0.04,dimen=outer](15.03947,2.4092615){0.32}}
+\rput{186.50188}(31.07961,5.7300982){\rput(15.689729,1.9731617){O}}
+\rput{186.50188}(32.130905,6.9238286){\rput(16.25584,2.5401695){H}}
+\rput{186.50188}(29.769396,6.517928){\rput(15.06356,2.4042866){H}}
+\pscircle[linewidth=0.04,dimen=outer](18.42,0.27327603){0.48}
+\pscircle[linewidth=0.04,dimen=outer](17.82,-0.20672397){0.32}
+\pscircle[linewidth=0.04,dimen=outer](19.04,-0.20672397){0.32}
+\rput(18.41672,0.28327602){O}
+\rput(17.803125,-0.21672396){H}
+\rput(19.003124,-0.21672396){H}
+\rput{89.38272}(14.476286,-18.503092){\pscircle[linewidth=0.04,dimen=outer](16.589901,-1.9349997){0.48}}
+\rput{89.38272}(14.339591,-19.57519){\pscircle[linewidth=0.04,dimen=outer](17.06341,-2.540136){0.32}}
+\rput{89.38272}(15.572452,-18.381546){\pscircle[linewidth=0.04,dimen=outer](17.076553,-1.3202069){0.32}}
+\rput{89.38272}(14.467114,-18.474346){\rput(16.557974,-1.9344807){O}}
+\rput{89.38272}(14.329619,-19.586376){\rput(17.057827,-2.5599875){H}}
+\rput{89.38272}(15.542269,-18.4123){\rput(17.070755,-1.3600572){H}}
+\rput{19.970377}(1.8855425,-6.1491523){\pscircle[linewidth=0.04,dimen=outer](18.405956,2.2802398){0.48}}
+\rput{19.970377}(1.637425,-6.0519924){\pscircle[linewidth=0.04,dimen=outer](18.00597,1.624182){0.32}}
+\rput{19.970377}(1.8486809,-6.418555){\pscircle[linewidth=0.04,dimen=outer](19.15261,2.0408537){0.32}}
+\rput{19.970377}(1.8929675,-6.148688){\rput(18.395538,2.2923393){O}}
+\rput{19.970377}(1.6353503,-6.048936){\rput(17.990002,1.6106001){H}}
+\rput{19.970377}(1.843143,-6.409488){\rput(19.117844,2.0204413){H}}
+\psframe[linewidth=0.04,dimen=outer](6.3,3.193276)(0.0,-3.106724)
+\psframe[linewidth=0.04,dimen=outer](20.08,3.173276)(13.78,-3.126724)
+\psframe[linewidth=0.04,dimen=outer](13.38,3.173276)(7.08,-3.126724)
+\rput{173.96136}(15.907416,-2.5934932){\pscircle[linewidth=0.04,dimen=outer](8.022106,-0.8772215){0.48}}
+\rput{173.96136}(17.241734,-1.8354385){\pscircle[linewidth=0.04,dimen=outer](8.669272,-0.46300435){0.32}}
+\rput{173.96136}(14.8355055,-1.4518344){\pscircle[linewidth=0.04,dimen=outer](7.456042,-0.33466154){0.32}}
+\rput{173.96136}(15.882574,-2.6284018){\rput(7.9977937,-0.90454966){O}}
+\rput{173.96136}(17.262934,-1.8372384){\rput(8.673671,-0.47256392){H}}
+\rput{173.96136}(14.896154,-1.4599229){\rput(7.480329,-0.3463251){H}}
+\rput{266.3456}(11.529312,6.31583){\pscircle[linewidth=0.04,dimen=outer](8.727316,-2.25031){0.48}}
+\rput{266.3456}(10.432342,6.5454345){\pscircle[linewidth=0.04,dimen=outer](8.286534,-1.6209356){0.32}}
+\rput{266.3456}(11.564669,5.172711){\pscircle[linewidth=0.04,dimen=outer](8.208775,-2.838455){0.32}}
+\rput{266.3456}(11.559782,6.322943){\rput(8.733076,-2.2702653){O}}
+\rput{266.3456}(10.421601,6.5566645){\rput(8.280182,-1.6195011){H}}
+\rput{266.3456}(11.535365,5.2064443){\rput(8.203696,-2.8170612){H}}
+\pscircle[linewidth=0.04,dimen=outer](12.4,-2.306724){0.48}
+\pscircle[linewidth=0.04,dimen=outer](11.8,-2.7867239){0.32}
+\pscircle[linewidth=0.04,dimen=outer](13.02,-2.7867239){0.32}
+\rput(12.396719,-2.296724){O}
+\rput(11.783125,-2.796724){H}
+\rput(12.983125,-2.796724){H}
+\rput{14.470993}(0.038847424,-2.8905578){\pscircle[linewidth=0.04,dimen=outer](11.403261,-1.2922866){0.48}}
+\rput{14.470993}(-0.12938735,-2.794856){\pscircle[linewidth=0.04,dimen=outer](10.942244,-1.9069922){0.32}}
+\rput{14.470993}(-0.015727114,-3.0803776){\pscircle[linewidth=0.04,dimen=outer](12.123538,-1.6021266){0.32}}
+\rput{14.470993}(0.04423321,-2.8909976){\rput(11.394875,-1.2805146){O}}
+\rput{14.470993}(-0.13056007,-2.792442){\rput(10.925901,-1.9196224){H}}
+\rput{14.470993}(-0.018763125,-3.073283){\rput(12.087831,-1.6197547){H}}
+\rput{-29.195684}(2.331381,4.733461){\pscircle[linewidth=0.04,dimen=outer](10.253112,-2.1091156){0.48}}
+\rput{-29.195684}(2.2967243,4.347703){\pscircle[linewidth=0.04,dimen=outer](9.495195,-2.2354596){0.32}}
+\rput{-29.195684}(2.7223148,4.791605){\pscircle[linewidth=0.04,dimen=outer](10.560205,-2.830568){0.32}}
+\rput{-29.195684}(2.3277133,4.7436333){\rput(10.257995,-2.1062064){O}}
+\rput{-29.195684}(2.293302,4.3435645){\rput(9.479289,-2.2401774){H}}
+\rput{-29.195684}(2.7119157,4.7801895){\rput(10.52684,-2.82553){H}}
+\rput{-28.791292}(0.46031332,1.3988501){\pscircle[linewidth=0.04,dimen=outer](2.9550967,-0.19725883){0.48}}
+\rput{-28.791292}(0.4301568,1.017981){\pscircle[linewidth=0.04,dimen=outer](2.198091,-0.32894886){0.32}}
+\rput{-28.791292}(0.8453185,1.4602853){\pscircle[linewidth=0.04,dimen=outer](3.2672744,-0.9165259){0.32}}
+\rput{-28.791292}(0.4565891,1.4088455){\rput(2.9598935,-0.19422509){O}}
+\rput{-28.791292}(0.42682436,1.0138631){\rput(2.1821532,-0.33373508){H}}
+\rput{-28.791292}(0.83518016,1.4489166){\rput(3.233809,-0.9116797){H}}
+\rput{-94.439}(2.255812,0.7890852){\pscircle[linewidth=0.04,dimen=outer](1.4930071,-0.649197){0.48}}
+\rput{-94.439}(1.1568,1.0427856){\pscircle[linewidth=0.04,dimen=outer](1.0608855,-0.013845882){0.32}}
+\rput{-94.439}(2.2677581,-0.36183855){\pscircle[linewidth=0.04,dimen=outer](0.96646035,-1.2301862){0.32}}
+\rput{-94.439}(2.2866185,0.7956126){\rput(1.498618,-0.6694059){O}}
+\rput{-94.439}(1.1462251,1.0543071){\rput(1.054679,-0.012411037){H}}
+\rput{-94.439}(2.2389708,-0.32729042){\rput(0.96180177,-1.2088114){H}}
+\rput{124.16517}(2.2953572,-5.211909){\pscircle[linewidth=0.04,dimen=outer](2.5284748,-1.9978431){0.48}}
+\rput{124.16517}(3.2539928,-6.1736426){\pscircle[linewidth=0.04,dimen=outer](3.2625859,-2.224738){0.32}}
+\rput{124.16517}(3.0193555,-4.0304074){\pscircle[linewidth=0.04,dimen=outer](2.5774577,-1.2152828){0.32}}
+\rput{124.16517}(2.2597616,-5.198861){\rput(2.494408,-2.0099683){O}}
+\rput{124.16517}(3.2574089,-6.192158){\rput(3.262949,-2.242309){H}}
+\rput{124.16517}(3.0266182,-4.084058){\rput(2.5890524,-1.2494025){H}}
+\rput{58.934433}(-1.2121913,-1.9119104){\pscircle[linewidth=0.04,dimen=outer](1.0858074,-2.0286572){0.48}}
+\rput{58.934433}(-1.8154446,-2.3675096){\pscircle[linewidth=0.04,dimen=outer](1.1873534,-2.7902927){0.32}}
+\rput{58.934433}(-0.6156134,-2.4009893){\pscircle[linewidth=0.04,dimen=outer](1.8168962,-1.7452683){0.32}}
+\rput{58.934433}(-1.2022902,-1.893271){\rput(1.061451,-2.0197945){O}}
+\rput{58.934433}(-1.8259152,-2.3679864){\rput(1.1762899,-2.8090158){H}}
+\rput{58.934433}(-0.64575356,-2.4009173){\rput(1.7955123,-1.7811228){H}}
+\rput{-197.70572}(7.9145107,-2.6620955){\pscircle[linewidth=0.04,dimen=outer](4.16457,-0.7146933){0.48}}
+\rput{-197.70572}(9.399211,-2.34377){\pscircle[linewidth=0.04,dimen=outer](4.88213,-0.43990728){0.32}}
+\rput{-197.70572}(7.2426867,-1.265812){\pscircle[linewidth=0.04,dimen=outer](3.7199204,-0.06887087){0.32}}
+\rput{-197.70572}(7.8806815,-2.687646){\rput(4.1368327,-0.7393217){O}}
+\rput{-197.70572}(9.418682,-2.351777){\rput(4.8862395,-0.45161313){H}}
+\rput{-197.70572}(7.2975106,-1.2914904){\rput(3.7430823,-0.086659305){H}}
+\rput{35.81194}(1.2766917,-5.6137743){\pscircle[linewidth=0.04,dimen=outer](9.325541,-0.8312343){0.48}}
+\rput{35.81194}(0.8046159,-5.633376){\pscircle[linewidth=0.04,dimen=outer](9.119836,-1.5715624){0.32}}
+\rput{35.81194}(1.4093558,-6.077311){\pscircle[linewidth=0.04,dimen=outer](10.109185,-0.85770786){0.32}}
+\rput{35.81194}(1.2884096,-5.607716){\rput(9.309212,-0.81929076){O}}
+\rput{35.81194}(0.79906493,-5.629897){\rput(9.105427,-1.5876317){H}}
+\rput{35.81194}(1.393891,-6.066554){\rput(10.078557,-0.8854796){H}}
+\rput{-11.708825}(0.35462806,2.5453198){\pscircle[linewidth=0.04,dimen=outer](12.589165,-0.45662805){0.48}}
+\rput{-11.708825}(0.41104886,2.3990757){\pscircle[linewidth=0.04,dimen=outer](11.90424,-0.80487716){0.32}}
+\rput{-11.708825}(0.48615122,2.6363566){\pscircle[linewidth=0.04,dimen=outer](13.098853,-1.0524616){0.32}}
+\rput{-11.708825}(0.35147688,2.5483565){\rput(12.589585,-0.44896224){O}}
+\rput{-11.708825}(0.41054672,2.3969612){\rput(11.887427,-0.8127047){H}}
+\rput{-11.708825}(0.48441792,2.6303523){\rput(13.062457,-1.0562304){H}}
+\rput{-276.5486}(1.520774,-5.708054){\pscircle[linewidth=0.04,dimen=outer](3.960786,-2.0013573){0.48}}
+\rput{-276.5486}(1.2360523,-6.6904325){\pscircle[linewidth=0.04,dimen=outer](4.3692265,-2.6521847){0.32}}
+\rput{-276.5486}(2.5634527,-5.75485){\pscircle[linewidth=0.04,dimen=outer](4.5083632,-1.4401448){0.32}}
+\rput{-276.5486}(1.5164059,-5.679834){\rput(3.9299674,-1.9989152){O}}
+\rput{-276.5486}(1.2250911,-6.6994305){\rput(4.362541,-2.6720483){H}}
+\rput{-276.5486}(2.530731,-5.7791853){\rput(4.499397,-1.4798778){H}}
+			&lt;/code&gt;</pre></div>
+<figcaption class="caption"><p>The three phases of water.</p></figcaption></figure><figure class="figure"><img src="photos/iceby-stevendepolo-flickr.jpg" width="312" alt="Photo by stevendepolo on Flickr"/></figure><p><em/></p>
+<figure class="figure"><img src="photos/River_valley_umair_mohsin_flickr.jpg" width="312" alt="Photo by Umair Mohsin on Flickr"/></figure><h4>The effects of intermolecular forces</h4>
+
+<p>The following five experiments investigate the effect of various physical properties (evaporation, surface tension, solubility, boiling point and capillarity) of substances and determine how these properties relate to intermolecular forces. Each experiment will look at a different property.</p>
+<div class="teachers-guide">
+<p>A formal experiment on the effects of intermolecular forces is included in this chapter. In this experiment learners will investigate how intermolecular forces affect evaporation, surface tension, solubility, boiling points and capillarity. Some of the substances that are used (nail polish remover (mainly acetone if you use the non acetone free variety), methylated spirits (a mixture of methanol and ethanol), oil (a mostly non-polar hydrocarbon), glycerin (a fairly complex organic molecule)) are quite complex substances and learners may not have the skills needed to determine the types of intermolecular forces at work here. You should guide learners in this and tell them the intermolecular forces for these substances.</p>
+
+<p>You can help learners work out the strength of the intermolecular forces by telling them that larger molecules have stronger intermolecular forces than smaller molecules. This is often a big factor in determining which substance has the strongest intermolecular forces.</p>
+
+<p>This experiment is split into five experiments. Each experiment focuses on a different property and sees how that property relates to intermolecular forces. It will often not be easy for learners to see the small differences between some of the molecules chosen and so they need to use a combination of experimental results and knowledge about the strength of the intermolecular force to try and predict what may happen. Each experiment ends with a conclusion about what should be found to guide learners.</p>
+
+<p>It is very important to work in a well ventilated room (one with lots of air flow) particularly when working with methanol and ethanol. Many of the substances used (particularly nail polish remover, ethanol and methylated spirits) are highly flammable and so care must be taken when heating these substances. It is recommended that learners use a hot plate rather than a Bunsen burner to heat these substances as this reduces the risk of fire. When doing chemistry experiments it is also extra important to ensure that your learners do not run around, do not try to drink the chemicals, do not eat and drink in the lab, do not throw chemicals on the other learners and in general do act in a responsible and safe way. The guidelines for safe experimental work can be found in the science skills chapter from grade <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math>.</p>
+</div><div class="example" data-class="activity" data-type="formalexperiment"><div class="title">The effects of intermolecular forces: Part <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math></div><div class="section"><div class="title">Aim</div>
+<p>To investigate evaporation and to determine the relation between evaporation and intermolecular forces.</p>
+</div>
+<div class="section"><div class="title">Apparatus</div>
+<p>You will need the following items for this experiment:</p>
+<ul data-class="ListBulleted"><li>
+				  
+<p>ethanol, water, nail polish remover (acetone), methylated spirits</p>
+
+                </li>
+<li>
+                  
+<p>evaporating dishes (or shallow basins)</p>
+
+                </li>
+</ul></div>
+<div class="section"><div class="title">Method</div><ol data-class="ListEnumerated"><li>Place <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{20}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{ml}</annotation></semantics></math> of each substance given in separate evaporating dishes.
+			  </li>
+<li>
+				  Carefully move each dish to a warm (sunny) spot.</li>
+<li>Mark the level of liquid in each dish using a permanent marker. Make several marks at different positions around the dish. If the permanent marker is leaving a smudge rather than a noticeable mark, carefully wipe the side of the dish and try again.</li>
+<li>Observe each dish every minute and note which liquid evaporates fastest.</li>
+</ol><div class="alternates"><img src="_plone_ignore_/cache/pspictures/25f812f11861d4395904d336e099c55a.png"/><pre class="pspicture">&lt;code&gt;(0,-3.9125)(7.520847,0.02998401)
+\rput{-180.0}(4,3.6){\psarc[linewidth=0.04](2,2){2.2}{50}{131}}
+\psline[linewidth=0.04cm](1,-0.33)(3,-0.33)
+\rput{-180.0}(12,3.6){\psarc[linewidth=0.04](6,2){2.2}{50}{131}}
+\psline[linewidth=0.04cm](4.95,-0.33)(7,-0.33)
+\rput{-180.0}(4,-1.5){\psarc[linewidth=0.04](2,-0.7){2.2}{50}{131}}
+\psline[linewidth=0.04cm](1,-2.75)(3,-2.75)
+\rput{-180.0}(12,-1.5){\psarc[linewidth=0.04](6,-0.7){2.2}{50}{131}}
+\psline[linewidth=0.04cm](5,-2.75)(7,-2.75)
+\rput(6,-3.2){20 ml }
+\rput(6,-3.5){ethanol}
+\rput(2,-3.2){20 ml }
+\rput(2,-3.5){water}
+\rput(2,-0.9){20 ml }
+\rput(2,-1.3){methylated}
+\rput(2,-1.7){spirits}
+\rput(6,-1.3){nail polish}
+\rput(6,-1.7){remover}
+	\rput(6,-0.9){20 ml}&lt;/code&gt;</pre></div></div>
+<div class="section"><div class="title">Results</div>
+<p>Record your results in the table below. You do not need to measure the level of the liquid, but rather just write how much the level had dropped (e.g. for water you might write did not notice any decrease in the level or for ethanol you might write almost all the liquid had evaporated).</p>
+<table><tr><td><strong>Substance</strong></td><td><strong>Liquid level after <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{min}</annotation></semantics></math></strong></td><td><strong><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{min}</annotation></semantics></math></strong></td><td><strong><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{min}</annotation></semantics></math></strong></td><td><strong><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{4}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{min}</annotation></semantics></math></strong></td><td><strong><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{min}</annotation></semantics></math></strong></td></tr><tr><td>Ethanol</td><td/><td/><td/><td/><td/></tr><tr><td>Water</td><td/><td/><td/><td/><td/></tr><tr><td>Nail polish remover</td><td/><td/><td/><td/><td/></tr><tr><td>Methylated spirits</td><td/><td/><td/><td/><td/></tr></table></div>
+<div class="section"><div class="title">Discussion and conclusion</div>
+<p>You should find that water takes the longest time to evaporate. Water has strong intermolecular forces (hydrogen bonds). Ethanol (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{CH}_{2}\text{OH}</annotation></semantics></math>) and methylated spirits (mainly ethanol (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{CH}_{2}\text{OH}</annotation></semantics></math>) with some methanol (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{OH}</annotation></semantics></math>)) both have hydrogen bonds but these are slightly weaker than the hydrogen bonds in water. Nail polish remover (acetone (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{COCH}_{3}</annotation></semantics></math>)) has dipole-dipole forces only and so evaporates quickly.</p>
+
+<p>Substances with weaker intermolecular forces evaporate faster than substances with stronger intermolecular forces.</p>
+</div>
+</div>
+<div class="example" data-class="activity" data-type="formalexperiment"><div class="title">The effects of intermolecular forces: Part <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math></div><div class="section"><div class="title">Aim</div>
+<p>To investigate surface tension and to determine the relation between surface tension and intermolecular forces.</p>
+</div>
+<div class="section"><div class="title">Apparatus</div>
+<p>You will need the following items for this experiment:</p>
+<ul data-class="ListBulleted"><li>
+				  
+<p>water, cooking oil (sunflower oil), glycerin, nail polish remover (acetone), methylated spirits</p>
+
+                </li>
+<li>
+                  
+<p>small glass beakers or glass measuring cylinders</p>
+
+                </li>
+<li>small piece of glass or clear plastic (about <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm}</annotation></semantics></math> by <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm}</annotation></semantics></math>.)</li>
+</ul></div>
+<div class="section"><div class="title">Method</div><ol data-class="ListEnumerated"><li>Place about <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{50}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{ml}</annotation></semantics></math> of each substance given in separate small beakers or measuring cylinders.
+		</li>
+<li>Observe the shape of the meniscus. (This is the level of the liquid). Note what happens at the edges where the liquid touches the glass. (You can place a few drops of food colouring in each substance to help you see the meniscus.)</li>
+<li>Now place a drop of the substance on a small piece of glass. Observe the shape of the drop.</li>
+</ol><div class="alternates"><img src="_plone_ignore_/cache/pspictures/9bba48129b477e397561a55be0b210f1.png"/><pre class="pspicture">&lt;code&gt;
+(-5.2,-7)(5.2,1)
+\rput(0,0){\pstTubeEssais[glassType=becher,niveauLiquide1=20]}
+\rput(4,0){\pstTubeEssais[glassType=becher,niveauLiquide1=20]}
+\rput(-4,0){\pstTubeEssais[glassType=becher,niveauLiquide1=20]}
+\rput(-2,-4){\pstTubeEssais[glassType=becher,niveauLiquide1=20]}
+\rput(2,-4){\pstTubeEssais[glassType=becher,niveauLiquide1=20]}
+\rput(-4,-2.5){Water}
+\rput(0,-2.5){Oil}
+\rput(4,-2.5){Glycerine}
+\rput(-2,-6.5){Nail polish remover}
+\rput(2,-6.5){Methylated spirits}
+		&lt;/code&gt;</pre></div></div>
+<div class="section"><div class="title">Results</div>
+<p>Record your results in the table below. You just need to give a qualitative result (in other words what you see in the experiment).</p>
+<table><tr><td><strong>Substance</strong></td><td><strong>Shape of meniscus</strong></td><td><strong>Shape of droplet</strong></td></tr><tr><td>Water</td><td/><td/></tr><tr><td>Oil</td><td/><td/></tr><tr><td>Glycerine</td><td/><td/></tr><tr><td>Nail polish remover</td><td/><td/></tr><tr><td>Methylated spirits</td><td/><td/></tr></table></div>
+<div class="section"><div class="title">Discussion and conclusion</div>
+<p>The meniscus for all these substances should be concave (i.e. higher at the edges than in the middle). This is because the forces holding the molecules in the substance together are weaker than the attraction between the substance and the glass of the tube.</p>
+
+<p>You should also have noticed that water, oil and Glycerine tend to form a drop, while nail polish remover and methylated spirits do not. Strong intermolecular forces help hold the substance together, while weaker ones do not hold the molecules in the substance together as much.</p>
+
+<p>Water has the strongest intermolecular forces (hydrogen bonds) of all the substances used. Glycerine and methylated spirits also have hydrogen bonds, but these intermolecular forces are slightly weaker than in water. Sunflower oil is mostly non-polar but has very long molecules which help account for the higher surface tension.</p>
+
+<p>Substances with strong intermolecular forces will generally have a greater surface tension than substances with weaker intermolecular forces.</p>
+</div>
+</div>
+<div class="example" data-class="activity" data-type="formalexperiment"><div class="title">The effects of intermolecular forces: Part <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3}</annotation></semantics></math></div><div class="section"><div class="title">Aim</div>
+<p>To investigate solubility and to determine the relation between solubility and intermolecular forces.</p>
+</div>
+<div class="section"><div class="title">Apparatus</div>
+<p>You will need the following items for this experiment:</p>
+<ul data-class="ListBulleted"><li>
+				  
+<p>Solids: sodium chloride (table salt), iodine, potassium permanganate</p>
+
+                </li>
+<li>
+					Solvents: water, ethanol, chloroform
+				</li>
+<li>
+                  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{9}</annotation></semantics></math> beakers or test-tubes</p>
+
+                </li>
+<li>
+					
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3}</annotation></semantics></math> A4 sheets of paper</p>
+
+				</li>
+</ul></div>
+<div class="section"><div class="title">Method</div><ol data-class="ListEnumerated"><li>Place about <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{20}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{ml}</annotation></semantics></math> of each solvent given in separate beakers. Place this set on a piece of paper labelled &#8220;sodium chloride&#8221;.
+		</li>
+<li>Repeat this step twice. The second set is for potassium permanganate (so your piece of paper will say &#8220;potassium permanganate&#8221;) and the third set is for iodine (so your piece of paper will say &#8220;iodine&#8221;). You should now have nine beakers in total.</li>
+<li>Into the first set, add about <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math> of sodium chloride.</li>
+<li>Into the second set, add about <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math> of potassium permanganate.</li>
+<li>Into the third set, add about <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math> of iodine.</li>
+<li>Observe how much of each substance dissolves in the solvent.</li>
+</ol><div class="alternates"><img src="_plone_ignore_/cache/pspictures/0a6a742f2a52155456e0a8fbc1793622.png"/><pre class="pspicture">&lt;code&gt;
+(-5.8,-4.5)(4.5,3.5)
+\rput(0,0){\scalebox{0.6}{\pstTubeEssais[glassType=becher,niveauLiquide1=20]}}
+\rput(3,0){\scalebox{0.6}{\pstTubeEssais[glassType=becher,niveauLiquide1=20]}}
+\rput(-3,0){\scalebox{0.6}{\pstTubeEssais[glassType=becher,niveauLiquide1=20]}}
+\rput(-3,-2.5){\scalebox{0.6}{\pstTubeEssais[glassType=becher,niveauLiquide1=20]}}
+\rput(0,-2.5){\scalebox{0.6}{\pstTubeEssais[glassType=becher,niveauLiquide1=20]}}
+\rput(3,-2.5){\scalebox{0.6}{\pstTubeEssais[glassType=becher,niveauLiquide1=20]}}
+\rput(-3,2.5){\scalebox{0.6}{\pstTubeEssais[glassType=becher,niveauLiquide1=20]}}
+\rput(0,2.5){\scalebox{0.6}{\pstTubeEssais[glassType=becher,niveauLiquide1=20]}}
+\rput(3,2.5){\scalebox{0.6}{\pstTubeEssais[glassType=becher,niveauLiquide1=20]}}
+\rput(-4.5,2.5){Sodium}
+\rput(-4.5,2.1){chloride}
+\rput(-4.7,0){Potassium}
+\rput(-5,-0.4){permanganate}
+\rput(-4.5,-3){Iodine}
+\rput(-3,1){Water}
+\rput(-3,-1.5){Water}
+\rput(-3,-4){Water}
+\rput(0,1){Ethanol}
+\rput(0,-1.5){Ethanol}
+\rput(0,-4){Ethanol}
+\rput(3,1){Chloroform}
+\rput(3,-1.5){Chloroform}
+\rput(3,-4){Chloroform}
+		&lt;/code&gt;</pre></div></div>
+<div class="section"><div class="title">Results</div>
+<p>Record your results in the table below. If you observe only a small amount of the solid dissolving then write that very little solid dissolved. If all the solid dissolves then write that all the solid dissolved.</p>
+<table><tr><td><strong>Substance</strong></td><td><strong>Water</strong></td><td><strong>Chloroform</strong></td><td><strong>Ethanol</strong></td></tr><tr><td>Sodium chloride</td><td/><td/><td/></tr><tr><td>Potassium permanganate</td><td/><td/><td/></tr><tr><td>Iodine</td><td/><td/><td/></tr></table></div>
+<div class="section"><div class="title">Discussion and conclusion</div>
+<p>You should find that the sodium chloride and potassium permanganate dissolved (at least a bit) in all the substances. The iodine did not dissolve in any of the substances. The three solvents (water, chloroform and ethanol) are all polar and have dipole-dipole forces. Sodium chloride and potassium permanganate are both ionic substances, while iodine is non-polar.</p>
+
+<p>Substances will dissolve in solvents that have similar intermolecular forces or in solvents where the ionic bonds can be disrupted by the formation of ion-dipole forces.</p>
+</div>
+</div>
+<div class="example" data-class="activity" data-type="formalexperiment"><div class="title">The effects of intermolecular forces: Part <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{4}</annotation></semantics></math></div><div class="section"><div class="title">Aim</div>
+<p>To investigate boiling point and to determine the relation between boiling point and intermolecular forces.</p>
+</div>
+<div class="section"><div class="title">Apparatus</div>
+<p>You will need the following items for this experiment:</p>
+<ul data-class="ListBulleted"><li>
+			
+<p>water, cooking oil (sunflower oil), Glycerine, nail polish remover, methylated spirits</p>
+
+		      </li>
+<li>
+			
+<p>test-tubes and a beaker</p>
+
+		      </li>
+<li>hot plate</li>
+</ul></div>
+<div class="section"><div class="title">Method</div><div class="note" data-type="warning">
+<p>Methylated spirits and nail polish remover are highly flammable. They will easily catch fire if left near an open flame. For this reason they must be heated in a water bath. This experiment MUST be performed in a well ventilated room.</p>
+</div><ol data-class="ListEnumerated"><li>Place about <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{20}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{ml}</annotation></semantics></math> of each substance given in separate test-tubes.
+		      </li>
+<li>Half-fill the beaker with water and place on the hot plate.
+		      </li>
+<li>Place the test-tubes in the beaker.</li>
+<li>Observe how long each substance takes to boil. As soon as a substance boils, remove it from the water bath.</li>
+</ol><div class="alternates"><img src="_plone_ignore_/cache/pspictures/69f02c55ec55c3b064990b4634dfb15f.png"/><pre class="pspicture">&lt;code&gt;
+(-2.5,-1.5)(4,1.5)
+\rput(0,0){\pstDosage[agitateurMagnetique=false,burette=false,glassType=becher,xunit=1.5,yunit=0.5,runit=0.7,niveauLiquide1=40]}
+\psset{glassType=tube}
+\rput(1,0.4){\pstTubeEssais[unit=0.45,niveauLiquide1=50]}
+\rput(0.5,0.4){\pstTubeEssais[unit=0.45,niveauLiquide1=50]}
+\rput(0,0.4){\pstTubeEssais[unit=0.45,niveauLiquide1=50]}
+\rput(-0.5,0.4){\pstTubeEssais[unit=0.45,niveauLiquide1=50]}
+\rput(-1,0.4){\pstTubeEssais[unit=0.45,niveauLiquide1=50]}
+\psline{&lt;/code&gt;</pre></div></div>
+<div class="section"><div class="title">Results</div>
+<p>Write down the order in which the substances boiled, starting with the substance that boiled first and ending with the substance that boiled last.</p>
+</div>
+<div class="section"><div class="title">Discussion and conclusion</div>
+<p>You should have found that the nail polish remover and the methylated spirits boil before the water, oil and Glycerine.</p>
+
+<p>Glycerine, water and methylated spirits have hydrogen bonds between the molecules. However, in water and Glycerine these intermolecular forces are very strong while in the methylated spirits they are slightly weaker. This leads to the higher boiling point for water and Glycerine. Nail polish remover has weaker dipole-dipole forces.</p>
+
+<p>Although cooking oil is non-polar and has induced dipole forces the molecules are very large and so these increase the strength of the intermolecular forces.</p>
+
+<p>Substances with strong intermolecular forces will have a higher boiling point than substances with weaker intermolecular forces.</p>
+</div>
+</div>
+<div class="example" data-class="activity" data-type="formalexperiment"><div class="title">The effects of intermolecular forces: Part <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math></div><div class="section"><div class="title">Aim</div>
+<p>To investigate capillarity (how far up a tube a liquid rises or how far down a liquid falls) and to determine the relation between capillarity and intermolecular forces.</p>
+</div>
+<div class="section"><div class="title">Apparatus</div>
+<p>You will need the following items for this experiment:</p>
+<ul data-class="ListBulleted"><li>
+			
+<p>water, cooking oil (sunflower oil), nail polish remover, methylated spirits</p>
+
+		      </li>
+<li>
+			
+<p>large shallow dish, narrow glass tube (with one end closed)</p>
+
+		      </li>
+</ul></div>
+<div class="section"><div class="title">Method</div><ol data-class="ListEnumerated"><li>Place about <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{20}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{ml}</annotation></semantics></math> of water in the shallow dish.
+		      </li>
+<li>Hold the narrow tube just above the level of the water in the dish.</li>
+<li>Observe how far up the tube the water travels.</li>
+<li>Repeat for the other three substances, remembering to wash and dry the dish and tube well between each one.</li>
+</ol><div class="alternates"><img src="_plone_ignore_/cache/pspictures/f2da63dcfa537cf3947d654f8b0771cb.png"/><pre class="pspicture">&lt;code&gt;
+(-0.5,-1.5)(5,1.5)
+\psline(0.0,-0.32)(0.0,-1.32)
+\psline(0.0,-1.32)(3.02,-1.32)
+\psline(3.02,-1.3)(3.02,-0.32)
+\psline(1.22,-1.18)(1.22,1.3)
+\psline(1.2,1.3)(1.44,1.3)
+\psline(1.42,1.32)(1.4,-1.18)
+\psline(1.22,0.1)(1.42,0.1)
+\psline(1.4,-1.04)(3.04,-1.04)
+\psline(0.0,-1.04)(1.22,-1.04)
+\psline{&lt;/code&gt;</pre></div></div>
+<div class="section"><div class="title">Results</div>
+<p>Record your results in the table below. You do not need to measure how far up the tube the substance travels but rather say if it only travelled a short distance or a long distance.</p>
+<table><tr><td><strong>Substance</strong></td><td><strong>Distance travelled up tube</strong></td></tr><tr><td>Water</td><td/></tr><tr><td>Oil</td><td/></tr><tr><td>Nail polish remover</td><td/></tr><tr><td>Methylated spirits</td><td/></tr></table></div>
+<div class="section"><div class="title">Discussion and conclusion</div>
+<p>Water travels the greatest distance up the tube. Nail polish remover travels the least distance.</p>
+
+<p>Capillarity is related to surface tension. If the attractive force between the glass walls of the tube and the substance are stronger than the intermolecular forces in the substance, than the edges of the liquid will be pulled above the surface of the liquid. This in turn helps pull the liquid up the tube.</p>
+
+<p>Substances with strong intermolecular forces will travel further up a narrow tube (have a greater capillarity) than substances with weaker intermolecular forces.</p>
+</div>
+</div>
+
+<p>From these experiments we can see how intermolecular forces (a microscopic property) affect the macroscopic behaviour of substances. If a substance has weak intermolecular forces then it will evaporate easily. Substances with weak intermolecular forces also have low surface tension and do not rise as far up in narrow tubes as substances with strong intermolecular forces. Boiling points are lower for substances with weak intermolecular forces. Substances are more likely to be soluble in liquids with similar intermolecular forces.</p>
+
+<p>We will now look at some more properties (molecular size, viscosity, density, melting and boiling points, thermal expansion, thermal conductivity) in detail.</p>
+
+<p><strong>Molecular size</strong></p>
+
+<p>The alkanes are a group of organic compounds that contain carbon and hydrogen bonded together. The carbon atoms link together to form chains of varying lengths.</p>
+
+<p>The boiling point and melting point of these molecules is determined by their molecular structure, and their surface area. The more carbon atoms there are in an alkane, the greater the surface area and therefore the higher the boiling point. The melting point also increases as the number of carbon atoms in the molecule increases. This can be seen in the table below.</p>
+<figure class="figure"><img src="photos/molecular_size.png" width="468" alt="Photo by Ben Mills on wikipedia"/></figure><table><tr><td><p><strong>Formula</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{4}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{C}_{2}\text{H}_{6}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{C}_{5}\text{H}_{12}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{C}_{6}\text{H}_{14}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{C}_{20}\text{H}_{42}</annotation></semantics></math></p></td></tr><tr><td><p><strong>Name</strong></p></td><td><p>methane</p></td><td><p>ethane</p></td><td><p>pentane</p></td><td><p>hexane</p></td><td><p>icosane</p></td></tr><tr><td><p><strong>Molecular mass (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g&#183;mol^{-1}}</annotation></semantics></math>)</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{16}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{30}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{72}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{86}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{282}</annotation></semantics></math></p></td></tr><tr><td><p><strong>Melting point (&#8451;)</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">-\text{183}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">-\text{183}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">-\text{130}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">-\text{95}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{37}</annotation></semantics></math></p></td></tr><tr><td><p><strong>Boiling point (&#8451;)</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">-\text{164}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">-\text{89}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{36}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{69}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{343}</annotation></semantics></math></p></td></tr><tr><td><p><strong>Phase at room temperature</strong></p></td><td><p>gas</p></td><td><p>gas</p></td><td><p>liquid</p></td><td><p>liquid</p></td><td><p>solid</p></td></tr></table><p>You will also notice that, when the molecular mass of the alkanes is low (i.e. there are few carbon atoms), the organic compounds are <em>gases</em> because the intermolecular forces are weak. As the number of carbon atoms and the molecular mass increases, the compounds are more likely to be liquids or solids because the intermolecular forces are stronger.</p>
+
+<p>You should see that the larger a molecule is the stronger the intermolecular forces are between its molecules. This is one of the reasons why methane (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{4}</annotation></semantics></math>) is a gas at room temperature while pentane (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{C}_{5}\text{H}_{12}</annotation></semantics></math>) is a liquid and icosane (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{C}_{20}\text{H}_{42}</annotation></semantics></math>) is a solid.</p>
+<div class="note" data-type="aside">
+<p>It is partly the stronger intermolecular forces that explain why petrol (mainly octane (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{C}_{8}\text{H}_{18}</annotation></semantics></math>)) is a liquid, while candle wax (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{C}_{23}\text{H}_{48}</annotation></semantics></math>) is a solid. If these intermolecular forces did not increase with increasing molecular size we would not be able to put liquid fuel into our cars or use solid candles.</p>
+</div>
+<p><strong>Viscosity</strong></p>
+
+<p>Viscosity is the resistance to flow of a liquid. Compare how easy it is to pour water and syrup or honey. The water flows much faster than the syrup or honey.</p>
+<figure class="figure"><img src="photos/honey_siona_karen_flickr.jpg" width="468" alt="Photo by Siona Karen on Flickr"/></figure><p>You can see this if you take a cylinder filled with water and a cylinder filled with glycerin. Drop a small metal ball into each cylinder and note how easy it is for the ball to fall to the bottom. In the glycerin the ball falls slowly, while in the water it falls faster.</p>
+
+<p>Substances with stronger intermolecular forces are more viscous than substances with weaker intermolecular forces.</p>
+<div class="example" data-class="activity" data-type="Activity"><div class="title">Machine and motor oils</div>
+<p>You are given the following information about engine oils.</p>
+<table><tr><td><strong>Oil</strong></td><td><strong>Use</strong></td><td><strong>Other info</strong></td></tr><tr><td>SAE 30 monograde</td><td>Engines</td><td>Low viscosity</td></tr><tr><td>SAE 50 monograde</td><td>Engines</td><td>High viscosity</td></tr><tr><td>SAE 15W-40 multigrade</td><td>Engines</td><td>Medium viscosity</td></tr><tr><td>SAE 0W-40 multigrade</td><td>Engines</td><td>Medium viscosity</td></tr></table><p>(Data from <a data-class="ExternalLink" href="http://www.shell.com/home/content/zaf/products_services/on_the_road/consumer_lubricants_tpkg/right_oil/">shell.com</a>)</p>
+<figure class="figure"><img src="photos/motor_oil.jpg" width="312" alt="Photo by H Padleckas on Wikipedia"/></figure><p>Multigrade oils can be used even in cold weather since they remain fluid (The first number is the rating for winter weather and the W shows that this is the rating in winter. The second number is the viscosity rating in summer). Monograde oils are given their viscosity rating at <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{100}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{&#176;C}</annotation></semantics></math>. The viscosity is an indication of how well the oil flows. The more viscous an oil the larger the molecules that are in the oil.</p>
+<ul data-class="ListBulleted"><li>
+<p>Which oil has the longest molecules?</p>
+</li>
+<li>
+<p>Which oil has the shortest molecules?</p>
+</li>
+<li>
+<p>Which oil has the strongest overall intermolecular forces?</p>
+</li>
+<li>
+<p>Which oil has the weakest overall intermolecular forces?</p>
+</li>
+<li>
+<p>What can you conclude about the link between the magnitude of the intermolecular force and viscosity?</p>
+</li>
+</ul></div>
+
+<p><strong>Density</strong></p>
+<dl class="definition"><dt>Density</dt><dd>Density is a measure of the mass in a unit volume.</dd></dl><p>The solid phase is often the most dense phase (water is one noteworthy exception to this). This can be explained by the strong intermolecular forces found in a solid. These forces pull the molecules together which results in more molecules in one unit volume than in the liquid or gas phases. The more molecules in a unit volume the denser that substance will be.</p>
+
+<p><strong>Melting and boiling points</strong></p>
+
+<p>Intermolecular forces affect the boiling and melting points of substances. Substances with weak intermolecular forces will have low melting and boiling points while those with strong intermolecular forces will have high melting and boiling points. In the experiment on intermolecular forces you investigated the boiling points of several substances, and should have seen that molecules with weaker intermolecular forces have a lower boiling point than molecules with stronger intermolecular forces.</p>
+
+<p>One further point to note is that covalent network structures (recall from grade <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math> that these are covalent compounds that form large networks and an example is diamond) will have high melting and boiling points due to the fact that some bonds (i.e. the strong forces between atoms) have to break before the substance can melt. Covalent molecular substances (e.g. water, sugar) often have lower melting and boiling points, because of the presence of the weaker intermolecular forces holding these molecules together.</p>
+
+<p><strong>Thermal expansion</strong></p>
+
+<p>As substances are heated their molecules start moving more vigorously (their kinetic energy increases). This causes the liquid to expand on heating. You can observe this in a thermometer. As the alcohol (or mercury) is heated it expands and rises up the tube.</p>
+
+<p>This is why when you tile a floor you have to leave gaps between the tiles to allow for expansion. It is also why power lines sag slightly and bridges have slight gaps for expansion.</p>
+
+<p><strong>Thermal conductivity</strong></p>
+
+<p>Different materials conduct heat differently. The following activity will highlight this.</p>
+<div class="example" data-class="activity" data-type="Investigation"><div class="title">Thermal conductivity</div>
+<p>Take a long thin piece of graphite and a long thin piece of copper (or other metal). Attach a bit of wax to the one end of each rod (you will need to melt the wax a bit first to make it stick). While the wax is still soft, press a toothpick into the blob of wax.</p>
+
+<p>Now suspend the graphite and copper rods from a desk or chair using a piece of string and heat the other end. Observe which toothpick falls off first. Try to explain why.</p>
+</div>
+
+<p>Heat is transferred through a substance from the point being heated to the other end. This is why the bottom of a pot gets hot first (assuming you are heating the pot on a stove plate). In metals there are some free, delocalised electrons which can help transfer the heat energy through the metal. In covalent molecular compounds there are no free, delocalised electrons and the heat does not travel as easily through the material.</p>
+<div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="title">Understanding intermolecular forces</div><div class="problem" data-class="question">
+				
+<p>Explain why the melting point of oxygen (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{O}_{2}</annotation></semantics></math>) is much lower than the melting point of hydrogen chloride <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>.</p>
+
+            </div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Write down what you know about melting points and forces</div>
+
+<p>The stronger the intermolecular force, the higher the melting point. So if a substance has strong intermolecular forces, then that substance will have a high melting point.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Write down which forces occur in the two given compounds</div>
+
+<p>Oxygen is non-polar and has induced dipole forces. Hydrogen chloride is polar and has dipole-dipole forces.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Combine all the facts to get the answer</div>
+
+<p>We know that stronger intermolecular forces lead to higher melting points. We also know that oxygen has weaker intermolecular forces than hydrogen chloride (induced dipole versus dipole-dipole forces). Therefore oxygen will have a lower melting point than hydrogen chloride since oxygen has weaker intermolecular forces.</p>
+</div></div><h1 class="title" data-class="complex-section">Exercises</h1>
+<div class="problemset">
+<div class="exercise" data-class="entry">
+<div class="problem">
+			
+<p>Given the following diagram:</p>
+
+			<div class="alternates"><img src="_plone_ignore_/cache/pspictures/ce1dbdc8b73571de07c1e48214625c33.png"/><pre class="pspicture">&lt;code&gt;
+(-2.5,-0.5)(1.5,0.5)
+\rput(-2,0){H}
+\rput(-1,0){Cl}
+\rput(0,0){H}
+\rput(1,0){Cl}
+\psline(-1.8,0)(-1.2,0)
+\psline[linestyle=dashed](-0.8,0)(-0.2,0)
+\psline(0.2,0)(0.8,0)
+&lt;/code&gt;</pre></div>
+			<ol data-class="ListEnumerated"><li>Name the molecule and circle it on the diagram</li>
+<li>Label the interatomic forces (covalent bonds)</li>
+<li>Label the intermolecular forces</li>
+</ol></div><div class="solution">
+			
+<p>The molecule is hydrogen chloride.</p>
+
+			<div class="alternates"><img src="_plone_ignore_/cache/pspictures/f9128e6ed1d04376f9c0ce516e2bff51.png"/><pre class="pspicture">&lt;code&gt;
+(-2.5,-1.5)(2,1.5)
+\rput(-2,0){H}
+\rput(-1,0){Cl}
+\rput(0,0){H}
+\rput(1,0){Cl}
+\psline(-1.8,0)(-1.2,0)
+\psline[linestyle=dashed](-0.8,0)(-0.2,0)
+\psline(0.2,0)(0.8,0)
+\psline{&lt;/code&gt;</pre></div>
+		  </div></div><div class="exercise" data-class="entry">
+<div class="problem">
+            
+<p>Given the following molecules and solutions:</p>
+
+			
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CO}_{2}</annotation></semantics></math>, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{I}_{2}</annotation></semantics></math>, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}</annotation></semantics></math>, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{KI} (\text{aq})</annotation></semantics></math>, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math>, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaCl}(\text{aq})</annotation></semantics></math>, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HF}</annotation></semantics></math>, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{MgCl}_{2}</annotation></semantics></math> in <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CCl}_{4}</annotation></semantics></math>, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NO}</annotation></semantics></math>, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Ar}</annotation></semantics></math>, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{SiO}_{2}</annotation></semantics></math></p>
+
+			
+<p>Complete the table below by placing each molecule next to the correct type of intermolecular force.</p>
+
+            <table><tr><td><p><strong>Ion-dipole</strong></p></td><td/></tr><tr><td><p><strong>Ion-induced-dipole</strong></p></td><td/></tr><tr><td><p><strong>Dipole-dipole (no hydrogen bonding)</strong></p></td><td/></tr><tr><td><p><strong>Dipole-dipole (hydrogen bonding)</strong></p></td><td/></tr><tr><td><p><strong>Induced dipole</strong></p></td><td/></tr><tr><td><p><strong>Dipole-induced-dipole</strong></p></td><td/></tr></table><p>In which one of the substances listed above are the intermolecular forces:</p>
+
+            <ol data-class="ListEnumerated"><li>
+                
+<p>strongest</p>
+
+              </li>
+<li>
+                
+<p>weakest</p>
+
+              </li>
+</ol></div><div class="solution">
+			  <table><tr><td><p><strong>Ion-dipole</strong></p></td><td><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{KI} (\text{aq})</annotation></semantics></math>, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaCl}(\text{aq})</annotation></semantics></math>, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HF}(\text{aq})</annotation></semantics></math></td></tr><tr><td><p><strong>Ion-induced-dipole</strong></p></td><td><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{MgCl}_{2}</annotation></semantics></math> in <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CCl}_{4}</annotation></semantics></math></td></tr><tr><td><p><strong>Dipole-dipole (no hydrogen bonding)</strong></p></td><td><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NO}</annotation></semantics></math></td></tr><tr><td><p><strong>Dipole-dipole (hydrogen bonding)</strong></p></td><td><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}</annotation></semantics></math>, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math></td></tr><tr><td><p><strong>Induced dipole</strong></p></td><td><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CO}_{2}</annotation></semantics></math>, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{I}_{2}</annotation></semantics></math>, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Ar}</annotation></semantics></math></td></tr><tr><td><p><strong>Dipole-induced-dipole</strong></p></td><td><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{SiO}_{2}</annotation></semantics></math> in water</td></tr></table><p>Water or ammonia are likely to have the strongest forces, while argon, iodine and carbon dioxide are likely to have the weakest forces. Induced dipole forces are the weakest intermolecular forces and hydrogen bonding is the strongest.</p>
+
+		</div></div><div class="problemset">
+<div class="header">
+
+<p>Use your knowledge of different types of intermolecular forces to explain the following statements:</p>
+</div><div class="exercise" data-class="entry">
+<div class="problem">
+		
+<p>The boiling point of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{F}_{2}</annotation></semantics></math> is much lower than the boiling point of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math></p>
+
+	</div><div class="solution">
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math> has hydrogen bonds which are much stronger than the induced dipole forces in <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{F}_{2}</annotation></semantics></math>. In order for a liquid to boil the intermolecular forces must be broken and if the intermolecular forces are very strong then it will take a lot of energy to overcome these forces and so the boiling point will be higher.</p>
+
+	</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		
+<p>Water evaporates slower than carbon tetrachloride (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CCl}_{4}</annotation></semantics></math>).</p>
+
+	</div><div class="solution">
+		
+<p>Water has strong intermolecular forces (hydrogen bonds) while carbon tetrachloride only has weaker induced dipole forces. (Carbon tetrachloride is non-polar). Substances with stronger intermolecular forces take longer to evaporate than substances with weaker intermolecular forces.</p>
+
+	</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		
+<p>Sodium chloride is likely to dissolve in methanol (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{OH}</annotation></semantics></math>) .</p>
+
+	</div><div class="solution">
+		
+<p>Sodium chloride is ionic. Methanol is polar. The type of intermolecular force that can exist when sodium chloride dissolves in methanol is ion-dipole forces. The formation of these forces helps to disrupt the ionic bonds in sodium chloride and so sodium chloride can dissolve in methanol.</p>
+
+	</div></div></div><div class="exercise" data-class="entry">
+<div class="problem">
+	
+<p>Tumi and Jason are helping their dad tile the bathroom floor. Their dad tells them to leave small gaps between the tiles. Why do they need to leave these small gaps?</p>
+
+  </div><div class="solution">
+	
+<p>Materials (such as tiles) expand on heating and so small gaps need to be left between the tiles to allow for this expansion. If Tumi and Jason did not leave these gaps between the tiles, the tiles would soon lift up.</p>
+
+  </div></div></div></body>
+</html>
