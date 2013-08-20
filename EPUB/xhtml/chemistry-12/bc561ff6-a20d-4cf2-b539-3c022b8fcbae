@@ -1240,38 +1240,38 @@
 <p><strong>Hydrochloric acid</strong></p>
 
 <p>Hydrochloric acid is used industrially to clean rust from iron or steel as well as in the refining of ores. If released into the environment hydrochloric acid will lower the pH of any water it pollutes. This change in pH can seriously affect the growth of plants and damage ecosystems.</p>
-</div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p>
+</div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p>
 	      
 </p><p>Magnesium carbonate (\(\text{MgCO}_{3}\)) is dissolved in nitric acid (\(\text{HNO}_{3}\)). Give the balanced chemical equation for this reaction.</p>
 
-	    <p></p></div><div class="solution" data-class="workstep" data-type="Step">
+	    <p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><div class="title">What are the reactants?</div><p>An acid (\(\text{HNO}_{3}\)) and a metal carbonate (\(\text{MgCO}_{3}\)).</p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<p></p><p></p><div class="title">What are the reactants?</div><p>An acid (\(\text{HNO}_{3}\)) and a metal carbonate (\(\text{MgCO}_{3}\)).</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><div class="title">What will the products be?</div><p>As this is the reaction of an acid and a metal carbonate the products will be a salt, water and carbon dioxide.</p><p>nitric acid + magnesium carbonate <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><div class="title">What will the products be?</div><p>As this is the reaction of an acid and a metal carbonate the products will be a salt, water and carbon dioxide.</p><p>nitric acid + magnesium carbonate <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mo stretchy="false">→<!-- → --></mo>
-<annotation encoding="math/tex">\to</annotation></semantics></math> salt + water + carbon dioxide</p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<annotation encoding="math/tex">\to</annotation></semantics></math> salt + water + carbon dioxide</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><div class="title">What is the formula of the salt?</div><p>The cation will come from the metal carbonate (\(\text{Mg}^{2+}\)). The anion will come from the acid (\(\text{NO}_{3}^{-}\)). Due to the charges on the cation and anion there must be two \(\text{NO}_{3}^{-}\) for every one \(\text{Mg}^{2+}\).</p><p>Therefore the formula for the salt will be: \(\text{Mg}(\text{NO}_{3})_{2}\).</p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<p></p><p></p><div class="title">What is the formula of the salt?</div><p>The cation will come from the metal carbonate (\(\text{Mg}^{2+}\)). The anion will come from the acid (\(\text{NO}_{3}^{-}\)). Due to the charges on the cation and anion there must be two \(\text{NO}_{3}^{-}\) for every one \(\text{Mg}^{2+}\).</p><p>Therefore the formula for the salt will be: \(\text{Mg}(\text{NO}_{3})_{2}\).</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><div class="title">Write the equation for this reaction</div><p>\(\text{HNO}_{3}(\text{aq}) + \text{MgCO}_{3}(\text{s})\) <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><div class="title">Write the equation for this reaction</div><p>\(\text{HNO}_{3}(\text{aq}) + \text{MgCO}_{3}(\text{s})\) <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mo stretchy="false">→<!-- → --></mo>
-<annotation encoding="math/tex">\to</annotation></semantics></math> \(\text{Mg}(\text{NO}_{3})_{2}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ}) + \text{CO}_{2}(\text{g})\)</p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<annotation encoding="math/tex">\to</annotation></semantics></math> \(\text{Mg}(\text{NO}_{3})_{2}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ}) + \text{CO}_{2}(\text{g})\)</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
 
 
-<p></p><div class="title">Make sure that the equation is balanced</div><p>The equation is not balanced.</p><table><caption>Table 2</caption><tbody><tr><td></td><td><p><strong>Number on left</strong></p></td><td><p><strong>Number on right</strong></p></td></tr><tr><td><p><strong>H</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><div class="title">Make sure that the equation is balanced</div><p>The equation is not balanced.</p><table><caption>Table 2</caption><tbody><tr><td></td><td><p><strong>Number on left</strong></p></td><td><p><strong>Number on right</strong></p></td></tr><tr><td><p><strong>H</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>1</mtext>
 <annotation encoding="math/tex">\text{1}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>2</mtext>
@@ -1313,74 +1313,74 @@
   <mtext>1</mtext>
 <annotation encoding="math/tex">\text{1}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>1</mtext>
-<annotation encoding="math/tex">\text{1}</annotation></semantics></math></p></td></tr></tbody></table><p>The equation is now  balanced.</p><p></p></div></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p>
+<annotation encoding="math/tex">\text{1}</annotation></semantics></math></p></td></tr></tbody></table><p>The equation is now  balanced.</p><p></p><p></p></div></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p>
 	      
 </p><p>Hydroiodic acid (\(\text{HI}\)) is added to solid potassium hydroxide (\(\text{KOH}\)). Give the balanced chemical equation for this reaction.</p>
 
-	    <p></p></div><div class="solution" data-class="workstep" data-type="Step">
+	    <p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><div class="title">What are the reactants?</div><p>An acid (\(\text{HI}\)) and a base (\(\text{KOH}\)).</p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<p></p><p></p><div class="title">What are the reactants?</div><p>An acid (\(\text{HI}\)) and a base (\(\text{KOH}\)).</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><div class="title">What will the products be?</div><p>As this is the reaction of an acid and base (which contains a hydroxide anion) the products will be a salt and water.</p><p>hydroiodic acid + potassium hydroxide <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><div class="title">What will the products be?</div><p>As this is the reaction of an acid and base (which contains a hydroxide anion) the products will be a salt and water.</p><p>hydroiodic acid + potassium hydroxide <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mo stretchy="false">→<!-- → --></mo>
-<annotation encoding="math/tex">\to</annotation></semantics></math> salt + water</p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<annotation encoding="math/tex">\to</annotation></semantics></math> salt + water</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><div class="title">What is the formula of the salt?</div><p>The cation will come from the base (\(\text{K}^{+}\)). The anion will come from the acid (\(\text{I}^{-}\)). Due to the charges on the cation and anion there must be one \(\text{K}^{+}\) for every one \(\text{I}^{-}\).</p><p>Therefore the formula for the salt will be: \(\text{KI}\).</p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<p></p><p></p><div class="title">What is the formula of the salt?</div><p>The cation will come from the base (\(\text{K}^{+}\)). The anion will come from the acid (\(\text{I}^{-}\)). Due to the charges on the cation and anion there must be one \(\text{K}^{+}\) for every one \(\text{I}^{-}\).</p><p>Therefore the formula for the salt will be: \(\text{KI}\).</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
 
 
-<p></p><div class="title">Write the equation for this reaction</div><p>\(\text{HI}(\text{aq}) + \text{KOH}(\text{s})\) <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><div class="title">Write the equation for this reaction</div><p>\(\text{HI}(\text{aq}) + \text{KOH}(\text{s})\) <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mo stretchy="false">→<!-- → --></mo>
 <annotation encoding="math/tex">\to</annotation></semantics></math> \(\text{KI}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})\)</p><p>This can also be written:</p><p>\(\text{HI}(\text{aq}) + \text{KOH}(\text{s})\) <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mo stretchy="false">→<!-- → --></mo>
-<annotation encoding="math/tex">\to</annotation></semantics></math> \(\text{K}^{+}(\text{aq}) + \text{I}^{-}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})\)</p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<annotation encoding="math/tex">\to</annotation></semantics></math> \(\text{K}^{+}(\text{aq}) + \text{I}^{-}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})\)</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><div class="title">Make sure that the equation is balanced</div><p>The equation is balanced.</p><p></p></div></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p>
+<p></p><p></p><div class="title">Make sure that the equation is balanced</div><p>The equation is balanced.</p><p></p><p></p></div></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p>
 	      
 </p><p>Sulfuric acid (\(\text{H}_{2}\text{SO}_{4}\)) and ammonia (\(\text{NH}_{3}\)) are combined. Give the balanced chemical equation for this reaction.</p>
 
-	    <p></p></div><div class="solution" data-class="workstep" data-type="Step">
+	    <p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><div class="title">What are the reactants?</div><p>An acid (\(\text{H}_{2}\text{SO}_{4}\)) and a base (\(\text{NH}_{3}\)).</p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<p></p><p></p><div class="title">What are the reactants?</div><p>An acid (\(\text{H}_{2}\text{SO}_{4}\)) and a base (\(\text{NH}_{3}\)).</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><div class="title">What will the products be?</div><p>As this is the reaction of an acid and a base (with no hydroxide anion), there will be a salt as a product. There may or may not be another product.</p><p>sulfuric acid + ammonia <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><div class="title">What will the products be?</div><p>As this is the reaction of an acid and a base (with no hydroxide anion), there will be a salt as a product. There may or may not be another product.</p><p>sulfuric acid + ammonia <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mo stretchy="false">→<!-- → --></mo>
-<annotation encoding="math/tex">\to</annotation></semantics></math> salt (+ maybe another product)</p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<annotation encoding="math/tex">\to</annotation></semantics></math> salt (+ maybe another product)</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><div class="title">What is the formula of the salt?</div><p>The cation will come from the base (\(\text{NH}_{4}^{+}\)). The anion will come from the acid (\(\text{SO}_{4}^{2-}\)). Due to the charges on the cation and anion there must be two \(\text{NH}_{4}^{+}\) for every one \(\text{SO}_{4}^{2-}\).</p><p>Therefore the formula for the salt will be: \((\text{NH}_{4})_{2}\text{SO}_{4}\).</p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<p></p><p></p><div class="title">What is the formula of the salt?</div><p>The cation will come from the base (\(\text{NH}_{4}^{+}\)). The anion will come from the acid (\(\text{SO}_{4}^{2-}\)). Due to the charges on the cation and anion there must be two \(\text{NH}_{4}^{+}\) for every one \(\text{SO}_{4}^{2-}\).</p><p>Therefore the formula for the salt will be: \((\text{NH}_{4})_{2}\text{SO}_{4}\).</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><div class="title">Write the equation for this reaction so far</div><p>\(\text{H}_{2}\text{SO}_{4}(\text{aq}) + \text{NH}_{3}(\text{g})\) <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><div class="title">Write the equation for this reaction so far</div><p>\(\text{H}_{2}\text{SO}_{4}(\text{aq}) + \text{NH}_{3}(\text{g})\) <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mo stretchy="false">→<!-- → --></mo>
-<annotation encoding="math/tex">\to</annotation></semantics></math> \((\text{NH}_{4})_{2}\text{SO}_{4}(\text{aq})\) (+ maybe another product)</p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<annotation encoding="math/tex">\to</annotation></semantics></math> \((\text{NH}_{4})_{2}\text{SO}_{4}(\text{aq})\) (+ maybe another product)</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><div class="title">Determine if there will be another product</div><p>There are no atom types that are not accounted for on both sides of the equation, therefore it is unlikely that there will be another product. If the equation can be balanced then there is no other product.</p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
-
-
-
+<p></p><p></p><div class="title">Determine if there will be another product</div><p>There are no atom types that are not accounted for on both sides of the equation, therefore it is unlikely that there will be another product. If the equation can be balanced then there is no other product.</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
-<p></p><div class="title">Make sure that the equation is balanced</div><p>The equation is not balanced.</p><table><caption>Table 4</caption><tbody><tr><td></td><td><p><strong>Number on left</strong></p></td><td><p><strong>Number on right</strong></p></td></tr><tr><td><p><strong>H</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+
+
+
+<p></p><p></p><div class="title">Make sure that the equation is balanced</div><p>The equation is not balanced.</p><table><caption>Table 4</caption><tbody><tr><td></td><td><p><strong>Number on left</strong></p></td><td><p><strong>Number on right</strong></p></td></tr><tr><td><p><strong>H</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>5</mtext>
 <annotation encoding="math/tex">\text{5}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>8</mtext>
@@ -1414,18 +1414,18 @@
   <mtext>2</mtext>
 <annotation encoding="math/tex">\text{2}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>2</mtext>
-<annotation encoding="math/tex">\text{2}</annotation></semantics></math></p></td></tr></tbody></table><p>The equation is now balanced.</p><p></p></div></div><h1 class="title" data-class="complex-section">Exercises</h1>
+<annotation encoding="math/tex">\text{2}</annotation></semantics></math></p></td></tr></tbody></table><p>The equation is now balanced.</p><p></p><p></p></div></div><h1 class="title" data-class="complex-section">Exercises</h1>
 <div class="problemset" data-unknown="true">
 <div class="multipart" data-unknown="true">
 <div class="header" data-unknown="true">
 
 <p>Write balanced equations for these acid and metal reactions:</p>
 </div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		  
 </p><p>Hydrochloric acid and calcium</p>
 
-		<p></p></div><div class="solution">
+		<p></p><p></p></div><div class="solution">
 		  
 
 
@@ -1445,11 +1445,11 @@
 
 
 		<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		  
 </p><p>Nitric acid and magnesium</p>
 
-		<p></p></div><div class="solution">
+		<p></p><p></p></div><div class="solution">
 		  
 
 
@@ -1473,11 +1473,11 @@
 
 <p>Write balanced equations for these acid and metal hydroxide reactions:</p>
 </div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		  
 </p><p>Hydrochloric acid and magnesium hydroxide</p>
 
-		<p></p></div><div class="solution">
+		<p></p><p></p></div><div class="solution">
 		  
 
 
@@ -1497,11 +1497,11 @@
 
 
 		<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		  
 </p><p>Nitric acid and aluminium hydroxide</p>
 
-		<p></p></div><div class="solution">
+		<p></p><p></p></div><div class="solution">
 		  
 
 
@@ -1525,11 +1525,11 @@
 
 <p>Write balanced equations for these acid and metal oxide reactions:</p>
 </div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		  
 </p><p>Hydrochloric acid and aluminium oxide</p>
 
-		<p></p></div><div class="solution">
+		<p></p><p></p></div><div class="solution">
 		  
 
 
@@ -1549,11 +1549,11 @@
 
 
 		<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		  
 </p><p>Sulfuric acid and magnesium oxide</p>
 
-		<p></p></div><div class="solution">
+		<p></p><p></p></div><div class="solution">
 		  
 
 
