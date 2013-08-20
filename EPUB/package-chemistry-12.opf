@@ -12,13 +12,13 @@
 <item id="chapter-1c" href="xhtml/chemistry-12/04-Organic-molecules.section-02-03-01.html" media-type="application/xhtml+xml"/>
 <item id="chapter-1d" href="xhtml/chemistry-12/04-Organic-molecules.section-02-03-02.html" media-type="application/xhtml+xml"/>
 <item id="chapter-1e" href="xhtml/chemistry-12/04-Organic-molecules.section-02-04.html" media-type="application/xhtml+xml"/>
-
 <item id="chapter-2a" href="xhtml/chemistry-12/04-Organic-molecules.section-03-01.html" media-type="application/xhtml+xml"/>
 <item id="chapter-2b" href="xhtml/chemistry-12/04-Organic-molecules.section-03-02-01.html" media-type="application/xhtml+xml"/>
 <item id="chapter-2c" href="xhtml/chemistry-12/04-Organic-molecules.section-03-02-02.html" media-type="application/xhtml+xml"/>
 <item id="chapter-2d" href="xhtml/chemistry-12/04-Organic-molecules.section-03-03.html" media-type="application/xhtml+xml"/>
 <item id="chapter-2e" href="xhtml/chemistry-12/04-Organic-molecules.section-03-04.html" media-type="application/xhtml+xml"/>
-<item id="chapter-2f" href="xhtml/chemistry-12/04-Organic-molecules.section-03-05.html" media-type="application/xhtml+xml"/>
+<item id="chapter-2f" href="xhtml/chemistry-12/04-Organic-molecules.section-03-05-01.html" media-type="application/xhtml+xml"/>
+<item id="chapter-2f" href="xhtml/chemistry-12/04-Organic-molecules.section-03-05-02.html" media-type="application/xhtml+xml"/>
 <item id="chapter-3" href="xhtml/chemistry-12/04-Organic-molecules.section-04.html" media-type="application/xhtml+xml"/>
 <item id="chapter-4" href="xhtml/chemistry-12/04-Organic-molecules.section-05.html" media-type="application/xhtml+xml"/>
 <item id="chapter-5" href="xhtml/chemistry-12/04-Organic-molecules.section-06.html" media-type="application/xhtml+xml"/>
@@ -675,6 +675,7 @@
 <itemref idref="chapter-2d"/>
 <itemref idref="chapter-2e"/>
 <itemref idref="chapter-2f"/>
+<itemref idref="chapter-2g"/>
 <itemref idref="chapter-3"/>
 <itemref idref="chapter-4"/>
 <itemref idref="chapter-5"/>
