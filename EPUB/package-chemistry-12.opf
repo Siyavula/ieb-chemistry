@@ -9,8 +9,9 @@
 <item id="chapter-0" href="xhtml/chemistry-12/04-Organic-molecules.section-01.html" media-type="application/xhtml+xml"/>
 <item id="chapter-1a" href="xhtml/chemistry-12/04-Organic-molecules.section-02-01.html" media-type="application/xhtml+xml"/>
 <item id="chapter-1b" href="xhtml/chemistry-12/04-Organic-molecules.section-02-02.html" media-type="application/xhtml+xml"/>
-<item id="chapter-1c" href="xhtml/chemistry-12/04-Organic-molecules.section-02-03.html" media-type="application/xhtml+xml"/>
-<item id="chapter-1d" href="xhtml/chemistry-12/04-Organic-molecules.section-02-04.html" media-type="application/xhtml+xml"/>
+<item id="chapter-1c" href="xhtml/chemistry-12/04-Organic-molecules.section-02-03-01.html" media-type="application/xhtml+xml"/>
+<item id="chapter-1d" href="xhtml/chemistry-12/04-Organic-molecules.section-02-03-02.html" media-type="application/xhtml+xml"/>
+<item id="chapter-1e" href="xhtml/chemistry-12/04-Organic-molecules.section-02-04.html" media-type="application/xhtml+xml"/>
 
 <item id="chapter-2a" href="xhtml/chemistry-12/04-Organic-molecules.section-03-01.html" media-type="application/xhtml+xml"/>
 <item id="chapter-2b" href="xhtml/chemistry-12/04-Organic-molecules.section-03-02.html" media-type="application/xhtml+xml"/>
@@ -666,6 +667,7 @@
 <itemref idref="chapter-1b"/>
 <itemref idref="chapter-1c"/>
 <itemref idref="chapter-1d"/>
+<itemref idref="chapter-1e"/>
 <itemref idref="chapter-2a"/>
 <itemref idref="chapter-2b"/>
 <itemref idref="chapter-2c"/>
