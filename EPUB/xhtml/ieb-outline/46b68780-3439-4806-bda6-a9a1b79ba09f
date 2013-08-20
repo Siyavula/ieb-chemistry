@@ -326,6 +326,7 @@
       <mo stretchy="false">)</mo>
     </mrow>
   </msub>
+  <mtext>+(aq)</mtext>
   <mo stretchy="false">→<!-- → --></mo>
   <msubsup>
     <mtext>2Na</mtext>
@@ -353,7 +354,13 @@
       <mo>−<!-- − --></mo>
     </mrow>
   </msubsup>
-</mrow><annotation encoding="math/tex">\text{Na}_{2}\text{CO}_{3(s)}\to\text{2Na}^{+}_{(aq)}\text{+  CO}_{3(aq)}^{2-}</annotation></semantics></math></p></li><li><p>The Kc value for a reversible chemical reaction at equilibrium is given by&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+</mrow><annotation encoding="math/tex">\text{Na}_{2}\text{CO}_{3(s)}\text{+(aq)}\to\text{2Na}^{+}_{(aq)}\text{+  CO}_{3(aq)}^{2-}</annotation></semantics></math></p></li><li><p>The Kc value for the general reversible chemical reaction &nbsp; &nbsp;&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext>aA</mtext>
+  <mtext>+ bB</mtext>
+  <mo stretchy="false">→<!-- → --></mo>
+  <mtext>cC</mtext>
+  <mtext>&nbsp;+ &nbsp;dD</mtext>
+</mrow><annotation encoding="math/tex">\text{aA}\text{+ bB}\to\text{cC}\text{  + &nbsp;dD}</annotation></semantics></math></p><p>at equilibrium is given by&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <msub>
     <mtext>K</mtext>
     <mrow class="MJX-TeXAtom-ORD">
