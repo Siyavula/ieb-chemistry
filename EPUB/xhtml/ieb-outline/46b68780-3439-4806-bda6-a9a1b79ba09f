@@ -310,22 +310,92 @@
 
 	    </li>
 </ul></div><h2>Revision</h2>
-<div class="teachers-guide" data-unknown="true"><ul data-class="ListBulleted"><li><p>When a salt dissolves Define acid and bases in terms of the Lowry-Brønsted model (<em>An acid is defined as a proton donor. A base is defined as a proton acceptor</em>.</p></li><li><p>The Kc value for a reversible chemical reaction at equilibrium is given by&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+<div class="teachers-guide" data-unknown="true"><ul data-class="ListBulleted"><li><p>When a salt dissolves it changes from a solid to aqueous ions. &nbsp;An example of how to represent the dissolution of a salt is shown below:</p><p style=""> <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <msub>
+    <mtext>Na</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mn>2</mn>
+    </mrow>
+  </msub>
+  <msub>
+    <mtext>CO</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mn>3</mn>
+      <mo stretchy="false">(</mo>
+      <mi>s</mi>
+      <mo stretchy="false">)</mo>
+    </mrow>
+  </msub>
+  <mo stretchy="false">→<!-- → --></mo>
+  <msubsup>
+    <mtext>2Na</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mo stretchy="false">(</mo>
+      <mi>a</mi>
+      <mi>q</mi>
+      <mo stretchy="false">)</mo>
+    </mrow>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mo>+</mo>
+    </mrow>
+  </msubsup>
+  <msubsup>
+    <mtext>+  CO</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mn>3</mn>
+      <mo stretchy="false">(</mo>
+      <mi>a</mi>
+      <mi>q</mi>
+      <mo stretchy="false">)</mo>
+    </mrow>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mn>2</mn>
+      <mo>−<!-- − --></mo>
+    </mrow>
+  </msubsup>
+</mrow><annotation encoding="math/tex">\text{Na}_{2}\text{CO}_{3(s)}\to\text{2Na}^{+}_{(aq)}\text{+  CO}_{3(aq)}^{2-}</annotation></semantics></math></p></li><li><p>The Kc value for a reversible chemical reaction at equilibrium is given by&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <msub>
     <mtext>K</mtext>
     <mrow class="MJX-TeXAtom-ORD">
-      <mi>c</mi>
+      <mtext>c</mtext>
     </mrow>
   </msub>
-  <msub>
-    <mtext>=</mtext>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mn>3</mn>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msup>
+        <mtext>[C]</mtext>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi>c</mi>
+        </mrow>
+      </msup>
+      <msup>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>[D]</mtext>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi>d</mi>
+        </mrow>
+      </msup>
     </mrow>
-  </msub>
-</mrow><annotation encoding="math/tex">\text{K}_{c}\text{=}_{3}</annotation></semantics></math></p><p>Name and write the formula of the following common strong acids (e.g. <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
-  <mtext>HCl</mtext>
-<annotation encoding="math/tex">\text{HCl}</annotation></semantics></math> - hydrochloric acid, <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+    <mrow>
+      <msup>
+        <mtext>[A]</mtext>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi>a</mi>
+        </mrow>
+      </msup>
+      <msup>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>[B]</mtext>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi>b</mi>
+        </mrow>
+      </msup>
+    </mrow>
+  </mfrac>
+</mrow><annotation encoding="math/tex">\text{K}_{\text{c}}=\frac{\text{[C]}^{c}{\text{[D]}}^{d}}{\text{[A]}^{a}{\text{[B]}}^{b}}</annotation></semantics></math></p><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <msub>
     <mtext>H</mtext>
     <mrow class="MJX-TeXAtom-ORD">
@@ -338,48 +408,5 @@
       <mn>4</mn>
     </mrow>
   </msub>
-</mrow><annotation encoding="math/tex">\text{H}_{2}\text{SO}_{4}</annotation></semantics></math> - sulphuric acid and <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
-  <msub>
-    <mtext>HNO</mtext>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mn>3</mn>
-    </mrow>
-  </msub>
-<annotation encoding="math/tex">\text{HNO}_{3}</annotation></semantics></math> - nitric acid) and the folowing weak acids (e.g. <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
-  <mtext>HF</mtext>
-<annotation encoding="math/tex">\text{HF}</annotation></semantics></math> - hydrofluoric acid, <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
-  <msub>
-    <mtext>H</mtext>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mn>3</mn>
-    </mrow>
-  </msub>
-  <msub>
-    <mtext>PO</mtext>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mn>4</mn>
-    </mrow>
-  </msub>
-</mrow><annotation encoding="math/tex">\text{H}_{3}\text{PO}_{4}</annotation></semantics></math> - phosphoric acid,<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
-  <msub>
-    <mtext>H</mtext>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mn>2</mn>
-    </mrow>
-  </msub>
-  <msub>
-    <mtext>SO</mtext>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mn>3</mn>
-    </mrow>
-  </msub>
-</mrow><annotation encoding="math/tex">\text{H}_{2}\text{SO}_{3}</annotation></semantics></math> sulphurous acid and <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
-  <msub>
-    <mtext>CH</mtext>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mn>3</mn>
-    </mrow>
-  </msub>
-  <mtext>COOH</mtext>
-</mrow><annotation encoding="math/tex">\text{CH}_{3}\text{COOH}</annotation></semantics></math> - ethanoic acid.</p></li><li><p>Name and write the formula of some common strong bases (group 1 hydroxides) and weak bases (ammonia solution and carbonates).</p></li><li><p>Write the reaction equations, with double arrows to show reversibility, for ionisation of any known or given acids dissolving in water.</p></li><li><p>Write the reaction equations, with double arrows to show reversibility, for dissociation of any known or given bases dissolving in water.</p></li><li><p>Define a strong acid as <em>an acid that ionises almost completely in an aqueous solution</em>.</p></li><li></li></ul></div></body>
+</mrow><annotation encoding="math/tex">\text{H}_{2}\text{SO}_{4}</annotation></semantics></math></p></li><li><p>Name and write the formula of some common strong bases (group 1 hydroxides) and weak bases (ammonia solution and carbonates).</p></li><li><p>Write the reaction equations, with double arrows to show reversibility, for ionisation of any known or given acids dissolving in water.</p></li><li><p>Write the reaction equations, with double arrows to show reversibility, for dissociation of any known or given bases dissolving in water.</p></li><li><p>Define a strong acid as <em>an acid that ionises almost completely in an aqueous solution</em>.</p></li><li></li></ul></div></body>
 </html>
