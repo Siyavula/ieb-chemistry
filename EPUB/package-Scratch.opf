@@ -9,7 +9,7 @@
 <item id="chapter-0" href="xhtml/Scratch/Kathis-file.html" media-type="application/xhtml+xml"/>
 <item id="chapter-1" href="xhtml/Scratch/kathi-file-2.html" media-type="application/xhtml+xml"/>
 <item id="nav" href="xhtml/Scratch/Scratch.nav.html" media-type="application/xhtml+xml" properties="nav"/>
-<item href="xhtml/chemistry-12/bc561ff6-a20d-4cf2-b539-3c022b8fcbae" id="xhtml/chemistry-12/bc561ff6-a20d-4cf2-b539-3c022b8fcbae" media-type="application/xhtml+xml"/><item href="xhtml/ieb-outline/46b68780-3439-4806-bda6-a9a1b79ba09f" id="xhtml/ieb-outline/46b68780-3439-4806-bda6-a9a1b79ba09f" media-type="application/xhtml+xml"/></manifest><spine>
+<item href="xhtml/chemistry-12/bc561ff6-a20d-4cf2-b539-3c022b8fcbae" id="xhtml/chemistry-12/bc561ff6-a20d-4cf2-b539-3c022b8fcbae" media-type="application/xhtml+xml"/><item href="xhtml/ieb-outline/46b68780-3439-4806-bda6-a9a1b79ba09f" id="xhtml/ieb-outline/46b68780-3439-4806-bda6-a9a1b79ba09f" media-type="application/xhtml+xml"/><item href="xhtml/chemistry-11/3f8df886-23b5-4ba3-babc-588022b45fb1" id="xhtml/chemistry-11/3f8df886-23b5-4ba3-babc-588022b45fb1" media-type="application/xhtml+xml"/></manifest><spine>
 <itemref idref="chapter-0"/>
 <itemref idref="chapter-1"/>
 </spine></package>
