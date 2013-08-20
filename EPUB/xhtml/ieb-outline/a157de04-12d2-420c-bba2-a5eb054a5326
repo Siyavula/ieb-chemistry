@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+  <head><title>01 QuantitativeChemistry</title></head>
+  <body><h1>Quantitative chemistry</h1><h2>Objectives</h2><p><br></p>
+<h3>Balanced chemical equations</h3>
+<div class="teachers-guide" data-unknown="true"><ul data-class="ListBulleted"><li><p>Know the name and formula of the following polyatomic ions: ammonium, chlorate, ethanoate, hydroxide, nitrate, nitrite, permanganate, hydrogen carbonate, hydrogen sulphate, carbonate, dichromate, sulphate, sulphite, phosphate.</p></li><li><p>Write chemical formulae using the periodic table and knowledge of polyatomic ions.</p></li><li><p>Represent chemical changes using balanced reaction equations i.e.	translate word equations into chemical equations with formulae, using subscripts to represent phases (s), (l), (g) and (aq).</p></li><li><p>Balance reaction equations by inspection.</p></li><li><p>Interpret balanced reaction equations in terms of:</p><ul data-class="ListBulleted"><li><p>conservation of atoms</p></li><li><p>conservation of mass (use relative atomic masses)</p></li></ul></li></ul></div><h3>The mole concept</h3>
+<div class="teachers-guide" data-unknown="true">
+<p>The conservation of atoms in chemical reactions leads to the principle of conservation of matter and the ability to calculate the mass of products and reactants.</p>
+<ul data-class="ListBulleted"><li><p>Describe the mole as the SI unit for amount of substance.</p></li><li><p>Relate amount of substance to relative atomic mass.</p></li><li><p>State that one mole contains Avogadro's number of particles (<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <msub>
+    <mtext>N</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mtext>A</mtext>
+    </mrow>
+  </msub>
+<annotation encoding="math/tex">\text{N}_{\text{A}}</annotation></semantics></math> = <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext>6,02</mtext>
+  <mo>×<!-- × --></mo>
+  <msup>
+    <mtext>10</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mtext>23</mtext>
+    </mrow>
+  </msup>
+</mrow><annotation encoding="math/tex">\text{6,02} \times \text{10}^{\text{23}}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>mol^{-1}</mtext>
+<annotation encoding="math/tex">\text{mol^{-1}}</annotation></semantics></math>).</p></li><li><p>Define molar mass as <em>as the mass in grams of one mole of that substance</em>.</p></li><li><p>Calculate the molar mass of a substance given its formula.</p></li><li><p>Solve problems using the equation: <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext>n</mtext>
+  <mo>=</mo>
+  <mstyle displaystyle="true">
+    <mfrac>
+      <mtext>m</mtext>
+      <mtext>M</mtext>
+    </mfrac>
+  </mstyle>
+</mrow><annotation encoding="math/tex">\text{n}=\dfrac{\text{m}}{\text{M}}</annotation></semantics></math></p><p>Where <em>n</em> = number of moles, <em>m</em> = mass of substance, and <em>M</em> = molar mass.</p></li></ul></div><h3>Molar volume of gases</h3>
+<div class="teachers-guide" data-unknown="true"><ul data-class="ListBulleted"><li><p>Know and use the fact that <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>1</mtext>
+<annotation encoding="math/tex">\text{1}</annotation></semantics></math> mole of gas occupies <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>22,4</mtext>
+<annotation encoding="math/tex">\text{22,4}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>dm^{3}</mtext>
+<annotation encoding="math/tex">\text{dm^{3}}</annotation></semantics></math> at <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>0</mtext>
+<annotation encoding="math/tex">\text{0}</annotation></semantics></math><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>°C</mtext>
+<annotation encoding="math/tex">\text{°C}</annotation></semantics></math> (<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>273</mtext>
+<annotation encoding="math/tex">\text{273}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>K</mtext>
+<annotation encoding="math/tex">\text{K}</annotation></semantics></math>) and at <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>1</mtext>
+<annotation encoding="math/tex">\text{1}</annotation></semantics></math> atmosphere (<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>101,3</mtext>
+<annotation encoding="math/tex">\text{101,3}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>kPa</mtext>
+<annotation encoding="math/tex">\text{kPa}</annotation></semantics></math>).</p></li><li><p>Solve problems using <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext>V</mtext>
+  <mo>=</mo>
+  <msub>
+    <mtext>nV</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mtext>m</mtext>
+    </mrow>
+  </msub>
+</mrow><annotation encoding="math/tex">\text{V} = \text{nV}_{\text{m}}</annotation></semantics></math> where <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <msub>
+    <mtext>V</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mtext>m</mtext>
+    </mrow>
+  </msub>
+<annotation encoding="math/tex">\text{V}_{\text{m}}</annotation></semantics></math> = <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>22,4</mtext>
+<annotation encoding="math/tex">\text{22,4}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>dm^{3}</mtext>
+<annotation encoding="math/tex">\text{dm^{3}}</annotation></semantics></math> is the molar volume.</p></li></ul></div><h3>Concentration of solutions</h3>
+<div class="teachers-guide" data-unknown="true"><ul data-class="ListBulleted"><li><p>Define solute as <em>the substance that is dissolved in the solution</em>.</p></li><li><p>Define solvent as <em>the substance in which another substance is dissolved, forming a solution</em>.</p></li><li><p>Identify the solute and/or solvent for a particular solution.</p></li><li><p>Define concentration as <em>as the number of moles of solute per unit volume of solution</em>.</p></li><li><p>Calculate molar concentration of a solution using the equation <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext>C</mtext>
+  <mo>=</mo>
+  <mstyle displaystyle="true">
+    <mfrac>
+      <mtext>n</mtext>
+      <mtext>V</mtext>
+    </mfrac>
+  </mstyle>
+</mrow><annotation encoding="math/tex">\text{C} = \dfrac{\text{n}}{\text{V}}</annotation></semantics></math></p></li><li><p>Define a standard solution as <em>as a solution of known concentration</em>.</p></li><li><p>Describe quantitatively and qualitatively how to make up a standard solution.</p></li></ul></div><h2>Stoichiometric calculations</h2>
+<div class="teachers-guide" data-unknown="true"><ul data-class="ListBulleted"><li><p>Perform stoichiometric calculations using balanced equations (may include limiting reagents).</p></li><li><p>Perform stoichiometric calculations to determine the percentage yield of a chemical reaction.</p></li></ul></div></body>
+</html>
