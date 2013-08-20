@@ -310,14 +310,20 @@
 
 	    </li>
 </ul></div><h2>Revision</h2>
-<div class="teachers-guide" data-unknown="true"><ul data-class="ListBulleted"><li>
-	      
-<p>When a salt dissolves Define acid and bases in terms of the Lowry-Brønsted model (<em>An acid is defined as a proton donor. A base is defined as a proton acceptor</em>.</p>
-
-	    </li>
-<li>
-	      
-<p>Name and write the formula of the following common strong acids (e.g. <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<div class="teachers-guide" data-unknown="true"><ul data-class="ListBulleted"><li><p>When a salt dissolves Define acid and bases in terms of the Lowry-Brønsted model (<em>An acid is defined as a proton donor. A base is defined as a proton acceptor</em>.</p></li><li><p>The Kc value for a reversible chemical reaction at equilibrium is given by&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <msub>
+    <mtext>K</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mi>c</mi>
+    </mrow>
+  </msub>
+  <msub>
+    <mtext>=</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mn>3</mn>
+    </mrow>
+  </msub>
+</mrow><annotation encoding="math/tex">\text{K}_{c}\text{=}_{3}</annotation></semantics></math></p><p>Name and write the formula of the following common strong acids (e.g. <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>HCl</mtext>
 <annotation encoding="math/tex">\text{HCl}</annotation></semantics></math> - hydrochloric acid, <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <msub>
@@ -375,28 +381,5 @@
     </mrow>
   </msub>
   <mtext>COOH</mtext>
-</mrow><annotation encoding="math/tex">\text{CH}_{3}\text{COOH}</annotation></semantics></math> - ethanoic acid.</p>
-
-	    </li>
-<li>
-	      
-<p>Name and write the formula of some common strong bases (group 1 hydroxides) and weak bases (ammonia solution and carbonates).</p>
-
-	    </li>
-<li>
-	      
-<p>Write the reaction equations, with double arrows to show reversibility, for ionisation of any known or given acids dissolving in water.</p>
-
-	    </li>
-<li>
-	      
-<p>Write the reaction equations, with double arrows to show reversibility, for dissociation of any known or given bases dissolving in water.</p>
-
-	    </li>
-<li>
-	      
-<p>Define a strong acid as <em>an acid that ionises almost completely in an aqueous solution</em>.</p></li><li>
-
-	    </li>
-</ul></div></body>
+</mrow><annotation encoding="math/tex">\text{CH}_{3}\text{COOH}</annotation></semantics></math> - ethanoic acid.</p></li><li><p>Name and write the formula of some common strong bases (group 1 hydroxides) and weak bases (ammonia solution and carbonates).</p></li><li><p>Write the reaction equations, with double arrows to show reversibility, for ionisation of any known or given acids dissolving in water.</p></li><li><p>Write the reaction equations, with double arrows to show reversibility, for dissociation of any known or given bases dissolving in water.</p></li><li><p>Define a strong acid as <em>an acid that ionises almost completely in an aqueous solution</em>.</p></li><li></li></ul></div></body>
 </html>
