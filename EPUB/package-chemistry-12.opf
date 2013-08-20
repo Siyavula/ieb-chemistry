@@ -37,13 +37,22 @@
 <item id="chapter-20" href="xhtml/chemistry-12/09-Acids-and-bases.section-04.html" media-type="application/xhtml+xml"/>
 <item id="chapter-21" href="xhtml/chemistry-12/09-Acids-and-bases.section-05.html" media-type="application/xhtml+xml"/>
 <item id="chapter-22" href="xhtml/chemistry-12/09-Acids-and-bases.section-06.html" media-type="application/xhtml+xml"/>
-<item id="chapter-23" href="xhtml/chemistry-12/14-The-chemical-industry.section-01.html" media-type="application/xhtml+xml"/>
-<item id="chapter-24" href="xhtml/chemistry-12/14-The-chemical-industry.section-02.html" media-type="application/xhtml+xml"/>
-<item id="chapter-25" href="xhtml/chemistry-12/14-The-chemical-industry.section-03.html" media-type="application/xhtml+xml"/>
-<item id="chapter-26" href="xhtml/chemistry-12/14-The-chemical-industry.section-04.html" media-type="application/xhtml+xml"/>
-<item id="chapter-27" href="xhtml/chemistry-12/14-The-chemical-industry.section-05.html" media-type="application/xhtml+xml"/>
-<item id="chapter-28" href="xhtml/chemistry-12/14-The-chemical-industry.section-06.html" media-type="application/xhtml+xml"/>
-<item id="chapter-29" href="xhtml/chemistry-12/14-The-chemical-industry.section-07.html" media-type="application/xhtml+xml"/>
+
+<item id="chapter-23" href="xhtml/chemistry-12/13-Electrochemical-reactions.section-01.html" media-type="application/xhtml+xml"/>
+<item id="chapter-24" href="xhtml/chemistry-12/13-Electrochemical-reactions.section-02.html" media-type="application/xhtml+xml"/>
+<item id="chapter-25" href="xhtml/chemistry-12/13-Electrochemical-reactions.section-03.html" media-type="application/xhtml+xml"/>
+<item id="chapter-26" href="xhtml/chemistry-12/13-Electrochemical-reactions.section-04.html" media-type="application/xhtml+xml"/>
+<item id="chapter-27" href="xhtml/chemistry-12/13-Electrochemical-reactions.section-05.html" media-type="application/xhtml+xml"/>
+<item id="chapter-28" href="xhtml/chemistry-12/13-Electrochemical-reactions.section-06.html" media-type="application/xhtml+xml"/>
+<item id="chapter-29" href="xhtml/chemistry-12/13-Electrochemical-reactions.section-07.html" media-type="application/xhtml+xml"/>
+
+<item id="chapter-30" href="xhtml/chemistry-12/14-The-chemical-industry.section-01.html" media-type="application/xhtml+xml"/>
+<item id="chapter-31" href="xhtml/chemistry-12/14-The-chemical-industry.section-02.html" media-type="application/xhtml+xml"/>
+<item id="chapter-32" href="xhtml/chemistry-12/14-The-chemical-industry.section-03.html" media-type="application/xhtml+xml"/>
+<item id="chapter-33" href="xhtml/chemistry-12/14-The-chemical-industry.section-04.html" media-type="application/xhtml+xml"/>
+<item id="chapter-34" href="xhtml/chemistry-12/14-The-chemical-industry.section-05.html" media-type="application/xhtml+xml"/>
+<item id="chapter-35" href="xhtml/chemistry-12/14-The-chemical-industry.section-06.html" media-type="application/xhtml+xml"/>
+<item id="chapter-36" href="xhtml/chemistry-12/14-The-chemical-industry.section-07.html" media-type="application/xhtml+xml"/>
 <item id="nav" href="xhtml/chemistry-12/chemistry-12.nav.html" media-type="application/xhtml+xml" properties="nav"/>
 <item id="neworganic.jpg" href="xhtml/chemistry-12/photos/neworganic.jpg" media-type="image/jpeg"/>
 <item id="06e1ad35a3e05f1be5bfc70698372516.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/06e1ad35a3e05f1be5bfc70698372516.png" media-type="image/png"/>
@@ -690,4 +699,11 @@
 <itemref idref="chapter-27"/>
 <itemref idref="chapter-28"/>
 <itemref idref="chapter-29"/>
+<itemref idref="chapter-30"/>
+<itemref idref="chapter-31"/>
+<itemref idref="chapter-32"/>
+<itemref idref="chapter-33"/>
+<itemref idref="chapter-34"/>
+<itemref idref="chapter-35"/>
+<itemref idref="chapter-36"/>
 </spine></package>
