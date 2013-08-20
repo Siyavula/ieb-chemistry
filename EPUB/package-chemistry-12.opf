@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifer="uid">
 <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
           <dc:identifier id="uid">siyavula.com.dummy-book-repo.1.0</dc:identifier>
-          <dc:title>Siyavula Education: chemistry-12</dc:title>
+          <dc:title>Chemistry Gr 12</dc:title>
           <dc:creator>Siyavula Education</dc:creator>
           <dc:language>en</dc:language>
-          <meta property="dcterms:modified">Tue Aug 20 12:15:02 2013 GMT</meta>
+          <meta property="dcterms:modified">Mon Aug 19 16:26:32 2013 GMT</meta>
        </metadata><manifest>
 <item id="chapter-0" href="xhtml/chemistry-12/04-Organic-molecules.section-01.html" media-type="application/xhtml+xml"/>
-<item id="chapter-1" href="xhtml/chemistry-12/04-Organic-molecules.section-02.html" media-type="application/xhtml+xml"/>
-<item id="chapter-2" href="xhtml/chemistry-12/04-Organic-molecules.section-03.html" media-type="application/xhtml+xml"/>
+<item id="chapter-1a" href="xhtml/chemistry-12/04-Organic-molecules.section-02-01.html" media-type="application/xhtml+xml"/>
+<item id="chapter-1b" href="xhtml/chemistry-12/04-Organic-molecules.section-02-02.html" media-type="application/xhtml+xml"/>
+<item id="chapter-1c" href="xhtml/chemistry-12/04-Organic-molecules.section-02-03.html" media-type="application/xhtml+xml"/>
+<item id="chapter-1d" href="xhtml/chemistry-12/04-Organic-molecules.section-02-04.html" media-type="application/xhtml+xml"/>
+
+<item id="chapter-2a" href="xhtml/chemistry-12/04-Organic-molecules.section-03-01.html" media-type="application/xhtml+xml"/>
+<item id="chapter-2b" href="xhtml/chemistry-12/04-Organic-molecules.section-03-02.html" media-type="application/xhtml+xml"/>
+<item id="chapter-2c" href="xhtml/chemistry-12/04-Organic-molecules.section-03-03.html" media-type="application/xhtml+xml"/>
+<item id="chapter-2d" href="xhtml/chemistry-12/04-Organic-molecules.section-03-04.html" media-type="application/xhtml+xml"/>
+<item id="chapter-2e" href="xhtml/chemistry-12/04-Organic-molecules.section-03-05.html" media-type="application/xhtml+xml"/>
 <item id="chapter-3" href="xhtml/chemistry-12/04-Organic-molecules.section-04.html" media-type="application/xhtml+xml"/>
 <item id="chapter-4" href="xhtml/chemistry-12/04-Organic-molecules.section-05.html" media-type="application/xhtml+xml"/>
 <item id="chapter-5" href="xhtml/chemistry-12/04-Organic-molecules.section-06.html" media-type="application/xhtml+xml"/>
@@ -23,30 +31,19 @@
 <item id="chapter-14" href="xhtml/chemistry-12/08-Chemical-equilibrium.section-02.html" media-type="application/xhtml+xml"/>
 <item id="chapter-15" href="xhtml/chemistry-12/08-Chemical-equilibrium.section-03.html" media-type="application/xhtml+xml"/>
 <item id="chapter-16" href="xhtml/chemistry-12/08-Chemical-equilibrium.section-04.html" media-type="application/xhtml+xml"/>
-<item id="chapter-17" href="xhtml/chemistry-12/08-Chemiese-ewewig.section-01.html" media-type="application/xhtml+xml"/>
-<item id="chapter-18" href="xhtml/chemistry-12/08-Chemiese-ewewig.section-02.html" media-type="application/xhtml+xml"/>
-<item id="chapter-19" href="xhtml/chemistry-12/08-Chemiese-ewewig.section-03.html" media-type="application/xhtml+xml"/>
-<item id="chapter-20" href="xhtml/chemistry-12/08-Chemiese-ewewig.section-04.html" media-type="application/xhtml+xml"/>
-<item id="chapter-21" href="xhtml/chemistry-12/09-Acids-and-bases.section-01.html" media-type="application/xhtml+xml"/>
-<item id="chapter-22" href="xhtml/chemistry-12/09-Acids-and-bases.section-02.html" media-type="application/xhtml+xml"/>
-<item id="chapter-23" href="xhtml/chemistry-12/09-Acids-and-bases.section-03.html" media-type="application/xhtml+xml"/>
-<item id="chapter-24" href="xhtml/chemistry-12/09-Acids-and-bases.section-04.html" media-type="application/xhtml+xml"/>
-<item id="chapter-25" href="xhtml/chemistry-12/09-Acids-and-bases.section-05.html" media-type="application/xhtml+xml"/>
-<item id="chapter-26" href="xhtml/chemistry-12/09-Acids-and-bases.section-06.html" media-type="application/xhtml+xml"/>
-<item id="chapter-27" href="xhtml/chemistry-12/13-Electrochemical-reactions.section-01.html" media-type="application/xhtml+xml"/>
-<item id="chapter-28" href="xhtml/chemistry-12/13-Electrochemical-reactions.section-02.html" media-type="application/xhtml+xml"/>
-<item id="chapter-29" href="xhtml/chemistry-12/13-Electrochemical-reactions.section-03.html" media-type="application/xhtml+xml"/>
-<item id="chapter-30" href="xhtml/chemistry-12/13-Electrochemical-reactions.section-04.html" media-type="application/xhtml+xml"/>
-<item id="chapter-31" href="xhtml/chemistry-12/13-Electrochemical-reactions.section-05.html" media-type="application/xhtml+xml"/>
-<item id="chapter-32" href="xhtml/chemistry-12/13-Electrochemical-reactions.section-06.html" media-type="application/xhtml+xml"/>
-<item id="chapter-33" href="xhtml/chemistry-12/13-Electrochemical-reactions.section-07.html" media-type="application/xhtml+xml"/>
-<item id="chapter-34" href="xhtml/chemistry-12/14-The-chemical-industry.section-01.html" media-type="application/xhtml+xml"/>
-<item id="chapter-35" href="xhtml/chemistry-12/14-The-chemical-industry.section-02.html" media-type="application/xhtml+xml"/>
-<item id="chapter-36" href="xhtml/chemistry-12/14-The-chemical-industry.section-03.html" media-type="application/xhtml+xml"/>
-<item id="chapter-37" href="xhtml/chemistry-12/14-The-chemical-industry.section-04.html" media-type="application/xhtml+xml"/>
-<item id="chapter-38" href="xhtml/chemistry-12/14-The-chemical-industry.section-05.html" media-type="application/xhtml+xml"/>
-<item id="chapter-39" href="xhtml/chemistry-12/14-The-chemical-industry.section-06.html" media-type="application/xhtml+xml"/>
-<item id="chapter-40" href="xhtml/chemistry-12/14-The-chemical-industry.section-07.html" media-type="application/xhtml+xml"/>
+<item id="chapter-17" href="xhtml/chemistry-12/09-Acids-and-bases.section-01.html" media-type="application/xhtml+xml"/>
+<item id="chapter-18" href="xhtml/chemistry-12/09-Acids-and-bases.section-02.html" media-type="application/xhtml+xml"/>
+<item id="chapter-19" href="xhtml/chemistry-12/09-Acids-and-bases.section-03.html" media-type="application/xhtml+xml"/>
+<item id="chapter-20" href="xhtml/chemistry-12/09-Acids-and-bases.section-04.html" media-type="application/xhtml+xml"/>
+<item id="chapter-21" href="xhtml/chemistry-12/09-Acids-and-bases.section-05.html" media-type="application/xhtml+xml"/>
+<item id="chapter-22" href="xhtml/chemistry-12/09-Acids-and-bases.section-06.html" media-type="application/xhtml+xml"/>
+<item id="chapter-23" href="xhtml/chemistry-12/14-The-chemical-industry.section-01.html" media-type="application/xhtml+xml"/>
+<item id="chapter-24" href="xhtml/chemistry-12/14-The-chemical-industry.section-02.html" media-type="application/xhtml+xml"/>
+<item id="chapter-25" href="xhtml/chemistry-12/14-The-chemical-industry.section-03.html" media-type="application/xhtml+xml"/>
+<item id="chapter-26" href="xhtml/chemistry-12/14-The-chemical-industry.section-04.html" media-type="application/xhtml+xml"/>
+<item id="chapter-27" href="xhtml/chemistry-12/14-The-chemical-industry.section-05.html" media-type="application/xhtml+xml"/>
+<item id="chapter-28" href="xhtml/chemistry-12/14-The-chemical-industry.section-06.html" media-type="application/xhtml+xml"/>
+<item id="chapter-29" href="xhtml/chemistry-12/14-The-chemical-industry.section-07.html" media-type="application/xhtml+xml"/>
 <item id="nav" href="xhtml/chemistry-12/chemistry-12.nav.html" media-type="application/xhtml+xml" properties="nav"/>
 <item id="neworganic.jpg" href="xhtml/chemistry-12/photos/neworganic.jpg" media-type="image/jpeg"/>
 <item id="06e1ad35a3e05f1be5bfc70698372516.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/06e1ad35a3e05f1be5bfc70698372516.png" media-type="image/png"/>
@@ -576,29 +573,6 @@
 <item id="78e02aca710aabc70b71173d950ec9a8.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/78e02aca710aabc70b71173d950ec9a8.png" media-type="image/png"/>
 <item id="b441854c779278866cc43db219dd98b4.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/b441854c779278866cc43db219dd98b4.png" media-type="image/png"/>
 <item id="3b33f0d4fafa54876792ed56e1cfc88a.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/3b33f0d4fafa54876792ed56e1cfc88a.png" media-type="image/png"/>
-<item id="hemoglobin.png" href="xhtml/chemistry-12/photos/hemoglobin.png" media-type="image/png"/>
-<item id="ef7be9f159dd0435a4ce44672abcbf2d.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/ef7be9f159dd0435a4ce44672abcbf2d.png" media-type="image/png"/>
-<item id="condensation.jpg" href="xhtml/chemistry-12/photos/condensation.jpg" media-type="image/jpeg"/>
-<item id="a9f0d7d1f1c681694aa91c423aac8528.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/a9f0d7d1f1c681694aa91c423aac8528.png" media-type="image/png"/>
-<item id="Lechatelier.jpg" href="xhtml/chemistry-12/photos/Lechatelier.jpg" media-type="image/jpeg"/>
-<item id="cobaltexp.jpg" href="xhtml/chemistry-12/photos/cobaltexp.jpg" media-type="image/jpeg"/>
-<item id="76077fbc630b44164944dec819bd878c.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/76077fbc630b44164944dec819bd878c.png" media-type="image/png"/>
-<item id="44cf1731fd60e4b9e8825d77dffc53fa.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/44cf1731fd60e4b9e8825d77dffc53fa.png" media-type="image/png"/>
-<item id="526494ffbf8fcd1bbb64d55647484a70.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/526494ffbf8fcd1bbb64d55647484a70.png" media-type="image/png"/>
-<item id="0cac7dda5e8db7deeca7f1ac70cc7af0.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/0cac7dda5e8db7deeca7f1ac70cc7af0.png" media-type="image/png"/>
-<item id="7f16cebb4faf4c8acabb51f608562219.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/7f16cebb4faf4c8acabb51f608562219.png" media-type="image/png"/>
-<item id="764b1c1dce0bfcba7f7ced47ae70771c.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/764b1c1dce0bfcba7f7ced47ae70771c.png" media-type="image/png"/>
-<item id="e1e80a85b7f13aec4c21f59575faa12d.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/e1e80a85b7f13aec4c21f59575faa12d.png" media-type="image/png"/>
-<item id="35088d286739a44b07f8fa0585a7c50b.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/35088d286739a44b07f8fa0585a7c50b.png" media-type="image/png"/>
-<item id="43592ade8afb664b06dfc0b804998e8a.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/43592ade8afb664b06dfc0b804998e8a.png" media-type="image/png"/>
-<item id="244de91b842a88a07df043128d6c7268.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/244de91b842a88a07df043128d6c7268.png" media-type="image/png"/>
-<item id="80399814929e77446055de3d3485a0ba.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/80399814929e77446055de3d3485a0ba.png" media-type="image/png"/>
-<item id="12e11c9ee4a1233595b685603fff7036.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/12e11c9ee4a1233595b685603fff7036.png" media-type="image/png"/>
-<item id="3da2e30357e1d7309cfb7b9d03d8c06c.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/3da2e30357e1d7309cfb7b9d03d8c06c.png" media-type="image/png"/>
-<item id="HNO3NO2exp.jpg" href="xhtml/chemistry-12/photos/HNO3NO2exp.jpg" media-type="image/jpeg"/>
-<item id="78e02aca710aabc70b71173d950ec9a8.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/78e02aca710aabc70b71173d950ec9a8.png" media-type="image/png"/>
-<item id="b441854c779278866cc43db219dd98b4.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/b441854c779278866cc43db219dd98b4.png" media-type="image/png"/>
-<item id="3b33f0d4fafa54876792ed56e1cfc88a.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/3b33f0d4fafa54876792ed56e1cfc88a.png" media-type="image/png"/>
 <item id="acids.jpg" href="xhtml/chemistry-12/photos/acids.jpg" media-type="image/jpeg"/>
 <item id="acidetching.jpg" href="xhtml/chemistry-12/photos/acidetching.jpg" media-type="image/jpeg"/>
 <item id="lupin.jpg" href="xhtml/chemistry-12/photos/lupin.jpg" media-type="image/jpeg"/>
@@ -650,50 +624,6 @@
 <item id="sodiumhydroxide.jpg" href="xhtml/chemistry-12/photos/sodiumhydroxide.jpg" media-type="image/jpeg"/>
 <item id="cefcf53e36663c5971ea4c1b38e1052d.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/cefcf53e36663c5971ea4c1b38e1052d.png" media-type="image/png"/>
 <item id="f41ceaac8f4cb6777ee55e9ff8a1f10c.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/f41ceaac8f4cb6777ee55e9ff8a1f10c.png" media-type="image/png"/>
-<item id="e25a309640c27bd1ce1d22eac42a5abb.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/e25a309640c27bd1ce1d22eac42a5abb.png" media-type="image/png"/>
-<item id="047412691c96a249950381941a50ce08.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/047412691c96a249950381941a50ce08.png" media-type="image/png"/>
-<item id="e4122ccb6368175988891a699d53b219.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/e4122ccb6368175988891a699d53b219.png" media-type="image/png"/>
-<item id="2c7db5ac7963a921bfaa1594243a3e1e.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/2c7db5ac7963a921bfaa1594243a3e1e.png" media-type="image/png"/>
-<item id="02697aed776be6fd2cadf1d09f32110b.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/02697aed776be6fd2cadf1d09f32110b.png" media-type="image/png"/>
-<item id="c14675d754aa1844f399ca0d0c3a23ef.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/c14675d754aa1844f399ca0d0c3a23ef.png" media-type="image/png"/>
-<item id="8937f4adb302931660940ed83c8c616f.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/8937f4adb302931660940ed83c8c616f.png" media-type="image/png"/>
-<item id="VoltaicCellbw2.eps" href="xhtml/chemistry-12/images/VoltaicCellbw2.eps" media-type="application/postscript"/>
-<item id="frogslegs.jpg" href="xhtml/chemistry-12/photos/frogslegs.jpg" media-type="image/jpeg"/>
-<item id="53949dfc2459df90f3a4e67434eee0dd.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/53949dfc2459df90f3a4e67434eee0dd.png" media-type="image/png"/>
-<item id="356329156ad5aa9676d226b8f1e0b9e6.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/356329156ad5aa9676d226b8f1e0b9e6.png" media-type="image/png"/>
-<item id="84a371d74c9e61aee38ac20cb0d8e7f6.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/84a371d74c9e61aee38ac20cb0d8e7f6.png" media-type="image/png"/>
-<item id="007c5f41be7cab1de1f91e45d8f93248.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/007c5f41be7cab1de1f91e45d8f93248.png" media-type="image/png"/>
-<item id="f9216b13df639914b6a37555c66aeb93.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/f9216b13df639914b6a37555c66aeb93.png" media-type="image/png"/>
-<item id="e5b0326768d5148f87bfc6517f00604f.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/e5b0326768d5148f87bfc6517f00604f.png" media-type="image/png"/>
-<item id="fa565f5691a5bab1ea1add922426003b.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/fa565f5691a5bab1ea1add922426003b.png" media-type="image/png"/>
-<item id="77d9499937146831326b4e9046b33fe7.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/77d9499937146831326b4e9046b33fe7.png" media-type="image/png"/>
-<item id="0d3aa091ab9474af7d5558d9a4f14534.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/0d3aa091ab9474af7d5558d9a4f14534.png" media-type="image/png"/>
-<item id="e46b73b68659e097217fc47b98320420.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/e46b73b68659e097217fc47b98320420.png" media-type="image/png"/>
-<item id="1990e808c4d58906daeb4cc71d245e1d.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/1990e808c4d58906daeb4cc71d245e1d.png" media-type="image/png"/>
-<item id="98af35b99fd89c3508807c1838d2902d.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/98af35b99fd89c3508807c1838d2902d.png" media-type="image/png"/>
-<item id="015850099272f581ed19b432b70e1c7b.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/015850099272f581ed19b432b70e1c7b.png" media-type="image/png"/>
-<item id="c9b66dc9ea8c50973bade334a0543417.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/c9b66dc9ea8c50973bade334a0543417.png" media-type="image/png"/>
-<item id="81e7345465797bbb58f52a2bf87b8c81.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/81e7345465797bbb58f52a2bf87b8c81.png" media-type="image/png"/>
-<item id="4105f9228925e1c68c8a67054e0a6ca3.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/4105f9228925e1c68c8a67054e0a6ca3.png" media-type="image/png"/>
-<item id="ab8a7641284353f77d159f8b9089cb58.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/ab8a7641284353f77d159f8b9089cb58.png" media-type="image/png"/>
-<item id="ef10dfa9bf09e2c88c28f8cf13e079b4.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/ef10dfa9bf09e2c88c28f8cf13e079b4.png" media-type="image/png"/>
-<item id="68f2109d0bd39cb68f6f327cbee111f7.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/68f2109d0bd39cb68f6f327cbee111f7.png" media-type="image/png"/>
-<item id="bde7ac8f64883196a9bf441c63822ef3.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/bde7ac8f64883196a9bf441c63822ef3.png" media-type="image/png"/>
-<item id="de51e951db5e1cc14864185bc528f6e2.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/de51e951db5e1cc14864185bc528f6e2.png" media-type="image/png"/>
-<item id="1339a58d5b894f2507b8fc2ec0d043b7.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/1339a58d5b894f2507b8fc2ec0d043b7.png" media-type="image/png"/>
-<item id="a810d373cbfacbb2bc62b6708508a759.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/a810d373cbfacbb2bc62b6708508a759.png" media-type="image/png"/>
-<item id="ef7269d587aa610100b1ec3356ec6b4d.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/ef7269d587aa610100b1ec3356ec6b4d.png" media-type="image/png"/>
-<item id="3c9f01b54367358e8d19c9957cb3536e.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/3c9f01b54367358e8d19c9957cb3536e.png" media-type="image/png"/>
-<item id="7895cbe8aace74946e1a6f72deae4427.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/7895cbe8aace74946e1a6f72deae4427.png" media-type="image/png"/>
-<item id="271917ef756b8d50e31d869919f8d274.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/271917ef756b8d50e31d869919f8d274.png" media-type="image/png"/>
-<item id="asbestos.jpg" href="xhtml/chemistry-12/photos/asbestos.jpg" media-type="image/jpeg"/>
-<item id="44b7343da92fe27f2c40e08237f74e02.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/44b7343da92fe27f2c40e08237f74e02.png" media-type="image/png"/>
-<item id="632446ab4493b52af07951ebd2a2acae.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/632446ab4493b52af07951ebd2a2acae.png" media-type="image/png"/>
-<item id="6da51fd27f34c52d32fcd3b8a24a1079.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/6da51fd27f34c52d32fcd3b8a24a1079.png" media-type="image/png"/>
-<item id="3e230eae5f83417b8e445388c7c38017.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/3e230eae5f83417b8e445388c7c38017.png" media-type="image/png"/>
-<item id="bauxite.jpg" href="xhtml/chemistry-12/photos/bauxite.jpg" media-type="image/jpeg"/>
-<item id="58a8a958da148ce7d0da19ef944a5eb8.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/58a8a958da148ce7d0da19ef944a5eb8.png" media-type="image/png"/>
-<item id="8dfb119cce1b38d53f194f136d00f4d1.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/8dfb119cce1b38d53f194f136d00f4d1.png" media-type="image/png"/>
 <item id="farmingbeetroot.jpg" href="xhtml/chemistry-12/photos/farmingbeetroot.jpg" media-type="image/jpeg"/>
 <item id="Fertiliser_concept_map_for_first_activity_memo.jpg" href="xhtml/chemistry-12/photos/Fertiliser_concept_map_for_first_activity_memo.jpg" media-type="image/jpeg"/>
 <item id="Concept_map_example.jpg" href="xhtml/chemistry-12/photos/Concept_map_example.jpg" media-type="image/jpeg"/>
@@ -722,10 +652,17 @@
 <item id="algal_bloom.jpg" href="xhtml/chemistry-12/photos/algal_bloom.jpg" media-type="image/jpeg"/>
 <item id="92682fd83d83ed8c77d64a049397ebb8.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/92682fd83d83ed8c77d64a049397ebb8.png" media-type="image/png"/>
 <item id="97309c7f6070a47272d2b619e8ca055a.png" href="xhtml/chemistry-12/_plone_ignore_/cache/pspictures/97309c7f6070a47272d2b619e8ca055a.png" media-type="image/png"/>
-</manifest><spine>
+<item href="xhtml/chemistry-12/bc561ff6-a20d-4cf2-b539-3c022b8fcbae" id="xhtml/chemistry-12/bc561ff6-a20d-4cf2-b539-3c022b8fcbae" media-type="application/xhtml+xml"/><item href="xhtml/ieb-outline/46b68780-3439-4806-bda6-a9a1b79ba09f" id="xhtml/ieb-outline/46b68780-3439-4806-bda6-a9a1b79ba09f" media-type="application/xhtml+xml"/></manifest><spine>
 <itemref idref="chapter-0"/>
-<itemref idref="chapter-1"/>
-<itemref idref="chapter-2"/>
+<itemref idref="chapter-1a"/>
+<itemref idref="chapter-1b"/>
+<itemref idref="chapter-1c"/>
+<itemref idref="chapter-1d"/>
+<itemref idref="chapter-2a"/>
+<itemref idref="chapter-2b"/>
+<itemref idref="chapter-2c"/>
+<itemref idref="chapter-2d"/>
+<itemref idref="chapter-2e"/>
 <itemref idref="chapter-3"/>
 <itemref idref="chapter-4"/>
 <itemref idref="chapter-5"/>
@@ -753,15 +690,4 @@
 <itemref idref="chapter-27"/>
 <itemref idref="chapter-28"/>
 <itemref idref="chapter-29"/>
-<itemref idref="chapter-30"/>
-<itemref idref="chapter-31"/>
-<itemref idref="chapter-32"/>
-<itemref idref="chapter-33"/>
-<itemref idref="chapter-34"/>
-<itemref idref="chapter-35"/>
-<itemref idref="chapter-36"/>
-<itemref idref="chapter-37"/>
-<itemref idref="chapter-38"/>
-<itemref idref="chapter-39"/>
-<itemref idref="chapter-40"/>
 </spine></package>

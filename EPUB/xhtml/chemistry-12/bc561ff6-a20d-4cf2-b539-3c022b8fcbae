@@ -1,0 +1,1573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+  <head>undefined</head>
+  <body><h2>Acid-base reactions</h2>
+
+<p>When an acid and a base react, they form a <strong>salt</strong>. If the base contains hydroxide \((\text{OH}^{-})\) ions, then <em>water</em> will also be formed. The word <em>salt</em> is a general term which applies to the products of all acid-base reactions. A salt is a product that is made up of the <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mrow class="MJX-TeXAtom-ORD">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mtext mathvariant="bold">cation</mtext>
+      </mrow>
+    </mrow>
+  </mrow>
+</mrow><annotation encoding="math/tex">\textcolor{blue}{\textbf{cation}}</annotation></semantics></math> from a <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mrow class="MJX-TeXAtom-ORD">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mtext mathvariant="bold">base</mtext>
+      </mrow>
+    </mrow>
+  </mrow>
+</mrow><annotation encoding="math/tex">\textcolor{blue}{\textbf{base}}</annotation></semantics></math> and the <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mrow class="MJX-TeXAtom-ORD">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mtext mathvariant="bold">anion</mtext>
+      </mrow>
+    </mrow>
+  </mrow>
+</mrow><annotation encoding="math/tex">\textcolor{red}{\textbf{anion}}</annotation></semantics></math> from an <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mrow class="MJX-TeXAtom-ORD">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mtext mathvariant="bold">acid</mtext>
+      </mrow>
+    </mrow>
+  </mrow>
+</mrow><annotation encoding="math/tex">\textcolor{red}{\textbf{acid}}</annotation></semantics></math>.</p>
+<dl class="definition"><dt>Salt</dt><dd>
+	      
+<p>A salt is a neutral ionic compound composed of cations and anions. It is the result of an acid-base neutralisation reaction.</p>
+
+	    </dd></dl><h3>Neutralisation reactions</h3>
+<div class="note" data-type="aside"><span class="title"></span><p>A <strong>cation</strong> is an ion (charged atom or molecule) with a positive (+) charge. An <strong>anion</strong> is an ion with a negative (-) charge.</p></div><div class="note" data-type="aside"><span class="title"></span><figure class="figure" title=""><img width="156" alt="Photo by SoraZG on Flickr" draggable="false" src="photos/salt.jpg"/></figure><p>Salts are not just the table salt you put on your food. A salt is any compound made up of stoichiometrically equivalent amounts of cations and anions to make a neutral, ionic compound.</p><figure class="figure" title=""><img width="156" alt="Photo by MountainAsh on Flickr" draggable="false" src="photos/epsomsalt.jpg"/></figure><p>Magnesium sulfate heptahydrate (\(\text{MgSO}_{4}.7\text{H}_{2}\text{O}\)), commonly known as Epsom salt, can be used as a gel to treat aches and pains, as bath salts, and has many other uses.</p></div>
+<p>When an equivalent amount of acid and base react (so that neither the acid nor the base are in excess), the reaction is said to have reached the <strong>equivalence</strong> point. At this point <strong>neutralisation</strong> has been achieved.</p>
+<dl class="definition"><dt>Equivalence point</dt><dd>
+	      
+<p>When a stoichiometrically equivalent number of moles of both reactants has been added to the reaction vessel.</p>
+
+	    </dd></dl><p>To better understand stoichiometric equivalence look at the following equations:</p>
+<ol data-class="ListEnumerated"><li>
+	      
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mn>1</mn>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>HA(aq)</mtext>
+  </mrow>
+  <mo>+</mo>
+  <mn>1</mn>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>BOH(aq)</mtext>
+  </mrow>
+  <mo stretchy="false">→<!-- → --></mo>
+</mrow><annotation encoding="math/tex">1\textcolor{red}{\text{HA(aq)}} + 1\textcolor{blue}{\text{BOH(aq)}} \to</annotation></semantics></math> \(1\text{AB}(\text{aq}) + 1\text{H}_{2}\text{O}(\text{ℓ})\)</p>
+
+	    </li>
+<li>
+	      
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mn>1</mn>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <msub>
+      <mtext>H</mtext>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mn>2</mn>
+      </mrow>
+    </msub>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mtext>A(aq)</mtext>
+    </mrow>
+  </mrow>
+  <mo>+</mo>
+  <mn>2</mn>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>BOH(aq)</mtext>
+  </mrow>
+  <mo stretchy="false">→<!-- → --></mo>
+</mrow><annotation encoding="math/tex">1\textcolor{red}{\text{H}_{2}{\text{A(aq)}}} + 2\textcolor{blue}{\text{BOH(aq)}} \to</annotation></semantics></math> \(1\text{AB}_{2}(\text{aq}) + 2\text{H}_{2}\text{O}(\text{ℓ})\)</p>
+
+	    </li>
+</ol><p>In the first example above, a stoichiometrically equivalent number of moles is <strong>one</strong> mole of <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>HA</mtext>
+  </mrow>
+</mrow><annotation encoding="math/tex">\textcolor{red}{\text{HA}}</annotation></semantics></math> for every <strong>one</strong> mole of <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>BOH</mtext>
+  </mrow>
+</mrow><annotation encoding="math/tex">\textcolor{blue}{\text{BOH}}</annotation></semantics></math>. In the second example, a stoichiometrically equivalent number of moles is <strong>one</strong> mole of <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <msub>
+      <mtext>H</mtext>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mn>2</mn>
+      </mrow>
+    </msub>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mtext>A</mtext>
+    </mrow>
+  </mrow>
+</mrow><annotation encoding="math/tex">\textcolor{red}{\text{H}_{2}{\text{A}}}</annotation></semantics></math> for every <strong>two</strong> moles of <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>BOH</mtext>
+  </mrow>
+</mrow><annotation encoding="math/tex">\textcolor{blue}{\text{BOH}}</annotation></semantics></math>.</p>
+<dl class="definition"><dt>Neutralisation</dt><dd>
+	      
+<p>A neutralisation reaction involves an acid and a base reacting to form a salt.</p>
+
+	    </dd></dl><p>Look at the following examples:</p>
+<ul data-class="ListBulleted"><li>
+	      
+<p><strong>Hydrochloric acid with sodium hydroxide</strong></p>
+
+	      
+<p>Hydrochloric acid reacts with sodium hydroxide to form sodium chloride (the salt) and water. Sodium chloride is made up of  \(\text{Na}^{+}\) cations from the base \((\text{NaOH})\) and \(\text{Cl}^{-}\) anions from the acid \((\text{HCl})\).</p>
+
+              
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext>H</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext mathcolor="red">\textcolor</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mi>r</mi>
+      <mi>e</mi>
+      <mi>d</mi>
+    </mrow>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext mathvariant="bold">Cl</mtext>
+        </mrow>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>(aq)</mtext>
+  </mrow>
+  <mo>+</mo>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mrow class="MJX-TeXAtom-ORD">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mtext mathvariant="bold">Na</mtext>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>OH(aq)</mtext>
+  </mrow>
+  <mo stretchy="false">→<!-- → --></mo>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext mathcolor="red">\textcolor</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mi>b</mi>
+      <mi>l</mi>
+      <mi>u</mi>
+      <mi>e</mi>
+    </mrow>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext mathvariant="bold">Na</mtext>
+        </mrow>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext mathcolor="red">\textcolor</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mi>r</mi>
+      <mi>e</mi>
+      <mi>d</mi>
+    </mrow>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext mathvariant="bold">Cl</mtext>
+        </mrow>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>(aq)</mtext>
+  </mrow>
+  <mo>+</mo>
+  <msub>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mtext>H</mtext>
+    </mrow>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mn>2</mn>
+    </mrow>
+  </msub>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>O(ℓ)</mtext>
+  </mrow>
+</mrow><annotation encoding="math/tex">\text{H}{\textcolor{red}{\textbf{Cl}}}{\text{(aq)}} + \textcolor{blue}{\textbf{Na}}{\text{OH(aq)}} \to {\textcolor{blue}{\textbf{Na}}}{\textcolor{red}{\textbf{Cl}}}{\text{(aq)}} + {\text{H}}_{2}{\text{O(ℓ)}}</annotation></semantics></math></p>
+
+            </li>
+<li>
+	      
+<p><strong>Hydrogen bromide with postassium hydroxide</strong></p>
+
+              
+<p>Hydrogen bromide reacts with potassium hydroxide to form potassium bromide (the salt) and water. Potassium bromide is made up of  \(\text{K}^{+}\) cations from the base \((\text{KOH})\) and \(\text{Br}^{-}\) anions from the acid \((\text{HBr})\).</p>
+
+	      
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext>H</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext mathcolor="red">\textcolor</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mi>r</mi>
+      <mi>e</mi>
+      <mi>d</mi>
+    </mrow>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext mathvariant="bold">Br</mtext>
+        </mrow>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>(aq)</mtext>
+  </mrow>
+  <mo>+</mo>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mrow class="MJX-TeXAtom-ORD">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mtext mathvariant="bold">K</mtext>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mtext>OH(aq)</mtext>
+  <mo stretchy="false">→<!-- → --></mo>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mrow class="MJX-TeXAtom-ORD">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mtext mathvariant="bold">K</mtext>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mrow class="MJX-TeXAtom-ORD">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mtext mathvariant="bold">Br</mtext>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>(aq)</mtext>
+  </mrow>
+  <mo>+</mo>
+  <msub>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mtext>H</mtext>
+    </mrow>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mn>2</mn>
+    </mrow>
+  </msub>
+  <mtext>O(ℓ)</mtext>
+</mrow><annotation encoding="math/tex">\text{H}{\textcolor{red}{\textbf{Br}}}{\text{(aq)}} + \textcolor{blue}{\textbf{K}}\text{OH(aq)} \to \textcolor{blue}{\textbf{K}}\textcolor{red}{\textbf{Br}}{\text{(aq)}} + {\text{H}}_{2}\text{O(ℓ)}</annotation></semantics></math></p>
+
+            </li>
+<li>
+	      
+<p><strong>Hydrochloric acid with sodium hydrocarbonate</strong></p>
+
+              
+<p>Hydrochloric acid reacts with sodium hydrocarbonate to form sodium chloride (the salt), water and carbon dioxide. Sodium chloride is made up of  \(\text{Na}^{+}\) cations from the base \((\text{NaHCO}_{3})\) and  \(\text{Cl}^{-}\) anions from the acid \((\text{HCl})\).</p>
+
+              
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext>H</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext mathcolor="red">\textcolor</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mi>r</mi>
+      <mi>e</mi>
+      <mi>d</mi>
+    </mrow>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext mathvariant="bold">Cl</mtext>
+        </mrow>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>(aq)</mtext>
+  </mrow>
+  <mo>+</mo>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext mathcolor="red">\textcolor</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mi>b</mi>
+      <mi>l</mi>
+      <mi>u</mi>
+      <mi>e</mi>
+    </mrow>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext mathvariant="bold">Na</mtext>
+        </mrow>
+      </mrow>
+    </mrow>
+  </mrow>
+  <msub>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mtext>HCO</mtext>
+    </mrow>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mn>3</mn>
+    </mrow>
+  </msub>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>(aq)</mtext>
+  </mrow>
+  <mo stretchy="false">→<!-- → --></mo>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mrow class="MJX-TeXAtom-ORD">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mtext mathvariant="bold">Na</mtext>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mrow class="MJX-TeXAtom-ORD">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mtext mathvariant="bold">Cl</mtext>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>(aq)</mtext>
+  </mrow>
+  <mo>+</mo>
+  <mrow class="MJX-TeXAtom-ORD">
+    <msub>
+      <mtext>H</mtext>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mn>2</mn>
+      </mrow>
+    </msub>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mtext>O(ℓ)</mtext>
+    </mrow>
+  </mrow>
+  <mo>+</mo>
+  <msub>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mtext>CO</mtext>
+    </mrow>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mn>2</mn>
+    </mrow>
+  </msub>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>(g)</mtext>
+  </mrow>
+</mrow><annotation encoding="math/tex">\text{H}{\textcolor{red}{\textbf{Cl}}}{\text{(aq)}} + {\textcolor{blue}{\textbf{Na}}}{\text{HCO}}_{3}{\text{(aq)}} \to \textcolor{blue}{\textbf{Na}}\textcolor{red}{\textbf{Cl}}{\text{(aq)}} + {\text{H}_{2}{\text{O(ℓ)}}} + {\text{CO}}_{2}{\text{(g)}}</annotation></semantics></math></p>
+
+            </li>
+</ul><div class="note" data-type="aside"><span class="title"></span><p>Salts can come in many different colours.</p><figure class="figure" title=""><img width="156" alt="Photo by Benjah-bmm27 on wikipedia" draggable="false" src="photos/potassiumpermanganate.jpg"/></figure><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\newrgbcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>p</mi>
+    <mi>u</mi>
+    <mi>r</mi>
+    <mi>p</mi>
+    <mi>l</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mn>0.78</mn>
+    <mn>0.13</mn>
+    <mn>1</mn>
+  </mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>p</mi>
+    <mi>u</mi>
+    <mi>r</mi>
+    <mi>p</mi>
+    <mi>l</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mrow class="MJX-TeXAtom-ORD">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mtext mathvariant="bold">Potassium permanganate</mtext>
+      </mrow>
+    </mrow>
+  </mrow>
+</mrow><annotation encoding="math/tex">\newrgbcolor{purple}{0.78 0.13 1}\textcolor{purple}{\textbf{Potassium permanganate}}</annotation></semantics></math> (<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>p</mi>
+    <mi>u</mi>
+    <mi>r</mi>
+    <mi>p</mi>
+    <mi>l</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <msub>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext mathvariant="bold">KMnO</mtext>
+        </mrow>
+      </mrow>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mn>4</mn>
+      </mrow>
+    </msub>
+  </mrow>
+</mrow><annotation encoding="math/tex">\textcolor{purple}{\textbf{KMnO}_{4}}</annotation></semantics></math>)</p><figure class="figure" title=""><img width="156" alt="Photo by iJammin on Flickr" draggable="false" src="photos/coppersulfatesolid.jpg"/></figure><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mrow class="MJX-TeXAtom-ORD">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mtext mathvariant="bold">Copper sulfate</mtext>
+      </mrow>
+    </mrow>
+  </mrow>
+</mrow><annotation encoding="math/tex">\textcolor{blue}{\textbf{Copper sulfate}}</annotation></semantics></math> (<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <msub>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext mathvariant="bold">CuSO</mtext>
+        </mrow>
+      </mrow>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mn>4</mn>
+      </mrow>
+    </msub>
+  </mrow>
+</mrow><annotation encoding="math/tex">\textcolor{blue}{\textbf{CuSO}_{4}}</annotation></semantics></math>)</p><figure class="figure" title=""><img width="156" alt="Photo by Benjah-bmm27 on wikipedia" draggable="false" src="photos/nickelchloride.jpg"/></figure><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>d</mi>
+    <mi>a</mi>
+    <mi>r</mi>
+    <mi>k</mi>
+    <mi>g</mi>
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>e</mi>
+    <mi>n</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mrow class="MJX-TeXAtom-ORD">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mtext mathvariant="bold">Nickel chloride</mtext>
+      </mrow>
+    </mrow>
+  </mrow>
+</mrow><annotation encoding="math/tex">\textcolor{darkgreen}{\textbf{Nickel chloride}}</annotation></semantics></math> (<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>d</mi>
+    <mi>a</mi>
+    <mi>r</mi>
+    <mi>k</mi>
+    <mi>g</mi>
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>e</mi>
+    <mi>n</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <msub>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext mathvariant="bold">NiCl</mtext>
+        </mrow>
+      </mrow>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mn>2</mn>
+      </mrow>
+    </msub>
+  </mrow>
+</mrow><annotation encoding="math/tex">\textcolor{darkgreen}{\textbf{NiCl}_{2}}</annotation></semantics></math>)</p><figure class="figure" title=""><img width="156" draggable="false" src="photos/sodiumchromate.jpg"/></figure><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\newrgbcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>g</mi>
+    <mi>o</mi>
+    <mi>l</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mn>1</mn>
+    <mn>0.65</mn>
+    <mn>0</mn>
+  </mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>g</mi>
+    <mi>o</mi>
+    <mi>l</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mrow class="MJX-TeXAtom-ORD">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mtext mathvariant="bold">Sodium chromate</mtext>
+      </mrow>
+    </mrow>
+  </mrow>
+</mrow><annotation encoding="math/tex">\newrgbcolor{gold}{1 0.65 0}\textcolor{gold}{\textbf{Sodium chromate}}</annotation></semantics></math> (<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>g</mi>
+    <mi>o</mi>
+    <mi>l</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <msub>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext mathvariant="bold">Na</mtext>
+        </mrow>
+      </mrow>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mn>2</mn>
+      </mrow>
+    </msub>
+    <msub>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mtext mathvariant="bold">CrO</mtext>
+          </mrow>
+        </mrow>
+      </mrow>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mn>4</mn>
+      </mrow>
+    </msub>
+  </mrow>
+</mrow><annotation encoding="math/tex">\textcolor{gold}{\textbf{Na}_{2}{\textbf{CrO}}_{4}}</annotation></semantics></math>)</p><figure class="figure" title=""><img width="156" alt="Photo by Benjah-bmm27 on wikipedia" draggable="false" src="photos/potassiumdichromate.jpg"/></figure><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mrow class="MJX-TeXAtom-ORD">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mtext mathvariant="bold">Potassim dichromate</mtext>
+      </mrow>
+    </mrow>
+  </mrow>
+</mrow><annotation encoding="math/tex">\textcolor{red}{\textbf{Potassim dichromate}}</annotation></semantics></math> (<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <msub>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext mathvariant="bold">K</mtext>
+        </mrow>
+      </mrow>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mn>2</mn>
+      </mrow>
+    </msub>
+    <msub>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mtext mathvariant="bold">Cr</mtext>
+          </mrow>
+        </mrow>
+      </mrow>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mn>2</mn>
+      </mrow>
+    </msub>
+    <msub>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mtext mathvariant="bold">O</mtext>
+          </mrow>
+        </mrow>
+      </mrow>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mn>7</mn>
+      </mrow>
+    </msub>
+  </mrow>
+</mrow><annotation encoding="math/tex">\textcolor{red}{\textbf{K}_{2}{\textbf{Cr}}_{2}{\textbf{O}}_{7}}</annotation></semantics></math>)</p></div>
+<p>You should notice that in the first two examples, the base contained  \(\text{OH}^{-}\) ions, and therefore the products were a <em>salt</em> and <em>water</em>.  \(\text{NaCl}\) (table salt) and  \(\text{KBr}\) are both salts. In the third example,  \(\text{NaHCO}_{3}\) also acts as a base, despite not having  \(\text{OH}^{-}\) ions. A salt is still formed as one of the products, but carbon dioxide (\(\text{CO}_{2}\)) is produced as well as water.</p>
+<div class="teachers-guide" data-unknown="true">
+<p>This experiment can be used for an informal assessment. It will help determine if the learners understand what happens in a neutralisation reaction. Learners are working with a strong acid and a strong base in this reaction. Concentrated, strong acids and bases can cause serious burns. Please remind the learners to be careful and wear the appropriate safety equipment when handling all chemicals, especially concentrated acids and bases. The safety equipment includes gloves, safety glasses, and protective clothing.</p>
+</div><div class="example" data-class="activity" data-type="informalexperiment"><span class="title">Temperature changes in neutralisation reactions</span><p></p><p></p><div class="section" data-unknown="true"><div class="title" id="b435c36d-3ca3-c4a9-ba1f-232374de4ab1" contenteditable="true">Aim</div>
+<p>To investigate the temperature change associated with a neutralisation reaction.</p>
+</div><p></p><p></p><p>
+</p><p></p><p></p><div class="section" data-unknown="true"><div class="title" id="e82a0e54-b331-1895-7c32-7e4560df76e1" contenteditable="true">Apparatus</div><ul data-class="ListBulleted"><li>
+		  
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>1</mtext>
+<annotation encoding="math/tex">\text{1}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>mol.dm^{-3}</mtext>
+<annotation encoding="math/tex">\text{mol.dm^{-3}}</annotation></semantics></math> solution of sodium hydroxide (\(\text{NaOH}\)), <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>1</mtext>
+<annotation encoding="math/tex">\text{1}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>mol.dm^{-3}</mtext>
+<annotation encoding="math/tex">\text{mol.dm^{-3}}</annotation></semantics></math> solution of hydrochloric acid (\(\text{HCl}\))</p>
+
+		</li>
+<li>
+		  
+<p>A thermometer, a beaker, a measuring cylinder</p>
+
+		</li>
+</ul></div><p></p><p></p><p>
+</p><p></p><p></p><div class="section" data-unknown="true"><div class="title" id="aafcd33d-b257-277b-327d-a1d94c021259" contenteditable="true">Method</div><div class="note" data-type="warning"><span class="title"></span>
+<p>Concentrated acids and bases can cause serious burns. We suggest using gloves and safety glasses whenever you work with an acid or a base. Remember to add the acid to the water and to avoid sniffing any laboratory chemical. Handle all chemicals with care.</p>
+</div><ol data-class="ListEnumerated"><li>
+		  
+<p>Pour <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>20</mtext>
+<annotation encoding="math/tex">\text{20}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>cm^{3}</mtext>
+<annotation encoding="math/tex">\text{cm^{3}}</annotation></semantics></math> of the sodium hydroxide solution into the beaker.</p>
+
+		</li>
+<li>
+		  
+<p>Measure the temperature.</p>
+
+		</li>
+<li>
+		  
+<p>Add <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>5</mtext>
+<annotation encoding="math/tex">\text{5}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>cm^{3}</mtext>
+<annotation encoding="math/tex">\text{cm^{3}}</annotation></semantics></math> of hydrochloric acid to the beaker using the measuring cylinder.</p>
+
+		</li>
+<li>
+		  
+<p>Repeat steps <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>2</mtext>
+<annotation encoding="math/tex">\text{2}</annotation></semantics></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>3</mtext>
+<annotation encoding="math/tex">\text{3}</annotation></semantics></math> quite quickly until the temperature no longer changes significantly.</p>
+
+		</li>
+</ol></div><p></p><p></p><p>
+</p><p></p><p></p><div class="section" data-unknown="true"><div class="title" id="1381a93e-492d-957e-3153-3e86fa6152e8" contenteditable="true">Observations</div>
+<p>You should record your temperatures and the volume in a table (remember that the volume of the sodium hydroxide is constant at <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>20</mtext>
+<annotation encoding="math/tex">\text{20}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>cm^{3}</mtext>
+<annotation encoding="math/tex">\text{cm^{3}}</annotation></semantics></math>):</p>
+<table><caption>Table 1</caption><tbody><tr><td><p><strong>Volume (HCl)</strong></p></td><td><p><strong>Temperature (℃)</strong></p></td></tr><tr><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>0</mtext>
+<annotation encoding="math/tex">\text{0}</annotation></semantics></math></p></td><td><p>room temperature</p></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table></div><p></p><p></p><p>
+</p><p></p><p></p><div class="section" data-unknown="true"><div class="title" id="97b41b61-be9d-bd5d-f902-f17c69690146" contenteditable="true">Discussion</div>
+<p>You should find that the reaction releases heat and so the temperature increases. After all the base has been neutralised the temperature should no longer increase. This is because the neutralisation reaction is <em>exothermic</em> (it releases heat). When all the base has been neutralised there is no reaction on the addition of more acid, and no more heat is released.</p>
+<div class="teachers-guide" data-unknown="true">
+<p>After the reaction has finished (the base has been neutralised) there is no more heat being produced. As a result the temperature will not rise any more. In fact, there may even be a decrease in temperature back to room temperature as the heat from the reaction vessel (the beaker) dissipates.</p>
+</div></div><p></p><p></p><p>
+</p></div>
+
+<p>Neutralisation reactions are very important in every day life. Below are some examples:</p>
+<ul data-class="ListBulleted"><li>
+              
+<p><strong>Domestic uses</strong></p>
+
+              
+<p>Calcium oxide  \((\text{CaO})\) is used to neutralise acidic soil. Powdered limestone  \((\text{CaCO}_{3})\) can also be used, but its action is much slower and less effective. These substances can also be used on a larger scale in farming and in rivers.</p>
+
+            </li>
+<li>
+              
+<p><strong>Biological uses</strong></p>
+
+	      
+<p>Hydrochloric acid \((\text{HCl})\) in the stomach plays an important role in helping to digest food. It is important to note that too much acid in the stomach may lead to the formation of ulcers in cases where the stomach lining is damaged (e.g. by an infection).</p>
+
+	      
+<p><strong>Antacids</strong> (which are bases) are taken to neutralise excess stomach acid, to prevent damage to the intestines. Examples of antacids are aluminium hydroxide, magnesium hydroxide ('milk of magnesia') and sodium bicarbonate ('bicarbonate of soda').</p>
+
+            </li>
+<li>
+              
+<p><strong>Industrial uses</strong></p>
+
+              
+<p>Alkaline calcium hydroxide (limewater) is used to absorb harmful acidic  \(\text{SO}_{2}\) gas that is released from power stations and from the burning of fossil fuels.</p>
+
+            </li>
+</ul><div class="note" data-type="warning"><span class="title"></span><p>Please <strong>do not</strong> use a base to neutralise an acid if you spill some on yourself during an experiment. A strong base can burn you as much as a strong acid. Rather wash the area thoroughly with water.</p></div><div class="note" data-type="aside"><span class="title"></span><p>Bee stings are acidic and have a pH between <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>5</mtext>
+<annotation encoding="math/tex">\text{5}</annotation></semantics></math> and <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>5,5</mtext>
+<annotation encoding="math/tex">\text{5,5}</annotation></semantics></math>. They can be soothed by using substances such as calomine lotion, which is a mild alkali based on zinc oxide. Bicarbonate of soda, or soap, can also be used. The alkalis help to neutralise the acidic bee sting and relieve some of the itchiness.</p><figure class="figure" title=""><img width="156" alt="Photo by mikebaird on Flickr" draggable="false" src="photos/bee.jpg"/></figure></div><div class="example" data-class="activity" data-type="Activity"><span class="title">Acids and metal compounds</span><p>
+</p><p></p><p>Research the reactions that occur when an <strong>acid is added</strong> to the following compounds:</p><p></p><p>
+
+</p><p></p><p>(Your Grade 11 book will be helpful with this research)</p><p></p><p>
+</p><p></p><ul data-class="ListBulleted"><li>
+		
+<p>a metal</p>
+
+	      </li>
+<li>
+		
+<p>a metal hydroxide</p>
+
+	      </li>
+<li>
+		
+<p>a metal oxide</p>
+
+	      </li>
+<li>
+		
+<p>a metal carbonate</p>
+
+	      </li>
+<li>
+		
+<p>a metal hydrogen carbonate</p>
+
+	      </li>
+</ul><p></p><p></p><p>Write a report which includes:</p><p></p><p>
+</p><p></p><ul data-class="ListBulleted"><li>
+		
+<p>The general equation (in words) of each reaction.</p>
+
+	      </li>
+<li>
+		
+<p>A description of what is happening in this reaction.</p>
+
+	      </li>
+<li>
+		
+<p>An example of this type of reaction in the form of a balanced equation.</p>
+
+	      </li>
+</ul><p></p></div>
+<div class="teachers-guide" data-unknown="true">
+<p>The following is an example of how the learners <strong>acids and metals compounds report</strong> could look:</p>
+<ul data-class="ListBulleted"><li>
+		
+<p><strong>Acid + metal</strong> <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mo stretchy="false">→<!-- → --></mo>
+<annotation encoding="math/tex">\to</annotation></semantics></math><strong>salt + hydrogen</strong></p>
+
+		
+<p>A dilute acid is added to a pure metal to form a salt and hydrogen gas. The salt is formed by the metal cation and the anion from the acid. In this reaction the metal is acting as a base. For example:</p>
+
+		
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>hydrochloric acid</mtext>
+  </mrow>
+  <mo>+</mo>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>zinc</mtext>
+  </mrow>
+  <mo stretchy="false">→<!-- → --></mo>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>zinc</mtext>
+  </mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>&nbsp;chloride</mtext>
+  </mrow>
+</mrow><annotation encoding="math/tex">\textcolor{red}{\text{hydrochloric acid}} + \textcolor{blue}{\text{zinc}} \to \textcolor{blue}{\text{zinc}} \textcolor{red}{\text{ chloride}}</annotation></semantics></math> + hydrogen</p>
+
+		
+<p>\(2\text{HCl}(\text{aq}) + \text{Zn}(\text{s})\) <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mo stretchy="false">→<!-- → --></mo>
+<annotation encoding="math/tex">\to</annotation></semantics></math> \(\text{ZnCl}_{2}(\text{aq}) + \text{H}_{2}(\text{g})\)</p>
+
+	      </li>
+<li>
+		
+<p><strong>Acid + metal hydroxide</strong> <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mo stretchy="false">→<!-- → --></mo>
+<annotation encoding="math/tex">\to</annotation></semantics></math><strong>salt + water</strong></p>
+
+		
+<p>A dilute acid is added to a metal hydroxide to form a salt and water. The salt is formed by the metal cation and the anion from the acid. In this reaction the metal hydroxide is acting as a base. For example:</p>
+
+		
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>hydrochloric acid</mtext>
+  </mrow>
+  <mo>+</mo>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>zinc hydroxide</mtext>
+  </mrow>
+  <mo stretchy="false">→<!-- → --></mo>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>zinc</mtext>
+  </mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>&nbsp;chloride</mtext>
+  </mrow>
+</mrow><annotation encoding="math/tex">\textcolor{red}{\text{hydrochloric acid}} + \textcolor{blue}{\text{zinc hydroxide}} \to \textcolor{blue}{\text{zinc}} \textcolor{red}{\text{ chloride}}</annotation></semantics></math> + water</p>
+
+		
+<p>\(2\text{HCl}(\text{aq}) + \text{Zn}(\text{OH})_{2}(\text{s})\) <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mo stretchy="false">→<!-- → --></mo>
+<annotation encoding="math/tex">\to</annotation></semantics></math> \(\text{ZnCl}_{2}(\text{aq}) + 2\text{H}_{2}\text{O}(\text{ℓ})\)</p>
+
+	      </li>
+<li>
+		
+<p><strong>Acid + metal oxide</strong> <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mo stretchy="false">→<!-- → --></mo>
+<annotation encoding="math/tex">\to</annotation></semantics></math><strong>salt + water</strong></p>
+
+		
+<p>A dilute acid is added to a metal oxide to form a salt and water. The salt is formed by the metal cation and the anion from the acid. In this reaction the metal oxide is acting as a base. For example:</p>
+
+		
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>hydrochloric acid</mtext>
+  </mrow>
+  <mo>+</mo>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>zinc oxide</mtext>
+  </mrow>
+  <mo stretchy="false">→<!-- → --></mo>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>zinc</mtext>
+  </mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>&nbsp;chloride</mtext>
+  </mrow>
+</mrow><annotation encoding="math/tex">\textcolor{red}{\text{hydrochloric acid}} + \textcolor{blue}{\text{zinc oxide}} \to \textcolor{blue}{\text{zinc}} \textcolor{red}{\text{ chloride}}</annotation></semantics></math> + water</p>
+
+		
+<p>\(2\text{HCl}(\text{aq}) + \text{ZnO}(\text{s})\) <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mo stretchy="false">→<!-- → --></mo>
+<annotation encoding="math/tex">\to</annotation></semantics></math> \(\text{ZnCl}_{2}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})\)</p>
+
+	      </li>
+<li>
+		
+<p><strong>Acid + metal carbonate</strong> <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mo stretchy="false">→<!-- → --></mo>
+<annotation encoding="math/tex">\to</annotation></semantics></math><strong>salt + water + carbon dioxide</strong></p>
+
+		
+<p>A dilute acid is added to a metal carbonate to form a salt, water and carbon dioxide gas. The salt is formed by the metal cation and the anion from the acid. In this reaction the metal carbonate is acting as a base. For example:</p>
+
+		
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>hydrochloric acid</mtext>
+  </mrow>
+  <mo>+</mo>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>zinc carbonate</mtext>
+  </mrow>
+  <mo stretchy="false">→<!-- → --></mo>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>zinc</mtext>
+  </mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>&nbsp;chloride</mtext>
+  </mrow>
+</mrow><annotation encoding="math/tex">\textcolor{red}{\text{hydrochloric acid}} + \textcolor{blue}{\text{zinc carbonate}} \to \textcolor{blue}{\text{zinc}} \textcolor{red}{\text{ chloride}}</annotation></semantics></math> + water + carbon dioxide</p>
+
+		
+<p>\(2\text{HCl}(\text{aq}) + \text{ZnCO}_{3}(\text{s})\) <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mo stretchy="false">→<!-- → --></mo>
+<annotation encoding="math/tex">\to</annotation></semantics></math> \(\text{ZnCl}_{2}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ}) + \text{CO}_{2}(\text{g})\)</p>
+
+	      </li>
+<li>
+		
+<p><strong>Acid + metal hydrogen carbonate</strong> <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mo stretchy="false">→<!-- → --></mo>
+<annotation encoding="math/tex">\to</annotation></semantics></math><strong>salt + water + carbon dioxide</strong></p>
+
+		
+<p>A dilute acid is added to a metal hydrogen carbonate to form a salt, water and carbon dioxide gas. The salt is formed by the metal cation and the anion from the acid. In this reaction the metal hydrogen carbonate is acting as a base. For example:</p>
+
+		
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>hydrochloric acid</mtext>
+  </mrow>
+  <mo>+</mo>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>zinc bicarbonate</mtext>
+  </mrow>
+  <mo stretchy="false">→<!-- → --></mo>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>b</mi>
+    <mi>l</mi>
+    <mi>u</mi>
+    <mi>e</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>zinc</mtext>
+  </mrow>
+  <mtext mathcolor="red">\textcolor</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi>r</mi>
+    <mi>e</mi>
+    <mi>d</mi>
+  </mrow>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mtext>&nbsp;chloride</mtext>
+  </mrow>
+</mrow><annotation encoding="math/tex">\textcolor{red}{\text{hydrochloric acid}} + \textcolor{blue}{\text{zinc bicarbonate}} \to \textcolor{blue}{\text{zinc}} \textcolor{red}{\text{ chloride}}</annotation></semantics></math> + water + carbon dioxide</p>
+
+		
+<p>\(2\text{HCl}(\text{aq}) + \text{Zn}(\text{HCO}_{3})_{2}(\text{s})\) <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mo stretchy="false">→<!-- → --></mo>
+<annotation encoding="math/tex">\to</annotation></semantics></math> \(&gt;\text{ZnCl}_{2}(\text{aq}) + 2\text{H}_{2}\text{O}(\text{ℓ}) + 2\text{CO}_{2}(\text{g})\)</p>
+
+	      </li>
+</ul></div><div class="example" data-class="activity" data-type="Activity"><span class="title">The hazardous nature of acids and bases</span><p>
+</p><p></p><p>Search for information about the following strong acids and bases:</p><p></p><p>
+</p><p></p><ul data-class="ListBulleted"><li>
+		
+<p>Hydrochloric acid (\(\text{HCl}\))</p>
+
+	      </li>
+<li>
+		
+<p>Sulfuric acid (\(\text{H}_{2}\text{SO}_{4}\))</p>
+
+	      </li>
+<li>
+		
+<p>Sodium hydroxide (\(\text{NaOH}\))</p>
+
+	      </li>
+<li>
+		
+<p>Potassium hydroxide (\(\text{KOH}\))</p>
+
+	      </li>
+</ul><p></p><p></p><p>Write a report which includes:</p><p></p><p>
+</p><p></p><ul data-class="ListBulleted"><li>
+		
+<p>The uses of these compounds in industry</p>
+
+	      </li>
+<li>
+		
+<p>If applicable, the environmental waste that contains these compounds</p>
+
+	      </li>
+<li>
+		
+<p>What the effect of a large spillage of these compounds would be</p>
+
+	      </li>
+</ul><p></p></div>
+<div class="teachers-guide" data-unknown="true">
+<p>The following is an example of the sort of information learners should report on:</p>
+
+<p><strong>Hydrochloric acid</strong></p>
+
+<p>Hydrochloric acid is used industrially to clean rust from iron or steel as well as in the refining of ores. If released into the environment hydrochloric acid will lower the pH of any water it pollutes. This change in pH can seriously affect the growth of plants and damage ecosystems.</p>
+</div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p>
+	      
+</p><p>Magnesium carbonate (\(\text{MgCO}_{3}\)) is dissolved in nitric acid (\(\text{HNO}_{3}\)). Give the balanced chemical equation for this reaction.</p>
+
+	    <p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+
+
+<p></p><p></p><div class="title">What are the reactants?</div><p>An acid (\(\text{HNO}_{3}\)) and a metal carbonate (\(\text{MgCO}_{3}\)).</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+
+
+
+
+<p></p><p></p><div class="title">What will the products be?</div><p>As this is the reaction of an acid and a metal carbonate the products will be a salt, water and carbon dioxide.</p><p>nitric acid + magnesium carbonate <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mo stretchy="false">→<!-- → --></mo>
+<annotation encoding="math/tex">\to</annotation></semantics></math> salt + water + carbon dioxide</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+
+
+
+
+<p></p><p></p><div class="title">What is the formula of the salt?</div><p>The cation will come from the metal carbonate (\(\text{Mg}^{2+}\)). The anion will come from the acid (\(\text{NO}_{3}^{-}\)). Due to the charges on the cation and anion there must be two \(\text{NO}_{3}^{-}\) for every one \(\text{Mg}^{2+}\).</p><p>Therefore the formula for the salt will be: \(\text{Mg}(\text{NO}_{3})_{2}\).</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+
+
+<p></p><p></p><div class="title">Write the equation for this reaction</div><p>\(\text{HNO}_{3}(\text{aq}) + \text{MgCO}_{3}(\text{s})\) <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mo stretchy="false">→<!-- → --></mo>
+<annotation encoding="math/tex">\to</annotation></semantics></math> \(\text{Mg}(\text{NO}_{3})_{2}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ}) + \text{CO}_{2}(\text{g})\)</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+
+
+
+
+
+
+<p></p><p></p><div class="title">Make sure that the equation is balanced</div><p>The equation is not balanced.</p><table><caption>Table 2</caption><tbody><tr><td></td><td><p><strong>Number on left</strong></p></td><td><p><strong>Number on right</strong></p></td></tr><tr><td><p><strong>H</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>1</mtext>
+<annotation encoding="math/tex">\text{1}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>2</mtext>
+<annotation encoding="math/tex">\text{2}</annotation></semantics></math></p></td></tr><tr><td><p><strong>N</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>1</mtext>
+<annotation encoding="math/tex">\text{1}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>2</mtext>
+<annotation encoding="math/tex">\text{2}</annotation></semantics></math></p></td></tr><tr><td><p><strong>O</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>6</mtext>
+<annotation encoding="math/tex">\text{6}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>9</mtext>
+<annotation encoding="math/tex">\text{9}</annotation></semantics></math></p></td></tr><tr><td><p><strong>Mg</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>1</mtext>
+<annotation encoding="math/tex">\text{1}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>1</mtext>
+<annotation encoding="math/tex">\text{1}</annotation></semantics></math></p></td></tr><tr><td><p><strong>C</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>1</mtext>
+<annotation encoding="math/tex">\text{1}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>1</mtext>
+<annotation encoding="math/tex">\text{1}</annotation></semantics></math></p></td></tr></tbody></table><p>To balance this equation there needs to be two nitric acid molecules on the left hand side.</p><p>\(2\text{HNO}_{3}(\text{aq}) + \text{MgCO}_{3}(\text{s})\) <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mo stretchy="false">→<!-- → --></mo>
+<annotation encoding="math/tex">\to</annotation></semantics></math> \(\text{Mg}(\text{NO}_{3})_{2}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ}) + \text{CO}_{2}(\text{g})\)</p><table><caption>Table 3</caption><tbody><tr><td></td><td><p><strong>Number on left</strong></p></td><td><p><strong>Number on right</strong></p></td></tr><tr><td><p><strong>H</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>2</mtext>
+<annotation encoding="math/tex">\text{2}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>2</mtext>
+<annotation encoding="math/tex">\text{2}</annotation></semantics></math></p></td></tr><tr><td><p><strong>N</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>2</mtext>
+<annotation encoding="math/tex">\text{2}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>2</mtext>
+<annotation encoding="math/tex">\text{2}</annotation></semantics></math></p></td></tr><tr><td><p><strong>O</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>9</mtext>
+<annotation encoding="math/tex">\text{9}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>9</mtext>
+<annotation encoding="math/tex">\text{9}</annotation></semantics></math></p></td></tr><tr><td><p><strong>Mg</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>1</mtext>
+<annotation encoding="math/tex">\text{1}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>1</mtext>
+<annotation encoding="math/tex">\text{1}</annotation></semantics></math></p></td></tr><tr><td><p><strong>C</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>1</mtext>
+<annotation encoding="math/tex">\text{1}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>1</mtext>
+<annotation encoding="math/tex">\text{1}</annotation></semantics></math></p></td></tr></tbody></table><p>The equation is now  balanced.</p><p></p><p></p></div></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p>
+	      
+</p><p>Hydroiodic acid (\(\text{HI}\)) is added to solid potassium hydroxide (\(\text{KOH}\)). Give the balanced chemical equation for this reaction.</p>
+
+	    <p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+
+
+<p></p><p></p><div class="title">What are the reactants?</div><p>An acid (\(\text{HI}\)) and a base (\(\text{KOH}\)).</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+
+
+
+
+<p></p><p></p><div class="title">What will the products be?</div><p>As this is the reaction of an acid and base (which contains a hydroxide anion) the products will be a salt and water.</p><p>hydroiodic acid + potassium hydroxide <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mo stretchy="false">→<!-- → --></mo>
+<annotation encoding="math/tex">\to</annotation></semantics></math> salt + water</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+
+
+
+
+<p></p><p></p><div class="title">What is the formula of the salt?</div><p>The cation will come from the base (\(\text{K}^{+}\)). The anion will come from the acid (\(\text{I}^{-}\)). Due to the charges on the cation and anion there must be one \(\text{K}^{+}\) for every one \(\text{I}^{-}\).</p><p>Therefore the formula for the salt will be: \(\text{KI}\).</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+
+
+
+
+
+
+<p></p><p></p><div class="title">Write the equation for this reaction</div><p>\(\text{HI}(\text{aq}) + \text{KOH}(\text{s})\) <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mo stretchy="false">→<!-- → --></mo>
+<annotation encoding="math/tex">\to</annotation></semantics></math> \(\text{KI}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})\)</p><p>This can also be written:</p><p>\(\text{HI}(\text{aq}) + \text{KOH}(\text{s})\) <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mo stretchy="false">→<!-- → --></mo>
+<annotation encoding="math/tex">\to</annotation></semantics></math> \(\text{K}^{+}(\text{aq}) + \text{I}^{-}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})\)</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+
+
+<p></p><p></p><div class="title">Make sure that the equation is balanced</div><p>The equation is balanced.</p><p></p><p></p></div></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p>
+	      
+</p><p>Sulfuric acid (\(\text{H}_{2}\text{SO}_{4}\)) and ammonia (\(\text{NH}_{3}\)) are combined. Give the balanced chemical equation for this reaction.</p>
+
+	    <p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+
+
+<p></p><p></p><div class="title">What are the reactants?</div><p>An acid (\(\text{H}_{2}\text{SO}_{4}\)) and a base (\(\text{NH}_{3}\)).</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+
+
+
+
+<p></p><p></p><div class="title">What will the products be?</div><p>As this is the reaction of an acid and a base (with no hydroxide anion), there will be a salt as a product. There may or may not be another product.</p><p>sulfuric acid + ammonia <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mo stretchy="false">→<!-- → --></mo>
+<annotation encoding="math/tex">\to</annotation></semantics></math> salt (+ maybe another product)</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+
+
+
+
+<p></p><p></p><div class="title">What is the formula of the salt?</div><p>The cation will come from the base (\(\text{NH}_{4}^{+}\)). The anion will come from the acid (\(\text{SO}_{4}^{2-}\)). Due to the charges on the cation and anion there must be two \(\text{NH}_{4}^{+}\) for every one \(\text{SO}_{4}^{2-}\).</p><p>Therefore the formula for the salt will be: \((\text{NH}_{4})_{2}\text{SO}_{4}\).</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+
+
+<p></p><p></p><div class="title">Write the equation for this reaction so far</div><p>\(\text{H}_{2}\text{SO}_{4}(\text{aq}) + \text{NH}_{3}(\text{g})\) <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mo stretchy="false">→<!-- → --></mo>
+<annotation encoding="math/tex">\to</annotation></semantics></math> \((\text{NH}_{4})_{2}\text{SO}_{4}(\text{aq})\) (+ maybe another product)</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+
+
+<p></p><p></p><div class="title">Determine if there will be another product</div><p>There are no atom types that are not accounted for on both sides of the equation, therefore it is unlikely that there will be another product. If the equation can be balanced then there is no other product.</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+
+
+
+
+
+
+<p></p><p></p><div class="title">Make sure that the equation is balanced</div><p>The equation is not balanced.</p><table><caption>Table 4</caption><tbody><tr><td></td><td><p><strong>Number on left</strong></p></td><td><p><strong>Number on right</strong></p></td></tr><tr><td><p><strong>H</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>5</mtext>
+<annotation encoding="math/tex">\text{5}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>8</mtext>
+<annotation encoding="math/tex">\text{8}</annotation></semantics></math></p></td></tr><tr><td><p><strong>S</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>1</mtext>
+<annotation encoding="math/tex">\text{1}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>1</mtext>
+<annotation encoding="math/tex">\text{1}</annotation></semantics></math></p></td></tr><tr><td><p><strong>O</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>4</mtext>
+<annotation encoding="math/tex">\text{4}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>4</mtext>
+<annotation encoding="math/tex">\text{4}</annotation></semantics></math></p></td></tr><tr><td><p><strong>N</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>1</mtext>
+<annotation encoding="math/tex">\text{1}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>2</mtext>
+<annotation encoding="math/tex">\text{2}</annotation></semantics></math></p></td></tr></tbody></table><p>To balance this equation there needs to be two ammonia molecules on the left hand side.</p><p>\(\text{H}_{2}\text{SO}_{4}(\text{aq}) + 2\text{NH}_{3}(\text{g})\) <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mo stretchy="false">→<!-- → --></mo>
+<annotation encoding="math/tex">\to</annotation></semantics></math> \((\text{NH}_{4})_{2}\text{SO}_{4}(\text{aq})\)</p><table><caption>Table 5</caption><tbody><tr><td></td><td><p><strong>Number on left</strong></p></td><td><p><strong>Number on right</strong></p></td></tr><tr><td><p><strong>H</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>8</mtext>
+<annotation encoding="math/tex">\text{8}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>8</mtext>
+<annotation encoding="math/tex">\text{8}</annotation></semantics></math></p></td></tr><tr><td><p><strong>S</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>1</mtext>
+<annotation encoding="math/tex">\text{1}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>1</mtext>
+<annotation encoding="math/tex">\text{1}</annotation></semantics></math></p></td></tr><tr><td><p><strong>O</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>4</mtext>
+<annotation encoding="math/tex">\text{4}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>4</mtext>
+<annotation encoding="math/tex">\text{4}</annotation></semantics></math></p></td></tr><tr><td><p><strong>N</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>2</mtext>
+<annotation encoding="math/tex">\text{2}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtext>2</mtext>
+<annotation encoding="math/tex">\text{2}</annotation></semantics></math></p></td></tr></tbody></table><p>The equation is now balanced.</p><p></p><p></p></div></div><h1 class="title" data-class="complex-section">Exercises</h1>
+<div class="problemset" data-unknown="true">
+<div class="multipart" data-unknown="true">
+<div class="header" data-unknown="true">
+
+<p>Write balanced equations for these acid and metal reactions:</p>
+</div><div class="exercise" data-class="entry">
+<div class="problem"><p></p><p>
+		  
+</p><p>Hydrochloric acid and calcium</p>
+
+		<p></p><p></p></div><div class="solution">
+		  
+
+
+		  
+
+
+		  
+
+
+		  
+
+
+		  
+
+
+		  
+
+
+		<p></p></div></div><div class="exercise" data-class="entry">
+<div class="problem"><p></p><p>
+		  
+</p><p>Nitric acid and magnesium</p>
+
+		<p></p><p></p></div><div class="solution">
+		  
+
+
+		  
+
+
+		  
+
+
+		  
+
+
+		  
+
+
+		  
+
+
+		<p></p></div></div></div><div class="multipart" data-unknown="true">
+<div class="header" data-unknown="true">
+
+<p>Write balanced equations for these acid and metal hydroxide reactions:</p>
+</div><div class="exercise" data-class="entry">
+<div class="problem"><p></p><p>
+		  
+</p><p>Hydrochloric acid and magnesium hydroxide</p>
+
+		<p></p><p></p></div><div class="solution">
+		  
+
+
+		  
+
+
+		  
+
+
+		  
+
+
+		  
+
+
+		  
+
+
+		<p></p></div></div><div class="exercise" data-class="entry">
+<div class="problem"><p></p><p>
+		  
+</p><p>Nitric acid and aluminium hydroxide</p>
+
+		<p></p><p></p></div><div class="solution">
+		  
+
+
+		  
+
+
+		  
+
+
+		  
+
+
+		  
+
+
+		  
+
+
+		<p></p></div></div></div><div class="multipart" data-unknown="true">
+<div class="header" data-unknown="true">
+
+<p>Write balanced equations for these acid and metal oxide reactions:</p>
+</div><div class="exercise" data-class="entry">
+<div class="problem"><p></p><p>
+		  
+</p><p>Hydrochloric acid and aluminium oxide</p>
+
+		<p></p><p></p></div><div class="solution">
+		  
+
+
+		  
+
+
+		  
+
+
+		  
+
+
+		  
+
+
+		  
+
+
+		<p></p></div></div><div class="exercise" data-class="entry">
+<div class="problem"><p></p><p>
+		  
+</p><p>Sulfuric acid and magnesium oxide</p>
+
+		<p></p><p></p></div><div class="solution">
+		  
+
+
+		  
+
+
+		  
+
+
+		  
+
+
+		  
+
+
+		<p></p></div></div></div></div></body>
+</html>
