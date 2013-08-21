@@ -1,0 +1,1450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+  <head>undefined</head>
+  <body><h2>Acids and bases</h2>
+<div class="teachers-guide">
+<p>In this chapter learners will look at acids and bases. In Grade 11 learners were introduced to a lot of the concepts that are expanded on in this chapter. These include acid and base models and definitions, conjugate acid-base pairs, and some basic acid-base reactions. It is important that the learners have a good understanding of the work covered in <a data-class="ExternalLink" href="todo">Chapter 8</a>, specifically equilibrium constants, before studying this chapter.</p>
+
+<p>New concepts related to acids and bases will also be covered in this chapter. These include pH, more in depth information on titrations and indicators, and real world applications of acids and bases.</p>
+
+<p>The following topics are covered in this chapter.</p>
+<ul data-class="ListBulleted"><li>
+	    
+<p><strong>What are acids and bases?</strong></p>
+
+	    
+<p>This section is largely revision from Grade 11. The Arrhenius and Brønsted-Lowry models for acids and bases are discussed. Conjugate acid-base pairs are also covered in detail in this section, including worked examples on how to determine the conjugate base of an acid and the conjugate acid of a base.</p>
+
+	  </li>
+<li>
+	    
+<p><strong>Strong and weak acids and bases, and concentrated and dilute solutions</strong></p>
+
+	    
+<p>The concept of strong and weak acids and bases is often confused with the concept of concentrated and dilute solutions. It is important that the learners understand the difference between these concepts, which are discussed in detail in this section. The exercises will help to determine if the learners truly understand this work.</p>
+
+	  </li>
+<li>
+	    
+<p><strong><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{a}}</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{b}}</annotation></semantics></math></strong></p>
+
+	    
+<p>Although learners will not have encountered these terms before, the idea of an equilibrium constant should be familiar to them after encountering the equilibrium constant (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{c}}</annotation></semantics></math>) in <a data-class="ExternalLink" href="todo">Chapter 8</a>. The values of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{a}}</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{b}}</annotation></semantics></math> should be tied to the ideas of strong and weak acids and bases.</p>
+
+	  </li>
+<li>
+	    
+<p><strong>Acid-base reactions</strong></p>
+
+	    
+<p>These neutralisation reactions should be familiar to learners from Grade 11. They should revise these reactions through the revision activity provided. It is important that learners undersand how salts are formed from the acid and base, as well as the other products that are likely in each type of reaction.</p>
+
+	  </li>
+<li>
+	    
+<p><strong>pH</strong></p>
+
+	    
+<p>The pH scale is a logarithmic scale with a base of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math>. So a change in pH of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3}</annotation></semantics></math> is a significant change in the concentration of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math> ions. A good understanding of pH is also essential to understanding how indicators work. This section covers why a neutralised solution will not necessarily have a pH of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{7}</annotation></semantics></math>, the concept of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{w}}</annotation></semantics></math>, and the hydrolysis of salts. Indicators are also covered in this section and it important that learners understand how to choose an indicator for an experiment before starting the next section on titrations.</p>
+
+	  </li>
+<li>
+	    
+<p><strong>Titrations</strong></p>
+
+	    
+<p>Titrations are covered in great detail in this section. This includes learners preparing their own standard solutions, performing several titration experiments, and doing titration calculations. The learners will be working with acids and bases a lot in this section and so should be reminded of proper laboratory safety procedures. Each experiment will take a large amount of time and at least an entire class should be dedicated to these experiments. If possible one class should be for the preparation of a standard solution and the first titration experiment, while another, separate class is for to the second titration experiment.</p>
+
+	  </li>
+<li>
+	    
+<p><strong>Applications of acids and bases</strong></p>
+
+	    
+<p>The applications covered are the production of chlorine in industry and the use of bases in hair products. The production of chlorine is not covered in great detail in this chapter, for more detail see <a data-class="ExternalLink" href="todo">Chapter 13</a>. The hair care products discussed include: hair permanent waving applications, hair relaxers, and hair dyes. The learners must also perform an experiment using drain cleaners or caustic soda. These products have a high pH and can burn skin. This lesson can also be used to consolidate information by going through the chapter summary and doing the end of chapter exercises.</p>
+
+	  </li>
+</ul><p>There are several experiments in this chapter. The learners will be using dangerous chemicals and should be properly instructed on the correct use of safety equipment, including safety goggles, gloves and protective clothing. They should also be reminded not to sniff any chemicals as the fumes can be dangerous as well. More information on laboratory procedures as well as safety precautions is provided in <a data-class="ExternalLink" href="todo">Chapter 1</a> (Science skills).</p>
+
+<p>In the informal assessment the learners must determine the temperature change caused by the exothermic reaction of sodium hydroxide and hydrochloric acid. They should understand why the temperature stops changing when all the sodium hydroxide has been neutralised.</p>
+
+<p>The formal assessment requires that the learners prepare a standard solution of sodium hydroxide. It is important that the learners understand why the mass must be known to a high accuracy, why the beakers must be rinsed with water (with the rinsings added to the volumetric flask), why the sides of the volumetric flask must be washed with water, and why it is important to have their eye level with the mark on the volumetric flask when filling to that
+	  mark.</p>
+</div><h3>What are acids and bases?</h3>
+
+<p>We encounter many examples of acids and bases in our daily lives. Some common examples of household items that contain acids are vinegar (contains acetic acid), lemon juice (contains citric and ascorbic acid), wine (contains tartaric acid). These acids are often found to have a sour taste. Hydrochloric acid, sulfuric acid and nitric acid are examples of acids that are more likely to be found in laboratories and industry.</p>
+<figure class="figure" id="fig-acidsandbases-acids"><img width="546" alt="Sean MacEntee, Healing and Eating and Dean McCoy on Flickr" src="photos/acids.jpg"/><figcaption class="caption"><p>
+	      
+</p><p>Some common household acids.</p>
+
+	    </figcaption></figure><p>Hydrochloric acid is also found in the gastric juices in the stomach. Fizzy drinks contain carbonic acid, while tea and wine contain tannic acid. People even use acids in an artistic process known as <em>acid etching</em>. In acid etching, a metal is covered in a waxy material that is resistant to acid. The bare metal is then exposed in the desired pattern and the sample is placed in an acid bath. The top layers of the exposed metal are permanently removed, creating the desired image. Some examples of this are shown below (Figure <a href="#fig-acidsandbases-acidetching" data-class="InternalLink">fig-acidsandbases-acidetching</a>).</p>
+<figure class="figure" id="fig-acidsandbases-acidetching"><img width="468" alt="Waifer X and Tobyotter on Flickr" src="photos/acidetching.jpg"/><figcaption class="caption"><p>
+	      
+</p><p>Some examples of the acid etching of metal.</p>
+
+	    </figcaption></figure><p>Bases that you may know about include sodium hydroxide (commonly known as caustic soda), ammonium hydroxide and ammonia. Some of these are found in household cleaning products. Bases are usually found to have a bitter taste and feel <em>slippery</em> (soap is a good example). Acids and bases are also important commercial components in the fertiliser, plastics, and petroleum refining industries. Some common acids and bases, and their chemical formulae, are shown in Table <a href="#tab-acids and bases" data-class="InternalLink">tab-acids and bases</a>.</p>
+<figure class="figure" id="tab-acids and bases"><table summary="
+              "><tbody><tr><td><p><strong>Acid</strong></p></td><td><p><strong>Formula</strong></p></td><td><p><strong>Base</strong></p></td><td><p><strong>Formula</strong></p></td></tr><tr><td><p>Hydrochloric acid</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math></p></td><td><p>Sodium hydroxide</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math></p></td></tr><tr><td><p>Sulfuric acid</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}</annotation></semantics></math></p></td><td><p>Potassium hydroxide</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{KOH}</annotation></semantics></math></p></td></tr><tr><td><p>Nitric acid</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HNO}_{3}</annotation></semantics></math></p></td><td><p>Magnesium hydroxide</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}(\text{OH})_{2}</annotation></semantics></math></p></td></tr><tr><td><p>Oxalic acid</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{C}_{2}\text{O}_{4}</annotation></semantics></math></p></td><td><p>Calcium hydroxide</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Ca}(\text{OH})_{2}</annotation></semantics></math></p></td></tr><tr><td><p>Sulfurous acid</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{3}</annotation></semantics></math></p></td><td><p>Sodium bicarbonate</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaHCO}_{3}</annotation></semantics></math></p></td></tr><tr><td><p>Phosphoric acid</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{PO}_{4}</annotation></semantics></math></p></td><td><p>Sodium carbonate</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Na}_{2}\text{CO}_{3}</annotation></semantics></math></p></td></tr><tr><td><p>Acetic (ethanoic) acid</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{COOH}</annotation></semantics></math></p></td><td><p>Ammonium hydroxide</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{4}\text{OH}</annotation></semantics></math></p></td></tr><tr><td><p>Carbonic acid</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{CO}_{3}</annotation></semantics></math></p></td><td><p>Ammonia</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math></p></td></tr></tbody></table><div class="caption"><p>
+              
+</p><p>Some common acids and bases and their chemical formulae.</p>
+
+            </div></figure><div class="note" data-type="tip">
+<p><strong>Dissociation</strong> is the breaking apart of a molecule to form smaller molecules or ions, usually in a reversible manner.</p>
+
+<p>For more information on <em>dissociation</em>, refer to Grade 10.</p>
+</div><div class="note" data-type="aside">
+<p>The wild lupin plant takes nitrogen from the atmosphere and creates <strong>ammonia</strong>. It uses that ammonia to fertilise the soil for itself and the surrounding plants.</p>
+<figure class="figure"><img width="171" alt="Photo by Northfielder on Flickr" src="photos/lupin.jpg"/></figure></div><div class="note" data-type="aside">
+<p>Sodium bicarbonate is used in baking. It reacts with the acids in dough to release carbon dioxide. The carbon dioxide then causes the dough to expand.</p>
+<figure class="figure"><img width="156" alt="Photo by Phil and Pam on Flickr" src="photos/biscuit.jpg"/></figure></div><div class="example" data-class="activity" data-type="Activity"><div class="title">Naturally occurring acids and bases</div>
+<p>Do research on three naturally occurring acids, and one naturally occurring base. That is, acids and bases that are found mostly in plants (not man-made).</p>
+
+<p>Your research should include:</p>
+<ul data-class="ListBulleted"><li>
+		
+<p>Where the acid or base is found (e.g. the plant in which it occurs).</p>
+
+	      </li>
+<li>
+		
+<p>Indigenous uses of the plant.</p>
+
+	      </li>
+<li>
+		
+<p>What the chemical composition of the acid or base is.</p>
+
+	      </li>
+</ul></div>
+
+<p>The next section deals with some models used to describe acids and bases. It is important to have a definition so that acids and bases can be correctly identified in reactions.</p>
+<h3>Models for acids and bases</h3>
+
+<p>For the acids you will encounter this year, an acid is a molecule that donates a <strong><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math></strong> ion.</p>
+
+<p>Substances that will act as a base include hydroxides, oxides, carbonates or hydrogen carbonate, among others. Bases often release free hydroxide ions (<strong><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math></strong>) when dissociating in water.</p>
+<h4>Arrhenius model for acids and bases</h4>
+
+<p>A number of models for acids and bases have been developed over the years. One of the earliest was the <strong>Arrhenius</strong> definition. In 1884, Arrhenius discovered that water dissociates (splits up) into hydronium <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">(\text{H}_{3}\text{O}^{+})</annotation></semantics></math> and hydroxide <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">(\text{OH}^{-})</annotation></semantics></math> ions according to the following equation:</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">2\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">⇋ {\textcolor{red}{\text{H}_{3}{\text{O}}^{+}{\text{(aq)}}}} + {\textcolor{blue}{\text{OH}^{-}{\text{(aq)}}}}</annotation></semantics></math></p>
+
+<p>Another way of writing this is:</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">⇋ {\textcolor{red}{\text{H}^{+}{\text{(aq)}}}} + {\textcolor{blue}{\text{OH}^{-}{\text{(aq)}}}}</annotation></semantics></math></p>
+
+<p>Arrhenius described an acid as a compound that forms <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math> when added to water. An Arrhenius acid therefore increases the concentration of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math> ions ( [<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math>] ) in water. Arrhenius described a base as a compound that dissociates in water to form <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math> ions. An Arrhenius base therefore increases the concentration of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math> ions ([<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math>] ) in water.</p>
+<dl class="definition"><dt>Arrhenius acids and bases</dt><dd>
+		
+<p>An Arrhenius acid forms <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math> in water (increases [<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math>]). An Arrhenius base forms <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math> in water (increases [<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math>]).</p>
+
+	      </dd></dl><figure class="figure" id="tab-acidsandbases-arrhenius"><table summary="
+		"><tbody><tr><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\textbf{\Large Arrhenius acid}}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{\Large increases [\textcolor{red}{H$_{3}$O$^{+}$}]}</annotation></semantics></math></p></td></tr><tr><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\textbf{\Large Arrhenius base}}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{\Large increases [\textcolor{blue}{OH$^{-}$}]}</annotation></semantics></math></p></td></tr></tbody></table><div class="caption"><p>
+		
+</p><p>The <strong>Arrhenius</strong> definition of acids and bases.</p>
+
+	      </div></figure><p>Look at the following examples showing the dissociation of hydrochloric acid and sodium hydroxide:</p>
+<ol data-class="ListEnumerated"><li>
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{red}{\text{HCl(aq)}}}</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to {\textcolor{red}{\text{H}_{3}{\text{O}}^{+}{\text{(aq)}}}}</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Cl}^{-}(\text{aq})</annotation></semantics></math></p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{red}{\text{Hydrochloric acid}}}</annotation></semantics></math> in water increases the concentration of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{red}{\text{H}_{3}{\text{O}}^{+}}}</annotation></semantics></math> ions and is therefore an <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{red}{\textit{acid}}}</annotation></semantics></math>.</p>
+
+	      </li>
+<li>
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{blue}{\text{NaOH(s)}}}</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Na}^{+}(\text{aq})</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{blue}{\text{OH}^{-}{\text{(aq)}}}}</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{blue}{\text{Sodium hydroxide}}}</annotation></semantics></math> in water increases the concentration of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{blue}{\text{OH}^{-}}}</annotation></semantics></math> ions and is therefore a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{blue}{\textit{base}}}</annotation></semantics></math>.</p>
+
+	      </li>
+</ol><p>However, this definition can only be used for acids and bases <strong>in water</strong>. Since there are many reactions which do not occur in water, it was important to come up with a much broader definition for acids and bases.</p>
+<h4>Brønsted-Lowry model for acids and bases</h4>
+
+<p>In 1923, Lowry and Brønsted took the work of Arrhenius further to develop a broader definition for acids and bases. The <strong>Brønsted-Lowry model</strong> defines acids and bases in terms of their ability to donate or accept protons (Table <a href="#tab-acidsandbases-bronstedlowry" data-class="InternalLink">tab-acidsandbases-bronstedlowry</a>).</p>
+<div class="note" data-type="aside">
+<p>Hydrogen atoms contain only one proton. <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math> is a hydrogen atom that has lost its electron and is often called a proton.</p>
+</div><dl class="definition"><dt>Brønsted-Lowry acids and bases</dt><dd>
+		
+<p>An <strong>acid</strong> is a substance that donates (gives away) protons (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math>). A <strong>base</strong> is a substance that accepts (takes) protons.</p>
+
+	      </dd></dl><p>Under the Brønsted-Lowry definition: an <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{acid}}</annotation></semantics></math> is a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\textbf{proton donor}}</annotation></semantics></math>; a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\text{base}}</annotation></semantics></math> is a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\textbf{proton}}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\textbf{acceptor}}</annotation></semantics></math>.</p>
+<figure class="figure" id="tab-acidsandbases-bronstedlowry"><table summary="
+		"><tbody><tr><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{\Large{\textcolor{red}{\textbf{Brønsted-Lowry acid}}}}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{\Large donates H$^{+}$}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{\Large proton \textcolor{red}{\textbf{donor}}}</annotation></semantics></math></p></td></tr><tr><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{\Large{\textcolor{blue}{\textbf{Brønsted-Lowry base}}}}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{\Large accepts H$^{+}$}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{\Large proton \textcolor{blue}{\textbf{acceptor}}}</annotation></semantics></math></p></td></tr></tbody></table><div class="caption"><p>
+		
+</p><p>The <strong>Brønsted-Lowry</strong> definition of acids and bases.</p>
+
+	      </div></figure><p>Below are some examples:</p>
+<ol data-class="ListEnumerated"><li>
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}(\text{aq}) + \text{NH}_{3}(\text{g})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{4}^{+}(\text{aq}) + \text{Cl}^{-}(\text{aq})</annotation></semantics></math></p>
+
+		
+<p>In order to decide which substance is a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{red}{\text{proton donor}}}</annotation></semantics></math> and which is a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{blue}{\text{proton acceptor}}}</annotation></semantics></math>, we need to look at what happens to each reactant. The reaction can be broken down as follows:</p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}(\text{aq})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\newrgbcolor{darkgreen}{0 0.7 0}{\textcolor{darkgreen}{\text{H}^{+}}}</annotation></semantics></math>(aq) + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Cl}^{-}(\text{aq})</annotation></semantics></math></p>
+
+		<ul data-class="ListBulleted"><li>
+		    
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> donates a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{darkgreen}{\text{proton}}</annotation></semantics></math>.</p>
+
+		    
+<p>It is a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{red}{\textit{proton donor}}}</annotation></semantics></math> and is therefore the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{red}{\textbf{acid}}}</annotation></semantics></math>.</p>
+
+		  </li>
+</ul><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}(\text{g})</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{darkgreen}{\text{H}^{+}}}{\text{(aq)}} \to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{4}^{+}(\text{aq})</annotation></semantics></math></p>
+
+		<ul data-class="ListBulleted"><li>
+		    
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math> accepts a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{darkgreen}{\text{proton}}</annotation></semantics></math>.</p>
+
+		    
+<p>It is a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{blue}{\textit{proton acceptor}}}</annotation></semantics></math> and is therefore the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{blue}{\textbf{base}}}</annotation></semantics></math>.</p>
+
+		  </li>
+</ul></li>
+<li>
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{COOH}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}(\text{aq}) + \text{CH}_{3}\text{COO}^{-}(\text{aq})</annotation></semantics></math></p>
+
+		
+<p>The reaction can be broken down as follows:</p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{COOH}(\text{aq})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{COO}^{-}(\text{aq})</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{darkgreen}{\text{H}^{+}}}</annotation></semantics></math>(aq)</p>
+
+		<ul data-class="ListBulleted"><li>
+		    
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{COOH}</annotation></semantics></math> donates a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{darkgreen}{\text{proton}}</annotation></semantics></math>.</p>
+
+		    
+<p>It is a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{red}{\textit{proton donor}}}</annotation></semantics></math> and is therefore the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{red}{\textbf{acid}}}</annotation></semantics></math>.</p>
+
+		  </li>
+</ul><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{darkgreen}{\text{H}^{+}}}{\text{(aq)}} \to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}(\text{aq})</annotation></semantics></math></p>
+
+		<ul data-class="ListBulleted"><li>
+		    
+<p>Water accepts a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{darkgreen}{\text{proton}}</annotation></semantics></math>.</p>
+
+		    
+<p>It is a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{blue}{\textit{proton acceptor}}}</annotation></semantics></math> and is therefore the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{blue}{\textbf{base}}}</annotation></semantics></math>.</p>
+
+		  </li>
+</ul></li>
+<li>
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}(\text{g}) + \text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{4}^{+}(\text{aq}) + \text{OH}^{-}(\text{aq})</annotation></semantics></math></p>
+
+		
+<p>The reaction can be broken down as follows:</p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}(\text{aq})</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{darkgreen}{\text{H}^{+}}}</annotation></semantics></math>(aq)</p>
+
+		<ul data-class="ListBulleted"><li>
+		    
+<p>Water donates a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{darkgreen}{\text{proton}}</annotation></semantics></math>.</p>
+
+		    
+<p>It is a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{red}{\textit{proton donor}}}</annotation></semantics></math> and is therefore the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{red}{\textbf{acid}}}</annotation></semantics></math>.</p>
+
+		  </li>
+</ul><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}(\text{g})</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{darkgreen}{\text{H}^{+}}}{\text{(aq)}} \to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{4}^{+}(\text{aq})</annotation></semantics></math></p>
+
+		<ul data-class="ListBulleted"><li>
+		    
+<p>Ammonia accepts a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{darkgreen}{\text{proton}}</annotation></semantics></math>.</p>
+
+		    
+<p>It is a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{blue}{\textit{proton acceptor}}}</annotation></semantics></math> and is therefore the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{blue}{\textbf{base}}}</annotation></semantics></math>.</p>
+
+		  </li>
+</ul><p>Notice that in <em>example <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math></em> <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{darkgreen}{\textbf{water}}</annotation></semantics></math> acted as a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{blue}{\textbf{base}}}</annotation></semantics></math>, while in <em>example <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3}</annotation></semantics></math></em> <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{darkgreen}{\textbf{water}}</annotation></semantics></math> acted as an <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{red}{\textbf{acid}}}</annotation></semantics></math>. Water can act as both an acid and a base depending on the reaction. A substance that can act as either an acid or a base is called <strong>amphoteric</strong>.</p>
+
+	      </li>
+</ol><dl class="definition"><dt>Amphoteric</dt><dd>
+		
+<p>An amphoteric substance is one that can act as an acid in one reaction, or a base in another reaction.</p>
+
+	      </dd></dl><div class="note" data-type="aside">
+<p>An amphoteric substance that contains both acidic and basic functional groups is called a <strong>ampholyte</strong>.</p>
+</div>
+<p>An <strong>amphiprotic</strong> substance is a amphoteric substance that can donate a proton in one reaction (a Brønsted-Lowry acid), or accept a proton in another reaction (a Brønsted-Lowry base).</p>
+<dl class="definition"><dt>Amphiprotic</dt><dd>
+		
+<p>An amphiprotic substance can donate a proton in one reaction, or accept a proton in another reaction.</p>
+
+	      </dd></dl><p>Substances such as ammonia (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math>), zinc oxide (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{ZnO}</annotation></semantics></math>), and beryllium hydroxide (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Be}(\text{OH})_{2}</annotation></semantics></math>) are amphoteric. Water and ammonia are also amphiprotic.</p>
+
+<p>An acid that releases only <em>one</em> <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{darkgreen}{\text{H}^{+}}}</annotation></semantics></math> ion per molecule of acid (e.g. <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{darkgreen}{\text{H}}</annotation></semantics></math>Cl) is referred to as <strong>mono</strong>protic. An acid that can release <em>two</em> <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{darkgreen}{\text{H}^{+}}}</annotation></semantics></math> ions per molecule of acid (e.g. <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{darkgreen}{\text{H}_{2}}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{SO}_{4}</annotation></semantics></math>) is referred to as <strong>di</strong>protic. Any acid than can donate <em>more than one</em> <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{darkgreen}{\text{H}^{+}}}</annotation></semantics></math> ion per molecule of acid can be referred to as <strong>poly</strong>protic (this means that diprotic acids are also polyprotic).</p>
+<h3>Conjugate acid-base pairs</h3>
+
+<p>Look at the reaction between hydrochloric acid and ammonia to form ammonium and chloride ions:</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}(\text{aq}) + \text{NH}_{3}(\text{g})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">⇋</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{4}^{+}(\text{aq}) + \text{Cl}^{-}(\text{aq})</annotation></semantics></math></p>
+
+<p>Looking at the <strong>forward reaction</strong> (i.e. the reaction that proceeds from <em>left</em> to <em>right</em>), the changes that take place can be shown as follows:</p>
+<ul data-class="ListBulleted"><li>
+	      
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{red}{\text{HCl(aq)}}} \to {\text{Cl}}^{-}{\text{(aq)}} + {\textcolor{darkgreen}{{\text{H}}^{+}{\text{(aq)}}}}</annotation></semantics></math></p>
+
+	    </li>
+<li>
+	      
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{blue}{\text{NH}_{3}{\text{(g)}}}} + {\textcolor{darkgreen}{\text{H}^{+}{\text{(aq)}}}} \to {\text{NH}_{4}^{+}{\text{(aq)}}}</annotation></semantics></math></p>
+
+	    </li>
+<li>
+	      
+<p>In the <em>forward reaction</em>, HCl is a proton donor (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{red}{\textbf{acid}}}</annotation></semantics></math>) and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math> is a proton acceptor (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{blue}{\textbf{base}}}</annotation></semantics></math>).</p>
+
+	    </li>
+</ul><p>Looking at the <strong>reverse reaction</strong> (i.e. the reaction that proceeds from <em>right</em> to <em>left</em>), the changes that take place are as follows:</p>
+<ul data-class="ListBulleted"><li>
+	      
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{blue}{\text{Cl}^{-}{\text{(aq)}}}} + {\textcolor{darkgreen}{{\text{H}}^{+}{\text{(aq)}}}} \to {\text{HCl(aq)}}</annotation></semantics></math></p>
+
+	    </li>
+<li>
+	      
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{red}{\text{NH}_{4}^{+}{\text{(aq)}}}} \to {\text{NH}_{3}{\text{(g)}}} + {\textcolor{darkgreen}{{\text{H}}^{+}{\text{(aq)}}}}</annotation></semantics></math></p>
+
+	    </li>
+<li>
+	      
+<p>In the <em>reverse reaction</em>, the chloride ion (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Cl}^{-}</annotation></semantics></math>) is the proton acceptor (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{blue}{\textbf{base}}}</annotation></semantics></math>) and the ammonium ion (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{4}^{+}</annotation></semantics></math>) is the proton donor (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\textcolor{red}{\textbf{acid}}}</annotation></semantics></math>).</p>
+
+	    </li>
+</ul><p>In the forward reaction <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{HCl}}</annotation></semantics></math> donates a proton (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math>) to form <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\text{Cl}^{-}}</annotation></semantics></math>. In the reverse reaction <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\text{Cl}^{-}}</annotation></semantics></math> accepts a proton to form <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{HCl}}</annotation></semantics></math>. <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\text{Cl}^{-}}</annotation></semantics></math> is the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\text{conjugate base}}</annotation></semantics></math> of the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{acid HCl}}</annotation></semantics></math>. So <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Cl}^{-}</annotation></semantics></math> are a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\newrgbcolor{orange}{1 0.27 0}{\textcolor{orange}{\textbf{conjugate acid-base pair}}}</annotation></semantics></math>.</p>
+
+<p>Similarly, in the forward reaction <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\text{NH}_{3}}</annotation></semantics></math> accepts a proton (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math>) to form <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{{\text{NH}}_{4}^{+}}</annotation></semantics></math>. In the reverse reaction <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{{\text{NH}}_{4}^{+}}</annotation></semantics></math> donates a proton to form <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\text{NH}_{3}}</annotation></semantics></math>. <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{NH}_{4}^{+}}</annotation></semantics></math> is the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{conjugate acid}}</annotation></semantics></math> of the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\text{base NH}_{3}}</annotation></semantics></math>. So <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{4}^{+}</annotation></semantics></math> are a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\newrgbcolor{purple}{0.78 0.13 1}{\textcolor{purple}{\textbf{conjugate acid-base}}}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{purple}{\textbf{pair}}</annotation></semantics></math>.</p>
+<figure class="figure"><div class="alternates"><img src="_plone_ignore_/cache/pspictures/2c4da28b2df1c89827d4b88b078af4d8.png"/><pre class="pspicture">&lt;code&gt;
+              (-4.3,-2)(4.4,1.5)
+	      \newrgbcolor{darkgreen}{0 0.39 0}
+	      \newrgbcolor{orange}{1 0.27 0}
+	      \newrgbcolor{purple}{0.78 0.13 1}
+	      \rput(-2.3,0){\textbf{{\red HCl(aq)} + {\blue NH$_{3}$(g)}}}
+	      \rput(2.5,0){\textbf{{\red NH$_{4}^{+}$(aq)} + {\blue Cl$^{-}$(aq)}}}
+	      \psline(-0.5,0.05)(0.5,0.05)
+	      \psline(-0.5,-0.05)(0.5,-0.05)
+	      \psline(0.5,0.05)(0.3,0.2)
+	      \psline(-0.5,-0.05)(-0.3,-0.2)
+	      \rput(-3.1,-0.6){acid}
+	      \rput(-1.5,-0.6){base}
+	      \rput(3.5,-0.5){conjugate}
+	      \rput(3.5,-0.9){base}
+	      \rput(1.6,-0.5){conjugate}
+	      \rput(1.6,-0.9){acid}
+	      \psline[linecolor=orange](-3.2,0.4)(-3.2,0.8)
+	      \psline[linecolor=orange](3.3,0.4)(3.3,0.8)
+	      \psline[linecolor=orange](-3.2,0.8)(3.3,0.8)
+	      \rput(0,1.05){\orange conjugate pair}
+	      \psline[linecolor=purple](-1.5,-1.1)(-1.5,-1.5)
+	      \psline[linecolor=purple](1.6,-1.1)(1.6,-1.5)
+	      \psline[linecolor=purple](-1.5,-1.5)(1.6,-1.5)
+	      \rput(0,-1.8){\purple conjugate pair}
+            &lt;/code&gt;</pre></div></figure><p>The reaction between ammonia and water is another example:</p>
+<figure class="figure"><div class="alternates"><img src="_plone_ignore_/cache/pspictures/7c31f38304b4f08ad9f7ecdafbd0051b.png"/><pre class="pspicture">&lt;code&gt;
+              (-4.3,-2)(4.4,1.5)
+	      \newrgbcolor{darkgreen}{0 0.39 0}
+	      \newrgbcolor{orange}{1 0.27 0}
+	      \newrgbcolor{purple}{0.78 0.13 1}
+	      \rput(-2.5,0){\textbf{{\red H$_{2}$O(&amp;#8467;)} + {\blue NH$_{3}$(g)}}}
+	      \rput(2.5,0){\textbf{{\red NH$_{4}^{+}$(aq)} + {\blue OH$^{-}$(aq)}}}
+	      \psline(-0.6,0.05)(0.4,0.05)
+	      \psline(-0.6,-0.05)(0.4,-0.05)
+	      \psline(0.4,0.05)(0.2,0.2)
+	      \psline(-0.6,-0.05)(-0.4,-0.2)
+	      \rput(-3.4,-0.6){acid}
+	      \rput(-1.7,-0.6){base}
+	      \rput(3.55,-0.5){conjugate}
+	      \rput(3.55,-0.9){base}
+	      \rput(1.45,-0.5){conjugate}
+	      \rput(1.45,-0.9){acid}
+	      \psline[linecolor=orange](-3.5,0.4)(-3.5,0.8)
+	      \psline[linecolor=orange](3.1,0.4)(3.1,0.8)
+	      \psline[linecolor=orange](-3.5,0.8)(3.1,0.8)
+	      \rput(-0.1,1.05){\orange conjugate pair}
+	      \psline[linecolor=purple](-1.7,-1.1)(-1.7,-1.5)
+	      \psline[linecolor=purple](1.45,-1.1)(1.45,-1.5)
+	      \psline[linecolor=purple](-1.7,-1.5)(1.45,-1.5)
+	      \rput(-0.1,-1.8){\purple conjugate pair}
+            &lt;/code&gt;</pre></div></figure><dl class="definition"><dt>Conjugate acid-base pair</dt><dd>
+	      
+<p>A conjugate acid-base pair contains two compounds that differ only by a hydrogen ion (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math>) and a charge of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{+1}</annotation></semantics></math>.</p>
+
+            </dd></dl><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="title">Conjugate acid-base pairs</div><div class="problem" data-class="question">
+	      
+<p>Determine the conjugate acid-base pairs for the following reaction:</p>
+
+	      
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HNO}_{3}(\text{aq}) + \text{OH}^{-}(\text{aq})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\rightleftharpoons</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NO}_{3}^{-}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+
+	    </div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Which reactant is an acid and which is a base?</div>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HNO}_{3}</annotation></semantics></math> is nitric acid. It donates a proton in the forward reaction:</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HNO}_{3}(\text{aq})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NO}_{3}^{-}(\text{aq}) + \text{H}^{+}(\text{aq})</annotation></semantics></math></p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math> accepts a proton in the forward reaction and is therefore the base:</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}(\text{aq}) + \text{H}^{+}(\text{aq})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Which product is the conjugate base of the acid?</div>
+
+<p>Nitric acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HNO}_{3}</annotation></semantics></math>) donates a proton to become <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NO}_{3}^{-}</annotation></semantics></math>. In the reverse reaction <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NO}_{3}^{-}</annotation></semantics></math> accepts a proton to become <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HNO}_{3}</annotation></semantics></math>. Therefore <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NO}_{3}^{-}</annotation></semantics></math> is the conjugate base of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HNO}_{3}</annotation></semantics></math>.</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NO}_{3}^{-}(\text{aq}) + \text{H}^{+}(\text{aq})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HNO}_{3}(\text{aq})</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Which product is the conjugate acid of the base?</div>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math> accepts a proton to become <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}</annotation></semantics></math>. In the reverse reaction <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}</annotation></semantics></math> donates a proton to become <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math>. Therefore <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}</annotation></semantics></math> is the conjugate acid of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math>.</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}(\text{aq}) + \text{H}^{+}(\text{aq})</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Label the conjugate acid-base pairs in this reaction</div>
+<div class="alternates"><img src="_plone_ignore_/cache/pspictures/b9b98749cb75699d1a05a971df17ad15.png"/><pre class="pspicture">&lt;code&gt;
+		    (-5.2,-2)(3.5,1)
+		    \rput(-4.2,0){\textbf{HNO$_{3}$(aq)}}
+		    \rput(-3.1,0){\textbf{+}}
+		    \rput(-2.1,0){\textbf{OH$^{-}$(aq)}}
+		    \rput(-0.95,0){\textbf{$\rightleftharpoons$}}
+		    \rput(0.2,0){\textbf{NO$_{3}^{-}$(aq)}}
+		    \rput(1.3,0){\textbf{+}}
+		    \rput(2.3,0){\textbf{H$_{2}$O(&amp;#8467;)}}
+		    \rput(-4.2,-0.6){\textbf{acid}}
+		    \rput(-2.1,-0.6){\textbf{base}}
+		    \rput(0.2,-0.5){\textbf{conjugate}}
+		    \rput(0.2,-0.9){\textbf{base}}
+		    \rput(2.3,-0.5){\textbf{conjugate}}
+		    \rput(2.3,-0.9){\textbf{acid}}
+		    \psline(-4.2,-1.1)(-4.2,-1.4)
+		    \psline(-4.2,-1.4)(0.2,-1.4)
+		    \psline(0.2,-1.4)(0.2,-1.1)
+		    \rput(-2,-1.65){\textbf{conjugate pair}}
+		    \psline(-2.1,0.25)(-2.1,0.5)
+		    \psline(-2.1,0.5)(2.3,0.5)
+		    \psline(2.3,0.5)(2.3,0.25)
+		    \rput(0.1,0.75){\textbf{conjugate pair}}
+		  &lt;/code&gt;</pre></div></div></div><h1 class="title" data-class="complex-section">Exercises</h1>
+<div class="problemset">
+<div class="multipart">
+<div class="header">
+
+<p>In each of the following reactions, label the conjugate acid-base pairs.</p>
+</div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}(\text{aq}) + \text{H}_{2}\text{O}(\text{aq})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\rightleftharpoons</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}(\text{aq}) + \text{HSO}_{4}^{-}(\text{aq})</annotation></semantics></math></p>
+
+		</div><div class="solution">
+		  <div class="alternates"><img src="_plone_ignore_/cache/pspictures/5fec022a49d7a1adf8035c0a1871885d.png"/><pre class="pspicture">&lt;code&gt;
+		      (-5,-2)(3.5,1)
+		      \rput(-4,0){\textbf{H$_{2}$SO$_{4}$(aq)}}
+		      \rput(-2.9,0){\textbf{+}}
+		      \rput(-2.1,0){\textbf{H$_{2}$O(&amp;#8467;)}}
+		      \rput(-1.05,0){\textbf{$\rightleftharpoons$}}
+		      \rput(0.2,0){\textbf{H$_{3}$O$^{+}$(aq)}}
+		      \rput(1.3,0){\textbf{+}}
+		      \rput(2.5,0){\textbf{HSO$_{4}$^{-}$(aq)}}
+		      \rput(-4,-0.6){\textbf{acid}}
+		      \rput(-2.1,-0.6){\textbf{base}}
+		      \rput(0.2,-0.5){\textbf{conjugate}}
+		      \rput(0.2,-0.9){\textbf{acid}}
+		      \rput(2.5,-0.5){\textbf{conjugate}}
+		      \rput(2.5,-0.9){\textbf{base}}
+		      \psline(-4,-1.1)(-4,-1.4)
+		      \psline(-4,-1.4)(2.5,-1.4)
+		      \psline(2.5,-1.4)(2.5,-1.1)
+		      \rput(-0.75,-1.65){\textbf{conjugate pair}}
+		      \psline(-2.1,0.25)(-2.1,0.5)
+		      \psline(-2.1,0.5)(0.2,0.5)
+		      \psline(0.2,0.5)(0.2,0.25)
+		      \rput(-0.9,0.75){\textbf{conjugate pair}}
+		    &lt;/code&gt;</pre></div>
+		</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{4}^{+}(\text{aq}) + \text{F}^{-}(\text{aq})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\rightleftharpoons</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HF}(\text{aq}) + \text{NH}_{3}(\text{g})</annotation></semantics></math></p>
+
+		</div><div class="solution">
+		  <div class="alternates"><img src="_plone_ignore_/cache/pspictures/b4bd2753f2c2f8284d156849da5a7bec.png"/><pre class="pspicture">&lt;code&gt;
+		      (-5,-2)(3.5,1)
+		      \rput(-4,0){\textbf{NH$_{4}$^{+}$(aq)}}
+		      \rput(-2.9,0){\textbf{+}}
+		      \rput(-2.1,0){\textbf{F$^{-}$(aq)}}
+		      \rput(-1,0){\textbf{$\rightleftharpoons$}}
+		      \rput(0.2,0){\textbf{HF(aq)}}
+		      \rput(1.3,0){\textbf{+}}
+		      \rput(2.5,0){\textbf{NH$_{3}$(g)}}
+		      \rput(-4,-0.6){\textbf{acid}}
+		      \rput(-2.1,-0.6){\textbf{base}}
+		      \rput(0.2,-0.5){\textbf{conjugate}}
+		      \rput(0.2,-0.9){\textbf{acid}}
+		      \rput(2.5,-0.5){\textbf{conjugate}}
+		      \rput(2.5,-0.9){\textbf{base}}
+		      \psline(-4,-1.1)(-4,-1.4)
+		      \psline(-4,-1.4)(2.5,-1.4)
+		      \psline(2.5,-1.4)(2.5,-1.1)
+		      \rput(-0.75,-1.65){\textbf{conjugate pair}}
+		      \psline(-2.1,0.25)(-2.1,0.5)
+		      \psline(-2.1,0.5)(0.2,0.5)
+		      \psline(0.2,0.5)(0.2,0.25)
+		      \rput(-0.9,0.75){\textbf{conjugate pair}}
+		    &lt;/code&gt;</pre></div>
+		</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}(\text{ℓ}) + \text{CH}_{3}\text{COO}^{-}(\text{aq})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\rightleftharpoons</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}(\text{aq}) + \text{CH}_{3}\text{COOH}(\text{aq})</annotation></semantics></math></p>
+
+		</div><div class="solution">
+		  <div class="alternates"><img src="_plone_ignore_/cache/pspictures/22c03d091447e902a2d008370b997b52.png"/><pre class="pspicture">&lt;code&gt;
+		      (-5.8,-2)(4.2,1)
+		      \rput(-5,0){\textbf{H$_{2}$O(&amp;#8467;)}}
+		      \rput(-4.05,0){\textbf{+}}
+		      \rput(-2.5,0){\textbf{CH$_{3}$COO$^{-}$(aq)}}
+		      \rput(-0.9,0){\textbf{$\rightleftharpoons$}}
+		      \rput(0.2,0){\textbf{OH$^{-}$(aq)}}
+		      \rput(1.3,0){\textbf{+}}
+		      \rput(2.8,0){\textbf{CH$_{3}$COOH(aq)}}
+		      \rput(-5,-0.6){\textbf{acid}}
+		      \rput(-2.5,-0.6){\textbf{base}}
+		      \rput(0.2,-0.5){\textbf{conjugate}}
+		      \rput(0.2,-0.9){\textbf{base}}
+		      \rput(2.8,-0.5){\textbf{conjugate}}
+		      \rput(2.8,-0.9){\textbf{acid}}
+		      \psline(-5,-1.1)(-5,-1.4)
+		      \psline(-5,-1.4)(0.2,-1.4)
+		      \psline(0.2,-1.4)(0.2,-1.1)
+		      \rput(-2.4,-1.65){\textbf{conjugate pair}}
+		      \psline(-2.5,0.25)(-2.5,0.5)
+		      \psline(-2.5,0.5)(2.8,0.5)
+		      \psline(2.8,0.5)(2.8,0.25)
+		      \rput(0.15,0.75){\textbf{conjugate pair}}
+		    &lt;/code&gt;</pre></div>
+		</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}(\text{aq}) + \text{Cl}^{-}(\text{aq})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\rightleftharpoons</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}(\text{aq}) + \text{HSO}_{4}^{-}(\text{aq})</annotation></semantics></math></p>
+
+		</div><div class="solution">
+		  <div class="alternates"><img src="_plone_ignore_/cache/pspictures/d829967203933a029611222cc6fcb739.png"/><pre class="pspicture">&lt;code&gt;
+		      (-5,-2)(3.5,1)
+		      \rput(-4,0){\textbf{H$_{2}$SO$_{4}$(aq)}}
+		      \rput(-2.9,0){\textbf{+}}
+		      \rput(-2.1,0){\textbf{Cl$^{-}$(aq)}}
+		      \rput(-1,0){\textbf{$\rightleftharpoons$}}
+		      \rput(0.2,0){\textbf{HCl(aq)}}
+		      \rput(1.3,0){\textbf{+}}
+		      \rput(2.5,0){\textbf{HSO$_{4}$^{-}$(aq)}}
+		      \rput(-4,-0.6){\textbf{acid}}
+		      \rput(-2.1,-0.6){\textbf{base}}
+		      \rput(0.2,-0.5){\textbf{conjugate}}
+		      \rput(0.2,-0.9){\textbf{acid}}
+		      \rput(2.5,-0.5){\textbf{conjugate}}
+		      \rput(2.5,-0.9){\textbf{base}}
+		      \psline(-4,-1.1)(-4,-1.4)
+		      \psline(-4,-1.4)(2.5,-1.4)
+		      \psline(2.5,-1.4)(2.5,-1.1)
+		      \rput(-0.75,-1.65){\textbf{conjugate pair}}
+		      \psline(-2.1,0.25)(-2.1,0.5)
+		      \psline(-2.1,0.5)(0.2,0.5)
+		      \psline(0.2,0.5)(0.2,0.25)
+		      \rput(-0.9,0.75){\textbf{conjugate pair}}
+		    &lt;/code&gt;</pre></div>
+		</div></div></div><div class="problemset">
+<div class="header">
+
+<p>Write the conjugate base for:</p>
+</div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{CO}_{3}</annotation></semantics></math></p>
+
+		</div><div class="solution">
+		  
+<p>This is an acid. A proton needs to be donated to form the conjugate base:</p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{CO}_{3}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCO}_{3}^{-} + \text{H}^{+}</annotation></semantics></math></p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCO}_{3}^{-}</annotation></semantics></math> is the conjugate base of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{CO}_{3}</annotation></semantics></math>.</p>
+
+		</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math></p>
+
+		</div><div class="solution">
+		  
+<p>This is an acid. A proton needs to be donated to form the conjugate base:</p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O} + \text{H}^{+}</annotation></semantics></math></p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}</annotation></semantics></math> is the conjugate base of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math>.</p>
+
+		</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{PO}_{4}^{-}</annotation></semantics></math></p>
+
+		</div><div class="solution">
+		  
+<p>This is an acid. A proton needs to be donated to form the conjugate base:</p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{PO}_{4}^{-}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HPO}_{4}^{2-} + \text{H}^{+}</annotation></semantics></math></p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HPO}_{4}^{2-}</annotation></semantics></math> is the conjugate base of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{PO}_{4}^{-}</annotation></semantics></math>.</p>
+
+		</div></div></div><div class="problemset">
+<div class="header">
+
+<p>Write the conjugate acid for:</p>
+</div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math></p>
+
+		</div><div class="solution">
+		  
+<p>This is a base. A proton needs to be accepted to form the conjugate acid:</p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-} + \text{H}^{+}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}</annotation></semantics></math></p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}</annotation></semantics></math> is the conjugate acid of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math>.</p>
+
+		</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CN}^{-}</annotation></semantics></math></p>
+
+		</div><div class="solution">
+		  
+<p>This is a base. A proton needs to be accepted to form the conjugate acid:</p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CN}^{-} + \text{H}^{+}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCN}</annotation></semantics></math></p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCN}</annotation></semantics></math> is the conjugate acid of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CN}^{-}</annotation></semantics></math>.</p>
+
+		</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CO}_{3}^{2-}</annotation></semantics></math></p>
+
+		</div><div class="solution">
+		  
+<p>This is a base. A proton needs to be accepted to form the conjugate acid:</p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CO}_{3}^{2-} + \text{H}^{+}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCO}_{3}^{-}</annotation></semantics></math></p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCO}_{3}^{-}</annotation></semantics></math> is the conjugate acid of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CO}_{3}^{2-}</annotation></semantics></math>.</p>
+
+		</div></div></div></div><h3>Strong and weak acids and bases</h3>
+<div class="teachers-guide">
+<p>The term dissociate should be used for ionic solids that break into their component parts when dissolved in water. Ionise should be used when a reaction with water takes place and ions, that were not present in the original compound, are formed.</p>
+
+<p>For example, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> is an ionic solid composed of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Na}^{+}</annotation></semantics></math> ions and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math> ions. Upon dissolution it <strong>dissociates</strong> into its component parts.</p>
+
+<p>On the other hand, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> is a covalent molecule. When dissolved in water it <strong>ionises</strong> to form <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Cl}^{-}</annotation></semantics></math> ions.</p>
+
+<p>In general, strong bases dissociate, bases such as ammonia and organic amines ionise. All acids ionise.</p>
+</div><h4>Strong acids and bases</h4>
+
+<p>A strong acid or base is one that will almost completely <em>dissociate</em> or <em>ionise</em> to form ions in solution. That is, a large percentage of the moles of a strong acid or base will form ions when added to water.</p>
+<dl class="definition"><dt>Strong acid and strong base</dt><dd>A <strong>strong</strong> acid or base is one that almost completely dissociates to form ions in solution.</dd></dl><p><strong><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> is a strong acid.</strong> For example if <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{100\ 000}</annotation></semantics></math> molecules of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> are added to water and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{90\ 000}</annotation></semantics></math> ionise to form <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Cl}^{-}</annotation></semantics></math> ions, then there is a large amount of ionisation. This is what makes <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> a strong acid.</p>
+<figure class="figure"><div class="alternates"><img src="_plone_ignore_/cache/pspictures/f042ff4f1fab9fbe7a9dcc276721d4b8.png"/><pre class="pspicture">&lt;code&gt;
+		(-2,-2)(7,0.5)
+		\newrgbcolor{purple}{0.78 0.13 1}
+		\rput(0,0){\textbf{HCl(g) + H$_{2}${\textbf{O(&amp;#8467;)}}}}
+		\psline[linecolor=purple](1.6,0.05)(3.1,0.05)
+		\psline(1.6,-0.05)(2.1,-0.05)
+		\psline[linecolor=purple](3.1,0.05)(2.8,0.15)
+		\psline(1.6,-0.05)(1.9,-0.15)
+		\rput(5,0){\textbf{H$_{3}$O$^{+}{\textbf{(aq)}} + {\textbf{Cl}}$^{-}${\textbf{(aq)}}}}
+		\psline[linecolor=purple,linewidth=1pt,arrows=-&amp;gt;,arrowlength=3,arrowsize=7pt,arrowinset=0.25](0,-0.5)(5,-0.5)
+		\rput(2.5,-0.9){\purple almost complete ionisation}
+		\rput(2.5,-1.4){\purple large percentage of molecules ionised}
+	      &lt;/code&gt;</pre></div></figure><p>The unequal double arrows in the reaction equation indicate that the equilibrium position favours the formation of ions.</p>
+
+<p>There are three strong acids that we commonly find: <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> (hydrochloric acid), <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HNO}_{3}</annotation></semantics></math> (nitric acid) and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}</annotation></semantics></math> (sulfuric acid). Two strong bases that are commonly found are: <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> (sodium hydroxide) and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{KOH}</annotation></semantics></math> (potassium hydroxide).</p>
+<h4>Weak acids and bases</h4>
+
+<p>A weak acid or base is one where only a <em>small percentage</em> of molecules will dissociate to form ions in solution.</p>
+<dl class="definition"><dt>Weak acid and weak base</dt><dd>A <strong>weak</strong> acid or base is one where only a small percentage of molecules dissociate to form ions in solution.</dd></dl><p><strong><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HF}</annotation></semantics></math> is a weak acid.</strong> For example if <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{100\ 000}</annotation></semantics></math> molecules of HF are added to water and only <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{100}</annotation></semantics></math> ionise to form <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{F}^{-}</annotation></semantics></math> ions, then there is only a small amount of ionisation. This is what makes <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HF}</annotation></semantics></math> a weak acid.</p>
+<figure class="figure"><div class="alternates"><img src="_plone_ignore_/cache/pspictures/a49a362860bceae0de3377aab21571c3.png"/><pre class="pspicture">&lt;code&gt;
+		(-2,-2)(7,0.5)
+		\rput(0,0){\textbf{HF(g) + H$_{2}${\textbf{O(&amp;#8467;)}}}}
+		\psline[linecolor=orange](2.6,0.05)(3.1,0.05)
+		\psline(1.6,-0.05)(3.1,-0.05)
+		\psline[linecolor=orange](3.1,0.05)(2.8,0.15)
+		\psline(1.6,-0.05)(1.9,-0.15)
+		\rput(5,0){\textbf{H$_{3}$O$^{+}${\text{(aq)}} + {\textbf{F}}$^{-}${\textbf{(aq)}}}}
+		\psline[linecolor=orange,linewidth=1pt,arrows=&amp;gt;,arrowlength=3,arrowsize=7pt,arrowinset=0.25](3.2,-0.5)(1.8,-0.5)
+		\rput(2.5,-0.9){\orange very little ionisation}
+		\rput(2.5,-1.4){\orange small percentage of molecules ionised}
+	      &lt;/code&gt;</pre></div></figure><p>The unequal double arrows in the reaction equation indicate that the equilibrium position does not favour the formation of ions.</p>
+
+<p>An example of a weak base is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}(\text{OH})_{2}</annotation></semantics></math> which will only dissociate partially into <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}^{2+}</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math> ions.</p>
+<h3>Dilute and concentrated solutions</h3>
+
+<p>A different concept to strong and weak is the concept of <strong>concentrated</strong> and <strong>dilute</strong>. Where <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{purple}{\text{strong and weak}}</annotation></semantics></math> refer to the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{purple}{\text{characteristic of a compound}}</annotation></semantics></math>, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{orange}{\text{concentrated and}}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{orange}{\text{dilute}}</annotation></semantics></math> refer to the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{orange}{\text{characteristic of a solution}}</annotation></semantics></math>. Thus a strong acid can be prepared as either a concentrated or a dilute solution. A solution of which the exact concentration is known is called a <strong>standard solution</strong>.</p>
+<dl class="definition"><dt>Standard solution</dt><dd>
+	      
+<p>A standard solution is one where the exact concentration of solute in a solvent is known.</p>
+
+	    </dd></dl><h4>Concentrated solutions</h4>
+
+<p>A concentrated solution is one where a large amount of a substance (solute) has been added to a solvent. Note that both strong and weak acids and bases can be used in concentrated solutions.</p>
+<dl class="definition"><dt>Concentrated solution</dt><dd>A concentrated solution is one where there is a high ratio of dissolved substance (e.g. acid or base) to solvent.</dd></dl><h4>Dilute solutions</h4>
+
+<p>A dilute solution is one where a small amount of a substance has been added to a solvent. Note that both strong and weak acids and bases can be used in dilute solutions.</p>
+<div class="note" data-type="tip"><figure class="figure"><div class="alternates"><img src="_plone_ignore_/cache/pspictures/b4724d617f5ef9e82ddb0673f659d4fb.png"/><pre class="pspicture">&lt;code&gt;
+		  (0,0)(1,1)
+		  \newrgbcolor{skyblue}{0.53 0.81 0.98}
+		  \psframe[fillcolor=skyblue,fillstyle=solid,linestyle=none](0,0)(3,3)
+		  \psellipse[fillcolor=skyblue,fillstyle=solid](1.5,3)(1.5,0.3)
+		  \psline(0,4)(0,0)
+		  \psline(3,0)(3,4)
+		  \psellipse(1.5,4)(1.5,0.3)
+		  \psellipse[fillcolor=skyblue,fillstyle=solid](1.5,0)(1.5,0.3)
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](1,0.9){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](1.3,2){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](2.3,0.7){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](0.5,1.5){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](0.3,2.2){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](1.8,1.8){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](0.2,0.3){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](0.4,0.8){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](2.2,1.9){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](0.9,1.1){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](1.5,2.3){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](1,2.1){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](0.2,2.5){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](2.6,0.5){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](2.7,1.7){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](1.6,0.7){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](1.7,1.2){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](2,1.3){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](2.8,2.6){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](2.5,2.4){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](2.1,2.5){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](1.7,2){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](1.3,1.5){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](1.1,1.4){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](0.9,1.6){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](0.7,2.4){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](2.7,0.8){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](2.6,1.2){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](0.7,0.5){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](0.9,0.6){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](0.2,1.5){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](0.4,1.8){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](1.4,1){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](1.9,0.9){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](2,0.7){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](2.2,1.5){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](2.3,1.2){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](0.5,1.2){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](1.3,2.4){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](2.5,2){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](1.3,0.5){0.1}
+		&lt;/code&gt;</pre></div></figure><p>A concentrated solution has a lot of solute molecules (red circles) in the solvent.</p>
+<div class="alternates"><img src="_plone_ignore_/cache/pspictures/ec3d38a77a4463178dbe8a38ec1f1df9.png"/><pre class="pspicture">&lt;code&gt;
+		  (0,0)(1,1)
+		  \newrgbcolor{skyblue}{0.53 0.81 0.98}
+		  \psframe[fillcolor=skyblue,fillstyle=solid,linestyle=none](0,0)(3,3)
+		  \psellipse[fillcolor=skyblue,fillstyle=solid](1.5,3)(1.5,0.3)
+		  \psline(0,4)(0,0)
+		  \psline(3,0)(3,4)
+		  \psellipse(1.5,4)(1.5,0.3)
+		  \psellipse[fillcolor=skyblue,fillstyle=solid](1.5,0)(1.5,0.3)
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](0.2,0.3){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](0.2,2.5){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](2.6,0.5){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](2.8,2.6){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](1.7,2){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](2.3,1.2){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](0.5,1.2){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](2.5,2){0.1}
+		  \pscircle[fillcolor=red,fillstyle=solid,linestyle=none](1.3,0.5){0.1}
+		&lt;/code&gt;</pre></div>
+<p>A dilute solution has few solute molecules (red circles) in the solvent.</p>
+</div><dl class="definition"><dt>Dilute solution</dt><dd>A dilute solution is one where there is a low ratio of dissolved substance to solvent.</dd></dl><p>A concentrated solution can be made from a strong or a weak acid or base. A dilute solution can also be made from a strong or a weak acid or base. Whether a solution is concentrated or dilute depends on how much of the acid or base was added to the solvent.</p>
+
+<p>A <strong>strong base</strong> that is also <strong>concentrated</strong> would be a base that <strong>almost completely dissociates</strong> when added to a solution, and you also add a <strong>large amount</strong> of the base to the solution.</p>
+
+<p>A <strong>weak acid</strong> that is also <strong>dilute</strong> would be an acid where only a <strong>small percentage of molecules ionise</strong> when added to a solution, and you also add only a <strong>small amount</strong> of the acid to the solution. Table <a href="#tab-acidsandbases-summarytable" data-class="InternalLink">tab-acidsandbases-summarytable</a> summarises these concepts.</p>
+
+<p>The electrical conductivity of a solution depends on the concentration of <strong>mobile ions</strong> in the solution. This means that a concentrated solution of a strong acid or base will have a high electrical conductivity, while a dilute solution of a weak acid or base will have a low electrical conductivity.</p>
+<div class="note" data-type="aside">
+<p>Electric current is the movement of charged particles. Therefore, the more ions (charged particles) there are in a solution, the greater the electric current that can be conducted through the solution by the charged particles. This is the electrical conductivity of a solution.</p>
+</div><div class="note" data-type="tip">
+<p>Mobile ions are ions that are able to move. These include ions in solution and ions in melted ionic materials. The ions in ionic solids are not mobile.</p>
+</div><figure class="figure" id="tab-acidsandbases-summarytable"><table summary="
+	    "><tbody><tr><td></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\textbf{Acid}}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\textbf{Base}}</annotation></semantics></math></p></td></tr><tr><td><p><strong>Strong</strong></p></td><td><p><strong>high percentage</strong> forms ions</p>
+
+		    
+<p>in solution</p></td><td><p><strong>high percentage</strong> forms ions</p>
+
+		    
+<p>in solution</p></td></tr><tr><td><p><strong>Weak</strong></p></td><td><p>only a <strong>small percentage</strong></p>
+
+		    
+<p>forms ions in solution</p></td><td><p>only a <strong>small percentage</strong></p>
+
+		    
+<p>forms ions in solution</p></td></tr><tr><td><p><strong>Concentrated</strong></p></td><td><p><strong>large number</strong> of moles</p>
+
+		    
+<p>of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{acid}}</annotation></semantics></math> in solution</p></td><td><p><strong>large number</strong> of moles</p>
+
+		    
+<p>of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\text{base}}</annotation></semantics></math> in solution</p></td></tr><tr><td><p><strong>Dilute</strong></p></td><td><p><strong>small number</strong> of moles</p>
+
+		    
+<p>of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{acid}}</annotation></semantics></math> in solution</p></td><td><p><strong>small number</strong> of moles</p>
+
+		    
+<p>of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\text{base}}</annotation></semantics></math> in solution</p></td></tr></tbody></table><div class="caption"><p>
+	    
+</p><p>A summary of the properties of strong, weak, concentrated, and dilute acids and bases.</p>
+
+	  </div></figure><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="title">Acids and bases</div><div class="problem" data-class="question">
+	      
+<p>Solution 1 contains <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{100}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> added to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> of water. Almost all the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> molecules ionise in the solution.</p>
+
+	      
+<p>Solution 2 contains <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,01}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math> of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}(\text{OH})_{2}</annotation></semantics></math> added to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1000}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> of water. Only a small percentage of the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}(\text{OH})_{2}</annotation></semantics></math> molecules dissociate in the solution.</p>
+
+	      
+<p>Say whether these solutions:</p>
+
+	      <ol data-class="ListEnumerated"><li>
+		  
+<p>Contain a strong or weak acid or base.</p>
+
+		</li>
+<li>
+		  
+<p>Are concentrated or dilute.</p>
+
+		</li>
+</ol></div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Are the compounds acids or bases?</div>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> is hydrochloric acid. It would donate a proton and is an acid. <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}(\text{OH})_{2}</annotation></semantics></math> is magnesium hydroxide and is a base.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">What makes an acid or base strong or weak?</div>
+
+<p>Almost complete ionisation or dissociation means an acid or base is strong. Only a small amount of ionisation or dissociation means an acid or base is weak.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Are the compounds strong or weak acids and bases?</div>
+
+<p>Almost all the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> molecules ionise in the solution, therefore <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> is a strong acid.</p>
+
+<p>Only a small percentage of the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}(\text{OH})_{2}</annotation></semantics></math> molecules dissociate, therefore <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}(\text{OH})_{2}</annotation></semantics></math> is a weak base.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">What makes a solution concentrated or dilute?</div>
+
+<p>A concentrated solution has a high ratio of solute to solvent. A dilute solution has a low ratio of solute to solvent.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Are the solutions concentrated or dilute?</div>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{100}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> is added to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> of water. This is a high ratio, therefore the solution of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> is concentrated.</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,01}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math> of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}(\text{OH})_{2}</annotation></semantics></math> is added to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1000}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> of water. This is a low ratio, therefore the solution of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}(\text{OH})_{2}</annotation></semantics></math> is dilute.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Combine your information</div>
+
+<p>Solution 1 is a <strong>concentrated solution</strong> of a <strong>strong acid</strong>.</p>
+
+<p>Solution 2 is a <strong>dilute solution</strong> of a <strong>weak base</strong>.</p>
+</div></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="title">Acids and bases</div><div class="problem" data-class="question">
+	      
+<p>Solution 1 contains <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,01}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> added to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{800}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> of water. Almost all the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> molecules dissociate in the solution.</p>
+
+	      
+<p>Solution 2 contains <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{100}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math> of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HF}</annotation></semantics></math> added to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> of water. Only a small percentage of the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HF}</annotation></semantics></math> molecules ionise in the solution.</p>
+
+	      
+<p>Say whether these solutions:</p>
+
+	      <ol data-class="ListEnumerated"><li>
+		  
+<p>Contain a strong or weak acid or base.</p>
+
+		</li>
+<li>
+		  
+<p>Are concentrated or dilute.</p>
+
+		</li>
+</ol></div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Are the compounds acids or bases?</div>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> is sodium hydroxide and is a base. <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HF}</annotation></semantics></math> is hydrofluoric acid and is an acid.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">What makes an acid or base strong or weak?</div>
+
+<p>Almost complete ionisation or dissociation means an acid or base is strong. Only a small amount of ionisation or dissociation means an acid or base is weak.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Are the compounds strong or weak acids and bases?</div>
+
+<p>Almost all the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> molecules dissociate in the solution, therefore <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> is a strong base.</p>
+
+<p>Only a small percentage of the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HF}</annotation></semantics></math> molecules ionise, therefore <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HF}</annotation></semantics></math> is a weak acid.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">What makes a solution concentrated or dilute?</div>
+
+<p>A concentrated solution has a high ratio of solute to solvent. A dilute solution has a low ratio of solute to solvent.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Are the solutions concentrated or dilute?</div>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,01}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math> of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> is added to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{800}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> of water. This is a low ratio, therefore the solution of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> is dilute.</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{100}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HF}</annotation></semantics></math> is added to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> of water. This is a high ratio, therefore the solution of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HF}</annotation></semantics></math> is concentrated.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Combine your information</div>
+
+<p>Solution 1 is a <strong>dilute solution</strong> of a <strong>strong base</strong>.</p>
+
+<p>Solution 2 is a <strong>concentrated solution</strong> of a <strong>weak acid</strong>.</p>
+</div></div>
+<p>To calculate the concentration of a solution we use the formula:</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{C (mol.dm}^{-3}{\text{)}}=\dfrac{\text{n (mol)}}{\text{V (dm}^{3}{\text{)}}}</annotation></semantics></math></p>
+<div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="title">Calculating concentration</div><div class="problem" data-class="question">
+	      
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,27}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math> of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}</annotation></semantics></math> is added to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{183,7}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> of water. Calculate the concentration of the solution.</p>
+
+	    </div><div class="solution" data-class="workstep" data-type="Step"><div class="title">List the information you have and the information you need</div>
+
+<p>V = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{183,7}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math>, m = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,27}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math></p>
+
+<p>The volume (V) and the mass (m) are given. The number of moles (n) needs to be calculated. To do that the molar mass (M) needs to be calculated.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Make sure all given units are correct and convert them if necessary</div>
+
+<p>All the units are correct.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">What equations will be necessary to calculate the concentration?</div>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{C (mol.dm}^{-3}{\text{)}}=\dfrac{\text{n (mol)}}{\text{V (dm}^{3}{\text{)}}} \phantom{\rule{35pt}{0ex}} \text{n (mol)} = \dfrac{\text{m (g)}}{\text{M (g.mol}^{-1}{\text{)}}}</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Calculate the number of moles of the acid in the solution</div>
+
+<p>M(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}</annotation></semantics></math>) = (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math> x <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,01}</annotation></semantics></math>) + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{32,1}</annotation></semantics></math> + (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{4}</annotation></semantics></math> x <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{16}</annotation></semantics></math>) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{98,12}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g.mol^{-1}}</annotation></semantics></math>.</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{n} = \dfrac{\text{m}}{\text{M}} = \dfrac{\text{0,27} {\text{ g}}}{\text{98,12} {\text{ g.mol}}^{-1}} =</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,0028}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Calculate the concentration of the solution</div>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{C} = \dfrac{\text{n}}{\text{V}} = \dfrac{\text{0,0028} {\text{ mol}}}{\text{183,7} {\text{ dm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,0000152}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,52} \times \text{10}^{-\text{5}}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math></p>
+</div></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="title">Calculating concentration</div><div class="problem" data-class="question">
+	      
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{16,4}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math> of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{KOH}</annotation></semantics></math> is added to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{12,9}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of water. Calculate the concentration of the solution.</p>
+
+	    </div><div class="solution" data-class="workstep" data-type="Step"><div class="title">List the information you have and the information you need</div>
+
+<p>V = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{12,9}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math>, m = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{16,4}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math></p>
+
+<p>The volume (V) and the mass (m) are given. The number of moles (n) needs to be calculated. To do that the molar mass (M) needs to be calculated.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Make sure all given units are correct or convert them</div>
+
+<p>The volume needs to be converted to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math>.</p>
+
+<p>V = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{12,9}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\times \dfrac{\text{0,001} {\text{ dm}}^{3}}{\text{1} {\text{ cm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,0129}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">What equations will be necessary to calculate the concentration?</div>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{C (mol.dm}^{-3}{\text{)}}=\dfrac{\text{n (mol)}}{\text{V (dm}^{3}{\text{)}}} \phantom{\rule{35pt}{0ex}} \text{n (mol)} = \dfrac{\text{m (g)}}{\text{M (g.mol}^{-1}{\text{)}}}</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Calculate the number of moles of base in the solution</div>
+
+<p>M(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{KOH}</annotation></semantics></math>) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{39,1}</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{16}</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,01}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{56,11}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g.mol^{-1}}</annotation></semantics></math>.</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{n}=\dfrac{\text{m}}{\text{M}} = \dfrac{\text{16,4} {\text{ g}}}{\text{56,11} {\text{ g.mol}}^{-1}} =</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,292}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Calculate the concentration of the solution</div>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{C}=\dfrac{\text{n}}{\text{V}} = \dfrac{\text{0,292} {\text{ mol}}}{\text{0,0129} {\text{ dm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{22,64}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math></p>
+</div></div><h1 class="title" data-class="complex-section">Exercises</h1>
+<div class="problemset">
+<div class="problemset">
+<div class="header">
+
+<p>Say whether the solutions of the acids and bases in the following situations are concentrated or dilute.</p>
+</div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p>For every <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math> mole of a solvent there are <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{50}</annotation></semantics></math> moles of lithium hydroxide (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{LiOH}</annotation></semantics></math>).</p>
+
+		</div><div class="solution">
+		  
+<p>Concentrated. There are many more moles of the base than the solvent.</p>
+
+		</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p>For every <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{100}</annotation></semantics></math> moles of a solvent there are <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math> moles of nitric acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HNO}_{3}</annotation></semantics></math>).</p>
+
+		</div><div class="solution">
+		  
+<p>Dilute. There are many more moles of the solvent than the acid.</p>
+
+		</div></div></div><div class="multipart">
+<div class="header">
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{95}</annotation></semantics></math>% of an unknown acid donates protons when the acid is added to water. The pH of the final solution is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{6,5}</annotation></semantics></math>.</p>
+</div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p>Is the acid a strong or a weak acid? Give a reason for your answer.</p>
+
+		</div><div class="solution">
+		  
+<p>The acid is a strong acid. <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{95}</annotation></semantics></math>% of the acid ionises in the water. This means that it almost completely forms ions in solution and is therefore a strong acid.</p>
+
+		</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p>Is a solution with a pH of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{6,5}</annotation></semantics></math> strongly or weakly acidic?</p>
+
+		</div><div class="solution">
+		  
+<p>The solution is weakly acidic.</p>
+
+		</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p>Is the solution concentrated or dilute? Give a reason for your answer.</p>
+
+		</div><div class="solution">
+		  
+<p>The solution is dilute. Although this is a strong acid the solution is only weakly acidic. This means that there must be a very small number of moles of the acid in the total volume of the solution.</p>
+
+		</div></div></div><div class="problemset">
+<div class="header">
+
+<p>Calculate the concentration for of the following solutions.</p>
+</div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{27}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math> of sodium bicarbonate (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaHCO}_{3}</annotation></semantics></math>) added to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{22,6}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of water.</p>
+
+		</div><div class="solution">
+		  
+<p>You have the volume (V) and the mass (m). You need the number of moles (n) and the molar mass (M).</p>
+
+		  
+<p>M(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaHCO}_{3}</annotation></semantics></math>) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{23}</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,01}</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{12}</annotation></semantics></math> + (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3}</annotation></semantics></math> x <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{16}</annotation></semantics></math>) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{84,01}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g.mol^{-1}}</annotation></semantics></math>.</p>
+
+		  
+<p>n(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaHCO}_{3}</annotation></semantics></math>) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\dfrac{\text{m (g)}}{\text{M (g.mol}^{-1}{\text{)}}} = \dfrac{\text{27} {\text{ g}}}{\text{84,01} {\text{ g.mol}}^{-1}} =</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,32}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math></p>
+
+		  
+<p>V = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{22,6}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\times \dfrac{\text{0,001} {\text{ dm}}^{3}}{\text{1} {\text{ cm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,0226}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math></p>
+
+		  
+<p>C(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaHCO}_{3}</annotation></semantics></math>) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\dfrac{\text{n (mol)}}{\text{V (dm}^{3}{\text{)}}} = \dfrac{\text{0,32} {\text{ mol}}}{\text{0,0226} {\text{ dm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{14,16}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math></p>
+
+		</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,893}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math> of phosphoric acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{PO}_{4}</annotation></semantics></math>) added to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{4,79}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> of a solvent.</p>
+
+		</div><div class="solution">
+		  
+<p>You have the volume (V) and number of moles (n). You can calculate the concentration.</p>
+
+		  
+<p>C(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{PO}_{4}</annotation></semantics></math>) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\dfrac{\text{n (mol)}}{\text{V (dm}^{3}{\text{)}}} = \dfrac{\text{0,893} {\text{ mol}}}{\text{4,79} {\text{ dm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,186}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math></p>
+
+		</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{32,8}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mg}</annotation></semantics></math> of hydrochloric acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>) added to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{12,76}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of water.</p>
+
+		</div><div class="solution">
+		  
+<p>You have the volume (V) and the mass (m). You need the number of moles (n) and the molar mass (M).</p>
+
+		  
+<p>M(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,01}</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{35,45}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{36,46}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g.mol^{-1}}</annotation></semantics></math>.</p>
+
+		  
+<p>m(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{32,8}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mg}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\times \dfrac{\text{0,001} {\text{ g}}}{\text{1} {\text{ mg}}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,0328}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math></p>
+
+		  
+<p>n(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\dfrac{\text{m (g)}}{\text{M (g.mol}^{-1}{\text{)}}} = \dfrac{\text{0,0328} {\text{ g}}}{\text{36,46} {\text{ g.mol}}^{-1}} =</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{9,0} \times \text{10}^{-\text{4}}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math></p>
+
+		  
+<p>V = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{12,76}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\times \dfrac{\text{0,001} {\text{ dm}}^{3}}{\text{1} {\text{ cm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,01276}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math></p>
+
+		  
+<p>C(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\dfrac{\text{n (mol)}}{\text{V (dm}^{3}{\text{)}}} = \dfrac{\text{9,0} \times \text{10}^{-\text{4}} {\text{ mol}}}{\text{0,01276} {\text{ dm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,07}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math></p>
+
+		</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,12}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> of a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{6,54}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math> concentration solution of ammonia (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math>) added to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,50}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> of water.</p>
+
+		</div><div class="solution">
+		  
+<p>You have the volume (V) and original concentration of the ammonia solution, you need number of moles (n) in that original solution.</p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{C} = \dfrac{\text{n (mol)}}{\text{V (dm}^{3}{\text{)}}}</annotation></semantics></math>. Therefore n = C x V</p>
+
+		  
+<p>n(original solution of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math>) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{6,54}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math> x <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,12}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{7,32}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math>.</p>
+
+		  
+<p>The final volume used to calculate the concentration must be the volume of the water plus the volume of ammonia added.</p>
+
+		  
+<p>V(total) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,50}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,12}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,62}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math></p>
+
+		  
+<p>C(final solution of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math>) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\dfrac{\text{n (mol)}}{\text{V (dm}^{3}{\text{)}}} = \dfrac{\text{7,32} {\text{ mol}}}{\text{1,62} {\text{ dm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{4,52}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math></p>
+
+		</div></div></div></div><h3><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">K_{a}</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">K_{b}</annotation></semantics></math></h3>
+
+<p>The equilibrium constant for the ionisation process of an acid (the extent to which ions are formed in solution) is given by the term <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\text{K}_{\textcolor{red}{\textbf{a}}}}</annotation></semantics></math>, while that for a base is given by <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\text{K}_{\textcolor{blue}{\textbf{b}}}}</annotation></semantics></math>. These equilibrium constants are a way of determining whether the acid or base is weak or strong.</p>
+
+<p>Remember from <a data-class="ExternalLink" href="to-do-chemical-equilibrium">Chapter 8</a> that we calculate K as follows:</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\text{K}} = \dfrac{\text{[products]}}{\text{[reactants]}}</annotation></semantics></math></p>
+<h4>Acids</h4>
+<ul data-class="ListBulleted"><li>
+		
+<p><strong>Strong acids</strong></p>
+
+		
+<p>Consider the ionisation of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HBr}</annotation></semantics></math>:</p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{HBr(g)}}</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}(\text{aq}) + \text{Br}^{-}(\text{aq})</annotation></semantics></math></p>
+
+		
+<p>We are calculating <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{K}_{\text{a}}}</annotation></semantics></math> here as it is an <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{acid}}</annotation></semantics></math> being dissolved in water. The <em>liquid</em> water is not included in the equation.</p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{K}_{\text{a}}} = \dfrac{\text{[H}_{3}{\text{O}}^{+}{\text{(aq)][Br}^{-}{\text{(aq)]}}}}{\textcolor{red}{\text{[HBr(g)]}}}</annotation></semantics></math></p>
+
+		
+<p>The value of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{a}}</annotation></semantics></math> for this reaction is very high (approximately <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{\text{9}}</annotation></semantics></math>). This means that there are many more moles of product than reactant. The <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HBr}</annotation></semantics></math> molecules are almost all ionised to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Br}^{-}</annotation></semantics></math>.</p>
+
+		
+<p>We can then show that in the ionisation reaction <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HBr}</annotation></semantics></math> is almost completely ionised. Effectively, any value above <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{\text{3}}</annotation></semantics></math> is large and shows that almost complete ionisation has occurred:</p>
+
+		<div class="alternates"><img src="_plone_ignore_/cache/pspictures/772c84e62ac081b10e79c122e8ddcdcc.png"/><pre class="pspicture">&lt;code&gt;
+		    (-2,-2)(7,0.5)
+		    \newrgbcolor{purple}{0.78 0.13 1}
+		    \rput(0,0){\textbf{HBr${\textbf{(g) + H}}$_{2}$O{\textbf{(&amp;#8467;)}}}}
+		    \psline[linecolor=purple](1.6,0.05)(3.1,0.05)
+		    \psline(1.6,-0.05)(2.1,-0.05)
+		    \psline[linecolor=purple](3.1,0.05)(2.8,0.15)
+		    \psline(1.6,-0.05)(1.9,-0.15)
+		    \rput(5,0){\textbf{H$_{3}$O$^{+}${\textbf{(aq) + Br}}$^{-}${\textbf{(aq)}}}}
+		    \psline[linecolor=purple,linewidth=1pt,arrows=-&amp;gt;,arrowlength=3,arrowsize=7pt,arrowinset=0.25](0,-0.5)(5,-0.5)
+		    \rput(2.5,-0.9){\purple almost complete ionisation}
+		    \rput(2.5,-1.4){\purple large percentage of molecules ionised}
+		  &lt;/code&gt;</pre></div>
+		
+<p>The unequal double arrows in the reaction equation indicate that the equilibrium position favours the formation of ions. This is in contrast to the ionisation of a weak acid.</p>
+
+	      </li>
+<li>
+		
+<p><strong>Weak acids</strong></p>
+
+		
+<p>Consider the ionisation of ethanoic acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{COOH}</annotation></semantics></math>):</p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{CH}_{3}{\text{COOH(aq)}}}</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}(\text{aq}) + \text{CH}_{3}\text{COO}^{-}(\text{aq})</annotation></semantics></math></p>
+
+		
+<p>Therefore, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{K}_{\text{a}}} = \dfrac{\text{[H}_{3}{\text{O}}^{+}{\text{(aq)][CH}}_{3}{\text{COO}}^{-}{\text{(aq)]}}}{\textcolor{red}{\text{[CH}_{3}{\text{COOH(aq)]}}}}</annotation></semantics></math></p>
+
+		
+<p>The value of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{K}_{\text{a}}}</annotation></semantics></math> for this reaction is very low (approximately <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,7} \times \text{10}^{-\text{5}}</annotation></semantics></math>), showing that only a few of the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{COOH}</annotation></semantics></math> molecules ionise to form <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math> (in water) and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{COO}^{-}</annotation></semantics></math>.</p>
+
+		
+<p>We can write the reaction with an unequal double arrow to show the position of the equilibrium, which does not favour the formation of ions:</p>
+
+		<div class="alternates"><img src="_plone_ignore_/cache/pspictures/4cb31eb3aa8f983735b522be36c28d1a.png"/><pre class="pspicture">&lt;code&gt;
+		    (-3.3,-2)(8.5,0.5)
+		    \rput(-1,0){\textbf{CH}$_{3}${\textbf{COOH(aq) + H}}$_{2}${\textbf{O(&amp;#8467;)}}}
+		    \psline[linecolor=orange](2.6,0.05)(3.1,0.05)
+		    \psline(1.6,-0.05)(3.1,-0.05)
+		    \psline[linecolor=orange](3.1,0.05)(2.8,0.15)
+		    \psline(1.6,-0.05)(1.9,-0.15)
+		    \rput(6,0){\textbf{H}$_{3}${\textbf{O}}$^{+}${\textbf{(aq) + CH}}$_{3}${\textbf{COO}}$^{-}${\textbf{(aq)}}}
+		    \psline[linecolor=orange,linewidth=1pt,arrows=&amp;gt;,arrowlength=3,arrowsize=7pt,arrowinset=0.25](3.2,-0.5)(1.8,-0.5)
+		    \rput(2.5,-0.9){\orange very little ionisation}
+		    \rput(2.5,-1.4){\orange small percentage of molecules ionised}
+		  &lt;/code&gt;</pre></div>
+	      </li>
+</ul><figure class="figure" id="tab-acidsandbases-Kavalues"><table summary="
+		"><tbody><tr><td><p><strong>Name</strong></p></td><td><p><strong>Formula</strong></p></td><td><p><strong><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{a}}</annotation></semantics></math> values</strong></p></td><td><p><strong>Type</strong></p></td></tr><tr><td><p>Hydrobromic acid</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HBr}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,0} \times \text{10}^{\text{9}}</annotation></semantics></math></p></td><td><p>strong acid</p></td></tr><tr><td><p>Hydrochloric acid</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,3} \times \text{10}^{\text{6}}</annotation></semantics></math></p></td><td><p>strong acid</p></td></tr><tr><td><p>Sulfuric acid</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}</annotation></semantics></math></p></td><td><p><strong>First</strong> <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math>: <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,0} \times \text{10}^{\text{3}}</annotation></semantics></math></p>
+
+			
+<p><strong>Second</strong> <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math>: <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,0} \times \text{10}^{-\text{2}}</annotation></semantics></math></p></td><td><p>strong acid</p></td></tr><tr><td><p>Oxalic acid</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{C}_{2}\text{O}_{4}</annotation></semantics></math></p></td><td><p><strong>First</strong> <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math>: <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5,8} \times \text{10}^{-\text{2}}</annotation></semantics></math></p>
+
+			
+<p><strong>Second</strong> <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math>: <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{6,5} \times \text{10}^{-\text{5}}</annotation></semantics></math></p></td><td><p>weak acid</p></td></tr><tr><td><p>Sulfurous acid</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{3}</annotation></semantics></math></p></td><td><p><strong>First</strong> <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math>: <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,4} \times \text{10}^{-\text{2}}</annotation></semantics></math></p>
+
+			
+<p><strong>Second</strong> <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math>: <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{6,3} \times \text{10}^{-\text{8}}</annotation></semantics></math></p></td><td><p>weak acid</p></td></tr><tr><td><p>Hydrofluoric acid</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HF}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3,5} \times \text{10}^{-\text{4}}</annotation></semantics></math></p></td><td><p>weak acid</p></td></tr><tr><td><p>Ethanoic acid</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{COOH}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,7} \times \text{10}^{-\text{5}}</annotation></semantics></math></p></td><td><p>weak acid</p></td></tr></tbody></table><div class="caption"><p>
+		
+</p><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{a}}</annotation></semantics></math> values for the ionisation of some common acids. Note that sulfuric, oxalic and sulfurous acid can all lose <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math> ions (they are diprotic acids).</p>
+
+	      </div></figure><div class="note" data-type="aside">
+<p>There are really only six strong inorganic acids, the rest are considered weak. These are:</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HClO}_{4}</annotation></semantics></math> (perchloric acid),</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HI}</annotation></semantics></math> (hydroiodic acid),</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HBr}</annotation></semantics></math> (hydrobromic acid),</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> (hydrochloric acid),</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}</annotation></semantics></math> (sulfuric acid) and</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HNO}_{3}</annotation></semantics></math> (nitric acid).</p>
+</div><h4>Bases</h4>
+
+<p>The dissociation of bases is similar to that of acids in that we look at the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\text{K}_{\text{b}}}</annotation></semantics></math> values in a similar manner:</p>
+<ul data-class="ListBulleted"><li>
+		
+<p><strong>Strong bases</strong></p>
+
+		
+<p>For a strong base like <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math>:</p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\text{NaOH(aq)}}</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Na}^{+}(\text{aq}) + \text{OH}^{-}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\text{K}_{\text{b}}} = \dfrac{\text{[Na}^{+}{\text{(aq)][OH}}^{-}{\text{(aq)]}}}{\textcolor{blue}{\text{[NaOH(aq)]}}}</annotation></semantics></math></p>
+
+		
+<p>The <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\text{K}_{\text{b}}}</annotation></semantics></math> for <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> is very large (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> is a strong base and almost completely dissociates) and shows that the equilibrium lies very far to the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math> side of the reaction. As a result we can write the equilibrium as:</p>
+
+		<div class="alternates"><img src="_plone_ignore_/cache/pspictures/0d0a931ca2e139b384aefd37e4d327c8.png"/><pre class="pspicture">&lt;code&gt;
+		    (-1.5,-2)(7,0.5)
+		    \rput(0.5,0){\textbf{NaOH$_{\text{(aq)}}$}}
+		    \psline[linecolor=purple](1.6,0.05)(3.1,0.05)
+		    \psline(1.6,-0.05)(2,-0.05)
+		    \psline[linecolor=purple](3.1,0.05)(2.8,0.15)
+		    \psline(1.6,-0.05)(1.9,-0.15)
+		    \rput(5,0){\textbf{Na$^{+}$_{\text{(aq)}}$ + OH$^{-}$_{\text{(aq)}}$}}
+		    \psline[linecolor=purple,linewidth=1pt,arrows=-&amp;gt;,arrowlength=3,arrowsize=7pt,arrowinset=0.25](0,-0.5)(5,-0.5)
+		    \rput(2.5,-0.9){\purple almost complete dissociation}
+		    \rput(2.5,-1.4){\purple large percentage of molecules dissociate}
+		  &lt;/code&gt;</pre></div>
+	      </li>
+<li>
+		
+<p><strong>Weak bases</strong></p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\text{NH}_{3}{\text{(g)}}}</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{4}^{+}(\text{aq}) + \text{OH}^{-}(\text{aq})</annotation></semantics></math></p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\text{K}_{\text{b}}} = \dfrac{\text{[NH}_{4}^{+}{\text{(aq)][OH}}^{-}{\text{(aq)]}}}{\textcolor{blue}{\text{[NH}_{3}{\text{(g)]}}}}</annotation></semantics></math></p>
+
+		
+<p>The <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\text{K}_{\text{b}}}</annotation></semantics></math> for <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math> is approximately <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,8} \times \text{10}^{-\text{5}}</annotation></semantics></math> (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math> is a weak base) and shows that the equilibrium lies to the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math> side of the reaction. As a result we can write the equilibrium as:</p>
+
+		<div class="alternates"><img src="_plone_ignore_/cache/pspictures/246443c65ec8b3ecae9aa49b577894f1.png"/><pre class="pspicture">&lt;code&gt;
+		    (-1.7,-2)(7.5,0.5)
+		    \rput(-0.2,0){\textbf{NH$_{3}{\text{(g) + H}}$_{2}${\text{O(&amp;#8467;)}}}}
+		    \psline[linecolor=orange](2.6,0.05)(3.1,0.05)
+		    \psline(1.6,-0.05)(3.1,-0.05)
+		    \psline[linecolor=orange](3.1,0.05)(2.8,0.15)
+		    \psline(1.6,-0.05)(1.9,-0.15)
+		    \rput(5.3,0){\textbf{NH$_{4}$^{+}${\text{(aq) + OH}}$^{-}${\text{(aq)}}}}
+		    \psline[linecolor=orange,linewidth=1pt,arrows=&amp;gt;,arrowlength=3,arrowsize=7pt,arrowinset=0.25](3.2,-0.5)(1.8,-0.5)
+		    \rput(2.5,-0.9){\orange very little ionisation}
+		    \rput(2.5,-1.4){\orange small percentage of molecules ionised}
+		  &lt;/code&gt;</pre></div>
+	      </li>
+</ul><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="title">Equilibrium constant calculations</div><div class="problem" data-class="question">
+	      
+<p>Calculate the equilibrium constant for hydrochloric acid added to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,38}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> of water:</p>
+
+	      
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}(\text{aq}) + \text{Cl}^{-}(\text{aq})</annotation></semantics></math></p>
+
+	      
+<p>n(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>) in solution = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,005}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math></p>
+
+	      
+<p>n(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Cl}^{-}</annotation></semantics></math>) in solution = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{87,3}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math></p>
+
+	    </div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Calculate the concentration of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> at equilibrium</div>
+
+<p>C(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>) <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">= \dfrac{\text{n}}{\text{V}} = \dfrac{\text{0,005} {\text{ mol}}}{\text{1,38} {\text{ dm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,0036}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Calculate the concentration of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Cl}^{-}</annotation></semantics></math> at equilibrium</div>
+
+<p>C(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Cl}^{-}</annotation></semantics></math>) <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">= \dfrac{\text{n}}{\text{V}} = \dfrac{\text{87,3} {\text{ mol}}}{\text{1,38} {\text{ dm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{63,3}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Calculate the concentration of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math> at equilibrium</div>
+
+<p>There is a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math>:<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math> mole ratio between <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Cl}^{-}</annotation></semantics></math>. Therefore, if <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{87,3}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math> of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Cl}^{-}</annotation></semantics></math> is present at equilibrium, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{87,3}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math> of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math> must be present as well.</p>
+
+<p>C(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math>) <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">= \dfrac{\text{n}}{\text{V}} = \dfrac{\text{87,3} {\text{ mol}}}{\text{1,38} {\text{ dm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{63,3}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Calculate <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{a}}</annotation></semantics></math> (because <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> is an acid)</div>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{a}} = \dfrac{\text{[H}_{3}{\text{O}}^{+}{\text{(aq)]}}^{1}{\text{[Cl}}^{-}{\text{(aq)]}}^{1}}{\text{[HCl]}^{1}}</annotation></semantics></math></p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{a}} = \dfrac{\text{63,3} \times \text{63,3}}{\text{0,0036}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,11} \times \text{10}^{\text{6}}</annotation></semantics></math></p>
+</div></div><div class="note" data-type="tip">
+<p>In a balanced chemical equation such as:</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">2\text{C}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{A} + \text{B}</annotation></semantics></math></p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{a}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\dfrac{\text{[A]}^{1}\text{[B]}^{1}}{\text{[C]}^{2}}</annotation></semantics></math></p>
+
+<p>However, we generally do not include the superscripts when the coefficients in the balanced equation are <strong>1</strong>:</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{a}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\dfrac{\text{[A][B]}}{\text{[C]}^{2}}</annotation></semantics></math></p>
+
+<p>Remember that <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{x}^{1}</annotation></semantics></math> = x.</p>
+</div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="title">Equilibrium constant calculations</div><div class="problem" data-class="question">
+	      
+<p>The equilibrium constant (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{b}}</annotation></semantics></math>) for the following reaction is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,8} \times \text{10}^{-\text{5}}</annotation></semantics></math>.</p>
+
+	      
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{4}^{+}(\text{aq}) + \text{OH}^{-}(\text{aq})</annotation></semantics></math></p>
+
+	      
+<p>Calculate the mass (at equilibrium) of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math> molecules dissolved in <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{4}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> of water if there is a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,00175}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math> concentration of hydroxide ions at equilibrium.</p>
+
+	    </div><div class="solution" data-class="workstep" data-type="Step"><div class="title">What is the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{b}}</annotation></semantics></math> equation for this reaction</div>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{b}} = \dfrac{{\text{[NH}}_{4}^{+}{\text{(aq)]}}^{1}{\text{[OH}}^{-}{\text{(aq)]}}^{1}}{{\text{[NH}}_{3}{\text{(aq)]}}^{1}}</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Calculate the concentration of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math> at equilibrium</div>
+
+<p>If there is a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,00175}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math> concentration of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math> ions at equilibrium there must be an equal concentration of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{4}^{+}</annotation></semantics></math> ions.</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{[NH}_{3}{\text{(aq)]}} = \dfrac{{\text{[NH}}_{4}^{+}{\text{(aq)]}}^{1}{\text{[OH}}^{-}{\text{(aq)]}}^{1}}{{\text{K}}_{\text{b}}} = \dfrac{{\text{(}}\text{0,00175}{\text{)}}{\text{(}}\text{0,00175}{\text{)}}}{\text{1,8} \times \text{10}^{-\text{5}}} =</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,17}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Calculate the number of moles of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math> at equilibrium</div>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{C (mol.dm}^{-3}{\text{)}} = \dfrac{\text{n (mol)}}{\text{V (dm}^{3}{\text{)}}}</annotation></semantics></math>, therefore:</p>
+
+<p>n = C x V = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,17}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math> x <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{4}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,68}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Calculate the mass of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math> in solution at equilibrium</div>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{n (mol)} = \dfrac{\text{m (g)}}{\text{M (g.mol}^{-1}{\text{)}}}</annotation></semantics></math>. Therefore m = n x M</p>
+
+<p>M(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math>) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{14,0}</annotation></semantics></math> + (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3}</annotation></semantics></math> x <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,01}</annotation></semantics></math>) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{17,03}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g.mol^{-1}}</annotation></semantics></math></p>
+
+<p>m = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,68}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math> x <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{17,03}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g.mol^{-1}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{11,6}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math></p>
+</div></div><h1 class="title" data-class="complex-section">Exercises</h1>
+<div class="problemset">
+<div class="problemset">
+<div class="header">
+
+<p>State whether the acids and bases in the following balanced chemical equations are strong or weak and give a reason for your answer.</p>
+</div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HF}</annotation></semantics></math>:</p>
+
+		<div class="alternates"><img src="_plone_ignore_/cache/pspictures/b3e4fad12b273d6a7666ba2b3ba0a7a5.png"/><pre class="pspicture">&lt;code&gt;
+		    (-1.5,-0.5)(7,0.5)
+		    \rput(0,0){\textbf{HF(g) + H$_{2}$O(&amp;#8467;)}}
+		    \psline(2.6,0.05)(3.1,0.05)
+		    \psline(1.6,-0.05)(3.1,-0.05)
+		    \psline(3.1,0.05)(2.8,0.15)
+		    \psline(1.6,-0.05)(1.9,-0.15)
+		    \rput(5,0){\textbf{H$_{3}$O$^{+}$(aq) + F$^{-}$(aq)}}
+		  &lt;/code&gt;</pre></div>
+		</div><div class="solution">
+		  
+<p>Weak acid. The equilibrium lies far to the left meaning that only a small percentage of the hydrofluoric acid molecules donate a proton, ionisation is not favoured.</p>
+
+		</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{KOH}</annotation></semantics></math> dissolved in water:</p>
+
+		<div class="alternates"><img src="_plone_ignore_/cache/pspictures/228a55a84fabd5e8284473029a06891d.png"/><pre class="pspicture">&lt;code&gt;
+		    (0,-0.5)(7,0.5)
+		    \rput(0.8,0){\textbf{KOH(s)}}
+		    \psline(1.6,0.05)(3.1,0.05)
+		    \psline(1.6,-0.05)(2.2,-0.05)
+		    \psline(3.1,0.05)(2.8,0.15)
+		    \psline(1.6,-0.05)(1.9,-0.15)
+		    \rput(5,0){\textbf{K$^{+}$(aq) + OH$^{-}$(aq)}}
+		  &lt;/code&gt;</pre></div>
+		</div><div class="solution">
+		  
+<p>Strong base. The equilibrium lies far to the right meaning that a large percentage of the potassium hydroxide molecules dissociate in water, dissociation is favoured.</p>
+
+		</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math>:</p>
+
+		<div class="alternates"><img src="_plone_ignore_/cache/pspictures/d25f0e32bca5b221e3615c499507e54b.png"/><pre class="pspicture">&lt;code&gt;
+		    (-1.5,-0.5)(7.1,0.5)
+		    \rput(0,0){\textbf{NH$_{3}$(g) + H$_{2}$O(&amp;#8467;)}}
+		    \psline(2.6,0.05)(3.1,0.05)
+		    \psline(1.6,-0.05)(3.1,-0.05)
+		    \psline(3.1,0.05)(2.8,0.15)
+		    \psline(1.6,-0.05)(1.9,-0.15)
+		    \rput(5.1,0){\textbf{NH$_{4}$^{+}$(aq) + OH$^{-}$(aq)}}
+		  &lt;/code&gt;</pre></div>
+		</div><div class="solution">
+		  
+<p>Weak base. The equilibrium lies far to the left meaning that only a small percentage of the ammonia molecules accept a proton, ionisation is not favoured.</p>
+
+		</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>:</p>
+
+		<div class="alternates"><img src="_plone_ignore_/cache/pspictures/5ba3a8acf816890ea89a5dce7cffdd1f.png"/><pre class="pspicture">&lt;code&gt;
+		    (-1.5,-0.5)(7,0.5)
+		    \rput(0,0){\textbf{HCl(g) + H$_{2}$O(&amp;#8467;)}}
+		    \psline(1.6,0.05)(3.1,0.05)
+		    \psline(1.6,-0.05)(2.2,-0.05)
+		    \psline(3.1,0.05)(2.8,0.15)
+		    \psline(1.6,-0.05)(1.9,-0.15)
+		    \rput(5,0){\textbf{H$_{3}$O$^{+}$(aq) + Cl$^{-}$(aq)}}
+		  &lt;/code&gt;</pre></div>
+		</div><div class="solution">
+		  
+<p>Strong acid. The equilibrium lies far to the right meaning that a large percentage of the hydrochloric acid molecules donate a proton, ionisation is favoured.</p>
+
+		</div></div></div><div class="problemset">
+<div class="header">
+
+<p>State whether the acids and bases in the following questions are strong or weak and give a reason for your answer.</p>
+</div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{COOH}</annotation></semantics></math> has a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{a}}</annotation></semantics></math> value of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,7} \times \text{10}^{-\text{5}}</annotation></semantics></math>.</p>
+
+		</div><div class="solution">
+		  
+<p>Weak acid. <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{a}}</annotation></semantics></math> is very small, meaning that only a small percentage of the ethanoic acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{COOH}</annotation></semantics></math>) molecules donate a proton, ionisation is not favoured.</p>
+
+		</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math> has a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{b}}</annotation></semantics></math> value of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,8} \times \text{10}^{-\text{5}}</annotation></semantics></math>.</p>
+
+		</div><div class="solution">
+		  
+<p>Weak base. <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{b}}</annotation></semantics></math> is very small, meaning that only a small percentage of the ammonia (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math>) molecules accept a proton, ionisation is not favoured.</p>
+
+		</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HI}</annotation></semantics></math> has a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{a}}</annotation></semantics></math> value of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3,2} \times \text{10}^{\text{9}}</annotation></semantics></math>.</p>
+
+		</div><div class="solution">
+		  
+<p>Strong acid. <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{a}}</annotation></semantics></math> is very large, meaning that almost all of the hydroiodic acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HI}</annotation></semantics></math>) molecules donate a proton, ionisation is favoured.</p>
+
+		</div></div></div></div></body>
+</html>
