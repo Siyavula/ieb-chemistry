@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+  <head>undefined</head>
+  <body><h2>Titrations</h2>
+<h3>What are titrations?</h3>
+
+<p>The neutralisation reaction between an acid and a base can be very useful. If an acidic solution of known concentration (a standard solution) is added to a basic (alkaline) solution of unknown concentration until the solution is exactly neutralised (i.e. there is only salt and water), it is possible to calculate the exact concentration of the unknown solution. It is possible to do this because, at the exact point where the solution is neutralised, stoichiometrically equivalent mole amounts of acid and base have reacted with each other.</p>
+<dl class="definition"><dt>Titration</dt><dd>
+	  
+<p>The method used to determine the concentration of a known substance using another, standard, solution.</p>
+
+	</dd></dl><p>In a <strong>titration</strong>: a known volume of a standard solution (<strong>A</strong>) is added to a known volume of a solution with unknown concentration (<strong>B</strong>). The concentration of <strong>B</strong> can then be determined.</p>
+
+<p>Acids and bases are commonly used in titrations, and the point of neutralisation is called the <strong>end-point</strong> of the reaction. If you have an indicator that changes colour in the range of the end-point pH then you will be able to see when the end-point has occurred. Another name for a titration is <strong>volumetric analysis</strong>.</p>
+<h3>Titration calculations</h3>
+
+<p>So how exactly can a titration be carried out to determine an unknown concentration? Look at the following steps to help you to understand the process.</p>
+<ol data-class="ListEnumerated"><li>
+	  
+<p>A carefully measured volume of the solution with unknown concentration is put into a conical flask.</p>
+
+	</li>
+<li>
+	  
+<p>A few drops of a suitable indicator is added to this solution (bromothymol blue and phenolphthalein are common indicators, refer to Table <a href="#tab-acidsandbases-indicators" data-class="InternalLink">tab-acidsandbases-indicators</a>).</p>
+
+	</li>
+<li>
+	  
+<p>The conical flask is placed on a white tile or piece of paper (to make colour changes easier to see).</p>
+
+	</li>
+<li>
+	  
+<p>A volume of the standard solution (known concentration) is put into a burette (a measuring device) and is slowly added to the solution in the flask, drop by drop.</p>
+
+	  <div class="alternates"><img src="_plone_ignore_/cache/pspictures/be2fdc082c2cf00ce236416980459bef.png"/><pre class="pspicture">&lt;code&gt;
+	      (-4.7,-4.5)(5,4)
+	      \rput(0,0){\includegraphics{photos/titration.eps}}
+	      \rput(3,2.5){\textbf{burette}}
+	      \psline{-&amp;gt;}(2.3,2.45)(0.8,2.45)
+	      \rput(3.15,0.8){\textbf{standard}}
+	      \rput(3.1,0.4){\textbf{solution}}
+	      \psline{-&amp;gt;}(2.3,0.6)(0.55,0.6)
+	      \rput(3.15,-2.6){\textbf{solution}}
+	      \rput(3.6,-3){\textbf{with unknown}}
+	      \rput(3.6,-3.4){\textbf{concentration}}
+	      \psline{-&amp;gt;}(2.3,-3)(0.4,-3)
+	      \rput(-3.4,0){\textbf{retort stand}}
+	      \psline{-&amp;gt;}(-2.3,-0.05)(-0.7,-0.05)
+	      \psline{-&amp;gt;}(2.3,-4.1)(1.1,-3.4)
+	      \rput(3.25,-4.1){\textbf{white tile}}
+	    &lt;/code&gt;</pre></div>
+	  <div class="teachers-guide">
+<p>It is better to have the acid in the burette as many bases will clog the stopcock and damage the burette. It is much easier to clean a burette that has contained acid only. It is important to make sure the burette is perpendicular to the desk and clamped securely.</p>
+
+<p>When filling the burette the stopcock should be closed and the funnel should be lifted slightly to allow air to escape, otherwise it will bubble through the liquid in the funnel and splash acid. Once the burette is filled a beaker should be placed underneath and a few centimeters of the solution should be drained through the stopcock. This ensures that the entire burette is full. There should be no air bubbles, as a bubble bursting can affect the volume measurement and disrupt the accuracy of the experiment.</p>
+</div>
+	</li>
+<li>
+	  
+<p>At some point, adding one more drop will change the colour of the unknown solution to the colour of the end-point of the reaction. Remember the colour changes from Figure <a href="#fig-acidsandbases-indicators" data-class="InternalLink">fig-acidsandbases-indicators</a>.</p>
+
+	</li>
+<li>
+	  
+<p>Record the volume of standard solution that has been added up to this point.</p>
+
+	</li>
+<li>
+	  
+<p>Use the information you have gathered to calculate the exact concentration of the unknown solution. Worked examples are given to walk you through this step.</p>
+
+	</li>
+<li>
+	  
+<p>Note that adding more solution once the end-point has been reached will result in a colour change from the end-point colour to that of the acid (if the solution in the conical flask is a base) or of the base (if the solution in the conical flask is an acid).</p>
+
+	</li>
+</ol><p>When you are busy with these calculations, you will need to remember the following:</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{litre}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1000}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{ml}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1000}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math>, therefore dividing <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> by <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1000}</annotation></semantics></math> will give you an answer in <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math>.</p>
+
+<p>Some other terms and equations which will be useful to remember are shown below:</p>
+<ul data-class="ListBulleted"><li>
+	    
+<p>concentration of a solution is measured in <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math></p>
+
+	  </li>
+<li>
+	    
+<p>moles (mol) <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">=</annotation></semantics></math> concentration (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math>) <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\times</annotation></semantics></math> volume (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math>)</p>
+
+	  </li>
+<li>
+	    
+<p>concentration <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">= \dfrac{\text{moles}}{\text{volume}}\phantom{\rule{35pt}{0ex}}{\text{C (mol.dm}}^{-3}{\text{)}} = \dfrac{\text{n  (mol)}}{\text{V (\text{dm^{3}})}}</annotation></semantics></math></p>
+
+	  </li>
+<li>
+	    
+<p>remember to make sure all the units are correct in your calculations</p>
+
+	  </li>
+</ul><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="title">Titration calculations</div><div class="problem" data-class="question">
+	  
+<p>Given the equation:</p>
+
+	  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}(\text{aq}) + \text{HCl}(\text{aq})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaCl}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+
+	  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{25}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of sodium hydroxide solution was pipetted into a conical flask and titrated with <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,2}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math> hydrochloric acid. Using a suitable indicator, it was found that <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{15}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of acid was needed to neutralise the base. Calculate the concentration of the sodium hydroxide.</p>
+
+	</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Make sure that the equation is balanced</div>
+
+<p>There are equal numbers of each type of atom on each side of the equation, so the equation is balanced.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Write down all the information you know about the reaction, converting to the correct units</div>
+
+<p><strong>NaOH:</strong> V = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{25}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\times \dfrac{\text{0,001} {\text{ dm}}^{3}}{\text{1} {\text{ cm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,025}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math></p>
+
+<p><strong>HCl:</strong> V = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{15}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\times \dfrac{\text{0,001} {\text{ dm}}^{3}}{\text{1} {\text{ cm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,015}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math></p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\phantom{\rule{25pt}{0ex}}</annotation></semantics></math>C = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,2}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Calculate the number of moles of HCl that are added</div>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\text{C}} = \dfrac{\text{n}}{\text{V}}</annotation></semantics></math></p>
+
+<p>Therefore, n<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">(\text{HCl})</annotation></semantics></math> = C <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\times</annotation></semantics></math> V</p>
+
+<p>n(HCl) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,2}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\times</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,015}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,003}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math></p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,003}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{moles}</annotation></semantics></math> of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> are required to neutralise the base.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Calculate the number of moles of sodium hydroxide in the reaction</div>
+
+<p>Look at the equation for the reaction: the molar ratio of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>:<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math>:<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math>.</p>
+
+<p>So for every mole of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>, there is one mole of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> that is involved in the reaction. Therefore, if <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,003}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> is required to neutralise the solution, <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,003}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> must have been present in the sample of the unknown solution.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Calculate the concentration of the sodium hydroxide solution</div>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">{\text{C(NaOH)}} = \dfrac{\text{n}}{\text{V}} = \dfrac{\text{0,003}\text{ mol}}{\text{0,025}\text{ dm^{3}}} = \text{0,12}\text{ mol.dm^{-3}}</annotation></semantics></math></p>
+
+<p>The concentration of the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> solution is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,12}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math></p>
+</div></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="title">Titration calculations</div><div class="problem" data-class="question">
+	  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math> of solid sodium hydroxide is dissolved in <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{500}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> water. Using titration, it was found that  <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{20}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of this solution was able to completely neutralise  <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of a sulfuric acid solution. Calculate the concentration of the sulfuric acid.</p>
+
+	</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Write a balanced equation for the titration reaction</div>
+
+<p>The reactants are sodium hydroxide (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math>) and sulfuric acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}</annotation></semantics></math>). The base has a hydroxide anion (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math>), therefore the products will be a salt and water.</p>
+
+<p>The cation for the salt (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Na}^{+}</annotation></semantics></math>) will come from the base. The anion for the salt (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{SO}_{4}^{2-}</annotation></semantics></math>) will come from the acid. There must be <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Na}^{+}</annotation></semantics></math> cations for every one <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{SO}_{4}^{2-}</annotation></semantics></math> and the salt will be <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Na}_{2}\text{SO}_{4}</annotation></semantics></math>.</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}(\text{aq}) + \text{NaOH}(\text{aq})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Na}_{2}\text{SO}_{4}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+
+<p>To balance the equation we need to multipy the number of sodium hydroxide molecules and the water molecules by two.</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}(\text{aq}) + 2\text{NaOH}(\text{aq})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Na}_{2}\text{SO}_{4}(\text{aq}) + 2\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Calculate the concentration of the sodium hydroxide solution</div>
+
+<p>The total volume that the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math> was dissolved in  must be used to calculate the concentration.</p>
+
+<p>V = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{500}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\times \dfrac{\text{0,001} {\text{ dm}}^{3}}{\text{1} {\text{ cm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,5}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math></p>
+
+<p>M(NaOH) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{23,0}</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{16,0}</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,01}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{40,01}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g.mol^{-1}}</annotation></semantics></math></p>
+
+<p>n(NaOH) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\dfrac{\text{m}}{\text{M}} = \dfrac{\text{10}\text{ g}}{\text{40,01}\text{ g.mol^{-1}}} = \text{0,25}\text{ mol}</annotation></semantics></math></p>
+
+<p>C(NaOH) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\dfrac{\text{n}}{\text{V}} = \dfrac{\text{0,25}\text{ mol}}{\text{0,5}\text{ dm^{3}}} = \text{0,50}\text{ mol.dm^{-3}}</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Calculate the number of moles of sodium hydroxide that were used in the neutralisation reaction</div>
+
+<p>Remember that only <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{20}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of the sodium hydroxide solution is used:</p>
+
+<p>V = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{20}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\times \dfrac{\text{0,001} {\text{ dm}}^{3}}{\text{1} {\text{ cm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,02}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math></p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{C} = \dfrac{\text{n}}{\text{V}}</annotation></semantics></math>, therefore <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{n} = {\text{C}} \times {\text{V}}</annotation></semantics></math></p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{n} = \text{0,50}\text{ mol.dm^{-3}} \times \text{0,02}\text{ dm^{3}} = \text{0,01}\text{ mol}</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Calculate the number of moles of sulfuric acid that were neutralised</div>
+
+<p>According to the balanced chemical equation, the mole ratio of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}</annotation></semantics></math> is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math>:<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math>. There are <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math> moles of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> for every <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math> mole of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}</annotation></semantics></math>.</p>
+
+<p>n(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\dfrac{\text{0,01}\text{ mol}}{\text{2}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,005}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math>.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Calculate the concentration of the sulfuric acid solution</div>
+
+<p>Remember that <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of the sulfuric acid solution is neutralised.</p>
+
+<p>V(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}</annotation></semantics></math>) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\times \dfrac{\text{0,001} {\text{ dm}}^{3}}{\text{1} {\text{ cm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,01}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math></p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{C} = \dfrac{\text{n}}{\text{V}} = \dfrac{\text{0,005}\text{ mol}}{\text{0,01}\text{ dm^{3}}} = \text{0,5}\text{ mol.dm^{-3}}</annotation></semantics></math></p>
+</div></div><div class="teachers-guide">
+<p>The formal assessment requires that the learners prepare a standard solution of sodium hydroxide. It is important that the learners understand that in order for the concentration of a standard solution to be accurately known:</p>
+<ul data-class="ListBulleted"><li>
+	    
+<p>The mass must be precisely measured.</p>
+
+	  </li>
+<li>
+	    
+<p>The beakers must be rinsed with water (and the rinsings added to the volumetric flask) so that no residue of the sodium hydroxide is left behind.</p>
+
+	  </li>
+<li>
+	    
+<p>The sides of the volumetric flask must be washed with water for the same reason.</p>
+
+	  </li>
+<li>
+	    
+<p>It is important to have their eye level with the mark on the volumetric flask when filling to that mark so that the volume is precise.</p>
+
+	  </li>
+</ul><p>Learners are working with a strong base in this reaction. Concentrated, strong bases can cause serious burns. Please remind the learners to be careful and wear the appropriate safety equipment when handling all chemicals, especially concentrated bases. The safety equipment includes gloves, safety glasses, and protective clothing.</p>
+</div><div class="example" data-class="activity" data-type="formalexperiment"><div class="title">Preparation of a standard solution</div><div class="section"><div class="title">Aim</div>
+<p>To prepare a standard solution of sodium hydroxide.</p>
+</div>
+<div class="section"><div class="title">Apparatus and materials</div><ul data-class="ListBulleted"><li>
+	      
+<p>one <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{250}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> volumetric flask, a beaker, a funnel, a plastic dropper</p>
+
+	    </li>
+<li>
+	      
+<p>A weighing scale, a spatula, a clean piece of paper</p>
+
+	    </li>
+<li>
+	      
+<p>solid sodium hydroxide</p>
+
+	    </li>
+</ul></div>
+<div class="section"><div class="title">Method</div><div class="note" data-type="warning">
+<p>Concentrated bases can cause serious burns. We suggest using gloves and safety glasses whenever you work with a base. Handle all chemicals with care.</p>
+</div><ol data-class="ListEnumerated"><li>
+	      
+<p>Place the paper on the scale and tare (zero) the scale.</p>
+
+	    </li>
+<li>
+	      
+<p>Weigh <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5,00}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math> of solid sodium hydroxide onto the paper.</p>
+
+	    </li>
+<li>
+	      
+<p>Transfer the sodium hydroxide to the beaker and dissolve it in a minimal amount of water.</p>
+
+	    </li>
+<li>
+	      
+<p>Place the funnel in the mouth of the volumetric flask and use it to transfer the solution from the beaker to the flask, be careful not to spill.</p>
+
+	    </li>
+<li>
+	      
+<p>Pour another <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of water into the beaker, swirl gently, and pour this into the flask through the funnel as well.</p>
+
+	    </li>
+<li>
+	      
+<p>Repeat step <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math> another two times.</p>
+
+	    </li>
+<li>
+	      
+<p>Pour <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of water through the funnel into the flask.</p>
+
+	    </li>
+<li>
+	      
+<p>Use the plastic dropper to pour water down the inside of the volumetric flask.</p>
+
+	    </li>
+<li>
+	      
+<p>Fill the volumetric flask to the mark with water. Use the plastic dropper to fill the last few centimeters. Remember to lower yourself so that you are looking directly at the mark when adding the final drops.</p>
+
+	      <figure class="figure"><img width="156" alt="Photo by Grant Hillebrand" src="photos/volumetric_flask_grant_hillebrand_modified.jpg"/></figure></li>
+<li>
+	      
+<p>Cap the flask and shake well. You now have a standard solution.</p>
+
+	    </li>
+</ol></div>
+<div class="section"><div class="title">Questions</div><ul data-class="ListBulleted"><li>
+	      
+<p>What is the concentration of this standard solution?</p>
+
+	    </li>
+<li>
+	      
+<p>What is the purpose of rinsing the beaker and funnel with water?</p>
+
+	    </li>
+<li>
+	      
+<p>What is the purpose of rinsing the inside of the volumetric flask with water?</p>
+
+	    </li>
+<li>
+	      
+<p>Why do you need to make sure your eyes are level with the mark when adding the final few drops of water?</p>
+
+	    </li>
+</ul></div>
+</div>
+<div class="teachers-guide">
+<p>A less accurate alternative to the titration of acetic acid with sodium hydroxide experiment is provided here (if titration equipment is not available).</p>
+<div class="example" data-class="activity" data-type="generalexperiment"><div class="title">Titrations</div><div class="section"><div class="title">Aim</div>
+<p>To determine the concentration of acetic acid (ethanoic acid) in a sample of vinegar.</p>
+</div>
+<div class="section"><div class="title">Apparatus and materials</div><ul data-class="ListBulleted"><li>
+	      
+<p>4 conical flasks, plastic droppers, two measuring cylinders</p>
+
+	    </li>
+<li>
+	      
+<p>a white piece of paper or a white tile</p>
+
+	    </li>
+<li>
+	      
+<p>the standard <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> solution prepared in the previous experiment, white vinegar, phenolphthalein</p>
+
+	    </li>
+</ul></div>
+<div class="section"><div class="title">Method</div><div class="note" data-type="warning">
+<p>Concentrated acids and bases can cause serious burns. We suggest using gloves and safety glasses whenever you work with an acid or a base. Handle all chemicals with care.</p>
+</div><ol data-class="ListEnumerated"><li>
+		
+<p>Label a conical flask <strong>1</strong> and add <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{20}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of the sodium hydroxide solution to the conical flask using a measuring cylinder.</p>
+
+	      </li>
+<li>
+		
+<p>Add a few drops of the phenolphthalein indicator to conical flask 1.</p>
+
+	      </li>
+<li>
+		
+<p>Measure <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> vinegar in the second measuring cylinder.</p>
+
+	      </li>
+<li>
+		
+<p>Pour the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> vinegar into conical flask 1. Swirl the flask.</p>
+
+	      </li>
+<li>
+		
+<p>If there is no colour change measure <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> vinegar in the measuring cylinder and add this to conical flask 1. Swirl the flask.</p>
+
+	      </li>
+<li>
+		
+<p>Repeat step <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math> until the colour change remains after swirling. Calculate the volume of vinegar added. This is your <em>rough titration</em>.</p>
+
+	      </li>
+<li>
+		
+<p>Repeat steps <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math> with a second conical flask (label it <strong>2</strong>).</p>
+
+	      </li>
+<li>
+		
+<p>Add a volume of vinegar <strong>no more than</strong> <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> less than your rough titration volume to conical flask 2. This is your initial volume added.</p>
+
+	      </li>
+<li>
+		
+<p>Measure <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of vinegar in the second measuring cylinder.</p>
+
+	      </li>
+<li>
+		
+<p>Use a dropper to transfer vinegar from the measuring cylinder to the conical flask. Swirl between each drop and be careful not to spill. If you get vinegar on the side of the conical flask, rinse with water.</p>
+
+	      </li>
+<li>
+		
+<p>When there is a permanent colour change after swirling, the end-point has been reached. Determine the volume added:</p>
+
+		
+<p>Total volume added = initial volume added + (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> - final volume in measuring cylinder)</p>
+
+	      </li>
+<li>
+		
+<p>Repeat steps <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{7}</annotation></semantics></math> - <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{11}</annotation></semantics></math>, labelling the conical flasks <strong>3</strong> and <strong>4</strong>.</p>
+
+	      </li>
+</ol></div>
+<div class="section"><div class="title">Continue with the rest of the experiment as laid out in the learners textbook</div></div>
+</div>
+
+<p>Although this method will not be as accurate, it will give the learners an idea of what a titration is like.</p>
+
+<p>Different concentrations of the standard solution may be used, and the calculations will have to be adjusted in that case.</p>
+
+<p>It is possible to put the sodium hydroxide in the burette and the vinegar in the conical flask. This is likely to clog the burette though, so if you do this make sure to wash your burette thoroughly after use to avoid the stopcock being damaged. It may be necessary to drain a few <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of the vinegar to remove all air bubbles from the burette. In this case add more vinegar to the burette after removing the air bubbles so that the top of the vinegar is between the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> marks.</p>
+
+<p>Learners are working with a strong base in this reaction. Concentrated, strong bases can cause serious burns. Please remind the learners to be careful and wear the appropriate safety equipment when handling all chemicals, especially strong, concentrated bases. The safety equipment includes gloves, safety glasses, and protective clothing.</p>
+</div><div class="example" data-class="activity" data-type="generalexperiment"><div class="title">Titrations</div><div class="section"><div class="title">Aim</div>
+<p>To determine the concentration of acetic acid (ethanoic acid) in a sample of vinegar.</p>
+</div>
+<div class="section"><div class="title">Apparatus and materials</div><ul data-class="ListBulleted"><li>
+	      
+<p>4 conical flasks, one pipette, one burette, one small funnel, one beaker</p>
+
+	    </li>
+<li>
+	      
+<p>a retort stand, a white piece of paper or a white tile</p>
+
+	    </li>
+<li>
+	      
+<p>the standard <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> solution prepared in the previous experiment, white vinegar, phenolphthalein</p>
+
+	    </li>
+</ul></div>
+<div class="section"><div class="title">Method</div><div class="note" data-type="warning">
+<p>Concentrated acids and bases can cause serious burns. We suggest using gloves and safety glasses whenever you work with an acid or a base. Handle all chemicals with care.</p>
+</div><ol data-class="ListEnumerated"><li>
+	      
+<p>Clamp the burette to the retort stand and place the small funnel on top.</p>
+
+	      <div class="alternates"><img src="_plone_ignore_/cache/pspictures/c5c8197ce51c23468e2667cd37e5843d.png"/><pre class="pspicture">&lt;code&gt;
+		  (-0.55,-0.1)(1.55,3.2)
+		  \psellipse(0.5,2.95)(0.95,0.15)
+		  \psline(-0.45,2.95)(0.4,1.6)(0.4,0.9)
+		  \psline(1.45,2.95)(0.6,1.6)(0.6,1)
+		  \psline[linearc=0.2](0,0)(0,2)(-0.05,2.05)
+		  \psline[linearc=0.2](1,0)(1,2)(1.05,2.05)
+		  \psellipse(0.5,2.05)(0.55,0.15)
+		&lt;/code&gt;</pre></div>
+	    </li>
+<li>
+	      
+<p>Making sure the burette is closed, carefully add the vinegar to the burette (lift the funnel slightly while doing this) until the burette is full.</p>
+
+	    </li>
+<li>
+	      
+<p>Place a beaker below the burette and carefully let some of the vinegar run into it. This will ensure that there are no air bubbles in the burette. The top of the vinegar should now be between the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0}</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> marks. Record the value to the second decimal place.</p>
+
+	      <div class="alternates"><img src="_plone_ignore_/cache/pspictures/54f88d5c40305efeb507972d46752421.png"/><pre class="pspicture">&lt;code&gt;
+		  (-0.1,-0.1)(1.1,2.3)
+		  \newrgbcolor{skyblue}{0.53 0.81 0.98}
+		  \psframe[linestyle=none,fillcolor=skyblue,fillstyle=solid](0,0)(1,1.146)
+		  \psline[linearc=0.2](0,0)(0,2)(-0.05,2.05)
+		  \psline[linearc=0.2](1,0)(1,2)(1.05,2.05)
+		  \psellipse(0.5,2.05)(0.55,0.15)
+		  \psline(1,1.5)(0.2,1.5)
+		  \rput(0.25,1.68){\small{0}}
+		  \psline(1,1.4)(0.8,1.4)
+		  \psline(1,1.3)(0.8,1.3)
+		  \psline(1,1.2)(0.8,1.2)
+		  \psline(1,1.1)(0.8,1.1)
+		  \psline(1,1)(0.6,1)
+		  \psline(1,0.9)(0.8,0.9)
+		  \psline(1,0.8)(0.8,0.8)
+		  \psline(1,0.7)(0.8,0.7)
+		  \psline(1,0.6)(0.8,0.6)
+		  \psline(1,0.5)(0.2,0.5)
+		  \rput(0.25,0.68){\small{1}}
+		  \psline(1,0.4)(0.8,0.4)
+		  \psline(1,0.3)(0.8,0.3)
+		  \psline(1,0.2)(0.8,0.2)
+		  \psline(1,0.1)(0.8,0.1)
+		&lt;/code&gt;</pre></div>
+	    </li>
+<li>
+	      
+<p>Use your pipette to measure <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{20}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of the sodium hydroxide standard solution into a conical flask.</p>
+
+	    </li>
+<li>
+	      
+<p>Add <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3}</annotation></semantics></math> - <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{4}</annotation></semantics></math> drops of phenolphthalein indicator to the conical flask. What colour is the solution?</p>
+
+	    </li>
+<li>
+	      
+<p>Do a rough titration experiment by adding the vinegar to the conical flask quickly, and constantly swirling the conical flask. Stop as soon as the colour of the solution changes, and remains changed after swirling. Make a note of the reading on the burette at this point and determine the volume added:</p>
+
+	      
+<p>(V(final) - V(initial)).</p>
+
+	        <div class="alternates"><img src="_plone_ignore_/cache/pspictures/3ad6ce36ddd256e460ce840f777c5d7d.png"/><pre class="pspicture">&lt;code&gt;
+		    (-6,-4.5)(6.1,4)
+		    \rput(0,0){\includegraphics{photos/titration.eps}}
+		    \rput(3.2,2.5){\textbf{\Large burette}}
+		    \psline[arrowsize=5pt]{-&amp;gt;}(2.3,2.45)(0.8,2.45)
+		    \rput(3.3,0.6){\textbf{\Large vinegar}}
+		    \psline[arrowsize=5pt]{-&amp;gt;}(2.3,0.6)(0.85,0.6)
+		    \psline[arrowsize=5pt]{-&amp;gt;}(-2.3,-3)(0.3,-3)
+		    \rput(-4.1,-3){\textbf{\Large phenolphthalein}}
+		    \rput(4.1,-2.775){\textbf{\Large 20 cm}$^{3}${\textbf{\Large{ NaOH}}}}
+		    \rput(4.1,-3.25){\textbf{\Large standard solution}}
+		    \psline[arrowsize=5pt]{-&amp;gt;}(2.3,-3)(0.4,-3)
+		    \rput(-3.65,0){\textbf{\Large retort stand}}
+		    \psline[arrowsize=5pt]{-&amp;gt;}(-2.3,-0.05)(-0.7,-0.05)
+		    \psline[arrowsize=5pt]{-&amp;gt;}(2.3,-4.1)(1.1,-3.4)
+		    \rput(3.65,-4.1){\textbf{\Large white paper}}
+		  &lt;/code&gt;</pre></div>
+	      
+<p>If the colour change does not remain when the flask is swirled, add more vinegar until the colour remains.</p>
+
+	    </li>
+<li>
+	      
+<p>Repeat steps <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math> - <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math> with a second conical flask.</p>
+
+	    </li>
+<li>
+	      
+<p>Quickly add vinegar to the conical flask until you have added <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> less than your rough titration volume. There should be no lasting colour change at this point.</p>
+
+	    </li>
+<li>
+	      
+<p>Drop by drop (slowly and carefully), add vinegar. Swirl between each drop and, if necessary, rinse the sides of the flask with water. When the solution changes colour and remains that new colour, make a note of the volume on the burette.</p>
+
+	      
+<p>Remember that the volume titrated is: (final volume reading) - (the initial volume reading).</p>
+
+	    </li>
+<li>
+	      
+<p>For accuracy you should repeat steps <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{7}</annotation></semantics></math> - <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{9}</annotation></semantics></math> until you have three readings with a difference of no more than <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,1}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math>.</p>
+
+	    </li>
+</ol></div>
+<div class="section"><div class="title">Observations and questions</div><ul data-class="ListBulleted"><li>
+	      
+<p>What colour was the sodium hydroxide solution when the phenolphthalein was added?</p>
+
+	    </li>
+<li>
+	      
+<p>What was the colour when enough acid was added?</p>
+
+	    </li>
+</ul><p>Fill in the details of this experiment on a table like the one below:</p>
+<table><tbody><tr><td><p><strong>Titration</strong></p></td><td><p><strong>Initial volume</strong></p>
+
+		    
+<p><strong>(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math>)</strong></p></td><td><p><strong>Final volume</strong></p>
+
+		    
+<p><strong>(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math>)</strong></p></td><td><p><strong>Volume</strong></p>
+
+		    
+<p><strong>(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math>)</strong></p></td></tr><tr><td><p><strong>Rough</strong></p></td><td></td><td></td><td></td></tr><tr><td><p><strong>1</strong></p></td><td></td><td></td><td></td></tr><tr><td><p><strong>2</strong></p></td><td></td><td></td><td></td></tr><tr><td><p><strong>3</strong></p></td><td></td><td></td><td></td></tr></tbody></table><ul data-class="ListBulleted"><li>
+	      
+<p>From the table determine the average titration volume for this experiment and use that value in the rest of your calculations.</p>
+
+	    </li>
+<li>
+	      
+<p>Using the previous worked examples, determine the concentration of acetic acid in the sample of vinegar. Remember that you have the following information:</p>
+
+	      <ul data-class="ListBulleted"><li>
+		  
+<p>the volume of vinegar</p>
+
+		</li>
+<li>
+		  
+<p>the volume of the sodium hydroxide solution</p>
+
+		</li>
+<li>
+		  
+<p>the concentration of the sodium hydroxide solution</p>
+
+		</li>
+</ul></li>
+<li>
+	      
+<p>The balanced chemical equation for this reaction is:</p>
+
+	      
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{COOH}(\text{aq}) + \text{NaOH}(\text{aq})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{COONa}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+
+	    </li>
+</ul></div>
+</div>
+<div class="teachers-guide">
+<p>A less accurate alternative to the titration of sodium hydroxide with oxalic acid experiment is provided here (if titration equipment is not available).</p>
+<div class="example" data-class="activity" data-type="generalexperiment"><div class="title">Titrations</div><div class="section"><div class="title">Aim</div>
+<p>To determine the concentration of a sodium hydroxide solution of unknown concentration.</p>
+</div>
+<div class="section"><div class="title">Apparatus and materials</div><ul data-class="ListBulleted"><li>
+	      
+<p>one <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{250}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> volumetric flask, 4 conical flasks, two plastic droppers, two measuring cylinders, one beaker</p>
+
+	    </li>
+<li>
+	      
+<p>a weighing scale, a spatula, a clean piece of paper, a white sheet of paper or a white tile</p>
+
+	    </li>
+<li>
+	      
+<p>solid sodium hydroxide (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math>), solid oxalic acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{C}_{2}\text{O}_{ 4}</annotation></semantics></math>), phenolphthalein</p>
+
+	    </li>
+</ul></div>
+<div class="section"><div class="title">Method</div><div class="note" data-type="warning">
+<p>Concentrated acids and bases can cause serious burns. We suggest using gloves and safety glasses whenever you work with an acid or a base. Handle all chemicals with care.</p>
+</div><ol data-class="ListEnumerated"><li>
+		
+<p>Prepare a standard solution using <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{11,00}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math> of oxalic acid in the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{250}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> volumetric flask (remember to follow the method from the formal <em>preparation of a standard solution</em> experiment).</p>
+
+	      </li>
+<li>
+		
+<p>Label one of the beakers <em><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math></em>. Use a measuring cylinder to measure approximately <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{100}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of water into the beaker. Add approximately <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{4}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math> of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> to the beaker and stir.</p>
+
+	      </li>
+<li>
+		
+<p>Label a conical flask <strong>1</strong> and transfer <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{20}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of the sodium hydroxide to the conical flask.</p>
+
+	      </li>
+<li>
+		
+<p>Add a few drops of the phenolphthalein indicator to conical flask 1.</p>
+
+	      </li>
+<li>
+		
+<p>Measure <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of the oxalic acid solution in the second measuring cylinder.</p>
+
+	      </li>
+<li>
+		
+<p>Pour the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> oxalic acid solution into conical flask 1. Swirl the flask.</p>
+
+	      </li>
+<li>
+		
+<p>If there is no colour change measure <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> oxalic acid in the measuring cylinder and add this to conical flask 1. Swirl the flask.</p>
+
+	      </li>
+<li>
+		
+<p>Repeat step <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{7}</annotation></semantics></math> until the colour change remains after swirling. Calculate the volume of oxalic acid solution added. This is your <em>rough titration</em>.</p>
+
+	      </li>
+<li>
+		
+<p>Repeat steps <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3}</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{4}</annotation></semantics></math> with a second conical flask (label it <strong>2</strong>).</p>
+
+	      </li>
+<li>
+		
+<p>Add a volume of oxalic acid <strong>no more than</strong> <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> less than your rough titration volume to conical flask 2. This is your initial volume added.</p>
+
+	      </li>
+<li>
+		
+<p>Measure <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of oxalic acid in the second measuring cylinder.</p>
+
+	      </li>
+<li>
+		
+<p>Use a dropper to transfer oxalic acid from the measuring cylinder to the conical flask. Swirl between each drop and be careful not to spill. If you get oxalic acid on the side of the conical flask, rinse with water.</p>
+
+	      </li>
+<li>
+		
+<p>When there is a permanent colour change after swirling, the end-point has been reached. Determine the volume added:</p>
+
+		
+<p>Total volume added = initial volume added + (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> - final volume in measuring cylinder)</p>
+
+	      </li>
+<li>
+		
+<p>Repeat steps <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{9}</annotation></semantics></math> - <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{13}</annotation></semantics></math>, labelling the conical flasks <strong>3</strong> and <strong>4</strong>.</p>
+
+	      </li>
+</ol></div>
+<div class="section"><div class="title">Continue with the rest of the experiment as laid out in the learners textbook</div></div>
+</div>
+
+<p>Although this method will not be as accurate, it will give the learners an idea of what a titration is like.</p>
+
+<p>Different concentrations of the standard solution may be used, and the calculations will have to be adjusted in that case.</p>
+
+<p>It is possible to put the sodium hydroxide in the burette and the oxalic acid in the conical flask. This is likely to clog the burette though, so if you do this make sure to wash your burette thoroughly after use to avoid the stopcock being damaged. It may be necessary to drain a few <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of the oxalic acid to remove all air bubbles from the burette. In this case add more oxalic acid solution to the burette after removing the air bubbles so that the top of the solution is between the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> marks.</p>
+
+<p>Learners are working with a strong base in this reaction. Concentrated, strong bases can cause serious burns. Please remind the learners to be careful and wear the appropriate safety equipment when handling all chemicals, especially strong, concentrated bases. The safety equipment includes gloves, safety glasses, and protective clothing.</p>
+</div><div class="example" data-class="activity" data-type="generalexperiment"><div class="title">Titrations</div><div class="section"><div class="title">Aim</div>
+<p>To determine the concentration of a sodium hydroxide solution of unknown concentration.</p>
+</div>
+<div class="section"><div class="title">Apparatus and materials</div><ul data-class="ListBulleted"><li>
+	      
+<p>one <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{250}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> volumetric flask, 4 conical flasks, one pipette, one burette, one small funnel, two beakers, one plastic dropper</p>
+
+	    </li>
+<li>
+	      
+<p>a retort stand, a weighing scale, a spatula, a clean piece of paper</p>
+
+	    </li>
+<li>
+	      
+<p>solid sodium hydroxide (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math>), solid oxalic acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{C}_{2}\text{O}_{4}</annotation></semantics></math>), phenolphthalein</p>
+
+	    </li>
+</ul></div>
+<div class="section"><div class="title">Method</div><div class="note" data-type="warning">
+<p>Concentrated acids and bases can cause serious burns. We suggest using gloves and safety glasses whenever you work with an acid or a base. Handle all chemicals with care.</p>
+</div><ol data-class="ListEnumerated"><li>
+	      
+<p>Prepare a standard solution using <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{11,00}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math> of oxalic acid in the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{250}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> volumetric flask.</p>
+
+	    </li>
+<li>
+	      
+<p>Label one of the beakers <em><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math></em>. Use your pipette to measure <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{100}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of water into the beaker. Add approximately <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{4}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math> of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> to the beaker and stir.</p>
+
+	    </li>
+<li>
+	      
+<p>Clamp the burette to the retort stand and place the small funnel on top.</p>
+
+	    </li>
+<li>
+	      
+<p>Making sure the burette is closed, carefully add the oxalic acid standard solution to the burette (lift the funnel slightly while doing this) until the burette is full.</p>
+
+	    </li>
+<li>
+	      
+<p>Place the clean beaker below the burette and carefully let some of the oxalic acid solution run into it. This will ensure that there are no air bubbles in the burette. The top of the solution should now be between the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0}</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> marks. Record the value to the second decimal place.</p>
+
+	    </li>
+<li>
+	      
+<p>Use your pipette to measure <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{20}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math> solution into a conical flask.</p>
+
+	    </li>
+<li>
+	      
+<p>Add <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3}</annotation></semantics></math> - <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{4}</annotation></semantics></math> drops of phenolphthalein indicator to the conical flask. What colour is the solution?</p>
+
+	    </li>
+<li>
+	      
+<p>Do a rough titration experiment by adding the oxalic acid to the conical flask quickly, and constantly swirling the conical flask. Stop as soon as the colour of the solution changes, and remains changed after swirling. Make a note of the reading on the burette at this point and determine the volume added:</p>
+
+	      
+<p>V(final) - V(initial).</p>
+
+	      
+<p>If the colour change does not remain when the flask is swirled, add more oxalic acid until the colour remains.</p>
+
+	    </li>
+<li>
+	      
+<p>Repeat steps <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{4}</annotation></semantics></math> - <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{7}</annotation></semantics></math> with a second conical flask.</p>
+
+	    </li>
+<li>
+	      
+<p>Quickly add oxalic acid to the conical flask until you have added <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> less than your rough titration volume. There should be no lasting colour change at this point.</p>
+
+	    </li>
+<li>
+	      
+<p>Drop by drop (slowly and carefully), add oxalic acid. Swirl between each drop and, if necessary, rinse the sides of the flask with water. When the solution changes colour, and remains that new colour, make a note of the volume on the burette.</p>
+
+	      
+<p>Remember that the volume titrated is: (final volume reading) - (the initial volume reading).</p>
+
+	    </li>
+<li>
+	      
+<p>For accuracy, you should repeat steps <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{9}</annotation></semantics></math> - <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{11}</annotation></semantics></math> until you have three readings with a difference of no more than <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,1}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math>.</p>
+
+	    </li>
+</ol></div>
+<div class="section"><div class="title">Observations and questions</div><ul data-class="ListBulleted"><li>
+	      
+<p>What colour was the sodium hydroxide solution when the phenolphthalein was added?</p>
+
+	    </li>
+<li>
+	      
+<p>What was the colour when enough acid was added?</p>
+
+	    </li>
+</ul><p>Fill in the details of this experiment on a table like the one below:</p>
+<table><tbody><tr><td><p><strong>Titration</strong></p></td><td><p><strong>Initial volume</strong></p>
+
+		    
+<p><strong>(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math>)</strong></p></td><td><p><strong>Final volume</strong></p>
+
+		    
+<p><strong>(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math>)</strong></p></td><td><p><strong>Volume</strong></p>
+
+		    
+<p><strong>(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math>)</strong></p></td></tr><tr><td><p><strong>Rough</strong></p></td><td></td><td></td><td></td></tr><tr><td><p><strong>1</strong></p></td><td></td><td></td><td></td></tr><tr><td><p><strong>2</strong></p></td><td></td><td></td><td></td></tr><tr><td><p><strong>3</strong></p></td><td></td><td></td><td></td></tr></tbody></table><ul data-class="ListBulleted"><li>
+	      
+<p>From the table, determine the average titration volume for this experiment and use that value in the rest of your calculations.</p>
+
+	    </li>
+<li>
+	      
+<p>Using the previous worked examples, determine the concentration of the sodium hydroxide solution. Remember that you have the following information:</p>
+
+	      <ul data-class="ListBulleted"><li>
+		  
+<p>the volume of sodium hydroxide solution</p>
+
+		</li>
+<li>
+		  
+<p>the volume of oxalic acid solution</p>
+
+		</li>
+<li>
+		  
+<p>the concentration of the oxalic acid solution.</p>
+
+		</li>
+</ul></li>
+<li>
+	      
+<p>The balanced chemical equation for this reaction is:</p>
+
+	      
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{C}_{2}\text{O}_{4}(\text{aq}) + 2\text{NaOH}(\text{aq})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Na}_{2}\text{C}_{2}\text{O}_{4}(\text{aq}) + 2\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+
+	    </li>
+</ul></div>
+</div>
+<h1 class="title" data-class="complex-section">Exercises</h1>
+<div class="problemset">
+<div class="multipart">
+<div class="header">
+
+<p>A learner is asked to prepare a <em>standard solution</em> of the weak acid, oxalic acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{C}_{2}\text{O}_{4}</annotation></semantics></math>), for use in a titration. The volume of the solution must be <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{500}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> and the concentration must be <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,2}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math>.</p>
+</div><div class="exercise" data-class="entry">
+<div class="problem">
+	    
+<p>Calculate the mass of oxalic acid which the learner must dissolve to make up the required standard solution.</p>
+
+	  </div><div class="solution">
+	    
+<p>We need the mass of oxalic acid. However, we don't know the number of moles yet.</p>
+
+	    
+<p>V = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{500}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\times \dfrac{\text{0,001} {\text{ dm}}^{3}}{\text{1} {\text{ cm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,5}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math></p>
+
+	    
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{C} = \dfrac{\text{n}}{\text{V}}</annotation></semantics></math>, therefore n = C x V</p>
+
+	    
+<p>n = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,2}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math> x <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,5}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,1}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math></p>
+
+	    
+<p>M(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{C}_{2}\text{O}_{4}</annotation></semantics></math>) = (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math> x <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,01}</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math> x <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{12,0}</annotation></semantics></math> + <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{4}</annotation></semantics></math> x <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{16,0}</annotation></semantics></math>) <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g.mol^{-1}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{90,02}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g.mol^{-1}}</annotation></semantics></math></p>
+
+	    
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{n} = \dfrac{\text{m}}{\text{M}}</annotation></semantics></math>, therefore m = n x M</p>
+
+	    
+<p>m = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,1}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math> x <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{90,02}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g.mol^{-1}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{9,00}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{g}</annotation></semantics></math></p>
+
+	  </div></div><div class="exercise" data-class="entry">
+<div class="problem">
+	    
+<p>The learner titrates this <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,2}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math> oxalic acid solution against a solution of sodium hydroxide. He finds that  <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{40}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of the oxalic acid solution completely neutralises  <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{35}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of the sodium hydroxide solution.</p>
+
+	    
+<p>Calculate the concentration of the sodium hydroxide solution.</p>
+
+	  </div><div class="solution">
+	    
+<p>The balanced equations is:</p>
+
+	    
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{C}_{2}\text{O}_{4} + 2\text{NaOH}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Na}_{2}\text{C}_{2}\text{O}_{4} + 2\text{H}_{2}\text{O}</annotation></semantics></math></p>
+
+	    
+<p>The number of moles of oxalic acid used is the number of moles in <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{40}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of the standard solution:</p>
+
+	    
+<p>V = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{40}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\times \dfrac{\text{0,001} {\text{ dm}}^{3}}{\text{1} {\text{ cm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,04}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math></p>
+
+	    
+<p>n = C x V = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,2}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math> x <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,04}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,008}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math></p>
+
+	    
+<p>The molar ratio of oxalic acid to sodium hydroxide is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math>:<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math>. For every one mole of oxalic acid there are two moles of sodium hydroxide.</p>
+
+	    
+<p>n(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math>) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math> x <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,008}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,016}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math></p>
+
+	    
+<p>V(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math>) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{35}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\times \dfrac{\text{0,001} {\text{ dm}}^{3}}{\text{1} {\text{ cm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,035}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math></p>
+
+	    
+<p>C(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math>) <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">= \dfrac{\text{n}}{\text{V}} = \dfrac{\text{0,016}\text{ mol}}{\text{0,035}\text{ dm^{3}}} =</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,46}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math></p>
+
+	  </div></div></div><div class="multipart">
+<div class="header">
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{25,0}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,1}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math> standard solution of sodium carbonate was used to neutralise <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{35,0}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of a solution of hydrochloric acid.</p>
+</div><div class="exercise" data-class="entry">
+<div class="problem">
+	  
+<p>Write a balanced chemical equation for the reaction.</p>
+
+	</div><div class="solution">
+	  
+<p>metal carbonate + acid <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math> salt + carbon dioxide + water</p>
+
+	  
+<p>The cation will be from the metal (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Na}^{+}</annotation></semantics></math>), the anion will be from the acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Cl}^{-}</annotation></semantics></math>). Therefore the salt will be <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaCl}</annotation></semantics></math>.</p>
+
+	  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Na}_{2}\text{CO}_{3}(\text{aq}) + 2\text{HCl}(\text{aq})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">2\text{NaCl}(\text{aq}) + \text{CO}_{2}(\text{g}) + \text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+
+	</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+	  
+<p>Calculate the concentration of the acid.</p>
+
+	  
+<p>(DoE Grade 11 Exemplar, 2007)</p>
+
+	</div><div class="solution">
+	  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{C} = \dfrac{\text{n}}{\text{V}}</annotation></semantics></math> therefore n = C <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\times</annotation></semantics></math> V</p>
+
+	  
+<p>V(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Na}_{2}\text{CO}_{3}</annotation></semantics></math>) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{25,0}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\times \dfrac{\text{0,001} {\text{ dm}}^{3}}{\text{1} {\text{ cm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,0250}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math></p>
+
+	  
+<p>n(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Na}_{2}\text{CO}_{3}</annotation></semantics></math>) = C x V = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,1}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math> x <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,0250}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,0025}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math></p>
+
+	  
+<p>From the balanced equation for every <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math> of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Na}_{2}\text{CO}_{3}</annotation></semantics></math> there are <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>.</p>
+
+	  
+<p>n(HCl) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math> x <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,0025}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,005}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math></p>
+
+	  
+<p>V(HCl) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{35,0}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\times \dfrac{\text{0,001} {\text{ dm}}^{3}}{\text{1} {\text{ cm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,0350}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math></p>
+
+	  
+<p>C(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\dfrac{\text{n}}{\text{V}} = \dfrac{\text{0,005}\text{ mol}}{\text{0,0350}\text{ dm^{3}}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,143}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math></p>
+
+	</div></div></div></div></body>
+</html>

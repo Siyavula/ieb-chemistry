@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+  <head>undefined</head>
+  <body><h2>Acid-base reactions</h2>
+
+<p>When an acid and a base react, they form a <strong>salt</strong>. If the base contains hydroxide <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">(\text{OH}^{-})</annotation></semantics></math> ions, then <em>water</em> will also be formed. The word <em>salt</em> is a general term which applies to the products of all acid-base reactions. A salt is a product that is made up of the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\textbf{cation}}</annotation></semantics></math> from a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\textbf{base}}</annotation></semantics></math> and the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\textbf{anion}}</annotation></semantics></math> from an <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\textbf{acid}}</annotation></semantics></math>.</p>
+<dl class="definition"><dt>Salt</dt><dd>
+	      
+<p>A salt is a neutral ionic compound composed of cations and anions. It is the result of an acid-base neutralisation reaction.</p>
+
+	    </dd></dl><h3>Neutralisation reactions</h3>
+<div class="note" data-type="aside">
+<p>A <strong>cation</strong> is an ion (charged atom or molecule) with a positive (+) charge. An <strong>anion</strong> is an ion with a negative (-) charge.</p>
+</div><div class="note" data-type="aside"><figure class="figure"><img width="156" alt="Photo by SoraZG on Flickr" src="photos/salt.jpg"/></figure><p>Salts are not just the table salt you put on your food. A salt is any compound made up of stoichiometrically equivalent amounts of cations and anions to make a neutral, ionic compound.</p>
+<figure class="figure"><img width="156" alt="Photo by MountainAsh on Flickr" src="photos/epsomsalt.jpg"/></figure><p>Magnesium sulfate heptahydrate (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{MgSO}_{4}.7\text{H}_{2}\text{O}</annotation></semantics></math>), commonly known as Epsom salt, can be used as a gel to treat aches and pains, as bath salts, and has many other uses.</p>
+</div>
+<p>When an equivalent amount of acid and base react (so that neither the acid nor the base are in excess), the reaction is said to have reached the <strong>equivalence</strong> point. At this point <strong>neutralisation</strong> has been achieved.</p>
+<dl class="definition"><dt>Equivalence point</dt><dd>
+	      
+<p>When a stoichiometrically equivalent number of moles of both reactants has been added to the reaction vessel.</p>
+
+	    </dd></dl><p>To better understand stoichiometric equivalence look at the following equations:</p>
+<ol data-class="ListEnumerated"><li>
+	      
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">1\textcolor{red}{\text{HA(aq)}} + 1\textcolor{blue}{\text{BOH(aq)}} \to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">1\text{AB}(\text{aq}) + 1\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+
+	    </li>
+<li>
+	      
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">1\textcolor{red}{\text{H}_{2}{\text{A(aq)}}} + 2\textcolor{blue}{\text{BOH(aq)}} \to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">1\text{AB}_{2}(\text{aq}) + 2\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+
+	    </li>
+</ol><p>In the first example above, a stoichiometrically equivalent number of moles is <strong>one</strong> mole of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{HA}}</annotation></semantics></math> for every <strong>one</strong> mole of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\text{BOH}}</annotation></semantics></math>. In the second example, a stoichiometrically equivalent number of moles is <strong>one</strong> mole of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{H}_{2}{\text{A}}}</annotation></semantics></math> for every <strong>two</strong> moles of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\text{BOH}}</annotation></semantics></math>.</p>
+<dl class="definition"><dt>Neutralisation</dt><dd>
+	      
+<p>A neutralisation reaction involves an acid and a base reacting to form a salt.</p>
+
+	    </dd></dl><p>Look at the following examples:</p>
+<ul data-class="ListBulleted"><li>
+	      
+<p><strong>Hydrochloric acid with sodium hydroxide</strong></p>
+
+	      
+<p>Hydrochloric acid reacts with sodium hydroxide to form sodium chloride (the salt) and water. Sodium chloride is made up of  <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Na}^{+}</annotation></semantics></math> cations from the base <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">(\text{NaOH})</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Cl}^{-}</annotation></semantics></math> anions from the acid <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">(\text{HCl})</annotation></semantics></math>.</p>
+
+              
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}{\textcolor{red}{\textbf{Cl}}}{\text{(aq)}} + \textcolor{blue}{\textbf{Na}}{\text{OH(aq)}} \to {\textcolor{blue}{\textbf{Na}}}{\textcolor{red}{\textbf{Cl}}}{\text{(aq)}} + {\text{H}}_{2}{\text{O(ℓ)}}</annotation></semantics></math></p>
+
+            </li>
+<li>
+	      
+<p><strong>Hydrogen bromide with postassium hydroxide</strong></p>
+
+              
+<p>Hydrogen bromide reacts with potassium hydroxide to form potassium bromide (the salt) and water. Potassium bromide is made up of  <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}^{+}</annotation></semantics></math> cations from the base <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">(\text{KOH})</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Br}^{-}</annotation></semantics></math> anions from the acid <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">(\text{HBr})</annotation></semantics></math>.</p>
+
+	      
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}{\textcolor{red}{\textbf{Br}}}{\text{(aq)}} + \textcolor{blue}{\textbf{K}}\text{OH(aq)} \to \textcolor{blue}{\textbf{K}}\textcolor{red}{\textbf{Br}}{\text{(aq)}} + {\text{H}}_{2}\text{O(ℓ)}</annotation></semantics></math></p>
+
+            </li>
+<li>
+	      
+<p><strong>Hydrochloric acid with sodium hydrocarbonate</strong></p>
+
+              
+<p>Hydrochloric acid reacts with sodium hydrocarbonate to form sodium chloride (the salt), water and carbon dioxide. Sodium chloride is made up of  <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Na}^{+}</annotation></semantics></math> cations from the base <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">(\text{NaHCO}_{3})</annotation></semantics></math> and  <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Cl}^{-}</annotation></semantics></math> anions from the acid <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">(\text{HCl})</annotation></semantics></math>.</p>
+
+              
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}{\textcolor{red}{\textbf{Cl}}}{\text{(aq)}} + {\textcolor{blue}{\textbf{Na}}}{\text{HCO}}_{3}{\text{(aq)}} \to \textcolor{blue}{\textbf{Na}}\textcolor{red}{\textbf{Cl}}{\text{(aq)}} + {\text{H}_{2}{\text{O(ℓ)}}} + {\text{CO}}_{2}{\text{(g)}}</annotation></semantics></math></p>
+
+            </li>
+</ul><div class="note" data-type="aside">
+<p>Salts can come in many different colours.</p>
+<figure class="figure"><img width="156" alt="Photo by Benjah-bmm27 on wikipedia" src="photos/potassiumpermanganate.jpg"/></figure><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\newrgbcolor{purple}{0.78 0.13 1}\textcolor{purple}{\textbf{Potassium permanganate}}</annotation></semantics></math> (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{purple}{\textbf{KMnO}_{4}}</annotation></semantics></math>)</p>
+<figure class="figure"><img width="156" alt="Photo by iJammin on Flickr" src="photos/coppersulfatesolid.jpg"/></figure><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\textbf{Copper sulfate}}</annotation></semantics></math> (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\textbf{CuSO}_{4}}</annotation></semantics></math>)</p>
+<figure class="figure"><img width="156" alt="Photo by Benjah-bmm27 on wikipedia" src="photos/nickelchloride.jpg"/></figure><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{darkgreen}{\textbf{Nickel chloride}}</annotation></semantics></math> (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{darkgreen}{\textbf{NiCl}_{2}}</annotation></semantics></math>)</p>
+<figure class="figure"><img width="156" src="photos/sodiumchromate.jpg"/></figure><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\newrgbcolor{gold}{1 0.65 0}\textcolor{gold}{\textbf{Sodium chromate}}</annotation></semantics></math> (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{gold}{\textbf{Na}_{2}{\textbf{CrO}}_{4}}</annotation></semantics></math>)</p>
+<figure class="figure"><img width="156" alt="Photo by Benjah-bmm27 on wikipedia" src="photos/potassiumdichromate.jpg"/></figure><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\textbf{Potassim dichromate}}</annotation></semantics></math> (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\textbf{K}_{2}{\textbf{Cr}}_{2}{\textbf{O}}_{7}}</annotation></semantics></math>)</p>
+</div>
+<p>You should notice that in the first two examples, the base contained  <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math> ions, and therefore the products were a <em>salt</em> and <em>water</em>.  <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaCl}</annotation></semantics></math> (table salt) and  <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{KBr}</annotation></semantics></math> are both salts. In the third example,  <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaHCO}_{3}</annotation></semantics></math> also acts as a base, despite not having  <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math> ions. A salt is still formed as one of the products, but carbon dioxide (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CO}_{2}</annotation></semantics></math>) is produced as well as water.</p>
+<div class="teachers-guide">
+<p>This experiment can be used for an informal assessment. It will help determine if the learners understand what happens in a neutralisation reaction. Learners are working with a strong acid and a strong base in this reaction. Concentrated, strong acids and bases can cause serious burns. Please remind the learners to be careful and wear the appropriate safety equipment when handling all chemicals, especially concentrated acids and bases. The safety equipment includes gloves, safety glasses, and protective clothing.</p>
+</div><div class="example" data-class="activity" data-type="informalexperiment"><div class="title">Temperature changes in neutralisation reactions</div><div class="section"><div class="title">Aim</div>
+<p>To investigate the temperature change associated with a neutralisation reaction.</p>
+</div>
+<div class="section"><div class="title">Apparatus</div><ul data-class="ListBulleted"><li>
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math> solution of sodium hydroxide (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math>), <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math> solution of hydrochloric acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>)</p>
+
+		</li>
+<li>
+		  
+<p>A thermometer, a beaker, a measuring cylinder</p>
+
+		</li>
+</ul></div>
+<div class="section"><div class="title">Method</div><div class="note" data-type="warning">
+<p>Concentrated acids and bases can cause serious burns. We suggest using gloves and safety glasses whenever you work with an acid or a base. Remember to add the acid to the water and to avoid sniffing any laboratory chemical. Handle all chemicals with care.</p>
+</div><ol data-class="ListEnumerated"><li>
+		  
+<p>Pour <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{20}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of the sodium hydroxide solution into the beaker.</p>
+
+		</li>
+<li>
+		  
+<p>Measure the temperature.</p>
+
+		</li>
+<li>
+		  
+<p>Add <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> of hydrochloric acid to the beaker using the measuring cylinder.</p>
+
+		</li>
+<li>
+		  
+<p>Repeat steps <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3}</annotation></semantics></math> quite quickly until the temperature no longer changes significantly.</p>
+
+		</li>
+</ol></div>
+<div class="section"><div class="title">Observations</div>
+<p>You should record your temperatures and the volume in a table (remember that the volume of the sodium hydroxide is constant at <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{20}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math>):</p>
+<table><tbody><tr><td><p><strong>Volume (HCl)</strong></p></td><td><p><strong>Temperature (℃)</strong></p></td></tr><tr><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0}</annotation></semantics></math></p></td><td><p>room temperature</p></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table></div>
+<div class="section"><div class="title">Discussion</div>
+<p>You should find that the reaction releases heat and so the temperature increases. After all the base has been neutralised the temperature should no longer increase. This is because the neutralisation reaction is <em>exothermic</em> (it releases heat). When all the base has been neutralised there is no reaction on the addition of more acid, and no more heat is released.</p>
+<div class="teachers-guide">
+<p>After the reaction has finished (the base has been neutralised) there is no more heat being produced. As a result the temperature will not rise any more. In fact, there may even be a decrease in temperature back to room temperature as the heat from the reaction vessel (the beaker) dissipates.</p>
+</div></div>
+</div>
+
+<p>Neutralisation reactions are very important in every day life. Below are some examples:</p>
+<ul data-class="ListBulleted"><li>
+              
+<p><strong>Domestic uses</strong></p>
+
+              
+<p>Calcium oxide  <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">(\text{CaO})</annotation></semantics></math> is used to neutralise acidic soil. Powdered limestone  <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">(\text{CaCO}_{3})</annotation></semantics></math> can also be used, but its action is much slower and less effective. These substances can also be used on a larger scale in farming and in rivers.</p>
+
+            </li>
+<li>
+              
+<p><strong>Biological uses</strong></p>
+
+	      
+<p>Hydrochloric acid <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">(\text{HCl})</annotation></semantics></math> in the stomach plays an important role in helping to digest food. It is important to note that too much acid in the stomach may lead to the formation of ulcers in cases where the stomach lining is damaged (e.g. by an infection).</p>
+
+	      
+<p><strong>Antacids</strong> (which are bases) are taken to neutralise excess stomach acid, to prevent damage to the intestines. Examples of antacids are aluminium hydroxide, magnesium hydroxide ('milk of magnesia') and sodium bicarbonate ('bicarbonate of soda').</p>
+
+            </li>
+<li>
+              
+<p><strong>Industrial uses</strong></p>
+
+              
+<p>Alkaline calcium hydroxide (limewater) is used to absorb harmful acidic  <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{SO}_{2}</annotation></semantics></math> gas that is released from power stations and from the burning of fossil fuels.</p>
+
+            </li>
+</ul><div class="note" data-type="warning">
+<p>Please <strong>do not</strong> use a base to neutralise an acid if you spill some on yourself during an experiment. A strong base can burn you as much as a strong acid. Rather wash the area thoroughly with water.</p>
+</div><div class="note" data-type="aside">
+<p>Bee stings are acidic and have a pH between <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5,5}</annotation></semantics></math>. They can be soothed by using substances such as calomine lotion, which is a mild alkali based on zinc oxide. Bicarbonate of soda, or soap, can also be used. The alkalis help to neutralise the acidic bee sting and relieve some of the itchiness.</p>
+<figure class="figure"><img width="156" alt="Photo by mikebaird on Flickr" src="photos/bee.jpg"/></figure></div><div class="example" data-class="activity" data-type="Activity"><div class="title">Acids and metal compounds</div>
+<p>Research the reactions that occur when an <strong>acid is added</strong> to the following compounds:</p>
+
+<p>(Your Grade 11 book will be helpful with this research)</p>
+<ul data-class="ListBulleted"><li>
+		
+<p>a metal</p>
+
+	      </li>
+<li>
+		
+<p>a metal hydroxide</p>
+
+	      </li>
+<li>
+		
+<p>a metal oxide</p>
+
+	      </li>
+<li>
+		
+<p>a metal carbonate</p>
+
+	      </li>
+<li>
+		
+<p>a metal hydrogen carbonate</p>
+
+	      </li>
+</ul><p>Write a report which includes:</p>
+<ul data-class="ListBulleted"><li>
+		
+<p>The general equation (in words) of each reaction.</p>
+
+	      </li>
+<li>
+		
+<p>A description of what is happening in this reaction.</p>
+
+	      </li>
+<li>
+		
+<p>An example of this type of reaction in the form of a balanced equation.</p>
+
+	      </li>
+</ul></div>
+<div class="teachers-guide">
+<p>The following is an example of how the learners <strong>acids and metals compounds report</strong> could look:</p>
+<ul data-class="ListBulleted"><li>
+		
+<p><strong>Acid + metal</strong> <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><strong>salt + hydrogen</strong></p>
+
+		
+<p>A dilute acid is added to a pure metal to form a salt and hydrogen gas. The salt is formed by the metal cation and the anion from the acid. In this reaction the metal is acting as a base. For example:</p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{hydrochloric acid}} + \textcolor{blue}{\text{zinc}} \to \textcolor{blue}{\text{zinc}} \textcolor{red}{\text{ chloride}}</annotation></semantics></math> + hydrogen</p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">2\text{HCl}(\text{aq}) + \text{Zn}(\text{s})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{ZnCl}_{2}(\text{aq}) + \text{H}_{2}(\text{g})</annotation></semantics></math></p>
+
+	      </li>
+<li>
+		
+<p><strong>Acid + metal hydroxide</strong> <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><strong>salt + water</strong></p>
+
+		
+<p>A dilute acid is added to a metal hydroxide to form a salt and water. The salt is formed by the metal cation and the anion from the acid. In this reaction the metal hydroxide is acting as a base. For example:</p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{hydrochloric acid}} + \textcolor{blue}{\text{zinc hydroxide}} \to \textcolor{blue}{\text{zinc}} \textcolor{red}{\text{ chloride}}</annotation></semantics></math> + water</p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">2\text{HCl}(\text{aq}) + \text{Zn}(\text{OH})_{2}(\text{s})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{ZnCl}_{2}(\text{aq}) + 2\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+
+	      </li>
+<li>
+		
+<p><strong>Acid + metal oxide</strong> <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><strong>salt + water</strong></p>
+
+		
+<p>A dilute acid is added to a metal oxide to form a salt and water. The salt is formed by the metal cation and the anion from the acid. In this reaction the metal oxide is acting as a base. For example:</p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{hydrochloric acid}} + \textcolor{blue}{\text{zinc oxide}} \to \textcolor{blue}{\text{zinc}} \textcolor{red}{\text{ chloride}}</annotation></semantics></math> + water</p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">2\text{HCl}(\text{aq}) + \text{ZnO}(\text{s})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{ZnCl}_{2}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+
+	      </li>
+<li>
+		
+<p><strong>Acid + metal carbonate</strong> <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><strong>salt + water + carbon dioxide</strong></p>
+
+		
+<p>A dilute acid is added to a metal carbonate to form a salt, water and carbon dioxide gas. The salt is formed by the metal cation and the anion from the acid. In this reaction the metal carbonate is acting as a base. For example:</p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{hydrochloric acid}} + \textcolor{blue}{\text{zinc carbonate}} \to \textcolor{blue}{\text{zinc}} \textcolor{red}{\text{ chloride}}</annotation></semantics></math> + water + carbon dioxide</p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">2\text{HCl}(\text{aq}) + \text{ZnCO}_{3}(\text{s})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{ZnCl}_{2}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ}) + \text{CO}_{2}(\text{g})</annotation></semantics></math></p>
+
+	      </li>
+<li>
+		
+<p><strong>Acid + metal hydrogen carbonate</strong> <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><strong>salt + water + carbon dioxide</strong></p>
+
+		
+<p>A dilute acid is added to a metal hydrogen carbonate to form a salt, water and carbon dioxide gas. The salt is formed by the metal cation and the anion from the acid. In this reaction the metal hydrogen carbonate is acting as a base. For example:</p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{hydrochloric acid}} + \textcolor{blue}{\text{zinc bicarbonate}} \to \textcolor{blue}{\text{zinc}} \textcolor{red}{\text{ chloride}}</annotation></semantics></math> + water + carbon dioxide</p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">2\text{HCl}(\text{aq}) + \text{Zn}(\text{HCO}_{3})_{2}(\text{s})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">&gt;\text{ZnCl}_{2}(\text{aq}) + 2\text{H}_{2}\text{O}(\text{ℓ}) + 2\text{CO}_{2}(\text{g})</annotation></semantics></math></p>
+
+	      </li>
+</ul></div><div class="example" data-class="activity" data-type="Activity"><div class="title">The hazardous nature of acids and bases</div>
+<p>Search for information about the following strong acids and bases:</p>
+<ul data-class="ListBulleted"><li>
+		
+<p>Hydrochloric acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>)</p>
+
+	      </li>
+<li>
+		
+<p>Sulfuric acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}</annotation></semantics></math>)</p>
+
+	      </li>
+<li>
+		
+<p>Sodium hydroxide (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math>)</p>
+
+	      </li>
+<li>
+		
+<p>Potassium hydroxide (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{KOH}</annotation></semantics></math>)</p>
+
+	      </li>
+</ul><p>Write a report which includes:</p>
+<ul data-class="ListBulleted"><li>
+		
+<p>The uses of these compounds in industry</p>
+
+	      </li>
+<li>
+		
+<p>If applicable, the environmental waste that contains these compounds</p>
+
+	      </li>
+<li>
+		
+<p>What the effect of a large spillage of these compounds would be</p>
+
+	      </li>
+</ul></div>
+<div class="teachers-guide">
+<p>The following is an example of the sort of information learners should report on:</p>
+
+<p><strong>Hydrochloric acid</strong></p>
+
+<p>Hydrochloric acid is used industrially to clean rust from iron or steel as well as in the refining of ores. If released into the environment hydrochloric acid will lower the pH of any water it pollutes. This change in pH can seriously affect the growth of plants and damage ecosystems.</p>
+</div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="title">Determining equations from starting materials</div><div class="problem" data-class="question">
+	      
+<p>Magnesium carbonate (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{MgCO}_{3}</annotation></semantics></math>) is dissolved in nitric acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HNO}_{3}</annotation></semantics></math>). Give the balanced chemical equation for this reaction.</p>
+
+	    </div><div class="solution" data-class="workstep" data-type="Step"><div class="title">What are the reactants?</div>
+
+<p>An acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HNO}_{3}</annotation></semantics></math>) and a metal carbonate (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{MgCO}_{3}</annotation></semantics></math>).</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">What will the products be?</div>
+
+<p>As this is the reaction of an acid and a metal carbonate the products will be a salt, water and carbon dioxide.</p>
+
+<p>nitric acid + magnesium carbonate <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math> salt + water + carbon dioxide</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">What is the formula of the salt?</div>
+
+<p>The cation will come from the metal carbonate (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}^{2+}</annotation></semantics></math>). The anion will come from the acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NO}_{3}^{-}</annotation></semantics></math>). Due to the charges on the cation and anion there must be two <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NO}_{3}^{-}</annotation></semantics></math> for every one <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}^{2+}</annotation></semantics></math>.</p>
+
+<p>Therefore the formula for the salt will be: <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}(\text{NO}_{3})_{2}</annotation></semantics></math>.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Write the equation for this reaction</div>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HNO}_{3}(\text{aq}) + \text{MgCO}_{3}(\text{s})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}(\text{NO}_{3})_{2}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ}) + \text{CO}_{2}(\text{g})</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Make sure that the equation is balanced</div>
+
+<p>The equation is not balanced.</p>
+<table><tbody><tr><td></td><td><p><strong>Number on left</strong></p></td><td><p><strong>Number on right</strong></p></td></tr><tr><td><p><strong>H</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math></p></td></tr><tr><td><p><strong>N</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math></p></td></tr><tr><td><p><strong>O</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{6}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{9}</annotation></semantics></math></p></td></tr><tr><td><p><strong>Mg</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math></p></td></tr><tr><td><p><strong>C</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math></p></td></tr></tbody></table><p>To balance this equation there needs to be two nitric acid molecules on the left hand side.</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">2\text{HNO}_{3}(\text{aq}) + \text{MgCO}_{3}(\text{s})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}(\text{NO}_{3})_{2}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ}) + \text{CO}_{2}(\text{g})</annotation></semantics></math></p>
+<table><tbody><tr><td></td><td><p><strong>Number on left</strong></p></td><td><p><strong>Number on right</strong></p></td></tr><tr><td><p><strong>H</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math></p></td></tr><tr><td><p><strong>N</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math></p></td></tr><tr><td><p><strong>O</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{9}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{9}</annotation></semantics></math></p></td></tr><tr><td><p><strong>Mg</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math></p></td></tr><tr><td><p><strong>C</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math></p></td></tr></tbody></table><p>The equation is now  balanced.</p>
+</div></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="title">Determining equations from starting materials</div><div class="problem" data-class="question">
+	      
+<p>Hydroiodic acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HI}</annotation></semantics></math>) is added to solid potassium hydroxide (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{KOH}</annotation></semantics></math>). Give the balanced chemical equation for this reaction.</p>
+
+	    </div><div class="solution" data-class="workstep" data-type="Step"><div class="title">What are the reactants?</div>
+
+<p>An acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HI}</annotation></semantics></math>) and a base (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{KOH}</annotation></semantics></math>).</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">What will the products be?</div>
+
+<p>As this is the reaction of an acid and base (which contains a hydroxide anion) the products will be a salt and water.</p>
+
+<p>hydroiodic acid + potassium hydroxide <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math> salt + water</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">What is the formula of the salt?</div>
+
+<p>The cation will come from the base (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}^{+}</annotation></semantics></math>). The anion will come from the acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{I}^{-}</annotation></semantics></math>). Due to the charges on the cation and anion there must be one <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}^{+}</annotation></semantics></math> for every one <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{I}^{-}</annotation></semantics></math>.</p>
+
+<p>Therefore the formula for the salt will be: <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{KI}</annotation></semantics></math>.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Write the equation for this reaction</div>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HI}(\text{aq}) + \text{KOH}(\text{s})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{KI}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+
+<p>This can also be written:</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HI}(\text{aq}) + \text{KOH}(\text{s})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}^{+}(\text{aq}) + \text{I}^{-}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Make sure that the equation is balanced</div>
+
+<p>The equation is balanced.</p>
+</div></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="title">Determining equations from starting materials</div><div class="problem" data-class="question">
+	      
+<p>Sulfuric acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}</annotation></semantics></math>) and ammonia (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math>) are combined. Give the balanced chemical equation for this reaction.</p>
+
+	    </div><div class="solution" data-class="workstep" data-type="Step"><div class="title">What are the reactants?</div>
+
+<p>An acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}</annotation></semantics></math>) and a base (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{3}</annotation></semantics></math>).</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">What will the products be?</div>
+
+<p>As this is the reaction of an acid and a base (with no hydroxide anion), there will be a salt as a product. There may or may not be another product.</p>
+
+<p>sulfuric acid + ammonia <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math> salt (+ maybe another product)</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">What is the formula of the salt?</div>
+
+<p>The cation will come from the base (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{4}^{+}</annotation></semantics></math>). The anion will come from the acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{SO}_{4}^{2-}</annotation></semantics></math>). Due to the charges on the cation and anion there must be two <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NH}_{4}^{+}</annotation></semantics></math> for every one <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{SO}_{4}^{2-}</annotation></semantics></math>.</p>
+
+<p>Therefore the formula for the salt will be: <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">(\text{NH}_{4})_{2}\text{SO}_{4}</annotation></semantics></math>.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Write the equation for this reaction so far</div>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}(\text{aq}) + \text{NH}_{3}(\text{g})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">(\text{NH}_{4})_{2}\text{SO}_{4}(\text{aq})</annotation></semantics></math> (+ maybe another product)</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Determine if there will be another product</div>
+
+<p>There are no atom types that are not accounted for on both sides of the equation, therefore it is unlikely that there will be another product. If the equation can be balanced then there is no other product.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Make sure that the equation is balanced</div>
+
+<p>The equation is not balanced.</p>
+<table><tbody><tr><td></td><td><p><strong>Number on left</strong></p></td><td><p><strong>Number on right</strong></p></td></tr><tr><td><p><strong>H</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{8}</annotation></semantics></math></p></td></tr><tr><td><p><strong>S</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math></p></td></tr><tr><td><p><strong>O</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{4}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{4}</annotation></semantics></math></p></td></tr><tr><td><p><strong>N</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math></p></td></tr></tbody></table><p>To balance this equation there needs to be two ammonia molecules on the left hand side.</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}(\text{aq}) + 2\text{NH}_{3}(\text{g})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">(\text{NH}_{4})_{2}\text{SO}_{4}(\text{aq})</annotation></semantics></math></p>
+<table><tbody><tr><td></td><td><p><strong>Number on left</strong></p></td><td><p><strong>Number on right</strong></p></td></tr><tr><td><p><strong>H</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{8}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{8}</annotation></semantics></math></p></td></tr><tr><td><p><strong>S</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math></p></td></tr><tr><td><p><strong>O</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{4}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{4}</annotation></semantics></math></p></td></tr><tr><td><p><strong>N</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2}</annotation></semantics></math></p></td></tr></tbody></table><p>The equation is now balanced.</p>
+</div></div><h1 class="title" data-class="complex-section">Exercises</h1>
+<div class="problemset">
+<div class="multipart">
+<div class="header">
+
+<p>Write balanced equations for these acid and metal reactions:</p>
+</div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p>Hydrochloric acid and calcium</p>
+
+		</div><div class="solution">
+		  
+<p>acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>) + metal (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Ca}</annotation></semantics></math>) <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math> salt + hydrogen</p>
+
+		  
+<p>Anion (from acid) is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Cl}^{-}</annotation></semantics></math>, cation (from metal) is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Ca}^{2+}</annotation></semantics></math>.</p>
+
+		  
+<p>Therefore salt is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CaCl}_{2}</annotation></semantics></math>.</p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}(\text{aq}) + \text{Ca}(\text{s})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CaCl}_{2}(\text{aq}) + \text{H}_{2}(\text{g})</annotation></semantics></math></p>
+
+		  
+<p>To balance this equation there must be two <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> molecules.</p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">2\text{HCl}(\text{aq}) + \text{Ca}(\text{s})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CaCl}_{2}(\text{aq}) + \text{H}_{2}(\text{g})</annotation></semantics></math></p>
+
+		</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p>Nitric acid and magnesium</p>
+
+		</div><div class="solution">
+		  
+<p>acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HNO}_{3}</annotation></semantics></math>) + metal (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}</annotation></semantics></math>) <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math> salt + hydrogen</p>
+
+		  
+<p>Anion (from acid) is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NO}_{3}^{-}</annotation></semantics></math>, cation (from metal) is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}^{2+}</annotation></semantics></math>.</p>
+
+		  
+<p>Therefore salt is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}(\text{NO}_{3})_{2}</annotation></semantics></math>.</p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HNO}_{3}(\text{aq}) + \text{Mg}(\text{s})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}(\text{NO}_{3})_{2}(\text{aq}) + \text{H}_{2}(\text{g})</annotation></semantics></math></p>
+
+		  
+<p>To balance this equation there must be two <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HNO}_{3}</annotation></semantics></math> molecules.</p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">2\text{HNO}_{3}(\text{aq}) + \text{Mg}(\text{s})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}(\text{NO}_{3})_{2}(\text{aq}) + \text{H}_{2}(\text{g})</annotation></semantics></math></p>
+
+		</div></div></div><div class="multipart">
+<div class="header">
+
+<p>Write balanced equations for these acid and metal hydroxide reactions:</p>
+</div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p>Hydrochloric acid and magnesium hydroxide</p>
+
+		</div><div class="solution">
+		  
+<p>acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>) + metal hydroxide (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}(\text{OH})_{2}</annotation></semantics></math>) <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math> salt + water</p>
+
+		  
+<p>Anion (from acid) is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Cl}^{-}</annotation></semantics></math>, cation (from metal) is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}^{2+}</annotation></semantics></math>.</p>
+
+		  
+<p>Therefore salt is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{MgCl}_{2}</annotation></semantics></math>.</p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}(\text{aq}) + \text{Mg}(\text{OH})_{2}(\text{s})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{MgCl}_{2}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+
+		  
+<p>To balance this equation there must be two <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> molecules and two <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}</annotation></semantics></math> molecules.</p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">2\text{HCl}(\text{aq}) + \text{Mg}(\text{OH})_{2}(\text{s})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{MgCl}_{2}(\text{aq}) + 2\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+
+		</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p>Nitric acid and aluminium hydroxide</p>
+
+		</div><div class="solution">
+		  
+<p>acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HNO}_{3}</annotation></semantics></math>) + metal hydroxide (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Al}(\text{OH})_{3}</annotation></semantics></math>) <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math> salt + water</p>
+
+		  
+<p>Anion (from acid) is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NO}_{3}^{-}</annotation></semantics></math>, cation (from metal) is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Al}^{3+}</annotation></semantics></math>.</p>
+
+		  
+<p>Therefore salt is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Al}(\text{NO}_{3})_{3}</annotation></semantics></math>.</p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HNO}_{3}(\text{aq}) + \text{Al}(\text{OH})_{3}(\text{s})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Al}(\text{NO}_{3})_{2}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+
+		  
+<p>To balance this equation there must be three <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HNO}_{3}</annotation></semantics></math> molecules and three <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}</annotation></semantics></math> molecules.</p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">3\text{HNO}_{3}(\text{aq}) + \text{Al}(\text{OH})_{3}(\text{s})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Al}(\text{NO}_{3})_{3}(\text{aq}) + 3\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+
+		</div></div></div><div class="multipart">
+<div class="header">
+
+<p>Write balanced equations for these acid and metal oxide reactions:</p>
+</div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p>Hydrochloric acid and aluminium oxide</p>
+
+		</div><div class="solution">
+		  
+<p>acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>) + metal oxide (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Al}_{2}\text{O}_{3}</annotation></semantics></math>) <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math> salt + water</p>
+
+		  
+<p>Anion (from acid) is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Cl}^{-}</annotation></semantics></math>, cation (from metal) is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Al}^{3+}</annotation></semantics></math>.</p>
+
+		  
+<p>Therefore salt is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{AlCl}_{3}</annotation></semantics></math>.</p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}(\text{aq}) + \text{Al}_{2}\text{O}_{3}(\text{s})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{AlCl}_{3}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+
+		  
+<p>To balance this equation there must be six <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> molecules, two <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{AlCl}_{3}</annotation></semantics></math> molecules, and three <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}</annotation></semantics></math> molecules.</p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">6\text{HCl}(\text{aq}) + \text{Al}_{2}\text{O}_{3}(\text{s})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">2\text{AlCl}_{3}(\text{aq}) + 3\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+
+		</div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		  
+<p>Sulfuric acid and magnesium oxide</p>
+
+		</div><div class="solution">
+		  
+<p>acid (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}</annotation></semantics></math>) + metal oxide (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{MgO}</annotation></semantics></math>) <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math> salt + water</p>
+
+		  
+<p>Anion (from acid) is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{SO}_{4}^{2-}</annotation></semantics></math>, cation (from metal) is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Mg}^{2+}</annotation></semantics></math>.</p>
+
+		  
+<p>Therefore salt is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{MgSO}_{4}</annotation></semantics></math>.</p>
+
+		  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{SO}_{4}(\text{aq}) + \text{MgO}(\text{s})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{MgSO}_{4}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
+
+		  
+<p>This equation is balanced.</p>
+
+		</div></div></div></div></body>
+</html>

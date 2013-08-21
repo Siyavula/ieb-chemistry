@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+  <head>undefined</head>
+  <body><h2>pH</h2>
+<h3>The pH scale</h3>
+
+<p>The concentration of specific ions in solution determines whether the solution is acidic or basic. Acids and bases can be described as substances that either increase or decrease the concentration of hydrogen (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math>) or hydronium (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math>) ions in a solution. An acid <em>increases</em> the hydrogen ion concentration in a solution, while a base <em>decreases</em> the hydrogen ion concentration.</p>
+
+<p><strong>pH</strong> is used to measure the concentration of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math> ions (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">[\text{H}^{+}]</annotation></semantics></math>) and therefore, whether a substance is acidic or basic (alkaline). Solutions with a pH of less than seven are acidic, while those with a pH greater than seven are basic (alkaline). The pH scale ranges from <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0}</annotation></semantics></math> to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{14}</annotation></semantics></math> and a pH of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{7}</annotation></semantics></math> is considered neutral.</p>
+<div class="note" data-type="aside">
+<p>The universal indicator changes colour from <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\textbf{red}}</annotation></semantics></math> in <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\textbf{strongly acidic}}</annotation></semantics></math> solutions through to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{purple}{\textbf{purple}}</annotation></semantics></math> in <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{purple}{\textbf{strongly basic}}</annotation></semantics></math> solutions.</p>
+<div class="alternates"><img src="_plone_ignore_/cache/pspictures/2d6b868e25ce9246201cea97c58f007d.png"/><pre class="pspicture">&lt;code&gt;
+	      (-3,-0.1)(0.7,6.4)
+	      \newrgbcolor{violet}{0.63 0.13 0.94}
+	      \newrgbcolor{cadetblue}{0.37 0.62 0.63}
+	      \rput{90}(-1.5,3.15){\includegraphics{photos/universalindicator.eps}}
+	      \psframe[linecolor=white,linewidth=1pt,fillcolor=red,fillstyle=solid](0,0)(0.6,0.9)
+	      \psframe[linecolor=white,linewidth=1pt,fillcolor=orange,fillstyle=solid](0,0.9)(0.6,1.8)
+	      \psframe[linecolor=white,linewidth=1pt,fillcolor=yellow,fillstyle=solid](0,1.8)(0.6,2.7)
+	      \psframe[linecolor=white,linewidth=1pt,fillcolor=green,fillstyle=solid](0,2.7)(0.6,3.6)
+	      \psframe[linecolor=white,linewidth=1pt,fillcolor=cadetblue,fillstyle=solid](0,3.6)(0.6,4.5)
+	      \psframe[linecolor=white,linewidth=1pt,fillcolor=blue,fillstyle=solid](0,4.5)(0.6,5.4)
+	      \psframe[linecolor=white,linewidth=1pt,fillcolor=violet,fillstyle=solid](0,5.4)(0.6,6.3)
+	      \psframe(0,0)(0.6,6.3)
+	    &lt;/code&gt;</pre></div></div><div class="note" data-type="aside">
+<p>The term pH was first used by in 1909 by Søren Peter Lauritz Sørensen (a Danish biochemist). The p stood for <em>potenz</em> and the H for <em>hydrogen</em>. This translates to <em>power of hydrogen</em>.</p>
+</div><dl class="definition"><dt>pH</dt><dd>
+	    
+<p>pH is a measure of the acidity or alkalinity of a solution.</p>
+
+	  </dd></dl><p>At the beginning of the chapter we mentioned that we encounter many examples of acids and bases in our day-to-day lives. The pH of solutions of some household acids and bases are given in Table <a href="#tab-acidsandbases-commonpH" data-class="InternalLink">tab-acidsandbases-commonpH</a>.</p>
+<div class="note" data-type="aside">
+<p>Fizzy cooldrinks often have very low pH (are acidic).</p>
+<table><tbody><tr><td><p><strong>Drink</strong></p></td><td><p><strong>pH</strong></p></td></tr><tr><td><p>Coke</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2,5}</annotation></semantics></math></p></td></tr><tr><td><p>Diet coke</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3,3}</annotation></semantics></math></p></td></tr><tr><td><p>Pepsi</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2,5}</annotation></semantics></math></p></td></tr><tr><td><p>Diet pepsi</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3,0}</annotation></semantics></math></p></td></tr><tr><td><p>Sprite</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3,2}</annotation></semantics></math></p></td></tr><tr><td><p>7 Up</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3,2}</annotation></semantics></math></p></td></tr><tr><td><p>Diet 7 Up</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3,7}</annotation></semantics></math></p></td></tr></tbody></table></div><figure class="figure" id="tab-acidsandbases-commonpH"><table summary="
+	    "><tbody><tr><td><p><strong>Molecule</strong></p></td><td><p><strong>Found in</strong></p></td><td><p><strong>pH</strong></p></td><td><p><strong>Type</strong></p></td></tr><tr><td><p>phosphoric acid</p></td><td><p>fizzy drinks</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2,15}</annotation></semantics></math></p></td><td><p>acid</p></td></tr><tr><td><p>tartaric acid</p></td><td><p>wine</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{2,95}</annotation></semantics></math></p></td><td><p>acid</p></td></tr><tr><td><p>citric acid</p></td><td><p>lemon juice</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3,14}</annotation></semantics></math></p></td><td><p>acid</p></td></tr><tr><td><p>acetic acid</p></td><td><p>vinegar</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{4,76}</annotation></semantics></math></p></td><td><p>acid</p></td></tr><tr><td><p>carbonic acid</p></td><td><p>fizzy drinks</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{6,37}</annotation></semantics></math></p></td><td><p>acid</p></td></tr><tr><td><p>ammonia</p></td><td><p>cleaning products</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{11,5}</annotation></semantics></math></p></td><td><p>base</p></td></tr><tr><td><p>ammonium hydroxide</p></td><td><p>cleaning products</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{11,63}</annotation></semantics></math></p></td><td><p>base</p></td></tr><tr><td><p>sodium hydroxide</p></td><td><p>caustic soda</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{13}</annotation></semantics></math></p></td><td><p>base</p></td></tr></tbody></table><div class="caption"><p>
+	    
+</p><p>The pH of solutions of acids and bases as found in common household items.</p>
+
+	  </div></figure><h3>pH calculations</h3>
+<div class="note" data-type="tip">
+<p>The pH scale is a <strong>log</strong> scale. Remember from mathematics that a difference of one on a base <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math> log scale (the one on your calculator) is equivalent to a multiplication by 10. That is:</p>
+
+<p>1 = log(10)</p>
+
+<p>2 = log(100)</p>
+
+<p>3 = log(1000)</p>
+
+<p>4 = log(10000)</p>
+
+<p>So a change from a pH of 2 to a pH of 6 represents a very large change in the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math> concentration.</p>
+</div>
+<p>pH can be calculated using the following equation:</p>
+
+<p>pH = -log[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math>]</p>
+
+<p>[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math>] and [<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math>] can be substituted for one another:</p>
+
+<p>pH = -log[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math>]</p>
+
+<p>The brackets in the above equation are used to show <strong>concentration</strong> in <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math>.</p>
+<div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="title">pH calculations</div><div class="problem" data-class="question">
+	    
+<p>Calculate the pH of a solution where the concentration of hydrogen ions is</p>
+
+	    
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{7}}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math>.</p>
+
+	  </div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Determine the concentration of hydrogen ions</div>
+
+<p>In this example, the concentration has been given: <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{7}}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Substitute this value into the pH equation and calculate the pH value</div>
+
+<p>pH = -log[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math>]</p>
+
+<p>= -log(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{7}}</annotation></semantics></math>)</p>
+
+<p>= 7</p>
+</div></div><div class="note" data-type="tip">
+<p><strong>Important:</strong> It may be useful to know that for calculations involving the pH scale, the following equations can also be used:</p>
+
+<p>[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math>][<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math>] = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{14}}</annotation></semantics></math></p>
+
+<p>[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math>][<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math>] = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{14}}</annotation></semantics></math></p>
+
+<p>pH = 14 - p[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math>]</p>
+
+<p>pH = 14 - (-log[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math>])</p>
+</div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="title">pH calculations</div><div class="problem" data-class="question">
+	      
+<p>In a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{162}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math> solution of ethanoic acid, the following equilibrium is established:</p>
+
+	      
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{COOH}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">⇌</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{COO}^{-}(\text{aq}) + \text{H}_{3}\text{O}^{+}(\text{aq})</annotation></semantics></math></p>
+
+	      
+<p>The number of moles of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{COO}^{-}</annotation></semantics></math> is found to be <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,001}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math>. Calculate the pH of the solution.</p>
+
+	    </div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Determine the number of moles of hydronium ions in the solution</div>
+
+<p>According to the balanced equation for this reaction, the mole ratio of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{CH}_{3}\text{COO}^{-}</annotation></semantics></math> ions to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math> ions is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math>:<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math>, therefore the number of moles of these two ions in the solution will be the same.</p>
+
+<p>So, n(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math>) = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,001}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol}</annotation></semantics></math>.</p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Determine the concentration of hydronium ions in the solution</div>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{C (mol.dm}^{-3}{\text{)}} = \dfrac{\text{n (mol)}}{\text{V (dm}^{3}{\text{)}}}</annotation></semantics></math></p>
+
+<p>V = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{162}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{cm^{3}}</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\times \dfrac{\text{0,001} {\text{ dm}}^{3}}{\text{1} {\text{ cm}}^{3}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,162}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{dm^{3}}</annotation></semantics></math></p>
+
+<p>[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math>] <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">= \dfrac{\text{0,001} {\text{ mol}}}{\text{0,162} {\text{ dm}}^{3}} =</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,0062}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math></p>
+</div><div class="solution" data-class="workstep" data-type="Step"><div class="title">Substitute this value into the pH equation and calculate the pH value</div>
+
+<p>pH = -log[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math>] = -log[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math>]</p>
+
+<p>= -log(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,0062}</annotation></semantics></math>)</p>
+
+<p>= 2.21</p>
+</div></div>
+<p>Understanding pH is very important. In living organisms, it is necessary to maintain a constant pH in the optimal range for that organism, so that chemical reactions can occur.</p>
+<figure class="figure" id="tab-acidsandbases-phinfo"><table><tbody><tr><td><p><strong>pH</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{6}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{7}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{8}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{13}</annotation></semantics></math></p></td></tr><tr><td><p><strong><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">[\text{H}^{+}]</annotation></semantics></math></strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{1}}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{6}}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{7}}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{8}}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{13}}</annotation></semantics></math></p></td></tr><tr><td><p><strong><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">[\text{OH}^{-}]</annotation></semantics></math></strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{13}}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{8}}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{7}}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{6}}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{1}}</annotation></semantics></math></p></td></tr><tr><td><p><strong>Solution</strong></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\textbf{strongly acidic}}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{weakly acidic}}</annotation></semantics></math></p></td><td><p>neutral</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\text{weakly basic}}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\textbf{strongly basic}}</annotation></semantics></math></p></td></tr></tbody></table><div class="alternates"><img src="_plone_ignore_/cache/pspictures/938d39289a227ff0ff3a747350bf6f28.png"/><pre class="pspicture">&lt;code&gt;
+	      (0,-0.7)(14,0)
+	      \psset{gradbegin=red}
+	      \psset{gradend=blue}
+	      \psframe[fillstyle=gradient,gradangle=90,gradmidpoint=1,linestyle=none](2.5,-0.1)(13,0)
+	      \rput(3,-0.4){\textbf{\red acidic solution}}
+	      \rput(12.5,-0.4){\textbf{\blue basic solution}}
+	    &lt;/code&gt;</pre></div>
+<div class="caption"><p>
+	    
+</p><p>The concentration of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">[\text{H}^{+}]</annotation></semantics></math> and <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">[\text{OH}^{-}]</annotation></semantics></math> ions in solutions with different pH.</p>
+
+	  </div></figure><div class="note" data-type="aside">
+<p>A build up of acid in the human body can be very dangerous. <strong>Lactic acidosis</strong> is a condition caused by the buildup of lactic acid in the body. It leads to acidification of the blood (acidosis) and can make a person very ill. Some of the symptoms of lactic acidosis are deep and rapid breathing, vomiting, and abdominal pain. In the fight against HIV, lactic acidosis is a problem. One of the antiretrovirals (ARV's) that is used in anti-HIV treatment is Stavudine (also known as Zerit or d4T). One of the side effects of Stavudine is lactic acidosis, particularly in overweight women. If it is not treated quickly, it can result in death.</p>
+</div><div class="note" data-type="aside">
+<p>Litmus paper can be used as a pH indicator. It is sold in strips. Purple litmus paper will become red in acidic conditions and blue in basic conditions. Blue litmus paper is used to detect acidic conditions, while red litmus paper is used to detect basic conditions.</p>
+<figure class="figure"><img width="117" src="photos/litmus.jpg"/></figure></div>
+<p>In agriculture, it is important for farmers to know the pH of their soils so that they are able to plant the right kinds of crops. The pH of soils can vary depending on a number of factors, such as rainwater, the kinds of rocks and materials from which the soil was formed and also human influences such as pollution and fertilisers. The pH of rain water can also vary, and this too has an effect on agriculture, buildings, water courses, animals and plants. Rainwater is naturally acidic because carbon dioxide in the atmosphere combines with water to form carbonic acid. Unpolluted rainwater has a pH of approximately <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5,6}</annotation></semantics></math>. However, human activities can alter the acidity of rain and this can cause serious problems such as acid rain.</p>
+<h1 class="title" data-class="complex-section">Exercises</h1>
+<div class="problemset">
+<div class="multipart">
+<div class="header">
+
+<p>Calculate the pH of each of the following solutions:</p>
+
+<p>(Tip: <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">[\text{H}_{3}\text{O}^{+}][\text{OH}^{-}]</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{14}}</annotation></semantics></math> can be used to determine <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">[\text{H}_{3}\text{O}^{+}]</annotation></semantics></math>)</p>
+</div><div class="exercise" data-class="entry">
+<div class="problem">
+		
+<p>A <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{KOH}</annotation></semantics></math> solution with a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,2}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math> concentration of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math>.</p>
+
+	      </div><div class="solution">
+		
+<p>Remember that <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">[\text{OH}^{-}][\text{H}_{3}\text{O}^{+}]</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{14}}</annotation></semantics></math>.</p>
+
+		
+<p>Therefore <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">[\text{H}_{3}\text{O}^{+}]</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\dfrac{\text{1} \times \text{10}^{-\text{14}}}{{\text{[OH}}^{-}{\text{]}}}</annotation></semantics></math></p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">[\text{H}_{3}\text{O}^{+}]</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\dfrac{\text{1} \times \text{10}^{-\text{14}}}{\text{\text{0,2}}}</annotation></semantics></math></p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">[\text{H}_{3}\text{O}^{+}]</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5} \times \text{10}^{-\text{14}}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math></p>
+
+		
+<p>pH = -log[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math>]</p>
+
+		
+<p>pH = -log(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5} \times \text{10}^{-\text{14}}</annotation></semantics></math>)</p>
+
+		
+<p>pH = 13.3</p>
+
+		
+<p><strong>OR</strong></p>
+
+		
+<p>p[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math>] = -log[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,2}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math>]</p>
+
+		
+<p>p[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math>] = 0.699</p>
+
+		
+<p>pH = 14 - p[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math>]</p>
+
+		
+<p>pH = 14 - 0.699</p>
+
+		
+<p>pH = 13.3</p>
+
+	      </div></div><div class="exercise" data-class="entry">
+<div class="problem">
+		
+<p>An aqueous solution with a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,83} \times \text{10}^{-\text{7}}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math> concentration of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math> molecules at equilibrium (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{a}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,3} \times \text{10}^{\text{6}}</annotation></semantics></math>)</p>
+
+	      </div><div class="solution">
+		
+<p>To determine the concentration of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math> ions in solution we must first write the expression for <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{a}}</annotation></semantics></math>, and to do that we need the balanced equation:</p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}(\text{aq}) + \text{Cl}^{-}(\text{aq})</annotation></semantics></math></p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{a}} = \dfrac{\text{[H}_{3}{\text{O}}^{+}{\text{][Cl}}^{-}{\text{]}}}{\text{[HCl]}}</annotation></semantics></math></p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">[\text{H}_{3}\text{O}^{+}]</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\dfrac{\text{K}_{\text{a}} \times {\text{[HCl]}}}{\text{[Cl}^{-}{\text{]}}}</annotation></semantics></math></p>
+
+		
+<p>The concentration of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math> will be the same as the concentration of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{Cl}^{-}</annotation></semantics></math>, therefore we can say:</p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">[\text{H}_{3}\text{O}^{+}]^{2}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{a}}</annotation></semantics></math> x <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">[\text{HCl}]</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,3} \times \text{10}^{\text{6}}</annotation></semantics></math> x <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1,83} \times \text{10}^{-\text{7}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,24}</annotation></semantics></math></p>
+
+		
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">[\text{H}_{3}\text{O}^{+}]</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,49}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math></p>
+
+		
+<p>pH = -log[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math>]</p>
+
+		
+<p>pH = -log(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{0,49}</annotation></semantics></math>)</p>
+
+		
+<p>pH = 0.31</p>
+
+	      </div></div></div><div class="exercise" data-class="entry">
+<div class="problem">
+	    
+<p>What is the concentration of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math> ions in a solution with a pH of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{12}</annotation></semantics></math>?</p>
+
+	  </div><div class="solution">
+	    
+<p>pH = -log[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math>] = -log[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math>]</p>
+
+	    
+<p>Therefore log[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math>] = -pH</p>
+
+	    
+<p>log[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math>] = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">-\text{12}</annotation></semantics></math></p>
+
+	    
+<p>[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math>] = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{12}}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math></p>
+
+	  </div></div><div class="multipart">
+<div class="header">
+
+<p>In a typical sample of seawater the concentration the hydronium (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math>) ions is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{8}}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math>, while the concentration of the hydroxide (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math>) ions is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{6}}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math>.</p>
+</div><div class="exercise" data-class="entry">
+<div class="problem">
+	      
+<p>Is the seawater acidic or basic?</p>
+
+	    </div><div class="solution">
+	      
+<p>The concentration of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math> is lower than that of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math>. The seawater is therefore basic.</p>
+
+	    </div></div><div class="exercise" data-class="entry">
+<div class="problem">
+	      
+<p>What is the pH of the seawater?</p>
+
+	    </div><div class="solution">
+	      
+<p>pH = -log[<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math>]</p>
+
+	      
+<p>pH = -log(<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{8}}</annotation></semantics></math>)</p>
+
+	      
+<p>pH = 8</p>
+
+	      
+<p>This confirms that the seawater is slightly basic</p>
+
+	    </div></div><div class="exercise" data-class="entry">
+<div class="problem">
+	      
+<p>Give a possible explanation for the pH of the seawater.</p>
+
+	    </div><div class="solution">
+	      
+<p>Mineral salts are generally alkaline. There are lots of mineral salts dissolved in the ocean and this leads to alkaline (basic) seawater.</p>
+
+	    </div></div></div></div><h3><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">K_{w}</annotation></semantics></math></h3>
+
+<p>Water ionises to a very small extent:</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{2}\text{O}(\text{ℓ}) + \text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\rightleftharpoons</annotation></semantics></math><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}(\text{aq}) + \text{OH}^{-}(\text{aq})</annotation></semantics></math></p>
+
+<p>This type of reaction (the transfer of a proton between identical molecules) is known as <strong>auto-protolysis</strong>. This reaction is also known as the <strong>auto-ionisation</strong> of water and the ions formed are a conjugate acid and base pair of water:</p>
+<figure class="figure"><div class="alternates"><img src="_plone_ignore_/cache/pspictures/351edd5a96a5a48932d3205e886b6dc8.png"/><pre class="pspicture">&lt;code&gt;
+	  (-4.3,-2)(4.6,1.5)
+	  \newrgbcolor{darkgreen}{0 0.39 0}
+	  \newrgbcolor{orange}{1 0.27 0}
+	  \newrgbcolor{purple}{0.78 0.13 1}
+	  \rput(-2.5,0){\textbf{{\red H$_{2}$O(&amp;#8467;)} + {\blue H$_{2}$O(&amp;#8467;)}}}
+	  \rput(2.5,0){\textbf{{\red H$_{3}$O$^{+}$(aq)} + {\blue OH$^{-}$(aq)}}}
+	  \psline(-0.6,0.05)(0.4,0.05)
+	  \psline(-0.6,-0.05)(0.4,-0.05)
+	  \psline(0.4,0.05)(0.2,0.2)
+	  \psline(-0.6,-0.05)(-0.4,-0.2)
+	  \rput(-3.4,-0.6){acid}
+	  \rput(-1.7,-0.6){base}
+	  \rput(3.65,-0.5){conjugate}
+	  \rput(3.65,-0.9){base}
+	  \rput(1.45,-0.5){conjugate}
+	  \rput(1.45,-0.9){acid}
+	  \psline[linecolor=orange](-3.4,0.4)(-3.4,0.8)
+	  \psline[linecolor=orange](3.65,0.4)(3.65,0.8)
+	  \psline[linecolor=orange](-3.4,0.8)(3.65,0.8)
+	  \rput(0,1.05){\orange conjugate pair}
+	  \psline[linecolor=purple](-1.7,-1.1)(-1.7,-1.4)
+	  \psline[linecolor=purple](1.45,-1.1)(1.45,-1.4)
+	  \psline[linecolor=purple](-1.7,-1.4)(1.45,-1.4)
+	  \rput(0,-1.65){\purple conjugate pair}
+	&lt;/code&gt;</pre></div></figure><dl class="definition"><dt>Auto-protolysis and auto-ionisation of water</dt><dd>
+	  
+<p>Auto-protolysis is the transfer of a proton between two of the same molecules. The auto-ionisation of water is one example of auto-protolysis.</p>
+
+	</dd></dl><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{w}}</annotation></semantics></math> is the equilibrium constant for this process:</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{w}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">[\text{H}_{3}\text{O}^{+}][\text{OH}^{-}]</annotation></semantics></math></p>
+
+<p>At <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{25}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{℃}</annotation></semantics></math>: <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">[\text{H}_{3}\text{O}^{+}]</annotation></semantics></math> = [<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math>] = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{7}}</annotation></semantics></math>, therefore:</p>
+
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{K}_{\text{w}}</annotation></semantics></math> = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1} \times \text{10}^{-\text{14}}</annotation></semantics></math> at <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{25}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{℃}</annotation></semantics></math></p>
+<h3>Salt hydrolysis</h3>
+
+<p>Does neutralisation mean that the pH of the solution is <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{7}</annotation></semantics></math>? No. At the equivalence point of a reaction, the pH of the solution need not be <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{7}</annotation></semantics></math>. This is because of the interaction of the salt (formed by the reaction) and water.</p>
+
+<p>At the equivalence point of an acid-base neutralisation reaction there is salt and water. The ions of water interact with the salt present and form a small quantity of excess hydronium ions (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}_{3}\text{O}^{+}</annotation></semantics></math>) or hydroxide ions (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{OH}^{-}</annotation></semantics></math>). This leads to pH values that are not equal to <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{7}</annotation></semantics></math>.</p>
+
+<p>A simple rule for determining the likely pH of a solution is as follows:</p>
+<div class="note" data-type="tip">
+<p>A neutralisation reaction <strong>does not imply</strong> that the pH is neutral (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{7}</annotation></semantics></math>).</p>
+</div><ul data-class="ListBulleted"><li>
+	  
+<p>A <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\textbf{strong }\text{acid}} + \textcolor{blue}{\textbf{strong }\text{base}}</annotation></semantics></math> form a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{darkgreen}{\textbf{neutral}}</annotation></semantics></math> salt and water <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{darkgreen}{\textbf{solution}}</annotation></semantics></math>:</p>
+
+	  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math> pH = <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{7}</annotation></semantics></math>.</p>
+
+	  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{H}_{2}{\text{SO}}_{4}{\text{(ℓ)}}} + \textcolor{blue}{\text{NaOH(s)}} \to \textcolor{darkgreen}{\textbf{Na}_{2}{\textbf{SO}}_{4}{\textbf{(aq)}}} + \textcolor{darkgreen}{\text{H}_{2}{\text{O(ℓ)}}}</annotation></semantics></math></p>
+
+	</li>
+<li>
+	  
+<p>A <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\textbf{weak }\text{acid}} + \textcolor{blue}{\textbf{strong }\text{base}}</annotation></semantics></math> form a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\textbf{weak basic}}</annotation></semantics></math> salt and water <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\textbf{solution}}</annotation></semantics></math>:</p>
+
+	  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math> pH = approximately <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{9}</annotation></semantics></math>.</p>
+
+	  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{HF(ℓ)}} + \textcolor{blue}{\text{NaOH(s)}} \to \textcolor{blue}{\textbf{NaF(aq)}} + \textcolor{blue}{\text{H}_{2}{\text{O(ℓ)}}}</annotation></semantics></math></p>
+
+	</li>
+<li>
+	  
+<p>A <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\textbf{strong }\text{acid}} + \textcolor{blue}{\textbf{weak }\text{base}}</annotation></semantics></math> form a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\textbf{weak acidic}}</annotation></semantics></math> salt and water <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\textbf{solution}}</annotation></semantics></math>:</p>
+
+	  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\to</annotation></semantics></math> pH = approximately <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math>.</p>
+
+	  
+<p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\text{H}_{2}{\text{SO}}_{4}{\text{(ℓ)}}} + \textcolor{blue}{\text{NH}_{3}{\text{(ℓ)}}} \to \textcolor{red}{\textbf{(NH}_{4}{\textbf{)}}_{2}{\textbf{SO}}_{4}{\textbf{(aq)}}} + \textcolor{red}{\text{H}_{2}{\text{O(ℓ)}}}</annotation></semantics></math></p>
+
+	</li>
+</ul><figure class="figure" id="tab-acidsandbases-salthydrolysis"><table summary="
+	  "><tbody><tr><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\textbf{acid}}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\textbf{base}}</annotation></semantics></math></p></td><td><p><strong>solution</strong></p></td><td><p><strong>approximate pH</strong></p></td></tr><tr><td><p>strong</p></td><td><p>strong</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{darkgreen}{\textbf{neutral}}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{7}</annotation></semantics></math></p></td></tr><tr><td><p>weak</p></td><td><p>strong</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{blue}{\textbf{weak basic}}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{9}</annotation></semantics></math></p></td></tr><tr><td><p>strong</p></td><td><p>weak</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\textcolor{red}{\textbf{weak acidic}}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math></p></td></tr></tbody></table><div class="caption"><p>
+	  
+</p><p>The approximate pH of neutralisation reaction solutions based on the strength of the acid and base used.</p>
+
+	</div></figure><h3>Indicators</h3>
+
+<p>A titration is a process for determining, with precision, the concentration of a solution with unknown concentration. The theory behind titrations will be discussed later in this chapter. An indicator is used to show the scientist carrying out the reaction exactly when the reaction has reached completion.</p>
+<div class="teachers-guide">
+<p>This experiment looks at the change in colour of an indicator during an acid-base reaction. It is effectively a very rough titration experiment. Principles that can be applied to titrations, such as adding a small volume of acid, then swirling, can be applied here as well. It is important that the learners understand that the pH range that the indicator changes colour in is not always around <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{7}</annotation></semantics></math>.</p>
+
+<p>Learners are working with a strong acid and a strong base in this reaction. Concentrated, strong acids and bases can cause serious burns. Please remind the learners to be careful and wear the appropriate safety equipment when handling all chemicals, especially concentrated acids and bases. The safety equipment includes gloves, safety glasses, and protective clothing.</p>
+</div><div class="example" data-class="activity" data-type="generalexperiment"><div class="title">Indicators</div><div class="section"><div class="title">Aim</div>
+<p>To investigate the use of an indicator in an acid-base reaction.</p>
+</div>
+<div class="section"><div class="title">Apparatus and materials</div><ul data-class="ListBulleted"><li>
+	      
+<p>one volumetric flask, one conical flask, one pipette, a piece of white paper or a white tile</p>
+
+	    </li>
+<li>
+	      
+<p>A <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math> solution of sodium hydroxide (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{NaOH}</annotation></semantics></math>), a <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{1}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{mol.dm^{-3}}</annotation></semantics></math> solution of hydrochloric (<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{HCl}</annotation></semantics></math>), an indicator</p>
+
+	    </li>
+</ul></div>
+<div class="section"><div class="title">Method</div><ol data-class="ListEnumerated"><li>
+	      
+<p>Measure <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{20}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{ml}</annotation></semantics></math> of the sodium hydroxide solution into a conical flask. Add a few drops of the indicator.</p>
+
+	      <div class="alternates"><img src="_plone_ignore_/cache/pspictures/4be4f1b0f138800fddfdbf57a3e97771.png"/><pre class="pspicture">&lt;code&gt;
+		  (-5.7,-3.2)(4.6,2.2)
+		  \pscurve[arrowsize=8pt]{-&amp;gt;}(-2.6,1.45)(-2.1,1.3)(-1.6,0.8)
+		  \rput(-4.2,1.85){\LARGE{add 20 ml}}
+		  \rput(-4.2,1.15){\LARGE{NaOH (aq)}}
+		  \rput(-1.6,-1){\pstTubeEssais[glassType=erlen,niveauLiquide1=0]}
+		  \psline[linewidth=2pt]{-&amp;gt;}(-0.2,-1)(1.7,-1)
+		  \pscurve[arrowsize=8pt]{-&amp;gt;}(2,1.45)(2.5,1.3)(3,0.8)
+		  \rput(0.8,1.5){\LARGE{indicator}}
+		  \rput(3,-1){\pstTubeEssais[glassType=erlen,niveauLiquide1=20]}
+		  \pscircle[fillstyle=solid,fillcolor=red,linecolor=red](3.1,0){0.08}
+		  \pscircle[fillstyle=solid,fillcolor=red,linecolor=red](3.12,-0.5){0.08}
+		  \pscircle[fillstyle=solid,fillcolor=red,linecolor=red](3.15,-1){0.08}
+		  \pscircle[fillstyle=solid,fillcolor=red,linecolor=red](3.2,-1.5){0.08}
+		  \pscircle[fillstyle=solid,fillcolor=red,linecolor=red](3.2,-2){0.08}
+		&lt;/code&gt;</pre></div>
+	    </li>
+<li>
+	      
+<p>In this experiment colour change is very important. So place the conical flask on a piece of white paper or a white tile to make any colour change easier to observe.</p>
+
+	    </li>
+<li>
+	      
+<p>Slowly add <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{ml}</annotation></semantics></math> of hydrochloric acid. If there is a colour change, then stop. If there is no colour change add another <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{ml}</annotation></semantics></math>. Continue adding <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math>~<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{ml}</annotation></semantics></math> increments until you notice a colour change.</p>
+
+	      <div class="alternates"><img src="_plone_ignore_/cache/pspictures/fec3edf9782fb1353d99f712e5bd6d86.png"/><pre class="pspicture">&lt;code&gt;
+		  (2.5,-1)(7.5,0.8)
+		  \newrgbcolor{purple}{0.35 0 1}
+		  \pspolygon[fillstyle=solid,fillcolor=white,linearc=0.05,linewidth=0.1pt](2.55,-0.9)(3.65,-0.9)(3.9,-0.5)(2.8,-0.5)
+		  \pspolygon[fillstyle=solid,fillcolor=white,linearc=0.05,linewidth=0.1pt](4.65,-0.9)(5.75,-0.9)(6,-0.5)(4.9,-0.5)
+		  \newpsstyle{aspectLiquide1}{linestyle=none,fillstyle=solid,fillcolor=purple}
+		  \rput(3.2,-.2){\scalebox{.3}{\pstTubeEssais[glassType=erlen,niveauLiquide1=20,aspectLiquide1]}}
+		  \psline{-&amp;gt;}(3.8,0)(4.8,0)
+		  \rput(5.3,-.2){\scalebox{.3}{\pstTubeEssais[glassType=erlen,niveauLiquide1=30,aspectLiquide1]}}
+		  \rput(4.2,.5){\tiny{add}}
+		  \rput(4.2,.2){\tiny{10 ml HCl}}
+		  \psline{-&amp;gt;}(5.8,0)(6.5,0)
+		  \rput(6.6,.5){\tiny{did the}}
+		  \rput(6.6,.2){\tiny{colour change?}}
+		  \rput(6.6,-.2){\tiny{if not, add}}
+		  \rput(6.6,-.5){\tiny{5 ml HCl}}
+		&lt;/code&gt;</pre></div>
+	    </li>
+</ol></div>
+<div class="section"><div class="title">Observations and discussion</div>
+<p>The solution changes colour after a certain amount of hydrochloric acid is added. This is because the solution now contains more acid than base and has therefore become acidic. It can be concluded that the indicator is one colour in a basic solution and a different colour in an acidic solution.</p>
+</div>
+</div>
+
+<p>Indicators are chemical compounds that change colour depending on whether they are in an acidic or a basic solution. A titration requires an indicator that will respond to the change in pH with a sensitive and quick colour change. Typical indicators used in titrations are given in Table <a href="#tab-acidsandbases-indicators" data-class="InternalLink">tab-acidsandbases-indicators</a>.</p>
+<figure class="figure" id="tab-acidsandbases-indicators"><table summary="
+	  "><tbody><tr><td><p><strong>Titration type</strong></p></td><td><p><strong>Preferred</strong></p>
+
+		  
+<p><strong>indicator</strong></p></td><td><p><strong>Colour of</strong></p>
+
+		  
+<p><strong>acid</strong></p></td><td><p><strong>Colour of</strong></p>
+
+		  
+<p><strong>end-point</strong></p></td><td><p><strong>Colour of</strong></p>
+
+		  
+<p><strong>base</strong></p></td><td><p><strong>pH range</strong></p></td></tr><tr><td><p>strong acid +</p>
+
+		  
+<p>strong base</p></td><td><p>bromothymol</p>
+
+		  
+<p>blue</p></td><td><p>yellow</p></td><td><p>green</p></td><td><p>blue</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{6,0}</annotation></semantics></math> - <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{7,6}</annotation></semantics></math></p></td></tr><tr><td><p>weak acid +</p>
+
+		  
+<p>strong base</p></td><td><p>phenolphthalein</p></td><td><p>colourless</p></td><td><p>faint pink</p></td><td><p>pink</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{8,3}</annotation></semantics></math> - <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10,0}</annotation></semantics></math></p></td></tr><tr><td><p>strong acid +</p>
+
+		  
+<p>weak base</p></td><td><p>bromocresol</p>
+
+		  
+<p>green</p></td><td><p>yellow</p></td><td><p>green</p></td><td><p>blue</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3,8}</annotation></semantics></math> - <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5,4}</annotation></semantics></math></p></td></tr></tbody></table><div class="caption"><p>
+	  
+</p><p>Some typical indicators for typcial titrations.</p>
+
+	</div></figure><div class="note" data-type="tip">
+<p>Revise Grade 11 Acids and Bases for more information on plants and foods that can be used as indicators.</p>
+</div><div class="note" data-type="tip">
+<p>Notice that the pH range for colour change of the indicator used should match the approximate pH expected for that type of titration (see Table <a href="#tab-acidsandbases-salthydrolysis" data-class="InternalLink">tab-acidsandbases-salthydrolysis</a>):</p>
+<table><tbody><tr><td><p><strong>solution</strong></p></td><td><p><strong>pH</strong></p></td><td><p><strong>pH range</strong></p></td></tr><tr><td><p>neutral</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{7}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{6,0}</annotation></semantics></math> - <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{7,6}</annotation></semantics></math></p></td></tr><tr><td><p>weak</p>
+
+		  
+<p>basic</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{9}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{8,3}</annotation></semantics></math> - <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{10,0}</annotation></semantics></math></p></td></tr><tr><td><p>weak</p>
+
+		  
+<p>acidic</p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5}</annotation></semantics></math></p></td><td><p><math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{3,8}</annotation></semantics></math> - <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{5,4}</annotation></semantics></math></p></td></tr></tbody></table></div><figure class="figure" id="fig-acidsandbases-indicators"><div class="alternates"><img src="_plone_ignore_/cache/pspictures/cf05d2872c58f921b1725a4adf14f705.png"/><pre class="pspicture">&lt;code&gt;
+	    (-9,3.5)(9,-4)
+	    \rput(0,0){\includegraphics{photos/indicators.eps}}
+	    \rput(-7.6,-3){\textbf{\large acid}}
+	    \rput(-5.8,-3.05){\textbf{\large end-point}}
+	    \rput(-4,-3){\textbf{\large base}}
+	    \rput(-1.6,-3){\textbf{\large acid}}
+	    \rput(0.1,-3.05){\textbf{\large end-point}}
+	    \rput(1.8,-3){\textbf{\large base}}
+	    \rput(4.4,-3){\textbf{\large acid}}
+	    \rput(6,-3.05){\textbf{\large end-point}}
+	    \rput(7.6,-3){\textbf{\large base}}
+	    \rput(-5.7,3){\textbf{\LARGE bromothymol blue}}
+	    \rput(0,3){\textbf{\LARGE phenolphthalein}}
+	    \rput(5.9,3){\textbf{\LARGE bromocresol green}}
+	  &lt;/code&gt;</pre></div>
+<figcaption class="caption"><p>
+	  
+</p><p>Some typical indicators for typcial titrations: bromothymol blue (left), phenolphthalein (centre), and bromocresol green (right).</p>
+
+	</figcaption></figure><p>Indicators change colour (Figure <a href="#fig-acidsandbases-indicators" data-class="InternalLink">fig-acidsandbases-indicators</a>) according to where the <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}</annotation></semantics></math> is:</p>
+<div class="alternates"><img src="_plone_ignore_/cache/pspictures/977acdcc6f900b90dfdc1464b60c67b1.png"/><pre class="pspicture">&lt;code&gt;
+	  (-4.5,-1)(7,0.5)
+	  \newrgbcolor{darkgreen}{0 0.39 0}
+	  \newrgbcolor{yellowgold}{1 0.84 0}
+	  \rput(-2.5,0){\textbf{{\darkgreen{H}}Bromothymol blue}}
+	  \psline(-0.6,0.05)(0.4,0.05)
+	  \psline(-0.6,-0.05)(0.4,-0.05)
+	  \psline(0.4,0.05)(0.2,0.2)
+	  \psline(-0.6,-0.05)(-0.4,-0.2)
+	  \rput(3.7,0){\textbf{{\darkgreen{H$^{+}$(aq)}} + Bromothymol blue$^{-}$(aq)}}
+	  \rput(-2.5,-0.5){\textbf{\yellowgold yellow}}
+	  \rput(3.7,-0.5){\textbf{\blue blue}}
+	&lt;/code&gt;</pre></div>
+<p>So, when an acid is added to aqueous bromothymol blue there will be extra <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math> ions. The equilibrium will shift (remember le Chatalier's principle) to decrease the number of <math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">\text{H}^{+}</annotation></semantics></math> ions. That is, to the left. If sufficient acid is added, the entire solution will become acidic. This means there will be more <em>HBromothymol blue</em> than <em>bromothymol blue<math><semantics><mtext>CLICKME</mtext><annotation encoding="TeX">^{-}</annotation></semantics></math></em> and the solution will become yellow.</p></body>
+</html>
