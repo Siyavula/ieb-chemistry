@@ -11,36 +11,29 @@
 <item id="chapter-2" href="xhtml/chemistry-11/03-Atomic-combinations.section-03.html" media-type="application/xhtml+xml"/>
 <item id="chapter-3" href="xhtml/chemistry-11/03-Atomic-combinations.section-04.html" media-type="application/xhtml+xml"/>
 <item id="chapter-4" href="xhtml/chemistry-11/03-Atomic-combinations.section-05.html" media-type="application/xhtml+xml"/>
-<item id="chapter-5" href="xhtml/chemistry-11/03-atomic-combinations.cnxmlplus.html" media-type="application/xhtml+xml"/>
-<item id="chapter-6" href="xhtml/chemistry-11/04-Intermolecular-forces.section-01.html" media-type="application/xhtml+xml"/>
-<item id="chapter-7" href="xhtml/chemistry-11/04-Intermolecular-forces.section-02.html" media-type="application/xhtml+xml"/>
-<item id="chapter-8" href="xhtml/chemistry-11/04-Intermolecular-forces.section-03.html" media-type="application/xhtml+xml"/>
-<item id="chapter-9" href="xhtml/chemistry-11/04-intermolecular-forces.cnxmlplus.html" media-type="application/xhtml+xml"/>
-<item id="chapter-10" href="xhtml/chemistry-11/07-Ideal-gases.section-01.html" media-type="application/xhtml+xml"/>
-<item id="chapter-11" href="xhtml/chemistry-11/07-Ideal-gases.section-02.html" media-type="application/xhtml+xml"/>
-<item id="chapter-12" href="xhtml/chemistry-11/07-Ideal-gases.section-03.html" media-type="application/xhtml+xml"/>
-<item id="chapter-13" href="xhtml/chemistry-11/07-ideal-gases.cnxmlplus.html" media-type="application/xhtml+xml"/>
-<item id="chapter-14" href="xhtml/chemistry-11/08-Quantitative-aspects-of-chemical-change.section-01.html" media-type="application/xhtml+xml"/>
-<item id="chapter-15" href="xhtml/chemistry-11/08-Quantitative-aspects-of-chemical-change.section-02.html" media-type="application/xhtml+xml"/>
-<item id="chapter-16" href="xhtml/chemistry-11/08-Quantitative-aspects-of-chemical-change.section-03.html" media-type="application/xhtml+xml"/>
-<item id="chapter-17" href="xhtml/chemistry-11/08-Quantitative-aspects-of-chemical-change.section-04.html" media-type="application/xhtml+xml"/>
-<item id="chapter-18" href="xhtml/chemistry-11/08-quantitative-aspects-of-chemical-change.cnxmlplus.html" media-type="application/xhtml+xml"/>
-<item id="chapter-19" href="xhtml/chemistry-11/12-Energy-and-chemical-change.section-01.html" media-type="application/xhtml+xml"/>
-<item id="chapter-20" href="xhtml/chemistry-11/12-Energy-and-chemical-change.section-02.html" media-type="application/xhtml+xml"/>
-<item id="chapter-21" href="xhtml/chemistry-11/12-Energy-and-chemical-change.section-03.html" media-type="application/xhtml+xml"/>
-<item id="chapter-22" href="xhtml/chemistry-11/12-Energy-and-chemical-change.section-04.html" media-type="application/xhtml+xml"/>
-<item id="chapter-23" href="xhtml/chemistry-11/12-energy-and-chemical-change.cnxmlplus.html" media-type="application/xhtml+xml"/>
-<item id="chapter-24" href="xhtml/chemistry-11/13-Types-of-reactions.section-01.html" media-type="application/xhtml+xml"/>
-<item id="chapter-25" href="xhtml/chemistry-11/13-Types-of-reactions.section-02.html" media-type="application/xhtml+xml"/>
-<item id="chapter-26" href="xhtml/chemistry-11/13-Types-of-reactions.section-03.html" media-type="application/xhtml+xml"/>
-<item id="chapter-27" href="xhtml/chemistry-11/13-Types-of-reactions.section-04.html" media-type="application/xhtml+xml"/>
-<item id="chapter-28" href="xhtml/chemistry-11/13-types-of-reactions.cnxmlplus.html" media-type="application/xhtml+xml"/>
-<item id="chapter-29" href="xhtml/chemistry-11/14-The-lithosphere.section-01.html" media-type="application/xhtml+xml"/>
-<item id="chapter-30" href="xhtml/chemistry-11/14-The-lithosphere.section-02.html" media-type="application/xhtml+xml"/>
-<item id="chapter-31" href="xhtml/chemistry-11/14-The-lithosphere.section-03.html" media-type="application/xhtml+xml"/>
-<item id="chapter-32" href="xhtml/chemistry-11/14-The-lithosphere.section-04.html" media-type="application/xhtml+xml"/>
-<item id="chapter-33" href="xhtml/chemistry-11/14-The-lithosphere.section-05.html" media-type="application/xhtml+xml"/>
-<item id="chapter-34" href="xhtml/chemistry-11/14-lithosphere.cnxmlplus.html" media-type="application/xhtml+xml"/>
+<item id="chapter-5" href="xhtml/chemistry-11/04-Intermolecular-forces.section-01.html" media-type="application/xhtml+xml"/>
+<item id="chapter-6" href="xhtml/chemistry-11/04-Intermolecular-forces.section-02.html" media-type="application/xhtml+xml"/>
+<item id="chapter-7" href="xhtml/chemistry-11/04-Intermolecular-forces.section-03.html" media-type="application/xhtml+xml"/>
+<item id="chapter-8" href="xhtml/chemistry-11/07-Ideal-gases.section-01.html" media-type="application/xhtml+xml"/>
+<item id="chapter-9" href="xhtml/chemistry-11/07-Ideal-gases.section-02.html" media-type="application/xhtml+xml"/>
+<item id="chapter-10" href="xhtml/chemistry-11/07-Ideal-gases.section-03.html" media-type="application/xhtml+xml"/>
+<item id="chapter-11" href="xhtml/chemistry-11/08-Quantitative-aspects-of-chemical-change.section-01.html" media-type="application/xhtml+xml"/>
+<item id="chapter-12" href="xhtml/chemistry-11/08-Quantitative-aspects-of-chemical-change.section-02.html" media-type="application/xhtml+xml"/>
+<item id="chapter-13" href="xhtml/chemistry-11/08-Quantitative-aspects-of-chemical-change.section-03.html" media-type="application/xhtml+xml"/>
+<item id="chapter-14" href="xhtml/chemistry-11/08-Quantitative-aspects-of-chemical-change.section-04.html" media-type="application/xhtml+xml"/>
+<item id="chapter-15" href="xhtml/chemistry-11/12-Energy-and-chemical-change.section-01.html" media-type="application/xhtml+xml"/>
+<item id="chapter-16" href="xhtml/chemistry-11/12-Energy-and-chemical-change.section-02.html" media-type="application/xhtml+xml"/>
+<item id="chapter-17" href="xhtml/chemistry-11/12-Energy-and-chemical-change.section-03.html" media-type="application/xhtml+xml"/>
+<item id="chapter-18" href="xhtml/chemistry-11/12-Energy-and-chemical-change.section-04.html" media-type="application/xhtml+xml"/>
+<item id="chapter-19" href="xhtml/chemistry-11/13-Types-of-reactions.section-01.html" media-type="application/xhtml+xml"/>
+<item id="chapter-20" href="xhtml/chemistry-11/13-Types-of-reactions.section-02.html" media-type="application/xhtml+xml"/>
+<item id="chapter-21" href="xhtml/chemistry-11/13-Types-of-reactions.section-03.html" media-type="application/xhtml+xml"/>
+<item id="chapter-22" href="xhtml/chemistry-11/13-Types-of-reactions.section-04.html" media-type="application/xhtml+xml"/>
+<item id="chapter-23" href="xhtml/chemistry-11/14-The-lithosphere.section-01.html" media-type="application/xhtml+xml"/>
+<item id="chapter-24" href="xhtml/chemistry-11/14-The-lithosphere.section-02.html" media-type="application/xhtml+xml"/>
+<item id="chapter-25" href="xhtml/chemistry-11/14-The-lithosphere.section-03.html" media-type="application/xhtml+xml"/>
+<item id="chapter-26" href="xhtml/chemistry-11/14-The-lithosphere.section-04.html" media-type="application/xhtml+xml"/>
+<item id="chapter-27" href="xhtml/chemistry-11/14-The-lithosphere.section-05.html" media-type="application/xhtml+xml"/>
 <item id="nav" href="xhtml/chemistry-11/chemistry-11.nav.html" media-type="application/xhtml+xml" properties="nav"/>
 <item id="34c50794896b8d6e2b61b0faf77d33b6.png" href="xhtml/chemistry-11/_plone_ignore_/cache/pspictures/34c50794896b8d6e2b61b0faf77d33b6.png" media-type="image/png"/>
 <item id="9d2dcbc8645c007c3208c76b7f0c153c.png" href="xhtml/chemistry-11/_plone_ignore_/cache/pspictures/9d2dcbc8645c007c3208c76b7f0c153c.png" media-type="image/png"/>
@@ -465,11 +458,4 @@
 <itemref idref="chapter-25"/>
 <itemref idref="chapter-26"/>
 <itemref idref="chapter-27"/>
-<itemref idref="chapter-28"/>
-<itemref idref="chapter-29"/>
-<itemref idref="chapter-30"/>
-<itemref idref="chapter-31"/>
-<itemref idref="chapter-32"/>
-<itemref idref="chapter-33"/>
-<itemref idref="chapter-34"/>
 </spine></package>
