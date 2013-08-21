@@ -251,7 +251,7 @@
     </mrow>
   </msub>
 <annotation encoding="math/tex">\text{K}_{\text{c}}</annotation></semantics></math>&nbsp;will be large (normally greater than one). &nbsp;</p></li></ul></div><div class="teachers-guide" data-unknown="true">
-<h2>What are Acids and Bases?</h2><p>In this chapter learners will look at acids and bases. In Grade 11 learners were introduced to a lot of the concepts that are expanded on in this chapter. These include acid and base models and definitions, conjugate acid-base pairs, and some basic acid-base reactions. It is important that the learners have a good understanding of the work covered in <a data-class="ExternalLink" href="todo" draggable="false" title="">Chapter 8</a>, specifically equilibrium constants, before studying this chapter.</p>
+<h2>What are Acids and Bases?</h2><p></p><dl class="definition"><dt>Weak acid and weak base</dt><dd></dd></dl><p><br></p><p>In this chapter learners will look at acids and bases. In Grade 11 learners were introduced to a lot of the concepts that are expanded on in this chapter. These include acid and base models and definitions, conjugate acid-base pairs, and some basic acid-base reactions. It is important that the learners have a good understanding of the work covered in <a data-class="ExternalLink" href="todo" draggable="false" title="">Chapter 8</a>, specifically equilibrium constants, before studying this chapter.</p>
 
 <p>New concepts related to acids and bases will also be covered in this chapter. These include pH, more in depth information on titrations and indicators, and real world applications of acids and bases.</p>
 
@@ -551,13 +551,7 @@
 </mrow><annotation encoding="math/tex">2\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <mo stretchy="false">⇋</mo>
   <mrow class="MJX-TeXAtom-ORD">
-    <mtext mathcolor="red">\textcolor</mtext>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mi>r</mi>
-      <mi>e</mi>
-      <mi>d</mi>
-    </mrow>
-    <mrow class="MJX-TeXAtom-ORD">
+    <mstyle mathcolor="red">
       <msub>
         <mtext>H</mtext>
         <mrow class="MJX-TeXAtom-ORD">
@@ -575,7 +569,7 @@
       <mrow class="MJX-TeXAtom-ORD">
         <mtext>(aq)</mtext>
       </mrow>
-    </mrow>
+    </mstyle>
   </mrow>
   <mo>+</mo>
   <mrow class="MJX-TeXAtom-ORD">
@@ -598,7 +592,7 @@
       </mrow>
     </mrow>
   </mrow>
-</mrow><annotation encoding="math/tex">⇋ {\textcolor{red}{\text{H}_{3}{\text{O}}^{+}{\text{(aq)}}}} + {\textcolor{blue}{\text{OH}^{-}{\text{(aq)}}}}</annotation></semantics></math></p>
+</mrow><annotation encoding="math/tex">⇋ {\color{red}{\text{H}_{3}{\text{O}}^{+}{\text{(aq)}}}} + {\textcolor{blue}{\text{OH}^{-}{\text{(aq)}}}}</annotation></semantics></math></p>
 
 <p>Another way of writing this is:</p>
 
@@ -2897,7 +2891,7 @@
 	      
 <p>A conjugate acid-base pair contains two compounds that differ only by a hydrogen ion () and a charge of .</p>
 
-            </dd></dl><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+            </dd></dl><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 	      
 </p><p>Determine the conjugate acid-base pairs for the following reaction:</p>
 
@@ -2950,7 +2944,7 @@
   <mo stretchy="false">)</mo>
 </mrow><annotation encoding="math/tex">\text{NO}_{3}^{-}(\text{aq}) + \text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p>
 
-	    <p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+	    <p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
@@ -2959,7 +2953,7 @@
 
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Which reactant is an acid and which is a base?</div><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Which reactant is an acid and which is a base?</div><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <msub>
     <mtext>HNO</mtext>
     <mrow class="MJX-TeXAtom-ORD">
@@ -3041,12 +3035,12 @@
   <mo stretchy="false">(</mo>
   <mtext>ℓ</mtext>
   <mo stretchy="false">)</mo>
-</mrow><annotation encoding="math/tex">\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+</mrow><annotation encoding="math/tex">\text{H}_{2}\text{O}(\text{ℓ})</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Which product is the conjugate base of the acid?</div><p>Nitric acid (<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Which product is the conjugate base of the acid?</div><p>Nitric acid (<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <msub>
     <mtext>HNO</mtext>
     <mrow class="MJX-TeXAtom-ORD">
@@ -3132,12 +3126,12 @@
   <mo stretchy="false">(</mo>
   <mtext>aq</mtext>
   <mo stretchy="false">)</mo>
-</mrow><annotation encoding="math/tex">\text{HNO}_{3}(\text{aq})</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+</mrow><annotation encoding="math/tex">\text{HNO}_{3}(\text{aq})</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Which product is the conjugate acid of the base?</div><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Which product is the conjugate acid of the base?</div><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <msup>
     <mtext>OH</mtext>
     <mrow class="MJX-TeXAtom-ORD">
@@ -3215,8 +3209,8 @@
   <mo stretchy="false">(</mo>
   <mtext>aq</mtext>
   <mo stretchy="false">)</mo>
-</mrow><annotation encoding="math/tex">\text{OH}^{-}(\text{aq}) + \text{H}^{+}(\text{aq})</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Label the conjugate acid-base pairs in this reaction</div><div class="alternates aloha-oer-block"><div class="body aloha-editable aloha-block-blocklevel-sortable ui-sortable" id="4d60f88f-f73a-95d7-681d-91a34e58a6bb" contenteditable="true"><img draggable="false" src="_plone_ignore_/cache/pspictures/b9b98749cb75699d1a05a971df17ad15.png"/></div><div class="body aloha-editable aloha-block-blocklevel-sortable ui-sortable" id="22ccf7f7-3089-194d-16bc-27b286cd67e7" contenteditable="true"><pre class="pspicture">&lt;code&gt;
+</mrow><annotation encoding="math/tex">\text{OH}^{-}(\text{aq}) + \text{H}^{+}(\text{aq})</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Label the conjugate acid-base pairs in this reaction</div><div class="alternates aloha-oer-block"><div class="body aloha-editable aloha-block-blocklevel-sortable ui-sortable" id="4d60f88f-f73a-95d7-681d-91a34e58a6bb" contenteditable="true"><img draggable="false" src="_plone_ignore_/cache/pspictures/b9b98749cb75699d1a05a971df17ad15.png"/></div><div class="body aloha-editable aloha-block-blocklevel-sortable ui-sortable" id="22ccf7f7-3089-194d-16bc-27b286cd67e7" contenteditable="true"><pre class="pspicture">&lt;code&gt;
 		    (-5.2,-2)(3.5,1)
 		    \rput(-4.2,0){\textbf{HNO$_{3}$(aq)}}
 		    \rput(-3.1,0){\textbf{+}}
@@ -3239,7 +3233,7 @@
 		    \psline(-2.1,0.5)(2.3,0.5)
 		    \psline(2.3,0.5)(2.3,0.25)
 		    \rput(0.1,0.75){\textbf{conjugate pair}}
-		  &lt;/code&gt;</pre></div></div><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div></div><h1 class="title" data-class="complex-section">Exercises</h1>
+		  &lt;/code&gt;</pre></div></div><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div></div><h1 class="title" data-class="complex-section">Exercises</h1>
 <div class="problemset" data-unknown="true">
 <div class="multipart" data-unknown="true">
 <div class="header" data-unknown="true">
@@ -3687,7 +3681,7 @@
 	    
 </p><p>A summary of the properties of strong, weak, concentrated, and dilute acids and bases.</p>
 
-	  </div><figcaption></figcaption></figure><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+	  </div><figcaption></figcaption></figure><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 	      
 </p><p>Solution 1 contains <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>100</mtext>
@@ -3737,10 +3731,10 @@
 	      
 <p>Say whether these solutions:</p>
 
-	      <ol data-class="ListEnumerated"><li><p>Contain a strong or weak acid or base.</p></li><li><p>Are concentrated or dilute.</p></li></ol><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+	      <ol data-class="ListEnumerated"><li><p>Contain a strong or weak acid or base.</p></li><li><p>Are concentrated or dilute.</p></li></ol><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Are the compounds acids or bases?</div><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Are the compounds acids or bases?</div><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>HCl</mtext>
 <annotation encoding="math/tex">\text{HCl}</annotation></semantics></math> is hydrochloric acid. It would donate a proton and is an acid. <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <mtext>Mg</mtext>
@@ -3752,15 +3746,15 @@
       <mn>2</mn>
     </mrow>
   </msub>
-</mrow><annotation encoding="math/tex">\text{Mg}(\text{OH})_{2}</annotation></semantics></math> is magnesium hydroxide and is a base.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+</mrow><annotation encoding="math/tex">\text{Mg}(\text{OH})_{2}</annotation></semantics></math> is magnesium hydroxide and is a base.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">What makes an acid or base strong or weak?</div><p>Almost complete ionisation or dissociation means an acid or base is strong. Only a small amount of ionisation or dissociation means an acid or base is weak.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">What makes an acid or base strong or weak?</div><p>Almost complete ionisation or dissociation means an acid or base is strong. Only a small amount of ionisation or dissociation means an acid or base is weak.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Are the compounds strong or weak acids and bases?</div><p>Almost all the <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Are the compounds strong or weak acids and bases?</div><p>Almost all the <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>HCl</mtext>
 <annotation encoding="math/tex">\text{HCl}</annotation></semantics></math> molecules ionise in the solution, therefore <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>HCl</mtext>
@@ -3784,15 +3778,15 @@
       <mn>2</mn>
     </mrow>
   </msub>
-</mrow><annotation encoding="math/tex">\text{Mg}(\text{OH})_{2}</annotation></semantics></math> is a weak base.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+</mrow><annotation encoding="math/tex">\text{Mg}(\text{OH})_{2}</annotation></semantics></math> is a weak base.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">What makes a solution concentrated or dilute?</div><p>A concentrated solution has a high ratio of solute to solvent. A dilute solution has a low ratio of solute to solvent.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">What makes a solution concentrated or dilute?</div><p>A concentrated solution has a high ratio of solute to solvent. A dilute solution has a low ratio of solute to solvent.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Are the solutions concentrated or dilute?</div><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Are the solutions concentrated or dilute?</div><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>100</mtext>
 <annotation encoding="math/tex">\text{100}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>dm^{3}</mtext>
@@ -3832,12 +3826,12 @@
       <mn>2</mn>
     </mrow>
   </msub>
-</mrow><annotation encoding="math/tex">\text{Mg}(\text{OH})_{2}</annotation></semantics></math> is dilute.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+</mrow><annotation encoding="math/tex">\text{Mg}(\text{OH})_{2}</annotation></semantics></math> is dilute.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Combine your information</div><p>Solution 1 is a <strong>concentrated solution</strong> of a <strong>strong acid</strong>.</p><p>Solution 2 is a <strong>dilute solution</strong> of a <strong>weak base</strong>.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Combine your information</div><p>Solution 1 is a <strong>concentrated solution</strong> of a <strong>strong acid</strong>.</p><p>Solution 2 is a <strong>dilute solution</strong> of a <strong>weak base</strong>.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 	      
 </p><p>Solution 1 contains <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>0,01</mtext>
@@ -3871,22 +3865,22 @@
 	      
 <p>Say whether these solutions:</p>
 
-	      <ol data-class="ListEnumerated"><li><p>Contain a strong or weak acid or base.</p></li><li><p>Are concentrated or dilute.</p></li></ol><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+	      <ol data-class="ListEnumerated"><li><p>Contain a strong or weak acid or base.</p></li><li><p>Are concentrated or dilute.</p></li></ol><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Are the compounds acids or bases?</div><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Are the compounds acids or bases?</div><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>NaOH</mtext>
 <annotation encoding="math/tex">\text{NaOH}</annotation></semantics></math> is sodium hydroxide and is a base. <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>HF</mtext>
-<annotation encoding="math/tex">\text{HF}</annotation></semantics></math> is hydrofluoric acid and is an acid.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<annotation encoding="math/tex">\text{HF}</annotation></semantics></math> is hydrofluoric acid and is an acid.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">What makes an acid or base strong or weak?</div><p>Almost complete ionisation or dissociation means an acid or base is strong. Only a small amount of ionisation or dissociation means an acid or base is weak.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">What makes an acid or base strong or weak?</div><p>Almost complete ionisation or dissociation means an acid or base is strong. Only a small amount of ionisation or dissociation means an acid or base is weak.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Are the compounds strong or weak acids and bases?</div><p>Almost all the <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Are the compounds strong or weak acids and bases?</div><p>Almost all the <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>NaOH</mtext>
 <annotation encoding="math/tex">\text{NaOH}</annotation></semantics></math> molecules dissociate in the solution, therefore <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>NaOH</mtext>
@@ -3894,15 +3888,15 @@
   <mtext>HF</mtext>
 <annotation encoding="math/tex">\text{HF}</annotation></semantics></math> molecules ionise, therefore <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>HF</mtext>
-<annotation encoding="math/tex">\text{HF}</annotation></semantics></math> is a weak acid.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<annotation encoding="math/tex">\text{HF}</annotation></semantics></math> is a weak acid.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">What makes a solution concentrated or dilute?</div><p>A concentrated solution has a high ratio of solute to solvent. A dilute solution has a low ratio of solute to solvent.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">What makes a solution concentrated or dilute?</div><p>A concentrated solution has a high ratio of solute to solvent. A dilute solution has a low ratio of solute to solvent.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Are the solutions concentrated or dilute?</div><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Are the solutions concentrated or dilute?</div><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>0,01</mtext>
 <annotation encoding="math/tex">\text{0,01}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>g</mtext>
@@ -3926,12 +3920,12 @@
   <mtext>dm^{3}</mtext>
 <annotation encoding="math/tex">\text{dm^{3}}</annotation></semantics></math> of water. This is a high ratio, therefore the solution of <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>HF</mtext>
-<annotation encoding="math/tex">\text{HF}</annotation></semantics></math> is concentrated.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<annotation encoding="math/tex">\text{HF}</annotation></semantics></math> is concentrated.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Combine your information</div><p>Solution 1 is a <strong>dilute solution</strong> of a <strong>strong base</strong>.</p><p>Solution 2 is a <strong>concentrated solution</strong> of a <strong>weak acid</strong>.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div></div>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Combine your information</div><p>Solution 1 is a <strong>dilute solution</strong> of a <strong>strong base</strong>.</p><p>Solution 2 is a <strong>concentrated solution</strong> of a <strong>weak acid</strong>.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div></div>
 <p>To calculate the concentration of a solution we use the formula:</p>
 
 <p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
@@ -3963,7 +3957,7 @@
     </mfrac>
   </mstyle>
 </mrow><annotation encoding="math/tex">\text{C (mol.dm}^{-3}{\text{)}}=\dfrac{\text{n (mol)}}{\text{V (dm}^{3}{\text{)}}}</annotation></semantics></math></p>
-<div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 	      
 </p><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>0,27</mtext>
@@ -3988,12 +3982,12 @@
   <mtext>dm^{3}</mtext>
 <annotation encoding="math/tex">\text{dm^{3}}</annotation></semantics></math> of water. Calculate the concentration of the solution.</p>
 
-	    <p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+	    <p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">List the information you have and the information you need</div><p>V = <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">List the information you have and the information you need</div><p>V = <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>183,7</mtext>
 <annotation encoding="math/tex">\text{183,7}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>dm^{3}</mtext>
@@ -4001,13 +3995,13 @@
   <mtext>0,27</mtext>
 <annotation encoding="math/tex">\text{0,27}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>g</mtext>
-<annotation encoding="math/tex">\text{g}</annotation></semantics></math></p><p>The volume (V) and the mass (m) are given. The number of moles (n) needs to be calculated. To do that the molar mass (M) needs to be calculated.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<annotation encoding="math/tex">\text{g}</annotation></semantics></math></p><p>The volume (V) and the mass (m) are given. The number of moles (n) needs to be calculated. To do that the molar mass (M) needs to be calculated.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Make sure all given units are correct and convert them if necessary</div><p>All the units are correct.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Make sure all given units are correct and convert them if necessary</div><p>All the units are correct.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">What equations will be necessary to calculate the concentration?</div><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">What equations will be necessary to calculate the concentration?</div><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <msup>
     <mtext>C (mol.dm</mtext>
     <mrow class="MJX-TeXAtom-ORD">
@@ -4069,12 +4063,12 @@
       </mrow>
     </mfrac>
   </mstyle>
-</mrow><annotation encoding="math/tex">\text{C (mol.dm}^{-3}{\text{)}}=\dfrac{\text{n (mol)}}{\text{V (dm}^{3}{\text{)}}} \phantom{\rule{35pt}{0ex}} \text{n (mol)} = \dfrac{\text{m (g)}}{\text{M (g.mol}^{-1}{\text{)}}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+</mrow><annotation encoding="math/tex">\text{C (mol.dm}^{-3}{\text{)}}=\dfrac{\text{n (mol)}}{\text{V (dm}^{3}{\text{)}}} \phantom{\rule{35pt}{0ex}} \text{n (mol)} = \dfrac{\text{m (g)}}{\text{M (g.mol}^{-1}{\text{)}}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate the number of moles of the acid in the solution</div><p>M(<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate the number of moles of the acid in the solution</div><p>M(<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <msub>
     <mtext>H</mtext>
     <mrow class="MJX-TeXAtom-ORD">
@@ -4138,10 +4132,10 @@
   <mtext>0,0028</mtext>
 <annotation encoding="math/tex">\text{0,0028}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>mol</mtext>
-<annotation encoding="math/tex">\text{mol}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<annotation encoding="math/tex">\text{mol}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate the concentration of the solution</div><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate the concentration of the solution</div><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <mtext>C</mtext>
   <mo>=</mo>
   <mstyle displaystyle="true">
@@ -4188,7 +4182,7 @@
   </msup>
 </mrow><annotation encoding="math/tex">\text{1,52} \times \text{10}^{-\text{5}}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>mol.dm^{-3}</mtext>
-<annotation encoding="math/tex">\text{mol.dm^{-3}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<annotation encoding="math/tex">\text{mol.dm^{-3}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 	      
 </p><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>16,4</mtext>
@@ -4202,12 +4196,12 @@
   <mtext>cm^{3}</mtext>
 <annotation encoding="math/tex">\text{cm^{3}}</annotation></semantics></math> of water. Calculate the concentration of the solution.</p>
 
-	    <p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+	    <p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">List the information you have and the information you need</div><p>V = <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">List the information you have and the information you need</div><p>V = <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>12,9</mtext>
 <annotation encoding="math/tex">\text{12,9}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>cm^{3}</mtext>
@@ -4215,12 +4209,12 @@
   <mtext>16,4</mtext>
 <annotation encoding="math/tex">\text{16,4}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>g</mtext>
-<annotation encoding="math/tex">\text{g}</annotation></semantics></math></p><p>The volume (V) and the mass (m) are given. The number of moles (n) needs to be calculated. To do that the molar mass (M) needs to be calculated.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<annotation encoding="math/tex">\text{g}</annotation></semantics></math></p><p>The volume (V) and the mass (m) are given. The number of moles (n) needs to be calculated. To do that the molar mass (M) needs to be calculated.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Make sure all given units are correct or convert them</div><p>The volume needs to be converted to <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Make sure all given units are correct or convert them</div><p>The volume needs to be converted to <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>dm^{3}</mtext>
 <annotation encoding="math/tex">\text{dm^{3}}</annotation></semantics></math>.</p><p>V = <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>12,9</mtext>
@@ -4258,10 +4252,10 @@
   <mtext>0,0129</mtext>
 <annotation encoding="math/tex">\text{0,0129}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>dm^{3}</mtext>
-<annotation encoding="math/tex">\text{dm^{3}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<annotation encoding="math/tex">\text{dm^{3}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">What equations will be necessary to calculate the concentration?</div><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">What equations will be necessary to calculate the concentration?</div><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <msup>
     <mtext>C (mol.dm</mtext>
     <mrow class="MJX-TeXAtom-ORD">
@@ -4323,12 +4317,12 @@
       </mrow>
     </mfrac>
   </mstyle>
-</mrow><annotation encoding="math/tex">\text{C (mol.dm}^{-3}{\text{)}}=\dfrac{\text{n (mol)}}{\text{V (dm}^{3}{\text{)}}} \phantom{\rule{35pt}{0ex}} \text{n (mol)} = \dfrac{\text{m (g)}}{\text{M (g.mol}^{-1}{\text{)}}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+</mrow><annotation encoding="math/tex">\text{C (mol.dm}^{-3}{\text{)}}=\dfrac{\text{n (mol)}}{\text{V (dm}^{3}{\text{)}}} \phantom{\rule{35pt}{0ex}} \text{n (mol)} = \dfrac{\text{m (g)}}{\text{M (g.mol}^{-1}{\text{)}}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate the number of moles of base in the solution</div><p>M(<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate the number of moles of base in the solution</div><p>M(<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>KOH</mtext>
 <annotation encoding="math/tex">\text{KOH}</annotation></semantics></math>) = <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>39,1</mtext>
@@ -4377,10 +4371,10 @@
   <mtext>0,292</mtext>
 <annotation encoding="math/tex">\text{0,292}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>mol</mtext>
-<annotation encoding="math/tex">\text{mol}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<annotation encoding="math/tex">\text{mol}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate the concentration of the solution</div><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate the concentration of the solution</div><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <mtext>C</mtext>
   <mo>=</mo>
   <mstyle displaystyle="true">
@@ -4415,27 +4409,27 @@
   <mtext>22,64</mtext>
 <annotation encoding="math/tex">\text{22,64}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>mol.dm^{-3}</mtext>
-<annotation encoding="math/tex">\text{mol.dm^{-3}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div></div><h1 class="title" data-class="complex-section">Exercises</h1>
+<annotation encoding="math/tex">\text{mol.dm^{-3}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div></div><h1 class="title" data-class="complex-section">Exercises</h1>
 <div class="problemset" data-unknown="true">
 <div class="problemset" data-unknown="true">
 <div class="header" data-unknown="true">
 
 <p>Say whether the solutions of the acids and bases in the following situations are concentrated or dilute.</p>
 </div><div class="exercise" data-class="entry">
-<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 		  
 </p><p>For every  mole of a solvent there are  moles of lithium hydroxide ().</p>
 
-		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
+		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
 		  
 
 
 		<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 		  
 </p><p>For every  moles of a solvent there are  moles of nitric acid ().</p>
 
-		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
+		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
 		  
 
 
@@ -4444,29 +4438,29 @@
 
 <p>% of an unknown acid donates protons when the acid is added to water. The pH of the final solution is .</p>
 </div><div class="exercise" data-class="entry">
-<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 		  
 </p><p>Is the acid a strong or a weak acid? Give a reason for your answer.</p>
 
-		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
+		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
 		  
 
 
 		<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 		  
 </p><p>Is a solution with a pH of  strongly or weakly acidic?</p>
 
-		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
+		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
 		  
 
 
 		<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 		  
 </p><p>Is the solution concentrated or dilute? Give a reason for your answer.</p>
 
-		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
+		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
 		  
 
 
@@ -4475,11 +4469,11 @@
 
 <p>Calculate the concentration for of the following solutions.</p>
 </div><div class="exercise" data-class="entry">
-<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 		  
 </p><p>~ of sodium bicarbonate () added to ~ of water.</p>
 
-		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
+		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
 		  
 
 
@@ -4496,11 +4490,11 @@
 
 
 		<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 		  
 </p><p>~ of phosphoric acid () added to ~ of a solvent.</p>
 
-		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
+		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
 		  
 
 
@@ -4508,11 +4502,11 @@
 
 
 		<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 		  
 </p><p>~ of hydrochloric acid () added to ~ of water.</p>
 
-		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
+		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
 		  
 
 
@@ -4532,11 +4526,11 @@
 
 
 		<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 		  
 </p><p>~ of a ~ concentration solution of ammonia () added to ~ of water.</p>
 
-		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
+		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
 		  
 
 
@@ -5477,7 +5471,7 @@
 		    \psline[linecolor=orange,linewidth=1pt,arrows=&amp;gt;,arrowlength=3,arrowsize=7pt,arrowinset=0.25](3.2,-0.5)(1.8,-0.5)
 		    \rput(2.5,-0.9){\orange very little ionisation}
 		    \rput(2.5,-1.4){\orange small percentage of molecules ionised}
-		  &lt;/code&gt;</pre></div></li></ul><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+		  &lt;/code&gt;</pre></div></li></ul><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 	      
 </p><p>Calculate the equilibrium constant for hydrochloric acid added to <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>1,38</mtext>
@@ -5555,10 +5549,10 @@
   <mtext>mol</mtext>
 <annotation encoding="math/tex">\text{mol}</annotation></semantics></math></p>
 
-	    <p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+	    <p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate the concentration of <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate the concentration of <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>HCl</mtext>
 <annotation encoding="math/tex">\text{HCl}</annotation></semantics></math> at equilibrium</div><p>C(<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>HCl</mtext>
@@ -5596,10 +5590,10 @@
   <mtext>0,0036</mtext>
 <annotation encoding="math/tex">\text{0,0036}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>mol.dm^{-3}</mtext>
-<annotation encoding="math/tex">\text{mol.dm^{-3}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<annotation encoding="math/tex">\text{mol.dm^{-3}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate the concentration of <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate the concentration of <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <msup>
     <mtext>Cl</mtext>
     <mrow class="MJX-TeXAtom-ORD">
@@ -5647,12 +5641,12 @@
   <mtext>63,3</mtext>
 <annotation encoding="math/tex">\text{63,3}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>mol.dm^{-3}</mtext>
-<annotation encoding="math/tex">\text{mol.dm^{-3}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<annotation encoding="math/tex">\text{mol.dm^{-3}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate the concentration of <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate the concentration of <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <msub>
     <mtext>H</mtext>
     <mrow class="MJX-TeXAtom-ORD">
@@ -5764,12 +5758,12 @@
   <mtext>63,3</mtext>
 <annotation encoding="math/tex">\text{63,3}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>mol.dm^{-3}</mtext>
-<annotation encoding="math/tex">\text{mol.dm^{-3}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<annotation encoding="math/tex">\text{mol.dm^{-3}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <msub>
     <mtext>K</mtext>
     <mrow class="MJX-TeXAtom-ORD">
@@ -5863,7 +5857,7 @@
       <mtext>6</mtext>
     </mrow>
   </msup>
-</mrow><annotation encoding="math/tex">\text{1,11} \times \text{10}^{\text{6}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div></div><div class="note" data-type="tip"><span class="title"></span><p>In a balanced chemical equation such as:</p><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+</mrow><annotation encoding="math/tex">\text{1,11} \times \text{10}^{\text{6}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div></div><div class="note" data-type="tip"><span class="title"></span><p>In a balanced chemical equation such as:</p><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <mn>2</mn>
   <mtext>C</mtext>
 </mrow><annotation encoding="math/tex">2\text{C}</annotation></semantics></math><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
@@ -5930,7 +5924,7 @@
       <mn>1</mn>
     </mrow>
   </msup>
-<annotation encoding="math/tex">\text{x}^{1}</annotation></semantics></math> = x.</p></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<annotation encoding="math/tex">\text{x}^{1}</annotation></semantics></math> = x.</p></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 	      
 </p><p>The equilibrium constant (<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <msub>
@@ -6018,10 +6012,10 @@
   <mtext>mol.dm^{-3}</mtext>
 <annotation encoding="math/tex">\text{mol.dm^{-3}}</annotation></semantics></math> concentration of hydroxide ions at equilibrium.</p>
 
-	    <p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+	    <p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">What is the <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">What is the <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <msub>
     <mtext>K</mtext>
     <mrow class="MJX-TeXAtom-ORD">
@@ -6095,12 +6089,12 @@
       </mrow>
     </mfrac>
   </mstyle>
-</mrow><annotation encoding="math/tex">\text{K}_{\text{b}} = \dfrac{{\text{[NH}}_{4}^{+}{\text{(aq)]}}^{1}{\text{[OH}}^{-}{\text{(aq)]}}^{1}}{{\text{[NH}}_{3}{\text{(aq)]}}^{1}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+</mrow><annotation encoding="math/tex">\text{K}_{\text{b}} = \dfrac{{\text{[NH}}_{4}^{+}{\text{(aq)]}}^{1}{\text{[OH}}^{-}{\text{(aq)]}}^{1}}{{\text{[NH}}_{3}{\text{(aq)]}}^{1}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate the concentration of <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate the concentration of <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <msub>
     <mtext>NH</mtext>
     <mrow class="MJX-TeXAtom-ORD">
@@ -6225,12 +6219,12 @@
   <mtext>0,17</mtext>
 <annotation encoding="math/tex">\text{0,17}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>mol.dm^{-3}</mtext>
-<annotation encoding="math/tex">\text{mol.dm^{-3}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<annotation encoding="math/tex">\text{mol.dm^{-3}}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate the number of moles of <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate the number of moles of <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <msub>
     <mtext>NH</mtext>
     <mrow class="MJX-TeXAtom-ORD">
@@ -6277,14 +6271,14 @@
   <mtext>0,68</mtext>
 <annotation encoding="math/tex">\text{0,68}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>mol</mtext>
-<annotation encoding="math/tex">\text{mol}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<annotation encoding="math/tex">\text{mol}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate the mass of <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><div class="title">Calculate the mass of <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <msub>
     <mtext>NH</mtext>
     <mrow class="MJX-TeXAtom-ORD">
@@ -6340,14 +6334,14 @@
   <mtext>11,6</mtext>
 <annotation encoding="math/tex">\text{11,6}</annotation></semantics></math>~<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>g</mtext>
-<annotation encoding="math/tex">\text{g}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div></div><h1 class="title" data-class="complex-section">Exercises</h1>
+<annotation encoding="math/tex">\text{g}</annotation></semantics></math></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div></div><h1 class="title" data-class="complex-section">Exercises</h1>
 <div class="problemset" data-unknown="true">
 <div class="problemset" data-unknown="true">
 <div class="header" data-unknown="true">
 
 <p>State whether the acids and bases in the following balanced chemical equations are strong or weak and give a reason for your answer.</p>
 </div><div class="exercise" data-class="entry">
-<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 		  
 </p><p>:</p>
 
@@ -6360,12 +6354,12 @@
 		    \psline(1.6,-0.05)(1.9,-0.15)
 		    \rput(5,0){\textbf{H$_{3}$O$^{+}$(aq) + F$^{-}$(aq)}}
 		  &lt;/code&gt;</pre></div>
-		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
+		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
 		  
 
 
 		<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 		  
 </p><p> dissolved in water:</p>
 
@@ -6378,12 +6372,12 @@
 		    \psline(1.6,-0.05)(1.9,-0.15)
 		    \rput(5,0){\textbf{K$^{+}$(aq) + OH$^{-}$(aq)}}
 		  &lt;/code&gt;</pre></div>
-		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
+		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
 		  
 
 
 		<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 		  
 </p><p>:</p>
 
@@ -6396,12 +6390,12 @@
 		    \psline(1.6,-0.05)(1.9,-0.15)
 		    \rput(5.1,0){\textbf{NH$_{4}$^{+}$(aq) + OH$^{-}$(aq)}}
 		  &lt;/code&gt;</pre></div>
-		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
+		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
 		  
 
 
 		<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 		  
 </p><p>:</p>
 
@@ -6414,7 +6408,7 @@
 		    \psline(1.6,-0.05)(1.9,-0.15)
 		    \rput(5,0){\textbf{H$_{3}$O$^{+}$(aq) + Cl$^{-}$(aq)}}
 		  &lt;/code&gt;</pre></div>
-		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
+		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
 		  
 
 
@@ -6423,29 +6417,29 @@
 
 <p>State whether the acids and bases in the following questions are strong or weak and give a reason for your answer.</p>
 </div><div class="exercise" data-class="entry">
-<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 		  
 </p><p> has a  value of .</p>
 
-		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
+		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
 		  
 
 
 		<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 		  
 </p><p> has a  value of .</p>
 
-		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
+		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
 		  
 
 
 		<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<div class="problem"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 		  
 </p><p> has a  value of .</p>
 
-		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
+		<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div><div class="solution">
 		  
 
 
