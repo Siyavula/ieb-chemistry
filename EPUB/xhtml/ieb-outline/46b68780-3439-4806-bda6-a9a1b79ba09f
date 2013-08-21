@@ -416,7 +416,7 @@
     </mrow>
   </msub>
 </mrow><annotation encoding="math/tex">\text{H}_{2}\text{SO}_{4}</annotation></semantics></math></p></li><li><p>Name and write the formula of some common strong bases (group 1 hydroxides) and weak bases (ammonia solution and carbonates).</p></li><li><p>Write the reaction equations, with double arrows to show reversibility, for ionisation of any known or given acids dissolving in water.</p></li><li><p>Write the reaction equations, with double arrows to show reversibility, for dissociation of any known or given bases dissolving in water.</p></li><li><p>Define a strong acid as <em>an acid that ionises almost completely in an aqueous solution</em>.</p></li><li></li></ul></div><div class="teachers-guide" data-unknown="true">
-<p>The following is an example of how the learners <strong>acids and metals compounds report</strong> could look:</p>
+<h2>Reactions of Acids and Bases</h2><p style=""><br style=""></p>
 <ul data-class="ListBulleted"><li>
 		
 <p><strong>Acid + metal</strong> <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
@@ -428,47 +428,21 @@
 
 		
 <p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
-  <mtext mathcolor="red">\textcolor</mtext>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mi>r</mi>
-    <mi>e</mi>
-    <mi>d</mi>
-  </mrow>
-  <mrow class="MJX-TeXAtom-ORD">
+  <mstyle mathcolor="red">
     <mtext>hydrochloric acid</mtext>
-  </mrow>
+  </mstyle>
   <mo>+</mo>
-  <mtext mathcolor="red">\textcolor</mtext>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mi>b</mi>
-    <mi>l</mi>
-    <mi>u</mi>
-    <mi>e</mi>
-  </mrow>
-  <mrow class="MJX-TeXAtom-ORD">
+  <mstyle mathcolor="blue">
     <mtext>zinc</mtext>
-  </mrow>
+  </mstyle>
   <mo stretchy="false">→<!-- → --></mo>
-  <mtext mathcolor="red">\textcolor</mtext>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mi>b</mi>
-    <mi>l</mi>
-    <mi>u</mi>
-    <mi>e</mi>
-  </mrow>
-  <mrow class="MJX-TeXAtom-ORD">
+  <mstyle mathcolor="blue">
     <mtext>zinc</mtext>
-  </mrow>
-  <mtext mathcolor="red">\textcolor</mtext>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mi>r</mi>
-    <mi>e</mi>
-    <mi>d</mi>
-  </mrow>
-  <mrow class="MJX-TeXAtom-ORD">
+  </mstyle>
+  <mstyle mathcolor="red">
     <mtext>&nbsp;chloride</mtext>
-  </mrow>
-</mrow><annotation encoding="math/tex">\textcolor{red}{\text{hydrochloric acid}} + \textcolor{blue}{\text{zinc}} \to \textcolor{blue}{\text{zinc}} \textcolor{red}{\text{ chloride}}</annotation></semantics></math> + hydrogen</p>
+  </mstyle>
+</mrow><annotation encoding="math/tex">\color{red}{\text{hydrochloric acid}} + \color{blue}{\text{zinc}} \to \color{blue}{\text{zinc}} \color{red}{\text{ chloride}}</annotation></semantics></math> + hydrogen</p>
 
 		
 <p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
@@ -518,47 +492,21 @@
 
 		
 <p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
-  <mtext mathcolor="red">\textcolor</mtext>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mi>r</mi>
-    <mi>e</mi>
-    <mi>d</mi>
-  </mrow>
-  <mrow class="MJX-TeXAtom-ORD">
+  <mstyle mathcolor="red">
     <mtext>hydrochloric acid</mtext>
-  </mrow>
+  </mstyle>
   <mo>+</mo>
-  <mtext mathcolor="red">\textcolor</mtext>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mi>b</mi>
-    <mi>l</mi>
-    <mi>u</mi>
-    <mi>e</mi>
-  </mrow>
-  <mrow class="MJX-TeXAtom-ORD">
+  <mstyle mathcolor="blue">
     <mtext>zinc hydroxide</mtext>
-  </mrow>
+  </mstyle>
   <mo stretchy="false">→<!-- → --></mo>
-  <mtext mathcolor="red">\textcolor</mtext>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mi>b</mi>
-    <mi>l</mi>
-    <mi>u</mi>
-    <mi>e</mi>
-  </mrow>
-  <mrow class="MJX-TeXAtom-ORD">
+  <mstyle mathcolor="blue">
     <mtext>zinc</mtext>
-  </mrow>
-  <mtext mathcolor="red">\textcolor</mtext>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mi>r</mi>
-    <mi>e</mi>
-    <mi>d</mi>
-  </mrow>
-  <mrow class="MJX-TeXAtom-ORD">
+  </mstyle>
+  <mstyle mathcolor="red">
     <mtext>&nbsp;chloride</mtext>
-  </mrow>
-</mrow><annotation encoding="math/tex">\textcolor{red}{\text{hydrochloric acid}} + \textcolor{blue}{\text{zinc hydroxide}} \to \textcolor{blue}{\text{zinc}} \textcolor{red}{\text{ chloride}}</annotation></semantics></math> + water</p>
+  </mstyle>
+</mrow><annotation encoding="math/tex">\color{red}{\text{hydrochloric acid}} + \color{blue}{\text{zinc hydroxide}} \to \color{blue}{\text{zinc}} \color{red}{\text{ chloride}}</annotation></semantics></math> + water</p>
 
 		
 <p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
@@ -618,47 +566,21 @@
 
 		
 <p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
-  <mtext mathcolor="red">\textcolor</mtext>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mi>r</mi>
-    <mi>e</mi>
-    <mi>d</mi>
-  </mrow>
-  <mrow class="MJX-TeXAtom-ORD">
+  <mstyle mathcolor="red">
     <mtext>hydrochloric acid</mtext>
-  </mrow>
+  </mstyle>
   <mo>+</mo>
-  <mtext mathcolor="red">\textcolor</mtext>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mi>b</mi>
-    <mi>l</mi>
-    <mi>u</mi>
-    <mi>e</mi>
-  </mrow>
-  <mrow class="MJX-TeXAtom-ORD">
+  <mstyle mathcolor="blue">
     <mtext>zinc oxide</mtext>
-  </mrow>
+  </mstyle>
   <mo stretchy="false">→<!-- → --></mo>
-  <mtext mathcolor="red">\textcolor</mtext>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mi>b</mi>
-    <mi>l</mi>
-    <mi>u</mi>
-    <mi>e</mi>
-  </mrow>
-  <mrow class="MJX-TeXAtom-ORD">
+  <mstyle mathcolor="blue">
     <mtext>zinc</mtext>
-  </mrow>
-  <mtext mathcolor="red">\textcolor</mtext>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mi>r</mi>
-    <mi>e</mi>
-    <mi>d</mi>
-  </mrow>
-  <mrow class="MJX-TeXAtom-ORD">
+  </mstyle>
+  <mstyle mathcolor="red">
     <mtext>&nbsp;chloride</mtext>
-  </mrow>
-</mrow><annotation encoding="math/tex">\textcolor{red}{\text{hydrochloric acid}} + \textcolor{blue}{\text{zinc oxide}} \to \textcolor{blue}{\text{zinc}} \textcolor{red}{\text{ chloride}}</annotation></semantics></math> + water</p>
+  </mstyle>
+</mrow><annotation encoding="math/tex">\color{red}{\text{hydrochloric acid}} + \color{blue}{\text{zinc oxide}} \to \color{blue}{\text{zinc}} \color{red}{\text{ chloride}}</annotation></semantics></math> + water</p>
 
 		
 <p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
@@ -709,47 +631,21 @@
 
 		
 <p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
-  <mtext mathcolor="red">\textcolor</mtext>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mi>r</mi>
-    <mi>e</mi>
-    <mi>d</mi>
-  </mrow>
-  <mrow class="MJX-TeXAtom-ORD">
+  <mstyle mathcolor="red">
     <mtext>hydrochloric acid</mtext>
-  </mrow>
+  </mstyle>
   <mo>+</mo>
-  <mtext mathcolor="red">\textcolor</mtext>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mi>b</mi>
-    <mi>l</mi>
-    <mi>u</mi>
-    <mi>e</mi>
-  </mrow>
-  <mrow class="MJX-TeXAtom-ORD">
+  <mstyle mathcolor="blue">
     <mtext>zinc carbonate</mtext>
-  </mrow>
+  </mstyle>
   <mo stretchy="false">→<!-- → --></mo>
-  <mtext mathcolor="red">\textcolor</mtext>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mi>b</mi>
-    <mi>l</mi>
-    <mi>u</mi>
-    <mi>e</mi>
-  </mrow>
-  <mrow class="MJX-TeXAtom-ORD">
+  <mstyle mathcolor="blue">
     <mtext>zinc</mtext>
-  </mrow>
-  <mtext mathcolor="red">\textcolor</mtext>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mi>r</mi>
-    <mi>e</mi>
-    <mi>d</mi>
-  </mrow>
-  <mrow class="MJX-TeXAtom-ORD">
+  </mstyle>
+  <mstyle mathcolor="red">
     <mtext>&nbsp;chloride</mtext>
-  </mrow>
-</mrow><annotation encoding="math/tex">\textcolor{red}{\text{hydrochloric acid}} + \textcolor{blue}{\text{zinc carbonate}} \to \textcolor{blue}{\text{zinc}} \textcolor{red}{\text{ chloride}}</annotation></semantics></math> + water + carbon dioxide</p>
+  </mstyle>
+</mrow><annotation encoding="math/tex">\color{red}{\text{hydrochloric acid}} + \color{blue}{\text{zinc carbonate}} \to \color{blue}{\text{zinc}} \color{red}{\text{ chloride}}</annotation></semantics></math> + water + carbon dioxide</p>
 
 		
 <p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
@@ -815,47 +711,21 @@
 
 		
 <p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
-  <mtext mathcolor="red">\textcolor</mtext>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mi>r</mi>
-    <mi>e</mi>
-    <mi>d</mi>
-  </mrow>
-  <mrow class="MJX-TeXAtom-ORD">
+  <mstyle mathcolor="red">
     <mtext>hydrochloric acid</mtext>
-  </mrow>
+  </mstyle>
   <mo>+</mo>
-  <mtext mathcolor="red">\textcolor</mtext>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mi>b</mi>
-    <mi>l</mi>
-    <mi>u</mi>
-    <mi>e</mi>
-  </mrow>
-  <mrow class="MJX-TeXAtom-ORD">
+  <mstyle mathcolor="blue">
     <mtext>zinc bicarbonate</mtext>
-  </mrow>
+  </mstyle>
   <mo stretchy="false">→<!-- → --></mo>
-  <mtext mathcolor="red">\textcolor</mtext>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mi>b</mi>
-    <mi>l</mi>
-    <mi>u</mi>
-    <mi>e</mi>
-  </mrow>
-  <mrow class="MJX-TeXAtom-ORD">
+  <mstyle mathcolor="blue">
     <mtext>zinc</mtext>
-  </mrow>
-  <mtext mathcolor="red">\textcolor</mtext>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mi>r</mi>
-    <mi>e</mi>
-    <mi>d</mi>
-  </mrow>
-  <mrow class="MJX-TeXAtom-ORD">
+  </mstyle>
+  <mstyle mathcolor="red">
     <mtext>&nbsp;chloride</mtext>
-  </mrow>
-</mrow><annotation encoding="math/tex">\textcolor{red}{\text{hydrochloric acid}} + \textcolor{blue}{\text{zinc bicarbonate}} \to \textcolor{blue}{\text{zinc}} \textcolor{red}{\text{ chloride}}</annotation></semantics></math> + water + carbon dioxide</p>
+  </mstyle>
+</mrow><annotation encoding="math/tex">\color{red}{\text{hydrochloric acid}} + \color{blue}{\text{zinc bicarbonate}} \to \color{blue}{\text{zinc}} \color{red}{\text{ chloride}}</annotation></semantics></math> + water + carbon dioxide</p>
 
 		
 <p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
