@@ -11,7 +11,7 @@
         </style></head>
   <body><h1>Intermolecular forces</h1>
 <div class="teachers-guide" data-unknown="true">
-<p>If there were no intermolecular forces than all matter would exist as gases and we would not be here. This chapter introduces learners to a new concept called an intermolecular force. It is easy for learners to become confused as to whether they are talking about bonds or about intermolecular forces, particularly when the intermolecular forces in the noble gases are discussed. For this reason you should try and use the word bond or bonding to refer to the interatomic forces (the things holding the atoms together) and intermolecular forces for the things holding the molecules together. Getting learners to label the bonds and intermolecular forces on diagrams of molecules will help them to come to grips with the terminology.</p>
+<h2>Introduction</h2><p>If there were no intermolecular forces than all matter would exist as gases and we would not be here. This chapter introduces learners to a new concept called an intermolecular force. It is easy for learners to become confused as to whether they are talking about bonds or about intermolecular forces, particularly when the intermolecular forces in the noble gases are discussed. For this reason you should try and use the word bond or bonding to refer to the interatomic forces (the things holding the atoms together) and intermolecular forces for the things holding the molecules together. Getting learners to label the bonds and intermolecular forces on diagrams of molecules will help them to come to grips with the terminology.</p>
 
 <p>This topic comes right after learners have learnt about electronegativity and polarity so this is a good chapter to reinforce those concepts and help learners see the use of electronegativity and polarity. Learners need to be very comfortable with determining the polarity and shape of molecules as this will help them determine the kinds of intermolecular forces that occur.</p>
 
@@ -58,7 +58,7 @@
 <p>Note that we will use the term molecule throughout this chapter as the compounds we are looking at are all covalently bonded and do not exist as giant networks (recall from grade <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>10</mtext>
 <annotation encoding="math/tex">\text{10}</annotation></semantics></math> that there are three types of bonding: metallic, ionic and covalent). Sometimes you will see the term simple molecule. This is a covalent molecular structure.</p>
-<figure class="figure" title=""><img width="312" alt="Photo by Ben Mills on Wikipedia" draggable="false" src="photos/intermolecular_force1.png"/></figure><div class="note" data-type="tip"><span class="title"></span><p>Interatomic (between atoms) forces are also known as intramolecular (within molecules) forces. You can remember this by thinking of <strong>inter</strong>national which means between nations.</p></div><h2>Intermolecular and interatomic forces</h2>
+<figure class="figure" title=""><div class="title"></div><img width="312" alt="Photo by Ben Mills on Wikipedia" draggable="false" src="photos/intermolecular_force1.png"/><figcaption></figcaption></figure><div class="note" data-type="tip"><span class="title"></span><p>Interatomic (between atoms) forces are also known as intramolecular (within molecules) forces. You can remember this by thinking of <strong>inter</strong>national which means between nations.</p></div><h2>Intermolecular and interatomic forces</h2>
 <dl class="definition"><dt>Intermolecular forces</dt><dd>
           
 <p>Intermolecular forces are forces that act between molecules.</p>
@@ -84,18 +84,18 @@
 <annotation encoding="math/tex">δ^{-}</annotation></semantics></math>). The molecule is said to be a <strong>dipole</strong>.</p>
 
 <p>A dipole molecule is a molecule that has two (di) poles. One end of the molecule is slightly positive and the other is slightly negative. We can depict this very simply as an oval with one positive side and one negative. In reality however, the molecules do not look like this, they look more like the images in Figure <a href="#fig-dipoles" data-class="InternalLink" title="">fig-dipoles</a>.</p>
-<figure class="figure" title=""><div class="alternates"><img draggable="false" src="_plone_ignore_/cache/pspictures/3b223be82265f893427f64131cb1c468.png"/><pre class="pspicture">&lt;code&gt;
+<figure class="figure" title=""><div class="title"></div><div class="alternates"><img draggable="false" src="_plone_ignore_/cache/pspictures/3b223be82265f893427f64131cb1c468.png"/><pre class="pspicture">&lt;code&gt;
                       (-.5,1)(4.5,3)
 \psellipse(2,2)(2.5,1)
 \rput(0,2){\textbf{$\delta^{+}$}}
 \rput(4,2){\textbf{$\delta^{-}$}}
 
-                    &lt;/code&gt;</pre></div></figure><figure class="figure" id="fig-dipoles" title=""><img width="624" alt="Photo by Ben Mills on Wikipedia" draggable="false" src="photos/dipole.png"/><figcaption class="caption"><p>A different representation of dipole molecules. The red region is slightly negative, and the blue region is slightly positive.</p></figcaption></figure><p>It is important to remember that just because the bonds within a molecule are polar, the molecule itself may not necessarily be polar. The shape of the molecule may also affect its polarity. A few examples are shown in Table <a href="#tab-molecule polarity examples" data-class="InternalLink" title="">tab-molecule polarity examples</a> to refresh your memory. Note that we have shown tetrahedral molecules with all the terminal atoms at <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+                    &lt;/code&gt;</pre></div><figcaption></figcaption></figure><figure class="figure" id="fig-dipoles" title=""><div class="title"></div><img width="624" alt="Photo by Ben Mills on Wikipedia" draggable="false" src="photos/dipole.png"/><figcaption class="caption"><p>A different representation of dipole molecules. The red region is slightly negative, and the blue region is slightly positive.</p></figcaption></figure><p>It is important to remember that just because the bonds within a molecule are polar, the molecule itself may not necessarily be polar. The shape of the molecule may also affect its polarity. A few examples are shown in Table <a href="#tab-molecule polarity examples" data-class="InternalLink" title="">tab-molecule polarity examples</a> to refresh your memory. Note that we have shown tetrahedral molecules with all the terminal atoms at <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>90</mtext>
 <annotation encoding="math/tex">\text{90}</annotation></semantics></math><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>°</mtext>
 <annotation encoding="math/tex">\text{°}</annotation></semantics></math> to each other (i.e. flat or 2-dimensional), but the shape is really 3-dimensional.</p>
-<figure class="figure" id="tab-molecule polarity examples" title=""><table summary="
+<figure class="figure" id="tab-molecule polarity examples" title=""><div class="title"></div><table summary="
 	  Polarity in molecules with different atomic bonds and molecular shapes.
         "><caption>Table 1</caption><tbody><tr><td><p><strong>Molecule</strong></p></td><td><p><strong>Chemical formula</strong></p></td><td><p><strong>Bond between atoms</strong></p></td><td><p><strong>Shape of molecule</strong></p></td><td><p><strong>Polarity of molecule</strong></p></td></tr><tr><td><p>Hydrogen</p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <msub>
@@ -158,7 +158,7 @@
 \rput(1.3,2.5){\textbf{H}}
                     &lt;/code&gt;</pre></div></td><td><p>Polar</p></td></tr></tbody></table><div class="caption" data-unknown="true"><p>
 	  Polarity in molecules with different atomic bonds and molecular shapes.
-        </p></div></figure><h3>Types of intermolecular forces</h3>
+        </p></div><figcaption></figcaption></figure><h3>Types of intermolecular forces</h3>
 
 <p>It is important to be able to recognise whether the molecules in a substance are polar or non-polar because this will determine what type of intermolecular forces there are. This is important in explaining the properties of the substance.</p>
 <ol data-class="ListEnumerated"><li>
@@ -184,7 +184,7 @@
   </msup>
 <annotation encoding="math/tex">\text{Cl}^{-}</annotation></semantics></math>) is attracted to the slightly positive hydrogen atoms. These intermolecular forces weaken the ionic bonds between the sodium and chloride ions so that the sodium chloride dissolves in the water (Figure <a href="#fig-ion-dipole" data-class="InternalLink" title="">fig-ion-dipole</a>).</p>
 
-                <figure class="figure" id="fig-ion-dipole" title=""><div class="alternates"><img draggable="false" src="_plone_ignore_/cache/pspictures/4a4621582d8cd1d1dd8ba64a0b6bfeb0.png"/><pre class="pspicture">&lt;code&gt;
+                <figure class="figure" id="fig-ion-dipole" title=""><div class="title"></div><div class="alternates"><img draggable="false" src="_plone_ignore_/cache/pspictures/4a4621582d8cd1d1dd8ba64a0b6bfeb0.png"/><pre class="pspicture">&lt;code&gt;
                       (-4,-4)(4,4)
 \psellipse(0,0)(0.5,0.5)
 \psellipse(1.5,0)(1,0.5)
@@ -222,7 +222,7 @@
                     Ion-dipole forces in a sodium chloride solution.
                   </p></figcaption></figure><p>This is a simplified diagram to highlight the regions of positive and negative charge. When sodium chloride dissolves in water it can more accurately be shown as:</p>
 
-					<figure class="figure" title=""><div class="alternates"><img draggable="false" src="_plone_ignore_/cache/pspictures/70a4effd4c3377ac1c65cbe8f827bcd2.png"/><pre class="pspicture">&lt;code&gt;(0,-1.7339576)(8.285022,1.7404083)
+					<figure class="figure" title=""><div class="title"></div><div class="alternates"><img draggable="false" src="_plone_ignore_/cache/pspictures/70a4effd4c3377ac1c65cbe8f827bcd2.png"/><pre class="pspicture">&lt;code&gt;(0,-1.7339576)(8.285022,1.7404083)
 \definecolor{color4b}{rgb}{0.6666666666666666,0.9725490196078431,1.0}
 \definecolor{color3b}{rgb}{0.6705882352941176,0.9764705882352941,0.6509803921568628}
 \pscircle[linewidth=0.04,dimen=outer](2.494554,1.0304081){0.21}
@@ -256,7 +256,7 @@
 \rput(2.0896387,1.4104083){O}
 \rput(2.50917,1.0204083){\small H}
 \rput(1.64917,1.0004083){\small H}
-&lt;/code&gt;</pre></div></figure></li>
+&lt;/code&gt;</pre></div><figcaption></figcaption></figure></li>
 <li>
 				
 <p><strong>Ion-induced-dipole forces</strong></p>
@@ -311,7 +311,7 @@
   <mtext>Cl</mtext>
 </mrow><annotation encoding="math/tex">\text{CH}_{3}\text{Cl}</annotation></semantics></math>.</p>
 
-                <figure class="figure" id="fig-dipole-dipole" title=""><div class="alternates"><img draggable="false" src="_plone_ignore_/cache/pspictures/cb97dc74e7763a0acbcf8e4cf756e679.png"/><pre class="pspicture">&lt;code&gt;
+                <figure class="figure" id="fig-dipole-dipole" title=""><div class="title"></div><div class="alternates"><img draggable="false" src="_plone_ignore_/cache/pspictures/cb97dc74e7763a0acbcf8e4cf756e679.png"/><pre class="pspicture">&lt;code&gt;
                       (-.5,0.5)(9.5,3.5)
 \psellipse(2,2)(2.5,1)
 \rput(0,2){\textbf{$\delta^{+}$}}
@@ -379,7 +379,7 @@
 
 			</li>
 </ol><p>The following image shows the types of intermolecular forces and the kinds of compounds that lead to those forces.</p>
-<figure class="figure" id="fig-forces" title=""><div class="alternates"><img draggable="false" src="_plone_ignore_/cache/pspictures/de6bd127855ecaa1c45b75ea7d51993a.png"/><pre class="pspicture">&lt;code&gt;
+<figure class="figure" id="fig-forces" title=""><div class="title"></div><div class="alternates"><img draggable="false" src="_plone_ignore_/cache/pspictures/de6bd127855ecaa1c45b75ea7d51993a.png"/><pre class="pspicture">&lt;code&gt;
 (0,-3.13)(9.5,3.13)
 \psframe(8.0,3.13)(6.2,1.97)
 \rput(7.18,2.34){covalent}
@@ -424,7 +424,7 @@
 <annotation encoding="math/tex">\text{F}</annotation></semantics></math>) this type of intermolecular force can occur. The highly electronegative atom on one molecule attracts the hydrogen atom on a nearby molecule.</p>
 
 <p>Water molecules for example, are held together by hydrogen bonds between the hydrogen atom of one molecule and the oxygen atom of another (Figure <a href="#fig-hydrogen bonds" data-class="InternalLink" title="">fig-hydrogen bonds</a>). Hydrogen bonds are a relatively strong intermolecular force and are stronger than other dipole-dipole forces. It is important to note however, that hydrogen bonds are weaker than the covalent and ionic bonds that exist between <em>atoms</em>.</p>
-<div class="note" data-type="tip"><span class="title"></span><p>Do not confuse hydrogen bonds with actual chemical bonds. Hydrogen bonding is an example of a case where a scientist named something believing it to be one thing when in fact it was another. In this case the strength of the hydrogen bonds misled scientists into thinking this was actually a chemical bond, when it is really just an intermolecular force.</p></div><figure class="figure" id="fig-hydrogen bonds" title=""><div class="alternates"><img draggable="false" src="_plone_ignore_/cache/pspictures/4badf1582a194a29dc87bee5624af29b.png"/><pre class="pspicture">&lt;code&gt;
+<div class="note" data-type="tip"><span class="title"></span><p>Do not confuse hydrogen bonds with actual chemical bonds. Hydrogen bonding is an example of a case where a scientist named something believing it to be one thing when in fact it was another. In this case the strength of the hydrogen bonds misled scientists into thinking this was actually a chemical bond, when it is really just an intermolecular force.</p></div><figure class="figure" id="fig-hydrogen bonds" title=""><div class="title"></div><div class="alternates"><img draggable="false" src="_plone_ignore_/cache/pspictures/4badf1582a194a29dc87bee5624af29b.png"/><pre class="pspicture">&lt;code&gt;
                   (-1,-1)(8,4)
 \SpecialCoor
 
@@ -486,9 +486,9 @@
 <p>Remember that a covalent bond has an electronegativity difference of less than <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>2,1</mtext>
 <annotation encoding="math/tex">\text{2,1}</annotation></semantics></math>. Covalent molecules have covalent bonds between their atoms. Van der Waals' forces only occur in covalent molecules. We can show the interatomic and intermolecular forces between covalent compounds diagrammatically or in words. Intermolecular forces occur between molecules and do not involve individual atoms. Interatomic forces are the forces that hold the the atoms in molecules together. Figure <a href="#fig-hydrogen bonds" data-class="InternalLink" title="">fig-hydrogen bonds</a> shows this.</p>
-<figure class="figure" title=""><table summary="The differences between interatomic and intermolecular forces."><caption>Table 2</caption><tbody><tr><td></td><td><strong>Interatomic forces</strong></td><td><strong>Intermolecular forces</strong></td></tr><tr><td>Atoms or molecules</td><td>Forces between atoms</td><td>Forces between molecules</td></tr><tr><td>Strength of forces</td><td>Strong forces</td><td>Relatively weak forces</td></tr><tr><td>Distance between atoms or molecules</td><td>Very short distances</td><td>Larger distances than bonds</td></tr></tbody></table><div class="caption" data-unknown="true"><p>The differences between interatomic and intermolecular forces.</p></div></figure><div class="teachers-guide" data-unknown="true">
+<figure class="figure" title=""><div class="title"></div><table summary="The differences between interatomic and intermolecular forces."><caption>Table 2</caption><tbody><tr><td></td><td><strong>Interatomic forces</strong></td><td><strong>Intermolecular forces</strong></td></tr><tr><td>Atoms or molecules</td><td>Forces between atoms</td><td>Forces between molecules</td></tr><tr><td>Strength of forces</td><td>Strong forces</td><td>Relatively weak forces</td></tr><tr><td>Distance between atoms or molecules</td><td>Very short distances</td><td>Larger distances than bonds</td></tr></tbody></table><div class="caption" data-unknown="true"><p>The differences between interatomic and intermolecular forces.</p></div><figcaption></figcaption></figure><div class="teachers-guide" data-unknown="true">
 <p>The worked examples on intermolecular forces condense a lot of information into the first step. You may need to remind learners how to determine molecular polarity. To do this, you can use the worked examples in atomic combinations as a quick refresher of the topic. In tests and exams learners need to be able to quickly identify a polar or non-polar molecule and so need to be very comfortable with this skill.</p>
-</div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p>
+</div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p>
 				
 </p><p>Which intermolecular forces are found in carbon tetrachloride (<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <msub>
@@ -499,71 +499,71 @@
   </msub>
 <annotation encoding="math/tex">\text{CCl}_{4}</annotation></semantics></math>)?</p>
 
-            <p></p></div><div class="solution" data-class="workstep" data-type="Step">
+            <p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
 
 
-<p></p><div class="title">Think about what you know about the molecule.</div><p>Carbon has an electronegativity of <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><div class="title">Think about what you know about the molecule.</div><p>Carbon has an electronegativity of <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>2,5</mtext>
 <annotation encoding="math/tex">\text{2,5}</annotation></semantics></math>. Chlorine has an electronegativity of <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>3,0</mtext>
 <annotation encoding="math/tex">\text{3,0}</annotation></semantics></math>. The electronegativity difference between carbon and chlorine is <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>1,0</mtext>
-<annotation encoding="math/tex">\text{1,0}</annotation></semantics></math> (recall the section on electronegativity in the previous chapter). We also know that the bond between carbon and chlorine is polar.</p><p>Also from the previous chapter we know that carbon tetrachloride is a tetrahedral molecule (recall molecular shape). Carbon tetrachloride is symmetrical and so is non-polar overall.</p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<annotation encoding="math/tex">\text{1,0}</annotation></semantics></math> (recall the section on electronegativity in the previous chapter). We also know that the bond between carbon and chlorine is polar.</p><p>Also from the previous chapter we know that carbon tetrachloride is a tetrahedral molecule (recall molecular shape). Carbon tetrachloride is symmetrical and so is non-polar overall.</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><div class="title">Now decide which case it is</div><p>Carbon tetrachloride is non-polar and so the only kind of force that can exist is <strong>induced dipole</strong>.</p><p></p></div></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p>
+<p></p><p></p><div class="title">Now decide which case it is</div><p>Carbon tetrachloride is non-polar and so the only kind of force that can exist is <strong>induced dipole</strong>.</p><p></p><p></p></div></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p>
 				
 </p><p>Which intermolecular forces are found in the following solution: sodium chloride in water?</p>
 
-            <p></p></div><div class="solution" data-class="workstep" data-type="Step">
+            <p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><div class="title">Think about what you know about the molecules</div><p>Sodium chloride is ionic. (the electronegativity difference is <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<p></p><p></p><div class="title">Think about what you know about the molecules</div><p>Sodium chloride is ionic. (the electronegativity difference is <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>2,1</mtext>
 <annotation encoding="math/tex">\text{2,1}</annotation></semantics></math>). Water has polar bonds (the electronegativity difference is <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>1,4</mtext>
-<annotation encoding="math/tex">\text{1,4}</annotation></semantics></math>). Water is a polar molecule (its molecular shape is bent or angular).</p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<annotation encoding="math/tex">\text{1,4}</annotation></semantics></math>). Water is a polar molecule (its molecular shape is bent or angular).</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><div class="title">Now decide which case it is</div><p>This is an ionic substance interacting with a polar substance. This interaction is an <strong>ion-dipole</strong> force.</p><p></p></div></div><div class="problemset" data-unknown="true">
+<p></p><p></p><div class="title">Now decide which case it is</div><p>This is an ionic substance interacting with a polar substance. This interaction is an <strong>ion-dipole</strong> force.</p><p></p><p></p></div></div><div class="problemset" data-unknown="true">
 <div class="header" data-unknown="true">
 
 <p>Which intermolecular forces are found in:</p>
 </div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 					 
 </p><p>hydrogen fluoride ()</p>
 
-				 <p></p></div><div class="solution">
+				 <p></p><p></p></div><div class="solution">
 					 
 
 
 				 <p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 					
 </p><p>methane ()</p>
 
-				<p></p></div><div class="solution">
+				<p></p><p></p></div><div class="solution">
 					
 
 
 				<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 					
 </p><p>potassium chloride in ammonia ( in )</p>
 
-				<p></p></div><div class="solution">
+				<p></p><p></p></div><div class="solution">
 					
 
 
 				<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 					
 </p><p>krypton ()</p>
 
-				  <p></p></div><div class="solution">
+				  <p></p><p></p></div><div class="solution">
 					  
 
 
@@ -574,7 +574,7 @@
 <annotation encoding="math/tex">\text{10}</annotation></semantics></math>), that the <em>phase</em> of a substance is determined by how strong the forces are between its particles. The weaker the forces, the more likely the substance is to exist as a gas. This is because the particles are able to move far apart since they are not held together very strongly. If the forces are very strong, the particles are held closely together in a solid structure. Remember also that the <em>temperature</em> of a material affects the energy of its particles. The more energy the particles have, the more likely they are to be able to overcome the forces that are holding them together. This can cause a change in phase.</p>
 
 <p>Shown below are the three phases of water. Note that we are showing two dimensional figures when in reality these are three dimensional.</p>
-<figure class="figure" title=""><div class="alternates"><img draggable="false" src="_plone_ignore_/cache/pspictures/506083bcaae2824d62bae7cc69bbf4e0.png"/><pre class="pspicture">&lt;code&gt;
+<figure class="figure" title=""><div class="title"></div><div class="alternates"><img draggable="false" src="_plone_ignore_/cache/pspictures/506083bcaae2824d62bae7cc69bbf4e0.png"/><pre class="pspicture">&lt;code&gt;
 (-1,-3.193276)(20.28,3.193276)
 \rput{-35.720688}(2.783326,8.895807){\pscircle[linewidth=0.04,dimen=outer](15.195294,0.12901402){0.48}}
 \rput{-35.720688}(2.6619658,8.440381){\pscircle[linewidth=0.04,dimen=outer](14.427931,0.08961573){0.32}}
@@ -688,8 +688,8 @@
 \rput{-276.5486}(1.2250911,-6.6994305){\rput(4.362541,-2.6720483){H}}
 \rput{-276.5486}(2.530731,-5.7791853){\rput(4.499397,-1.4798778){H}}
 			&lt;/code&gt;</pre></div>
-<figcaption class="caption"><p>The three phases of water.</p></figcaption></figure><figure class="figure" title=""><img width="312" alt="Photo by stevendepolo on Flickr" draggable="false" src="photos/iceby-stevendepolo-flickr.jpg"/></figure><p><em></em></p>
-<figure class="figure" title=""><img width="312" alt="Photo by Umair Mohsin on Flickr" draggable="false" src="photos/River_valley_umair_mohsin_flickr.jpg"/></figure><h4>The effects of intermolecular forces</h4>
+<figcaption class="caption"><p>The three phases of water.</p></figcaption></figure><figure class="figure" title=""><div class="title"></div><img width="312" alt="Photo by stevendepolo on Flickr" draggable="false" src="photos/iceby-stevendepolo-flickr.jpg"/><figcaption></figcaption></figure><p><em></em></p>
+<figure class="figure" title=""><div class="title"></div><img width="312" alt="Photo by Umair Mohsin on Flickr" draggable="false" src="photos/River_valley_umair_mohsin_flickr.jpg"/><figcaption></figcaption></figure><h4>The effects of intermolecular forces</h4>
 
 <p>The following five experiments investigate the effect of various physical properties (evaporation, surface tension, solubility, boiling point and capillarity) of substances and determine how these properties relate to intermolecular forces. Each experiment will look at a different property.</p>
 <div class="teachers-guide" data-unknown="true">
@@ -743,7 +743,7 @@
 	\rput(6,-0.9){20 ml}&lt;/code&gt;</pre></div></div><p></p><p></p><p>
 </p><p></p><p></p><div class="section" data-unknown="true"><div class="title" id="245b79a6-ec08-08f6-d55a-0f994c155979" contenteditable="true">Results</div>
 <p>Record your results in the table below. You do not need to measure the level of the liquid, but rather just write how much the level had dropped (e.g. for water you might write did not notice any decrease in the level or for ethanol you might write almost all the liquid had evaporated).</p>
-<table><caption>Table 1</caption><tbody><tr><td><strong>Substance</strong></td><td><strong>Liquid level after ~</strong></td><td><strong>~</strong></td><td><strong>~</strong></td><td><strong>~</strong></td><td><strong>~</strong></td></tr><tr><td>Ethanol</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Water</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Nail polish remover</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Methylated spirits</td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div><p></p><p></p><p>
+<table><caption>Table 3</caption><tbody><tr><td><strong>Substance</strong></td><td><strong>Liquid level after ~</strong></td><td><strong>~</strong></td><td><strong>~</strong></td><td><strong>~</strong></td><td><strong>~</strong></td></tr><tr><td>Ethanol</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Water</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Nail polish remover</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Methylated spirits</td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div><p></p><p></p><p>
 </p><p></p><p></p><div class="section" data-unknown="true"><div class="title" id="b9cf349c-fbdb-eae4-7b3c-fe02c40e1189" contenteditable="true">Discussion and conclusion</div>
 <p>You should find that water takes the longest time to evaporate. Water has strong intermolecular forces (hydrogen bonds). Ethanol () and methylated spirits (mainly ethanol () with some methanol ()) both have hydrogen bonds but these are slightly weaker than the hydrogen bonds in water. Nail polish remover (acetone ()) has dipole-dipole forces only and so evaporates quickly.</p>
 
@@ -786,7 +786,7 @@
 		&lt;/code&gt;</pre></div></div><p></p><p></p><p>
 </p><p></p><p></p><div class="section" data-unknown="true"><div class="title" id="6bb3c204-0f66-5bed-d730-6e87e317073f" contenteditable="true">Results</div>
 <p>Record your results in the table below. You just need to give a qualitative result (in other words what you see in the experiment).</p>
-<table><caption>Table 1</caption><tbody><tr><td><strong>Substance</strong></td><td><strong>Shape of meniscus</strong></td><td><strong>Shape of droplet</strong></td></tr><tr><td>Water</td><td></td><td></td></tr><tr><td>Oil</td><td></td><td></td></tr><tr><td>Glycerine</td><td></td><td></td></tr><tr><td>Nail polish remover</td><td></td><td></td></tr><tr><td>Methylated spirits</td><td></td><td></td></tr></tbody></table></div><p></p><p></p><p>
+<table><caption>Table 4</caption><tbody><tr><td><strong>Substance</strong></td><td><strong>Shape of meniscus</strong></td><td><strong>Shape of droplet</strong></td></tr><tr><td>Water</td><td></td><td></td></tr><tr><td>Oil</td><td></td><td></td></tr><tr><td>Glycerine</td><td></td><td></td></tr><tr><td>Nail polish remover</td><td></td><td></td></tr><tr><td>Methylated spirits</td><td></td><td></td></tr></tbody></table></div><p></p><p></p><p>
 </p><p></p><p></p><div class="section" data-unknown="true"><div class="title" id="d4536865-333f-dd49-9b7c-b276e062cec5" contenteditable="true">Discussion and conclusion</div>
 <p>The meniscus for all these substances should be concave (i.e. higher at the edges than in the middle). This is because the forces holding the molecules in the substance together are weaker than the attraction between the substance and the glass of the tube.</p>
 
@@ -856,7 +856,7 @@
 		&lt;/code&gt;</pre></div></div><p></p><p></p><p>
 </p><p></p><p></p><div class="section" data-unknown="true"><div class="title" id="0343b709-a7e2-03d6-fce4-73260e381d2c" contenteditable="true">Results</div>
 <p>Record your results in the table below. If you observe only a small amount of the solid dissolving then write that very little solid dissolved. If all the solid dissolves then write that all the solid dissolved.</p>
-<table><caption>Table 1</caption><tbody><tr><td><strong>Substance</strong></td><td><strong>Water</strong></td><td><strong>Chloroform</strong></td><td><strong>Ethanol</strong></td></tr><tr><td>Sodium chloride</td><td></td><td></td><td></td></tr><tr><td>Potassium permanganate</td><td></td><td></td><td></td></tr><tr><td>Iodine</td><td></td><td></td><td></td></tr></tbody></table></div><p></p><p></p><p>
+<table><caption>Table 5</caption><tbody><tr><td><strong>Substance</strong></td><td><strong>Water</strong></td><td><strong>Chloroform</strong></td><td><strong>Ethanol</strong></td></tr><tr><td>Sodium chloride</td><td></td><td></td><td></td></tr><tr><td>Potassium permanganate</td><td></td><td></td><td></td></tr><tr><td>Iodine</td><td></td><td></td><td></td></tr></tbody></table></div><p></p><p></p><p>
 </p><p></p><p></p><div class="section" data-unknown="true"><div class="title" id="eb45776f-b26f-e2ac-afb4-c1806c5ad65d" contenteditable="true">Discussion and conclusion</div>
 <p>You should find that the sodium chloride and potassium permanganate dissolved (at least a bit) in all the substances. The iodine did not dissolve in any of the substances. The three solvents (water, chloroform and ethanol) are all polar and have dipole-dipole forces. Sodium chloride and potassium permanganate are both ionic substances, while iodine is non-polar.</p>
 
@@ -946,7 +946,7 @@
 \psline{&lt;/code&gt;</pre></div></div><p></p><p></p><p>
 </p><p></p><p></p><div class="section" data-unknown="true"><div class="title" id="2fb2748c-3b99-4e56-dc4a-1e5b0116c781" contenteditable="true">Results</div>
 <p>Record your results in the table below. You do not need to measure how far up the tube the substance travels but rather say if it only travelled a short distance or a long distance.</p>
-<table><caption>Table 1</caption><tbody><tr><td><strong>Substance</strong></td><td><strong>Distance travelled up tube</strong></td></tr><tr><td>Water</td><td></td></tr><tr><td>Oil</td><td></td></tr><tr><td>Nail polish remover</td><td></td></tr><tr><td>Methylated spirits</td><td></td></tr></tbody></table></div><p></p><p></p><p>
+<table><caption>Table 6</caption><tbody><tr><td><strong>Substance</strong></td><td><strong>Distance travelled up tube</strong></td></tr><tr><td>Water</td><td></td></tr><tr><td>Oil</td><td></td></tr><tr><td>Nail polish remover</td><td></td></tr><tr><td>Methylated spirits</td><td></td></tr></tbody></table></div><p></p><p></p><p>
 </p><p></p><p></p><div class="section" data-unknown="true"><div class="title" id="c3d90646-6086-a235-e7af-adb2722255f2" contenteditable="true">Discussion and conclusion</div>
 <p>Water travels the greatest distance up the tube. Nail polish remover travels the least distance.</p>
 
@@ -965,7 +965,7 @@
 <p>The alkanes are a group of organic compounds that contain carbon and hydrogen bonded together. The carbon atoms link together to form chains of varying lengths.</p>
 
 <p>The boiling point and melting point of these molecules is determined by their molecular structure, and their surface area. The more carbon atoms there are in an alkane, the greater the surface area and therefore the higher the boiling point. The melting point also increases as the number of carbon atoms in the molecule increases. This can be seen in the table below.</p>
-<figure class="figure" title=""><img width="468" alt="Photo by Ben Mills on wikipedia" draggable="false" src="photos/molecular_size.png"/></figure><table><caption>Table 7</caption><tbody><tr><td><p><strong>Formula</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+<figure class="figure" title=""><div class="title"></div><img width="468" alt="Photo by Ben Mills on wikipedia" draggable="false" src="photos/molecular_size.png"/><figcaption></figcaption></figure><table><caption>Table 7</caption><tbody><tr><td><p><strong>Formula</strong></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <msub>
     <mtext>CH</mtext>
     <mrow class="MJX-TeXAtom-ORD">
@@ -1128,13 +1128,13 @@
 <p><strong>Viscosity</strong></p>
 
 <p>Viscosity is the resistance to flow of a liquid. Compare how easy it is to pour water and syrup or honey. The water flows much faster than the syrup or honey.</p>
-<figure class="figure" title=""><img width="468" alt="Photo by Siona Karen on Flickr" draggable="false" src="photos/honey_siona_karen_flickr.jpg"/></figure><p>You can see this if you take a cylinder filled with water and a cylinder filled with glycerin. Drop a small metal ball into each cylinder and note how easy it is for the ball to fall to the bottom. In the glycerin the ball falls slowly, while in the water it falls faster.</p>
+<figure class="figure" title=""><div class="title"></div><img width="468" alt="Photo by Siona Karen on Flickr" draggable="false" src="photos/honey_siona_karen_flickr.jpg"/><figcaption></figcaption></figure><p>You can see this if you take a cylinder filled with water and a cylinder filled with glycerin. Drop a small metal ball into each cylinder and note how easy it is for the ball to fall to the bottom. In the glycerin the ball falls slowly, while in the water it falls faster.</p>
 
 <p>Substances with stronger intermolecular forces are more viscous than substances with weaker intermolecular forces.</p>
 <div class="example" data-class="activity" data-type="Activity"><span class="title">Machine and motor oils</span><p>
 </p><p></p><p>You are given the following information about engine oils.</p><p></p><p>
-</p><p></p><table><caption>Table 1</caption><tbody><tr><td><strong>Oil</strong></td><td><strong>Use</strong></td><td><strong>Other info</strong></td></tr><tr><td>SAE 30 monograde</td><td>Engines</td><td>Low viscosity</td></tr><tr><td>SAE 50 monograde</td><td>Engines</td><td>High viscosity</td></tr><tr><td>SAE 15W-40 multigrade</td><td>Engines</td><td>Medium viscosity</td></tr><tr><td>SAE 0W-40 multigrade</td><td>Engines</td><td>Medium viscosity</td></tr></tbody></table><p></p><p></p><p>(Data from <a data-class="ExternalLink" href="http://www.shell.com/home/content/zaf/products_services/on_the_road/consumer_lubricants_tpkg/right_oil/" title="" draggable="false">shell.com</a>)</p><p></p><p>
-</p><p></p><p></p><figure class="figure" title=""><img width="312" alt="Photo by H Padleckas on Wikipedia" draggable="false" src="photos/motor_oil.jpg"/></figure><p></p><p></p><p></p><p>Multigrade oils can be used even in cold weather since they remain fluid (The first number is the rating for winter weather and the W shows that this is the rating in winter. The second number is the viscosity rating in summer). Monograde oils are given their viscosity rating at . The viscosity is an indication of how well the oil flows. The more viscous an oil the larger the molecules that are in the oil.</p><p></p><p>
+</p><p></p><table><caption>Table 8</caption><tbody><tr><td><strong>Oil</strong></td><td><strong>Use</strong></td><td><strong>Other info</strong></td></tr><tr><td>SAE 30 monograde</td><td>Engines</td><td>Low viscosity</td></tr><tr><td>SAE 50 monograde</td><td>Engines</td><td>High viscosity</td></tr><tr><td>SAE 15W-40 multigrade</td><td>Engines</td><td>Medium viscosity</td></tr><tr><td>SAE 0W-40 multigrade</td><td>Engines</td><td>Medium viscosity</td></tr></tbody></table><p></p><p></p><p>(Data from <a data-class="ExternalLink" href="http://www.shell.com/home/content/zaf/products_services/on_the_road/consumer_lubricants_tpkg/right_oil/" title="" draggable="false">shell.com</a>)</p><p></p><p>
+</p><p></p><p></p><figure class="figure" title=""><div class="title"></div><img width="312" alt="Photo by H Padleckas on Wikipedia" draggable="false" src="photos/motor_oil.jpg"/><figcaption></figcaption></figure><p></p><p></p><p></p><p>Multigrade oils can be used even in cold weather since they remain fluid (The first number is the rating for winter weather and the W shows that this is the rating in winter. The second number is the viscosity rating in summer). Monograde oils are given their viscosity rating at . The viscosity is an indication of how well the oil flows. The more viscous an oil the larger the molecules that are in the oil.</p><p></p><p>
 </p><p></p><ul data-class="ListBulleted"><li>
 <p>Which oil has the longest molecules?</p>
 </li>
@@ -1179,7 +1179,7 @@
 </p></div>
 
 <p>Heat is transferred through a substance from the point being heated to the other end. This is why the bottom of a pot gets hot first (assuming you are heating the pot on a stove plate). In metals there are some free, delocalised electrons which can help transfer the heat energy through the metal. In covalent molecular compounds there are no free, delocalised electrons and the heat does not travel as easily through the material.</p>
-<div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p>
+<div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p>
 				
 </p><p>Explain why the melting point of oxygen (<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <msub>
@@ -1192,19 +1192,19 @@
   <mtext>HCl</mtext>
 <annotation encoding="math/tex">\text{HCl}</annotation></semantics></math>.</p>
 
-            <p></p></div><div class="solution" data-class="workstep" data-type="Step">
+            <p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><div class="title">Write down what you know about melting points and forces</div><p>The stronger the intermolecular force, the higher the melting point. So if a substance has strong intermolecular forces, then that substance will have a high melting point.</p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<p></p><p></p><div class="title">Write down what you know about melting points and forces</div><p>The stronger the intermolecular force, the higher the melting point. So if a substance has strong intermolecular forces, then that substance will have a high melting point.</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><div class="title">Write down which forces occur in the two given compounds</div><p>Oxygen is non-polar and has induced dipole forces. Hydrogen chloride is polar and has dipole-dipole forces.</p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<p></p><p></p><div class="title">Write down which forces occur in the two given compounds</div><p>Oxygen is non-polar and has induced dipole forces. Hydrogen chloride is polar and has dipole-dipole forces.</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><div class="title">Combine all the facts to get the answer</div><p>We know that stronger intermolecular forces lead to higher melting points. We also know that oxygen has weaker intermolecular forces than hydrogen chloride (induced dipole versus dipole-dipole forces). Therefore oxygen will have a lower melting point than hydrogen chloride since oxygen has weaker intermolecular forces.</p><p></p></div></div><h1 class="title" data-class="complex-section">Exercises</h1>
+<p></p><p></p><div class="title">Combine all the facts to get the answer</div><p>We know that stronger intermolecular forces lead to higher melting points. We also know that oxygen has weaker intermolecular forces than hydrogen chloride (induced dipole versus dipole-dipole forces). Therefore oxygen will have a lower melting point than hydrogen chloride since oxygen has weaker intermolecular forces.</p><p></p><p></p></div></div><h1 class="title" data-class="complex-section">Exercises</h1>
 <div class="problemset" data-unknown="true">
 <div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 			
 </p><p>Given the following diagram:</p>
 
@@ -1221,13 +1221,13 @@
 			<ol data-class="ListEnumerated"><li>Name the molecule and circle it on the diagram</li>
 <li>Label the interatomic forces (covalent bonds)</li>
 <li>Label the intermolecular forces</li>
-</ol><p></p></div><div class="solution">
+</ol><p></p><p></p></div><div class="solution">
 			
 
 
 			
 		  <p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
             
 </p><p>Given the following molecules and solutions:</p>
 
@@ -1237,7 +1237,7 @@
 			
 <p>Complete the table below by placing each molecule next to the correct type of intermolecular force.</p>
 
-            <table><caption>Table 1</caption><tbody><tr><td><p><strong>Ion-dipole</strong></p></td><td></td></tr><tr><td><p><strong>Ion-induced-dipole</strong></p></td><td></td></tr><tr><td><p><strong>Dipole-dipole (no hydrogen bonding)</strong></p></td><td></td></tr><tr><td><p><strong>Dipole-dipole (hydrogen bonding)</strong></p></td><td></td></tr><tr><td><p><strong>Induced dipole</strong></p></td><td></td></tr><tr><td><p><strong>Dipole-induced-dipole</strong></p></td><td></td></tr></tbody></table><p>In which one of the substances listed above are the intermolecular forces:</p>
+            <table><caption>Table 9</caption><tbody><tr><td><p><strong>Ion-dipole</strong></p></td><td></td></tr><tr><td><p><strong>Ion-induced-dipole</strong></p></td><td></td></tr><tr><td><p><strong>Dipole-dipole (no hydrogen bonding)</strong></p></td><td></td></tr><tr><td><p><strong>Dipole-dipole (hydrogen bonding)</strong></p></td><td></td></tr><tr><td><p><strong>Induced dipole</strong></p></td><td></td></tr><tr><td><p><strong>Dipole-induced-dipole</strong></p></td><td></td></tr></tbody></table><p>In which one of the substances listed above are the intermolecular forces:</p>
 
             <ol data-class="ListEnumerated"><li>
                 
@@ -1249,7 +1249,7 @@
 <p>weakest</p>
 
               </li>
-</ol><p></p></div><div class="solution">
+</ol><p></p><p></p></div><div class="solution">
 			  
 
 		<p></p></div></div><div class="problemset" data-unknown="true">
@@ -1257,38 +1257,38 @@
 
 <p>Use your knowledge of different types of intermolecular forces to explain the following statements:</p>
 </div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		
 </p><p>The boiling point of  is much lower than the boiling point of </p>
 
-	<p></p></div><div class="solution">
+	<p></p><p></p></div><div class="solution">
 		
 
 
 	<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		
 </p><p>Water evaporates slower than carbon tetrachloride ().</p>
 
-	<p></p></div><div class="solution">
+	<p></p><p></p></div><div class="solution">
 		
 
 
 	<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		
 </p><p>Sodium chloride is likely to dissolve in methanol () .</p>
 
-	<p></p></div><div class="solution">
+	<p></p><p></p></div><div class="solution">
 		
 
 
 	<p></p></div></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 	
 </p><p>Tumi and Jason are helping their dad tile the bathroom floor. Their dad tells them to leave small gaps between the tiles. Why do they need to leave these small gaps?</p>
 
-  <p></p></div><div class="solution">
+  <p></p><p></p></div><div class="solution">
 	
 
 
@@ -1317,7 +1317,7 @@
   </msup>
 </mrow><annotation encoding="math/tex">\text{3,34} \times \text{10}^{\text{25}}</annotation></semantics></math> molecules of water. That's a lot of water molecules!</p></div>
 <p>In the previous chapter you learnt about molecular shape and polarity. Water has two hydrogen atoms around a central oxygen atom. The central oxygen atom also has two lone pairs of electrons. This gives water a bent (or angular) shape. It also means that water is polar since the two hydrogen atoms are not parallel to each other and so do not cancel out the bond polarity (refer back to the previous chapter on molecular shape). We can see this in the following image:</p>
-<figure class="figure" title=""><div class="alternates"><img draggable="false" src="_plone_ignore_/cache/pspictures/68779366895d1bcdeb61c5dab3bcd95c.png"/><pre class="pspicture">&lt;code&gt;
+<figure class="figure" title=""><div class="title"></div><div class="alternates"><img draggable="false" src="_plone_ignore_/cache/pspictures/68779366895d1bcdeb61c5dab3bcd95c.png"/><pre class="pspicture">&lt;code&gt;
 (-6,-3)(6,2)
 \SpecialCoor
 %\psgrid[gridcolor=lightgray]
@@ -1338,7 +1338,7 @@
 <figcaption class="caption"><p>
 	      Diagrams showing the structure of a water molecule. Each molecule is made up of two hydrogen atoms that are attached to one oxygen atom.
 	    </p></figcaption></figure><p>Water molecules are held together by <strong>hydrogen bonds</strong>. Hydrogen bonds are a much stronger type of intermolecular force than those found in many other substances, and this affects the properties of water.</p>
-<figure class="figure" id="fig-globalcycles-forces in water" title=""><div class="alternates"><img draggable="false" src="_plone_ignore_/cache/pspictures/d3db7eec51e02ca0b2499692a088c3ff.png"/><pre class="pspicture">&lt;code&gt;
+<figure class="figure" id="fig-globalcycles-forces in water" title=""><div class="title"></div><div class="alternates"><img draggable="false" src="_plone_ignore_/cache/pspictures/d3db7eec51e02ca0b2499692a088c3ff.png"/><pre class="pspicture">&lt;code&gt;
 (-2,-1.5)(12,5.5)
 \def\forces{
   \SpecialCoor
@@ -1444,7 +1444,7 @@
   <mtext>10</mtext>
 <annotation encoding="math/tex">\text{10}</annotation></semantics></math> you studied the heating and cooling curve of water. This is given below.</p>
 
-		<figure class="figure" title=""><div class="alternates"><img draggable="false" src="_plone_ignore_/cache/pspictures/9d4351aa6f3427b2247d6a91204d06a2.png"/><pre class="pspicture">&lt;code&gt;
+		<figure class="figure" title=""><div class="title"></div><div class="alternates"><img draggable="false" src="_plone_ignore_/cache/pspictures/9d4351aa6f3427b2247d6a91204d06a2.png"/><pre class="pspicture">&lt;code&gt;
 (0,-3.7)(13.7,3.6)
 \rput(0.7,-2.4){\psaxes[labels=none,ticks=none,showorigin=false](0,0)(0,0)(6,6)}
 \rput(7.7,-2.4){\psaxes[labels=none,ticks=none,showorigin=false](0,0)(0,0)(6,6)}
@@ -1507,17 +1507,17 @@
 <annotation encoding="math/tex">\text{km}</annotation></semantics></math> wide. The thick, glacial blanket of ice acts as an insulator, preventing the water from freezing.</p></div>
 	  </li>
 </ol><p>It should be clear now, that water is an amazing compound, and that without its unique properties, life on Earth would definitely not be possible.</p>
-<div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p>
+<div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem"><p></p><p>
 			
 </p><p>Explain why water takes a long time to heat up, but the pot that you are heating it in gets hot quickly.</p>
 
-		<p></p></div><div class="solution" data-class="workstep" data-type="Step">
+		<p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><div class="title">Decide which property is applied here</div><p>We are asked why water takes a long time to heat up compared to the pot you are heating it in. The property that applies here is the high specific heat of water. The other properties of water do not apply here since we are comparing the pot to the water and the pot is not changing phase.</p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
+<p></p><p></p><div class="title">Decide which property is applied here</div><p>We are asked why water takes a long time to heat up compared to the pot you are heating it in. The property that applies here is the high specific heat of water. The other properties of water do not apply here since we are comparing the pot to the water and the pot is not changing phase.</p><p></p><p></p></div><div class="solution" data-class="workstep" data-type="Step">
 
 
-<p></p><div class="title">Write the final answer</div><p>Water has a high specific heat, while the metal that the pot is made of does not. The metal pot needs less energy to heat it up and so it gets hotter faster. Water needs a lot of energy to change its temperature and so it takes longer to get hot.</p><p></p></div></div><div class="teachers-guide" data-unknown="true">
+<p></p><p></p><div class="title">Write the final answer</div><p>Water has a high specific heat, while the metal that the pot is made of does not. The metal pot needs less energy to heat it up and so it gets hotter faster. Water needs a lot of energy to change its temperature and so it takes longer to get hot.</p><p></p><p></p></div></div><div class="teachers-guide" data-unknown="true">
 <p>An experiment for informal assessment is included in this chapter. This experiment is very similar to the one on intermolecular forces. In this experiment learners focus on the properties of water. This is a good experiment to do to guide learners in understanding the properties of water.</p>
 
 <p>When working with Bunsen burners learners should ensure that loose clothing is tucked away and long hair is tied back. As always with chemistry experiments you should open all the windows to ensure a well ventilated room. At the end of the experiment check that all Bunsen burners are turned off.</p>
@@ -1553,7 +1553,7 @@
 </ol></div><p></p><p></p><p>
 </p><p></p><p></p><div class="section" data-unknown="true"><div class="title" id="007f0464-89b7-9444-b657-99ec5595d540" contenteditable="true">Results</div>
 <p>Record all your results in the following table.</p>
-<table><caption>Table 1</caption><tbody><tr><td><p><strong>Property</strong></p></td><td><p><strong>Observation</strong></p></td></tr><tr><td><p>Temperature</p></td><td></td></tr><tr><td><p>Ice in water</p></td><td></td></tr><tr><td><p>Carbon tetrachloride and water</p></td><td></td></tr><tr><td><p>Oil and water</p></td><td></td></tr><tr><td><p>Ethanol and water</p></td><td></td></tr><tr><td><p>Solubility</p></td><td></td></tr></tbody></table></div><p></p><p></p><p>
+<table><caption>Table 10</caption><tbody><tr><td><p><strong>Property</strong></p></td><td><p><strong>Observation</strong></p></td></tr><tr><td><p>Temperature</p></td><td></td></tr><tr><td><p>Ice in water</p></td><td></td></tr><tr><td><p>Carbon tetrachloride and water</p></td><td></td></tr><tr><td><p>Oil and water</p></td><td></td></tr><tr><td><p>Ethanol and water</p></td><td></td></tr><tr><td><p>Solubility</p></td><td></td></tr></tbody></table></div><p></p><p></p><p>
 </p><p></p><p></p><div class="section" data-unknown="true"><div class="title" id="97737039-9e38-2c5b-cc88-3c86c30b3333" contenteditable="true">Conclusion</div>
 <p>You should find that the glass beaker heats up faster than the water. You should also find that water is more dense in the liquid phase than in the solid phase. Water floats on some liquids and other liquids float on water. Water is a good solvent for polar and ionic substances.</p>
 </div><p></p><p></p><p>
@@ -1568,38 +1568,38 @@
 
 <p>Hope returns home from school on a hot day and pours herself a glass of water. She adds ice cubes to the water and notices that they float on the water.</p>
 </div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		
 </p><p>What property of ice cubes allows them to float in the water?</p>
 
-	<p></p></div><div class="solution">
+	<p></p><p></p></div><div class="solution">
 		
 
 
 	<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		
 </p><p>Briefly describe how this property affects the survival of aquatic life during winter.</p>
 
-	    <p></p></div><div class="solution">
+	    <p></p><p></p></div><div class="solution">
 			
 
 
 	    <p></p></div></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 	      
 </p><p>Which properties of water allow it to remain in its liquid phase over a large temperature range? Explain why this is important for life on earth.</p>
 
-	    <p></p></div><div class="solution">
+	    <p></p><p></p></div><div class="solution">
 	      
 
 
 	    <p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		  
 </p><p>Which property of water allows the oceans to act as heat reservoirs? What effect does this have on the Earths climate?</p>
 
-		<p></p></div><div class="solution">
+		<p></p><p></p></div><div class="solution">
 		  
 
 
@@ -1726,28 +1726,28 @@
 
 <p>Give one word or term for each of the following descriptions:</p>
 </div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 	
 </p><p>The attractive force that exists between molecules.</p>
 
-	<p></p></div><div class="solution">
+	<p></p><p></p></div><div class="solution">
 		Intermolecular force
 	<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		
 </p><p>A molecule that has an unequal distribution of charge.</p>
 
-	<p></p></div><div class="solution">
+	<p></p><p></p></div><div class="solution">
 		Polar molecule
 	<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		
 </p><p>The amount of heat energy that is needed to increase the temperature of a unit mass of a substance by one degree.</p>
 
-	<p></p></div><div class="solution">
+	<p></p><p></p></div><div class="solution">
 		Specific heat
 		<p></p></div></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
           
 </p><p>Refer to the list of substances below:</p>
 
@@ -1777,14 +1777,14 @@
 <p>At room temperature  is usually a liquid</p>
 
             </li>
-</ol><p></p></div><div class="solution">
+</ol><p></p><p></p></div><div class="solution">
 			
 			The melting point of  will be higher than for <p></p></div></div><div class="multipart" data-unknown="true">
 <div class="header" data-unknown="true">
 
 <p>The following table gives the melting points of various hydrides:</p>
-<table><caption>Table 1</caption><tbody><tr><td><p><strong>Hydride</strong></p></td><td><p><strong>Melting point</strong> (℃)</p></td></tr><tr><td><p></p></td><td><p></p></td></tr><tr><td><p></p></td><td><p></p></td></tr><tr><td><p></p></td><td><p></p></td></tr><tr><td><p></p></td><td><p></p></td></tr></tbody></table></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<table><caption>Table 11</caption><tbody><tr><td><p><strong>Hydride</strong></p></td><td><p><strong>Melting point</strong> (℃)</p></td></tr><tr><td><p></p></td><td><p></p></td></tr><tr><td><p></p></td><td><p></p></td></tr><tr><td><p></p></td><td><p></p></td></tr><tr><td><p></p></td><td><p></p></td></tr></tbody></table></div><div class="exercise" data-class="entry">
+<div class="problem"><p></p><p>
 		
 </p><p>In which of these hydrides does hydrogen bonding occur?</p>
 
@@ -1808,23 +1808,23 @@
 <p>,   and </p>
 
             </li>
-</ol><p></p></div><div class="solution">
+</ol><p></p><p></p></div><div class="solution">
 		 and  only
 	<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		
 </p><p>Draw a graph to show the melting points of the hydrides.</p>
 
-	<p></p></div><div class="solution">
+	<p></p><p></p></div><div class="solution">
 		
 
 
 		<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		
 </p><p>Explain the shape of the graph.</p>
 
-        <p></p></div><div class="solution">
+        <p></p><p></p></div><div class="solution">
 			
 
 
@@ -1835,28 +1835,28 @@
 <div class="header" data-unknown="true">
 
 <p>The respective boiling points for four chemical substances are given below:</p>
-<table><caption>Table 1</caption><tbody><tr><td>Hydrogen sulphide</td><td>~</td></tr><tr><td>Ammonia</td><td>~</td></tr><tr><td>Hydrogen fluoride</td><td>~</td></tr><tr><td>Water</td><td>~</td></tr></tbody></table></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<table><caption>Table 12</caption><tbody><tr><td>Hydrogen sulphide</td><td>~</td></tr><tr><td>Ammonia</td><td>~</td></tr><tr><td>Hydrogen fluoride</td><td>~</td></tr><tr><td>Water</td><td>~</td></tr></tbody></table></div><div class="exercise" data-class="entry">
+<div class="problem"><p></p><p>
 	
 </p><p>Which one of the substances exhibits the strongest forces of attraction between its molecules in the liquid state?</p>
 
-<p></p></div><div class="solution">
+<p></p><p></p></div><div class="solution">
 	Water
 <p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		
 </p><p>Give the name of the force responsible for the relatively high boiling points of hydrogen fluoride and water and explain how this force originates.</p>
 
-	<p></p></div><div class="solution">
+	<p></p><p></p></div><div class="solution">
 		
 
 
 	<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		
 </p><p>The shapes of the molecules of hydrogen sulfide and water are similar, yet their boiling points differ. Explain.</p>
 
-        <p></p></div><div class="solution">
+        <p></p><p></p></div><div class="solution">
               
 
 
@@ -1864,7 +1864,7 @@
 
 <p>(IEB Paper , 2002)</p>
 </div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		
 </p><p>Susan states that van der Waals forces include ion-dipole forces, dipole-dipole forces and induced dipole forces.</p>
 
@@ -1877,7 +1877,7 @@
 		
 <p>Who is correct and why?</p>
 
-	<p></p></div><div class="solution">
+	<p></p><p></p></div><div class="solution">
 		
 
 
@@ -1885,48 +1885,48 @@
 <div class="header" data-unknown="true">
 
 <p>Jason and Bongani are arguing about which molecules have which intermolecular forces. They have drawn up the following table:</p>
-<table><caption>Table 1</caption><tbody><tr><td><p><strong>Compound</strong></p></td><td><p><strong>Type of force</strong></p></td></tr><tr><td><p>Potassium iodide in water ()</p></td><td><p>dipole-induced dipole forces</p></td></tr><tr><td><p>Hydrogen sulfide ()</p></td><td><p>induced dipole forces</p></td></tr><tr><td><p>Helium ()</p></td><td><p>ion-induced dipole forces</p></td></tr><tr><td><p>Methane ()</p></td><td><p>induced dipole forces</p></td></tr></tbody></table></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<table><caption>Table 13</caption><tbody><tr><td><p><strong>Compound</strong></p></td><td><p><strong>Type of force</strong></p></td></tr><tr><td><p>Potassium iodide in water ()</p></td><td><p>dipole-induced dipole forces</p></td></tr><tr><td><p>Hydrogen sulfide ()</p></td><td><p>induced dipole forces</p></td></tr><tr><td><p>Helium ()</p></td><td><p>ion-induced dipole forces</p></td></tr><tr><td><p>Methane ()</p></td><td><p>induced dipole forces</p></td></tr></tbody></table></div><div class="exercise" data-class="entry">
+<div class="problem"><p></p><p>
 		
 </p><p>Jason says that hydrogen sulfide () is non-polar and so has induced dipole forces. Bongani says hydrogen sulfide is polar and has dipole-dipole forces. Who is correct and why?</p>
 
-	<p></p></div><div class="solution">
+	<p></p><p></p></div><div class="solution">
 		
 
 
 	<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		
 </p><p>Bongani says that helium () is an ion and so has ion-induced dipole forces. Jason says helium is non-polar and has induced dipole forces. Who is correct and why?</p>
 
-	<p></p></div><div class="solution">
+	<p></p><p></p></div><div class="solution">
 		
 
 
 	<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		
 </p><p>They both agree on the rest of the table. However, they have not got the correct force for potassium iodide in water (). What type of force actually exists in this compound?</p>
 
-	<p></p></div><div class="solution">
+	<p></p><p></p></div><div class="solution">
 		
 
 
 	<p></p></div></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		
 </p><p>Khetang is looking at power lines around him for a school project. He notices that they sag slightly between the pylons. Why do power lines need to sag slightly?</p>
 
-	<p></p></div><div class="solution">
+	<p></p><p></p></div><div class="solution">
 		
 
 
 	<p></p></div></div><div class="exercise" data-class="entry">
-<div class="problem"><p>
+<div class="problem"><p></p><p>
 		
 </p><p>Briefly describe how the properties of water make it a good liquid for life on Earth.</p>
 
-	<p></p></div><div class="solution">
+	<p></p><p></p></div><div class="solution">
 		
 
 
