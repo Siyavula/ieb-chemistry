@@ -36,7 +36,10 @@
 <item id="chapter-14" href="xhtml/chemistry-12/08-Chemical-equilibrium.section-02.html" media-type="application/xhtml+xml"/>
 <item id="chapter-15" href="xhtml/chemistry-12/08-Chemical-equilibrium.section-03.html" media-type="application/xhtml+xml"/>
 <item id="chapter-16" href="xhtml/chemistry-12/08-Chemical-equilibrium.section-04.html" media-type="application/xhtml+xml"/>
-<item id="chapter-17" href="xhtml/chemistry-12/09-Acids-and-bases.section-01.html" media-type="application/xhtml+xml"/>
+<item id="chapter-17a" href="xhtml/chemistry-12/09-Acids-and-bases.section-01-01.html" media-type="application/xhtml+xml"/>
+<item id="chapter-17b" href="xhtml/chemistry-12/09-Acids-and-bases.section-01-02.html" media-type="application/xhtml+xml"/>
+<item id="chapter-17c" href="xhtml/chemistry-12/09-Acids-and-bases.section-01-03.html" media-type="application/xhtml+xml"/>
+<item id="chapter-17d" href="xhtml/chemistry-12/09-Acids-and-bases.section-01-04.html" media-type="application/xhtml+xml"/>
 <item id="chapter-18" href="xhtml/chemistry-12/09-Acids-and-bases.section-02.html" media-type="application/xhtml+xml"/>
 <item id="chapter-19" href="xhtml/chemistry-12/09-Acids-and-bases.section-03.html" media-type="application/xhtml+xml"/>
 <item id="chapter-20" href="xhtml/chemistry-12/09-Acids-and-bases.section-04.html" media-type="application/xhtml+xml"/>
@@ -696,7 +699,10 @@
 <itemref idref="chapter-14"/>
 <itemref idref="chapter-15"/>
 <itemref idref="chapter-16"/>
-<itemref idref="chapter-17"/>
+<itemref idref="chapter-17a"/>
+<itemref idref="chapter-17b"/>
+<itemref idref="chapter-17c"/>
+<itemref idref="chapter-17d"/>
 <itemref idref="chapter-18"/>
 <itemref idref="chapter-19"/>
 <itemref idref="chapter-20"/>
