@@ -390,7 +390,7 @@
       <mo>−<!-- − --></mo>
     </mrow>
   </msubsup>
-</mrow><annotation encoding="math/tex">\text{Mg(OH)}_{2}\rightleftharpoons\text{Mg}^{2+}_{(aq)}\text{+ &nbsp;2OH}_{(aq)}^{-}</annotation></semantics></math><br></p><p>magnesium hydroxide</p><p><br></p><p>The name and formula of the most common bases are given in the table below:<br></p><p></p><p><u></u></p><p></p><table id="2fcd3fd8-f0a2-7f07-e038-51e136404793"><caption contenteditable="false">Table 2</caption><tbody><tr class=""><td class="">&nbsp;NaOH</td><td class="">&nbsp;Sodium hydroxide</td></tr><tr class=""><td class="">&nbsp;KOH</td><td class="">&nbsp;Potassium hydroxide</td></tr><tr class=""><td class="">&nbsp;Ca(OH)<sub>2</sub></td><td class="">&nbsp;Calcium hydroxide</td></tr><tr class=""><td class="">&nbsp;Mg(OH)<sub>2</sub></td><td class="">&nbsp;Magnesium hydroxide</td></tr><tr class=""><td class="">&nbsp;NH<sub>4</sub>OH</td><td class="">&nbsp;Ammonium hydroxide</td></tr><tr class=""><td class="">&nbsp;NH<sub>3</sub></td><td class="">&nbsp;Ammonia<br>* how ammonia produces hydroxide ions in water will be discussed later</td></tr></tbody></table><br><p></p><h2><u></u>Dissociation of Water and the pH Scale</h2><p><br></p><p>Water dissociates into ions to a very small extent and sets up the following equilibrium:</p><p><br></p><p>This reaction is known as <strong><u>auto-protolysis</u>&nbsp;</strong>and is an acid-base reaction.</p><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+</mrow><annotation encoding="math/tex">\text{Mg(OH)}_{2}\rightleftharpoons\text{Mg}^{2+}_{(aq)}\text{+ &nbsp;2OH}_{(aq)}^{-}</annotation></semantics></math><br></p><p>magnesium hydroxide</p><p><br></p><p>The name and formula of the most common bases are given in the table below:<br></p><p></p><p><u></u></p><p></p><table id="2fcd3fd8-f0a2-7f07-e038-51e136404793"><caption contenteditable="false">Table 2</caption><tbody><tr class=""><td class="">&nbsp;NaOH</td><td class="">&nbsp;Sodium hydroxide</td></tr><tr class=""><td class="">&nbsp;KOH</td><td class="">&nbsp;Potassium hydroxide</td></tr><tr class=""><td class="">&nbsp;Ca(OH)<sub>2</sub></td><td class="">&nbsp;Calcium hydroxide</td></tr><tr class=""><td class="">&nbsp;Mg(OH)<sub>2</sub></td><td class="">&nbsp;Magnesium hydroxide</td></tr><tr class=""><td class="">&nbsp;NH<sub>4</sub>OH</td><td class="">&nbsp;Ammonium hydroxide</td></tr><tr class=""><td class="">&nbsp;NH<sub>3</sub></td><td class="">&nbsp;Ammonia<br>* how ammonia produces hydroxide ions in water will be discussed later</td></tr></tbody></table><br><p></p><h2><u></u>Dissociation of Water and the pH Scale</h2><p><br></p><p>Water dissociates into ions to a very small extent and sets up the following equilibrium:</p><p></p><figure class="figure" title=""><div class="title"></div><img draggable="false" src="../../../resources/045734c89e9cae81351f08343d3e01e3584eec77.png" alt="" class="aloha-image-uploading" data-lrmi-userightsurl="http://creativecommons.org/publicdomain/" data-tbook-permissiontext="License: Public domain."/><figcaption></figcaption></figure><p><br></p><p>This reaction is known as <strong><u>auto-protolysis</u>&nbsp;</strong>and is an acid-base reaction.</p><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <msub>
     <mtext>K</mtext>
     <mrow class="MJX-TeXAtom-ORD">
@@ -442,7 +442,7 @@
     </mrow>
   </msup>
   <mtext>C</mtext>
-</mrow><annotation encoding="math/tex">\text{K}_{\text{w}}=\text{1 x 10}^{-14}\text{ at 25}^{\circ}\text{C}</annotation></semantics></math><br></p><p><br></p><p>The entire pH scale is based on the equilibrium reaction established due to the auto-protolysis of&nbsp;water. Because most acid-base reactions occur in water the equilibrium reaction is always relevant. &nbsp;At&nbsp;equilibrium both products and reactants are always present. &nbsp;Therefore even in an acidic solution it is&nbsp;clear that there must be some OH<sup>-</sup> ions present. &nbsp;The pH of a solution is therefore a measure of the H<sub>3</sub>O<sup>+</sup> ion concentration at equilibrium. &nbsp;Adding an acid or a base to water can be viewed as a stress on &nbsp;the equilibrium and Le Chatelier’s principle applies.</p><p><br></p><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+</mrow><annotation encoding="math/tex">\text{K}_{\text{w}}=\text{1 x 10}^{-14}\text{ at 25}^{\circ}\text{C}</annotation></semantics></math></p><figure class="figure" title=""><div class="title"></div><img draggable="false" src="../../../resources/35fdd310efe7811c78ca12f44eea5a6b79b4a27e.png" alt="" class="aloha-image-uploading" data-lrmi-userightsurl="http://creativecommons.org/publicdomain/" data-tbook-permissiontext="License: Public domain."/><figcaption></figcaption></figure><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><annotation encoding="math/tex"></annotation></semantics></math><br></p><p><br></p><p>The entire pH scale is based on the equilibrium reaction established due to the auto-protolysis of&nbsp;water. Because most acid-base reactions occur in water the equilibrium reaction is always relevant. &nbsp;At&nbsp;equilibrium both products and reactants are always present. &nbsp;Therefore even in an acidic solution it is&nbsp;clear that there must be some OH<sup>-</sup> ions present. &nbsp;The pH of a solution is therefore a measure of the H<sub>3</sub>O<sup>+</sup> ion concentration at equilibrium. &nbsp;Adding an acid or a base to water can be viewed as a stress on &nbsp;the equilibrium and Le Chatelier’s principle applies.</p><p><br></p><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <mtext>pH</mtext>
   <mo>=</mo>
   <mfrac>
@@ -486,7 +486,73 @@
     </mrow>
   </msup>
   <mo stretchy="false">]</mo>
-</mrow><annotation encoding="math/tex">\text{pH}= - log[\text{H}_{3}\text{O}^{+}]</annotation></semantics></math></p><p><br></p><p><br></p><p><br></p><p><br></p><p>We encounter many examples of acids and bases in our daily lives. Some common examples of household items that contain acids are vinegar (contains acetic acid), lemon juice (contains citric and ascorbic acid), wine (contains tartaric acid). These acids are often found to have a sour taste. Hydrochloric acid, sulfuric acid and nitric acid are examples of acids that are more likely to be found in laboratories and industry.</p><p>Hydrochloric acid is also found in the gastric juices in the stomach. Fizzy drinks contain carbonic acid, while tea and wine contain tannic acid. People even use acids in an artistic process known as <em>acid etching</em>. In acid etching, a metal is covered in a waxy material that is resistant to acid. The bare metal is then exposed in the desired pattern and the sample is placed in an acid bath. The top layers of the exposed metal are permanently removed, creating the desired image. Some examples of this are shown below (Figure <a href="#fig-acidsandbases-acidetching" data-class="InternalLink" title="">fig-acidsandbases-acidetching</a>).</p><p>Bases that you may know about include sodium hydroxide (commonly known as caustic soda), ammonium hydroxide and ammonia. Some of these are found in household cleaning products. Bases are usually found to have a bitter taste and feel <em>slippery</em> (soap is a good example). Acids and bases are also important commercial components in the fertiliser, plastics, and petroleum refining industries. Some common acids and bases, and their chemical formulae, are shown in Table <a href="#tab-acids and bases" data-class="InternalLink" title="">tab-acids and bases</a>.</p><div class="note" data-type="tip"><span class="title"></span><p><strong>Dissociation</strong> is the breaking apart of a molecule to form smaller molecules or ions, usually in a reversible manner.</p><p>For more information on <em>dissociation</em>, refer to Grade 10.</p></div><div class="note" data-type="aside"><span class="title"></span><p>The wild lupin plant takes nitrogen from the atmosphere and creates <strong>ammonia</strong>. It uses that ammonia to fertilise the soil for itself and the surrounding plants.</p><figure class="figure" title=""><div class="title"></div><img width="171" alt="Photo by Northfielder on Flickr" draggable="false" src="photos/lupin.jpg"/><figcaption></figcaption></figure></div><div class="note" data-type="aside"><span class="title"></span><p>Sodium bicarbonate is used in baking. It reacts with the acids in dough to release carbon dioxide. The carbon dioxide then causes the dough to expand.</p><figure class="figure" title=""><div class="title"></div><img width="156" alt="Photo by Phil and Pam on Flickr" draggable="false" src="photos/biscuit.jpg"/><figcaption></figcaption></figure></div><div class="example" data-class="activity" data-type="Activity"><span class="title">Naturally occurring acids and bases</span><p>
+</mrow><annotation encoding="math/tex">\text{pH}= - log[\text{H}_{3}\text{O}^{+}]</annotation></semantics></math></p><p><br></p><p>A pH &lt; 7 indicates an acid. i.e.&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mo stretchy="false">[</mo>
+  <msub>
+    <mtext>H</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mn>3</mn>
+    </mrow>
+  </msub>
+  <msup>
+    <mtext>O</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mo>+</mo>
+    </mrow>
+  </msup>
+  <mo stretchy="false">]</mo>
+  <msup>
+    <mtext>&nbsp;&lt; 10</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mo>−<!-- − --></mo>
+      <mn>7</mn>
+    </mrow>
+  </msup>
+</mrow><annotation encoding="math/tex">[\text{H}_{3}\text{O}^{+}]\text{ &lt; 10}^{-7}</annotation></semantics></math></p><p>A pH = 7 indicates an acid. i.e.<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mo stretchy="false">[</mo>
+  <msub>
+    <mtext>H</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mn>3</mn>
+    </mrow>
+  </msub>
+  <msup>
+    <mtext>O</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mo>+</mo>
+    </mrow>
+  </msup>
+  <mo stretchy="false">]</mo>
+  <msup>
+    <mtext>&nbsp;= 10</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mo>−<!-- − --></mo>
+      <mn>7</mn>
+    </mrow>
+  </msup>
+</mrow><annotation encoding="math/tex">&nbsp;[\text{H}_{3}\text{O}^{+}]\text{ = 10}^{-7}</annotation></semantics></math><br></p><p>A pH &gt; 7 indicates an acid. i.e.&nbsp;<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <mo stretchy="false">[</mo>
+  <msub>
+    <mtext>H</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mn>3</mn>
+    </mrow>
+  </msub>
+  <msup>
+    <mtext>O</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mo>+</mo>
+    </mrow>
+  </msup>
+  <mo stretchy="false">]</mo>
+  <msup>
+    <mtext>&nbsp;&gt; 10</mtext>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mo>−<!-- − --></mo>
+      <mn>7</mn>
+    </mrow>
+  </msup>
+</mrow><annotation encoding="math/tex">[\text{H}_{3}\text{O}^{+}]\text{ &gt; 10}^{-7}</annotation></semantics></math><br></p><p></p><table id="ca78e645-f3a0-3602-8466-74f2529d4e07"><caption contenteditable="false">Table 3</caption><tbody><tr class=""><td class="">&nbsp;pH</td><td class="">&nbsp;0</td><td class="">1&nbsp;</td><td>2</td><td>3</td><td>4</td><td>5&nbsp;</td><td>6&nbsp;</td><td>&nbsp;7</td><td>8&nbsp;</td><td>9&nbsp;</td><td>10&nbsp;</td><td>11&nbsp;</td><td>12&nbsp;</td><td>13&nbsp;</td><td>14&nbsp;</td></tr><tr class=""><td class="" style="">&nbsp;[H<sup>+</sup>]<br></td><td class="">&nbsp;10<sup>0</sup></td><td class="">&nbsp;10<sup>-1</sup></td><td class="">&nbsp;10<sup>-2</sup></td><td class="">&nbsp;10<sup>-3</sup></td><td class="">&nbsp;10<sup>-4</sup></td><td class="">&nbsp;10<sup>-5</sup></td><td class="">&nbsp;10<sup>-6</sup></td><td class="">&nbsp;10<sup>-7</sup></td><td class="">&nbsp;10<sup>-8</sup></td><td class="">&nbsp;10<sup>-9</sup></td><td class="">&nbsp;10<sup>-10</sup></td><td class="">&nbsp;10<sup>-11</sup></td><td class="">&nbsp;10<sup>-12</sup></td><td class="">&nbsp;10<sup>-13</sup></td><td class="">&nbsp;10<sup>-14</sup></td></tr><tr><td class="">&nbsp;[OH<sup>-</sup>]</td><td>&nbsp;10<sup>-14</sup></td><td class="">10<sup>-13</sup>&nbsp;</td><td class="">10<sup>-12</sup>&nbsp;</td><td class="">10<sup>-11</sup></td><td class="">10<sup>-10</sup>&nbsp;</td><td class="">10<sup>-9</sup>&nbsp;</td><td class="">10<sup>-8</sup>&nbsp;</td><td class="">10<sup>-7</sup>&nbsp;</td><td class="">10<sup>-6</sup>&nbsp;</td><td class="">10<sup>-5</sup>&nbsp;</td><td class="">10<sup>-4</sup>&nbsp;</td><td class="">10<sup>-3</sup>&nbsp;</td><td class="">10<sup>-2</sup>&nbsp;</td><td class="">10<sup>-1</sup>&nbsp;</td><td>10<sup>0&nbsp;</sup></td></tr></tbody></table><br><p></p><p>We encounter many examples of acids and bases in our daily lives. Some common examples of household items that contain acids are vinegar (contains acetic acid), lemon juice (contains citric and ascorbic acid), wine (contains tartaric acid). These acids are often found to have a sour taste. Hydrochloric acid, sulfuric acid and nitric acid are examples of acids that are more likely to be found in laboratories and industry.</p><p>Hydrochloric acid is also found in the gastric juices in the stomach. Fizzy drinks contain carbonic acid, while tea and wine contain tannic acid. People even use acids in an artistic process known as <em>acid etching</em>. In acid etching, a metal is covered in a waxy material that is resistant to acid. The bare metal is then exposed in the desired pattern and the sample is placed in an acid bath. The top layers of the exposed metal are permanently removed, creating the desired image. Some examples of this are shown below (Figure <a href="#fig-acidsandbases-acidetching" data-class="InternalLink" title="">fig-acidsandbases-acidetching</a>).</p><p>Bases that you may know about include sodium hydroxide (commonly known as caustic soda), ammonium hydroxide and ammonia. Some of these are found in household cleaning products. Bases are usually found to have a bitter taste and feel <em>slippery</em> (soap is a good example). Acids and bases are also important commercial components in the fertiliser, plastics, and petroleum refining industries. Some common acids and bases, and their chemical formulae, are shown in Table <a href="#tab-acids and bases" data-class="InternalLink" title="">tab-acids and bases</a>.</p><div class="note" data-type="tip"><span class="title"></span><p><strong>Dissociation</strong> is the breaking apart of a molecule to form smaller molecules or ions, usually in a reversible manner.</p><p>For more information on <em>dissociation</em>, refer to Grade 10.</p></div><div class="note" data-type="aside"><span class="title"></span><p>The wild lupin plant takes nitrogen from the atmosphere and creates <strong>ammonia</strong>. It uses that ammonia to fertilise the soil for itself and the surrounding plants.</p><figure class="figure" title=""><div class="title"></div><img width="171" alt="Photo by Northfielder on Flickr" draggable="false" src="photos/lupin.jpg"/><figcaption></figcaption></figure></div><div class="note" data-type="aside"><span class="title"></span><p>Sodium bicarbonate is used in baking. It reacts with the acids in dough to release carbon dioxide. The carbon dioxide then causes the dough to expand.</p><figure class="figure" title=""><div class="title"></div><img width="156" alt="Photo by Phil and Pam on Flickr" draggable="false" src="photos/biscuit.jpg"/><figcaption></figcaption></figure></div><div class="example" data-class="activity" data-type="Activity"><span class="title">Naturally occurring acids and bases</span><p>
 </p><p></p><p>Do research on three naturally occurring acids, and one naturally occurring base. That is, acids and bases that are found mostly in plants (not man-made).</p><p></p><p>
 
 </p><p></p><p>Your research should include:</p><p></p><p>
@@ -736,7 +802,7 @@
 <p>An Arrhenius acid forms  in water (increases []). An Arrhenius base forms  in water (increases []).</p>
 
 	      </dd></dl><figure class="figure" id="tab-acidsandbases-arrhenius" title=""><div class="title"></div><table summary="
-		"><caption>Table 3</caption><tbody><tr><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+		"><caption>Table 4</caption><tbody><tr><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <mtext mathcolor="red">\textcolor</mtext>
   <mrow class="MJX-TeXAtom-ORD">
     <mi>r</mi>
@@ -1114,7 +1180,7 @@
   </mrow>
 </mrow><annotation encoding="math/tex">\textcolor{blue}{\textbf{acceptor}}</annotation></semantics></math>.</p>
 <figure class="figure" id="tab-acidsandbases-bronstedlowry" title=""><div class="title"></div><table summary="
-		"><caption>Table 4</caption><tbody><tr><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+		"><caption>Table 5</caption><tbody><tr><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>\Large{\textcolor{red}{\textbf{Brønsted-Lowry acid}}}</mtext>
 <annotation encoding="math/tex">\text{\Large{\textcolor{red}{\textbf{Brønsted-Lowry acid}}}}</annotation></semantics></math></p></td><td><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <mtext>\Large donates H</mtext>
@@ -3153,7 +3219,7 @@
 
 <p>The electrical conductivity of a solution depends on the concentration of <strong>mobile ions</strong> in the solution. This means that a concentrated solution of a strong acid or base will have a high electrical conductivity, while a dilute solution of a weak acid or base will have a low electrical conductivity.</p>
 <div class="note" data-type="aside"><span class="title"></span><p>Electric current is the movement of charged particles. Therefore, the more ions (charged particles) there are in a solution, the greater the electric current that can be conducted through the solution by the charged particles. This is the electrical conductivity of a solution.</p></div><div class="note" data-type="tip"><span class="title"></span><p>Mobile ions are ions that are able to move. These include ions in solution and ions in melted ionic materials. The ions in ionic solids are not mobile.</p></div><figure class="figure" id="tab-acidsandbases-summarytable" title=""><div class="title"></div><table summary="
-	    "><caption>Table 5</caption><tbody><tr class=""><td></td><td class=""><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+	    "><caption>Table 6</caption><tbody><tr class=""><td></td><td class=""><p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mstyle mathcolor="red">
     <mrow class="MJX-TeXAtom-ORD">
       <mrow class="MJX-TeXAtom-ORD">
@@ -3642,7 +3708,7 @@
 		    \rput(2.5,-0.9){\orange very little ionisation}
 		    \rput(2.5,-1.4){\orange small percentage of molecules ionised}
 		  &lt;/code&gt;</pre></div></li></ul><figure class="figure" id="tab-acidsandbases-Kavalues" title=""><div class="title"></div><table summary="
-		"><caption>Table 6</caption><tbody><tr><td><p><strong>Name</strong></p></td><td><p><strong>Formula</strong></p></td><td><p><strong><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+		"><caption>Table 7</caption><tbody><tr><td><p><strong>Name</strong></p></td><td><p><strong>Formula</strong></p></td><td><p><strong><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <msub>
     <mtext>K</mtext>
     <mrow class="MJX-TeXAtom-ORD">
@@ -4157,7 +4223,7 @@
       <mn>3</mn>
     </mrow>
   </msub>
-<annotation encoding="math/tex">\text{NH}_{3}</annotation></semantics></math> side of the reaction. As a result we can write the equilibrium as:</p></li></ul><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" placeholder="Type the text of your problem here." id="c93a9cc2-392c-4517-056f-921bcbff973b" contenteditable="true"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<annotation encoding="math/tex">\text{NH}_{3}</annotation></semantics></math> side of the reaction. As a result we can write the equilibrium as:</p></li></ul><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" placeholder="Type the text of your problem here." id="fb50dff7-0d87-2f01-67b4-e0a127195d81" contenteditable="true"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 	      
 </p><p>Calculate the equilibrium constant for hydrochloric acid added to <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>1,38</mtext>
@@ -4610,7 +4676,7 @@
       <mn>1</mn>
     </mrow>
   </msup>
-<annotation encoding="math/tex">\text{x}^{1}</annotation></semantics></math> = x.</p></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" placeholder="Type the text of your problem here." id="195f99f0-fff3-188e-2108-b10bc3686bc9" contenteditable="true"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<annotation encoding="math/tex">\text{x}^{1}</annotation></semantics></math> = x.</p></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" placeholder="Type the text of your problem here." id="b57451a1-63ea-09ad-fd1d-596218e4ff05" contenteditable="true"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 	      
 </p><p>The equilibrium constant (<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <msub>
