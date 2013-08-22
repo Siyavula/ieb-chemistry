@@ -560,11 +560,92 @@
 <div class="header" data-unknown="true">
 <p><br></p><div class="exercise" data-type="Worked Example">
             
-        <div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" placeholder="Type the text of your problem here." id="1497bd12-2dbd-41e4-2a02-43bf81ee9a8c" contenteditable="true"><p>The time t<sub>0</sub> - t<sub>1</sub> on the graph below represents the moles of H<sub>3</sub>O<sup>+</sup> and OH<sup>- </sup>in a 1dm<sup>-3</sup> container of pure water. The auto-protolysis of water establishes the following equilibrium at 25<sup>o</sup>C:&nbsp;</p><p></p><figure class="figure" title=""><div class="title"></div><img draggable="false" alt="" class="aloha-image-uploading" data-lrmi-userightsurl="http://creativecommons.org/publicdomain/" data-tbook-permissiontext="License: Public domain." src="../../../resources/045734c89e9cae81351f08343d3e01e3584eec77.png"/><figcaption></figcaption></figure><p>A concentrated hydrochloric solution (HCl) and potassium hydroxide solution (KOH) are added into the beakers at times t<sub>1</sub> and t<sub>3</sub> respectively. Assume no volume change on the addition of a small amount of substance.</p><p></p><figure class="figure" title=""><div class="title"></div><img draggable="false" alt="" class="aloha-image-uploading" data-lrmi-userightsurl="http://creativecommons.org/publicdomain/" data-tbook-permissiontext="License: Public domain." src="../../../resources/dc4510347ab478b218d4aeaadb897aa5f959279b.png"/><figcaption></figcaption></figure><p><br></p><p><br></p></div></div><p></p><p></p></div><div class="exercise" data-class="entry" data-type="Worked Example">
-<div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" placeholder="Type the text of your problem here." id="7dc0ecee-3d15-1657-e4b7-ec463ac50c05" contenteditable="true"><p>Explain what reaction is favoured between the time t<sub>1</sub> and t<sub>2 </sub>?</p>
+        <div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" placeholder="Type the text of your problem here." id="77d8bc5f-726d-8ad2-53cb-5306c11b9450" contenteditable="true"><p>The time t<sub>0</sub> - t<sub>1</sub> on the graph below represents the moles of H<sub>3</sub>O<sup>+</sup> and OH<sup>- </sup>in a 1dm<sup>-3</sup> container of pure water. The auto-protolysis of water establishes the following equilibrium at 25<sup>o</sup>C:&nbsp;</p><p></p><figure class="figure" title=""><div class="title"></div><img draggable="false" alt="" class="aloha-image-uploading" data-lrmi-userightsurl="http://creativecommons.org/publicdomain/" data-tbook-permissiontext="License: Public domain." src="../../../resources/045734c89e9cae81351f08343d3e01e3584eec77.png"/><figcaption></figcaption></figure><p>A concentrated hydrochloric solution (HCl) and potassium hydroxide solution (KOH) are added into the beakers at times t<sub>1</sub> and t<sub>3</sub> respectively. Assume no volume change on the addition of a small amount of substance.</p><p></p><figure class="figure" title=""><div class="title"></div><img draggable="false" alt="" class="aloha-image-uploading" data-lrmi-userightsurl="http://creativecommons.org/publicdomain/" data-tbook-permissiontext="License: Public domain." src="../../../resources/dc4510347ab478b218d4aeaadb897aa5f959279b.png"/><figcaption></figcaption></figure><p><br></p><p><br></p></div></div><p></p><p></p></div><div class="exercise" data-class="entry" data-type="Worked Example">
+<div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" placeholder="Type the text of your problem here." id="0372260c-d788-53ea-5489-baa00d9a3b40" contenteditable="true"><p>Explain what reaction is favoured between the time t<sub>1</sub> and t<sub>2 </sub>?</p>
 </div><div class="solution">
 Put the solution here.<div class="body aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" id="64c8fac7-5cf9-9cd4-5557-f7a2440c5d4e" contenteditable="true"></div></div></div><div class="exercise" data-class="entry" data-type="Worked Example">
-<div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" placeholder="Type the text of your problem here." id="c8a4c38a-ff1a-b4c6-7db7-4a15e008e0ef" contenteditable="true"><p style="">Calculate the equilibrium constant at time t<sub>2</sub>.</p>
+<div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable aloha-editable-active" placeholder="Type the text of your problem here." id="5f5f78a7-d108-3eec-c16b-b956f3633936" contenteditable="true"><p style="">Calculate K<sub>w</sub> at time t<sub>2</sub>.</p>
+</div><div class="solution">
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
+  <mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0.2777777777777778em 2em 0.2777777777777778em 2em 0.2777777777777778em 2em 0.2777777777777778em 2em 0.2777777777777778em 2em 0.2777777777777778em" displaystyle="true">
+    <mtr>
+      <mtd>
+        <msub>
+          <mtext>K</mtext>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mtext>w</mtext>
+          </mrow>
+        </msub>
+      </mtd>
+      <mtd>
+        <mo>=</mo>
+        <mo stretchy="false">[</mo>
+        <msub>
+          <mtext>H</mtext>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>3</mn>
+          </mrow>
+        </msub>
+        <msup>
+          <mtext>O</mtext>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>+</mo>
+          </mrow>
+        </msup>
+        <mo stretchy="false">]</mo>
+        <mo stretchy="false">[</mo>
+        <msup>
+          <mtext>OH</mtext>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>−<!-- − --></mo>
+          </mrow>
+        </msup>
+        <mo stretchy="false">]</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd></mtd>
+      <mtd>
+        <mo>=</mo>
+        <msup>
+          <mtext>(10</mtext>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>−<!-- − --></mo>
+            <mn>5</mn>
+          </mrow>
+        </msup>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">(</mo>
+        <msup>
+          <mn>10</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>−<!-- − --></mo>
+            <mn>9</mn>
+          </mrow>
+        </msup>
+        <mo stretchy="false">)</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd></mtd>
+      <mtd>
+        <mo>=</mo>
+        <msup>
+          <mtext>10</mtext>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>−<!-- − --></mo>
+            <mn>14</mn>
+          </mrow>
+        </msup>
+      </mtd>
+    </mtr>
+  </mtable>
+<annotation encoding="math/tex">\begin{align*}
+\text{K}_{\text{w}}  &amp;= [\text{H}_{3}\text{O}^{+}][\text{OH}^{-}]\\
+                             &amp;= \text{(10}^{-5})(10^{-9})\\
+                             &amp;= \text{10}^{-14}
+\end{align*}</annotation></semantics></math></p><p><br></p></div></div><div class="exercise" data-class="entry" data-type="Worked Example">
+<div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" placeholder="Type the text of your problem here." id="889871b9-e11e-6f51-6ded-f97668d51ed2" contenteditable="true"><p>Calculate the pH of the solution between t<sub>2</sub> and t<sub>3</sub>.</p>
 </div><div class="solution">
 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <mi>s</mi>
@@ -576,7 +657,7 @@ Put the solution here.<div class="body aloha-block-dropzone aloha-editable aloha
   <mi>t</mi>
   <mi>h</mi>
 </mrow><annotation encoding="math/tex">some math</annotation></semantics></math></div></div><div class="exercise" data-class="entry" data-type="Worked Example">
-<div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" placeholder="Type the text of your problem here." id="" contenteditable="true"><p>Calculate the pH of the solution between t<sub>2</sub> and t<sub>3</sub>.</p>
+<div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" placeholder="Type the text of your problem here." id="b05741c6-4a49-9669-93fb-2384524dd72a" contenteditable="true"><p>Explain what reaction is favoured between the time t<sub>3</sub> and t<sub>4</sub>.</p>
 </div><div class="solution">
 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <mi>s</mi>
@@ -588,19 +669,7 @@ Put the solution here.<div class="body aloha-block-dropzone aloha-editable aloha
   <mi>t</mi>
   <mi>h</mi>
 </mrow><annotation encoding="math/tex">some math</annotation></semantics></math></div></div><div class="exercise" data-class="entry" data-type="Worked Example">
-<div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" placeholder="Type the text of your problem here." id="" contenteditable="true"><p>Explain what reaction is favoured between the time t<sub>3</sub> and t<sub>4</sub>.</p>
-</div><div class="solution">
-<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
-  <mi>s</mi>
-  <mi>o</mi>
-  <mi>m</mi>
-  <mi>e</mi>
-  <mi>m</mi>
-  <mi>a</mi>
-  <mi>t</mi>
-  <mi>h</mi>
-</mrow><annotation encoding="math/tex">some math</annotation></semantics></math></div></div><div class="exercise" data-class="entry" data-type="Worked Example">
-<div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" placeholder="Type the text of your problem here." id="" contenteditable="true"><p>Calculate the pH of the solution at t<sub>4</sub>.</p>
+<div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" placeholder="Type the text of your problem here." id="01f03df1-af40-ee0d-2cf4-328b317220e8" contenteditable="true"><p>Calculate the pH of the solution at t<sub>4</sub>.</p>
 </div><div class="solution">
 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
   <mi>s</mi>
@@ -613,7 +682,7 @@ Put the solution here.<div class="body aloha-block-dropzone aloha-editable aloha
   <mi>h</mi>
 </mrow><annotation encoding="math/tex">some math</annotation></semantics></math></div></div></div><div class="exercise" data-type="Worked Example">
             
-        <div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" placeholder="Type the text of your problem here." id="" contenteditable="true"><p>The time t<sub>0</sub> - t<sub>1</sub> on the graph below represents the moles of H<sub>3</sub>O<sup>+</sup> and OH<sup>- </sup>in a 1dm<sup>-3</sup> container of pure water. The auto-protolysis of water establishes the following equilibrium at 25<sup>o</sup>C:&nbsp;</p><p></p><figure class="figure" title=""><div class="title"></div><img draggable="false" alt="" class="aloha-image-uploading" data-lrmi-userightsurl="http://creativecommons.org/publicdomain/" data-tbook-permissiontext="License: Public domain." src="../../../resources/045734c89e9cae81351f08343d3e01e3584eec77.png"/><figcaption></figcaption></figure><p>A concentrated hydrochloric solution (HCl) and potassium hydroxide solution (KOH) are added into the beakers at times t<sub>1</sub> and t<sub>3</sub> respectively. Assume no volume change on the addition of a small amount of substance.</p><p></p><figure class="figure" title=""><div class="title"></div><img draggable="false" alt="" class="aloha-image-uploading" data-lrmi-userightsurl="http://creativecommons.org/publicdomain/" data-tbook-permissiontext="License: Public domain." src="../../../resources/dc4510347ab478b218d4aeaadb897aa5f959279b.png"/><figcaption></figcaption></figure><p><br></p><p><br></p></div></div><br><p></p><p>We encounter many examples of acids and bases in our daily lives. Some common examples of household items that contain acids are vinegar (contains acetic acid), lemon juice (contains citric and ascorbic acid), wine (contains tartaric acid). These acids are often found to have a sour taste. Hydrochloric acid, sulfuric acid and nitric acid are examples of acids that are more likely to be found in laboratories and industry.</p><p>Hydrochloric acid is also found in the gastric juices in the stomach. Fizzy drinks contain carbonic acid, while tea and wine contain tannic acid. People even use acids in an artistic process known as <em>acid etching</em>. In acid etching, a metal is covered in a waxy material that is resistant to acid. The bare metal is then exposed in the desired pattern and the sample is placed in an acid bath. The top layers of the exposed metal are permanently removed, creating the desired image. Some examples of this are shown below (Figure <a href="#fig-acidsandbases-acidetching" data-class="InternalLink" title="">fig-acidsandbases-acidetching</a>).</p><p>Bases that you may know about include sodium hydroxide (commonly known as caustic soda), ammonium hydroxide and ammonia. Some of these are found in household cleaning products. Bases are usually found to have a bitter taste and feel <em>slippery</em> (soap is a good example). Acids and bases are also important commercial components in the fertiliser, plastics, and petroleum refining industries. Some common acids and bases, and their chemical formulae, are shown in Table <a href="#tab-acids and bases" data-class="InternalLink" title="">tab-acids and bases</a>.</p><div class="note" data-type="tip"><span class="title"></span><p><strong>Dissociation</strong> is the breaking apart of a molecule to form smaller molecules or ions, usually in a reversible manner.</p><p>For more information on <em>dissociation</em>, refer to Grade 10.</p></div><div class="note" data-type="aside"><span class="title"></span><p>The wild lupin plant takes nitrogen from the atmosphere and creates <strong>ammonia</strong>. It uses that ammonia to fertilise the soil for itself and the surrounding plants.</p><figure class="figure" title=""><div class="title"></div><img width="171" alt="Photo by Northfielder on Flickr" draggable="false" src="photos/lupin.jpg"/><figcaption></figcaption></figure></div><div class="note" data-type="aside"><span class="title"></span><p>Sodium bicarbonate is used in baking. It reacts with the acids in dough to release carbon dioxide. The carbon dioxide then causes the dough to expand.</p><figure class="figure" title=""><div class="title"></div><img width="156" alt="Photo by Phil and Pam on Flickr" draggable="false" src="photos/biscuit.jpg"/><figcaption></figcaption></figure></div><div class="example" data-class="activity" data-type="Activity"><span class="title">Naturally occurring acids and bases</span><p>
+        <div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" placeholder="Type the text of your problem here." id="7792f659-c778-43a6-bb8a-35b620473696" contenteditable="true"><p>The time t<sub>0</sub> - t<sub>1</sub> on the graph below represents the moles of H<sub>3</sub>O<sup>+</sup> and OH<sup>- </sup>in a 1dm<sup>-3</sup> container of pure water. The auto-protolysis of water establishes the following equilibrium at 25<sup>o</sup>C:&nbsp;</p><p></p><figure class="figure" title=""><div class="title"></div><img draggable="false" alt="" class="aloha-image-uploading" data-lrmi-userightsurl="http://creativecommons.org/publicdomain/" data-tbook-permissiontext="License: Public domain." src="../../../resources/045734c89e9cae81351f08343d3e01e3584eec77.png"/><figcaption></figcaption></figure><p>A concentrated hydrochloric solution (HCl) and potassium hydroxide solution (KOH) are added into the beakers at times t<sub>1</sub> and t<sub>3</sub> respectively. Assume no volume change on the addition of a small amount of substance.</p><p></p><figure class="figure" title=""><div class="title"></div><img draggable="false" alt="" class="aloha-image-uploading" data-lrmi-userightsurl="http://creativecommons.org/publicdomain/" data-tbook-permissiontext="License: Public domain." src="../../../resources/dc4510347ab478b218d4aeaadb897aa5f959279b.png"/><figcaption></figcaption></figure><p><br></p><p><br></p></div></div><br><p></p><p>We encounter many examples of acids and bases in our daily lives. Some common examples of household items that contain acids are vinegar (contains acetic acid), lemon juice (contains citric and ascorbic acid), wine (contains tartaric acid). These acids are often found to have a sour taste. Hydrochloric acid, sulfuric acid and nitric acid are examples of acids that are more likely to be found in laboratories and industry.</p><p>Hydrochloric acid is also found in the gastric juices in the stomach. Fizzy drinks contain carbonic acid, while tea and wine contain tannic acid. People even use acids in an artistic process known as <em>acid etching</em>. In acid etching, a metal is covered in a waxy material that is resistant to acid. The bare metal is then exposed in the desired pattern and the sample is placed in an acid bath. The top layers of the exposed metal are permanently removed, creating the desired image. Some examples of this are shown below (Figure <a href="#fig-acidsandbases-acidetching" data-class="InternalLink" title="">fig-acidsandbases-acidetching</a>).</p><p>Bases that you may know about include sodium hydroxide (commonly known as caustic soda), ammonium hydroxide and ammonia. Some of these are found in household cleaning products. Bases are usually found to have a bitter taste and feel <em>slippery</em> (soap is a good example). Acids and bases are also important commercial components in the fertiliser, plastics, and petroleum refining industries. Some common acids and bases, and their chemical formulae, are shown in Table <a href="#tab-acids and bases" data-class="InternalLink" title="">tab-acids and bases</a>.</p><div class="note" data-type="tip"><span class="title"></span><p><strong>Dissociation</strong> is the breaking apart of a molecule to form smaller molecules or ions, usually in a reversible manner.</p><p>For more information on <em>dissociation</em>, refer to Grade 10.</p></div><div class="note" data-type="aside"><span class="title"></span><p>The wild lupin plant takes nitrogen from the atmosphere and creates <strong>ammonia</strong>. It uses that ammonia to fertilise the soil for itself and the surrounding plants.</p><figure class="figure" title=""><div class="title"></div><img width="171" alt="Photo by Northfielder on Flickr" draggable="false" src="photos/lupin.jpg"/><figcaption></figcaption></figure></div><div class="note" data-type="aside"><span class="title"></span><p>Sodium bicarbonate is used in baking. It reacts with the acids in dough to release carbon dioxide. The carbon dioxide then causes the dough to expand.</p><figure class="figure" title=""><div class="title"></div><img width="156" alt="Photo by Phil and Pam on Flickr" draggable="false" src="photos/biscuit.jpg"/><figcaption></figcaption></figure></div><div class="example" data-class="activity" data-type="Activity"><span class="title">Naturally occurring acids and bases</span><p>
 </p><p></p><p>Do research on three naturally occurring acids, and one naturally occurring base. That is, acids and bases that are found mostly in plants (not man-made).</p><p></p><p>
 
 </p><p></p><p>Your research should include:</p><p></p><p>
@@ -4284,7 +4353,7 @@ Put the solution here.<div class="body aloha-block-dropzone aloha-editable aloha
       <mn>3</mn>
     </mrow>
   </msub>
-<annotation encoding="math/tex">\text{NH}_{3}</annotation></semantics></math> side of the reaction. As a result we can write the equilibrium as:</p></li></ul><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" placeholder="Type the text of your problem here." id="e18763eb-fc42-b01c-c809-2cc490393cc8" contenteditable="true"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<annotation encoding="math/tex">\text{NH}_{3}</annotation></semantics></math> side of the reaction. As a result we can write the equilibrium as:</p></li></ul><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" placeholder="Type the text of your problem here." id="d80c5edd-9860-d325-c687-a81fe6980e7e" contenteditable="true"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 	      
 </p><p>Calculate the equilibrium constant for hydrochloric acid added to <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mtext>1,38</mtext>
@@ -4737,7 +4806,7 @@ Put the solution here.<div class="body aloha-block-dropzone aloha-editable aloha
       <mn>1</mn>
     </mrow>
   </msup>
-<annotation encoding="math/tex">\text{x}^{1}</annotation></semantics></math> = x.</p></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" placeholder="Type the text of your problem here." id="9bbe6829-ebd5-d1ef-26f6-3deb786090bc" contenteditable="true"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
+<annotation encoding="math/tex">\text{x}^{1}</annotation></semantics></math> = x.</p></div><div class="exercise" data-class="worked_example" data-type="Worked Example"><div class="problem aloha-block-dropzone aloha-editable aloha-block-blocklevel-sortable ui-sortable" placeholder="Type the text of your problem here." id="2b88fa22-8104-c446-fd23-e0762fc730c5" contenteditable="true"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>
 	      
 </p><p>The equilibrium constant (<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <msub>
